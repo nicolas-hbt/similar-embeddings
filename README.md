@@ -2,6 +2,9 @@
 
 This code repository hosts the datasets, pre-trained embeddings, and scripts to run experiments found in the anonymous submission "Do Similar Entities have Similar Embeddings?" to ESWC 2024.
 
+## Requirements
+Required libraries and dependencies can be found in ``requirements.txt``.
+
 ## Datasets
 The ``preprocessed_datasets`` folder contains already processed datasets with all the required files to effectively carry out experiments.  
 In particular, files containing results for the Jaccard coefficients are names ``fast_jaccard2id_train_K=100_hops=X.json`` where X is whether 1 (when considering 1-hop subgraphs) or 0 (when considering 2-hop subgraphs). A mapped version to labels exist, under the same naming convention ``fast_jaccard2labels_train_K=100_hops=X.json``.  
