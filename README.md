@@ -14,7 +14,7 @@ Trained models and their respective embeddings can be found under the ``embeddin
 
 ## Experiments
 Running the experiments is quite straightforward: we provide several scripts. Each of them outputs results w.r.t. a separate experimental section in the paper and aims at answering a specific research question (RQ).   
-``run_expe_1_2.py`` runs experiments related to RQ1 and RQ2. (Table 2, Figure 3, Figure 4)  
+``run_expe_1_2.py`` runs experiments related to RQ1 and RQ2. (Table 2, Figure 3, and Figure 4)  
 ``run_expe_3.py`` runs experiments related to RQ3. (Table 4)  
 ``run_expe_4.py`` rund experiments we additionally linked to RQ1 (Table 3)
 
