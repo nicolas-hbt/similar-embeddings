@@ -14,9 +14,8 @@ Trained models and their respective embeddings can be found under the ``embeddin
 
 ## Experiments
 Running the experiments is quite straightforward: we provide several scripts. Each of them outputs results w.r.t. a separate experimental section in the paper and aims at answering a specific research question (RQ).   
-``run_expe_1_2.py`` runs experiments related to RQ1 and RQ2. (Table 2, Figure 3, Figure 4)  
+``run_expe_1_2.py`` runs experiments related to RQ1 and RQ2. (Table 2, Figure 3, and Figure 4)  
 ``run_expe_3.py`` runs experiments related to RQ3. (Table 4)  
-``run_expe_4.py`` rund experiments we additionally linked to RQ1 (Table 3)
 
 ## Misc
 Additional files are provided to get dataset statistics : ``get_dataset_statistics.py`` and ``get_rel_freq_per_class.py``. These scripts do not need to be run and are not used *per se* in the paper. However, they can provide insights into how predicates are globally distributed across classes, what classes observe a larger set of distinct predicates connecting their respective entities, etc.
