@@ -1,0 +1,2034 @@
+0	Boston
+1	Gabon
+2	Mohandas Karamchand Gandhi
+3	Gambia
+4	Guinea
+5	Guinea-Bissau
+6	Ivory Coast
+7	Cameroon
+8	Fred Astaire
+9	Giorgio Gaber
+10	Cape Verde
+11	Lesotho
+12	Liberia
+13	Libya
+14	Mary Wollstonecraft
+15	Benoit Mandelbrot
+16	Madagascar
+17	Malawi
+18	Buckminster Fuller
+19	Mauritania
+20	Mauritius
+21	Dennis Hopper
+22	Morocco
+23	Yul Brynner
+24	painter
+25	Jacobus Henricus van 't Hoff
+26	Mozambique
+27	Namibia
+28	Michel Houellebecq
+29	Mark Linkous
+30	Niger
+31	Nigeria
+32	Uganda
+33	Rwanda
+34	Peter Debye
+35	São Tomé and Príncipe
+36	Lauren Bacall
+37	Sidney Poitier
+38	Mickey Rooney
+39	Senegal
+40	Mary Pickford
+41	Douglas Fairbanks
+42	Urbain Le Verrier
+43	Seychelles
+44	Mel Brooks
+45	Harold Lloyd
+46	Multilateral Investment Guarantee Agency
+47	Billie Holiday
+48	Sierra Leone
+49	Somalia
+50	Enzo Jannacci
+51	Tim Rice-Oxley
+52	Vitaly Ginzburg
+53	Brendon Urie
+54	Ed Harris
+55	Sudan
+56	Eswatini
+57	Sidney Sheldon
+58	executive producer
+59	John Denver
+60	Hamburg
+61	John Updike
+62	Herbie Hancock
+63	Daniel Handler
+64	Jean Yanne
+65	United Nations
+66	Charles Rosen
+67	John Lydon
+68	Dante Alighieri
+69	Charlie Wilson
+70	Jeff Goldblum
+71	Dorothy L. Sayers
+72	George Porter, Baron Porter of Luddenham
+73	Richard Harris
+74	Alan Stivell
+75	Evelyn Waugh
+76	Count Basie
+77	Missile Technology Control Regime
+78	Lars Onsager
+79	Sheldon Lee Glashow
+80	Akiko Yano
+81	Charles Mingus Jr.
+82	keyboardist
+83	Vince Vaughn
+84	Jim Belushi
+85	television actor
+86	film actor
+87	Alan Arkin
+88	Prague
+89	A. R. Rahman
+90	Carrie Fisher
+91	Celeste Buckingham
+92	Clarence "Gatemouth" Brown
+93	Julie Delpy
+94	astronomer
+95	Queen Latifah
+96	Elmer Bernstein
+97	Lena Horne
+98	Manhattan
+99	Serbian Academy of Sciences and Arts
+100	traditional heavy metal
+101	alternative rock
+102	Arab Fund for Economic and Social Development
+103	rock music
+104	Kenya
+105	hip hop music
+106	Ethiopia
+107	Hector Berlioz
+108	Mary-Kate Olsen
+109	Max Frisch
+110	Aaliyah
+111	Nicholas Marr
+112	Judy Garland
+113	Ghana
+114	Yoko Ono
+115	Oswald Heer
+116	Wiz Khalifa
+117	Robbie Robertson
+118	Royal Society of Edinburgh
+119	David Lindley
+120	Ross Bagdasarian Sr.
+121	essayist
+122	Thomas Jefferson
+123	Sergey Kuryokhin
+124	Al-Biruni
+125	explorer
+126	Mark Oliver Everett
+127	Kevin Costner
+128	Andrew Ridgeley
+129	Howard Zinn
+130	traditional pop music
+131	Britney Spears
+132	Kylie Minogue
+133	Cher
+134	John Lennon
+135	cancer
+136	poet lawyer
+137	prosaist
+138	Alicia Keys
+139	myocardial infarction
+140	professor
+141	French people
+142	pneumonia
+143	Henry Louis Le Châtelier
+144	Julio Iglesias
+145	stroke
+146	Hilary Duff
+147	tuberculosis
+148	Bruce Springsteen
+149	William Thomson, 1st Baron Kelvin
+150	Alexander Emanuel Agassiz
+151	Vanessa Hudgens
+152	pedagogue
+153	Albrecht von Haller
+154	theologian
+155	philanthropist
+156	Organization of American States
+157	political scientist
+158	Royal Society
+159	Donald Glover
+160	Lonnie Liston Smith
+161	Detroit
+162	Kosovo
+163	Richard Francis Burton
+164	Holy Roman Empire
+165	Nyusha
+166	Latin America
+167	Warner Bros.
+168	Thomas Paine
+169	Wilhelm Ostwald
+170	Frédéric Chopin
+171	Maxim Gorki
+172	Frank Zappa
+173	Leonard Cohen
+174	Beverly Hills
+175	powest
+176	Umberto Eco
+177	Mick Jagger
+178	Claude Lévi-Strauss
+179	Kinky Friedman
+180	Eddie Money
+181	Maria Callas
+182	drum kit
+183	Al Jolson
+184	Graham Greene
+185	Irving Berlin
+186	satire
+187	Stanislao Cannizzaro
+188	Ricky Martin
+189	Paulo Coelho
+190	Blaise Pascal
+191	George Soros
+192	Ruslana
+193	Chicago
+194	synth-pop
+195	Jacques Derrida
+196	Alanis Morissette
+197	James Blunt
+198	disc jockey
+199	Paul Krugman
+200	Henry David Thoreau
+201	University of Chicago
+202	Alexander Rybak
+203	soul music
+204	Janet Jackson
+205	George Eliot
+206	Shania Twain
+207	entrepreneur
+208	Joan Baez
+209	bipolar disorder
+210	Tina Turner
+211	Austrian Empire
+212	Spanish
+213	producer
+214	Ayn Rand
+215	J. Robert Oppenheimer
+216	multi-instrumentalist
+217	Adam Sandler
+218	Vladimir Mayakovsky
+219	percussion instrument
+220	Raymond Scott
+221	Harvard University
+222	Organisation internationale de la Francophonie
+223	Truman Capote
+224	opera
+225	Yukio Mishima
+226	Michael Penn
+227	Haruki Murakami
+228	Lowell George
+229	music critic
+230	Holly Johnson
+231	Tim Rose
+232	Paul Jozef Crutzen
+233	Mort Shuman
+234	Lev Gumilyov
+235	presenter
+236	Nat King Cole
+237	Martie Maguire
+238	Graham Parker
+239	European Payments Union
+240	Angelina Jolie
+241	Tamer Hosny
+242	Vladimir Lenin
+243	Arabic
+244	Moby
+245	Alexis de Tocqueville
+246	film score composer
+247	France
+248	USSR Union of Writers
+249	William Herschel
+250	John Frederick William Herschel
+251	Giovanni Schiaparelli
+252	organ
+253	Liza Minnelli
+254	Phil Collins
+255	linguist
+256	Mick Wingert
+257	United Kingdom
+258	Royal Society of Literature
+259	human rights activist
+260	People's Republic of China
+261	Nuclear Suppliers Group
+262	musicologist
+263	Africa
+264	French
+265	Camille Saint-Saëns
+266	E. T. A. Hoffmann
+267	Santiago Ramón y Cajal
+268	Camillo Golgi
+269	George Carlin
+270	Benjamin Britten
+271	Jon Bon Jovi
+272	Frédéric Joliot-Curie
+273	Richard Wagner
+274	Katerina Graham
+275	André Malraux
+276	Robert Louis Stevenson
+277	Janis Joplin
+278	Thomas Carlyle
+279	Heidelberg University
+280	György Lukács
+281	Olivier Messiaen
+282	Soviet Union
+283	Sarah Brightman
+284	Melanie C
+285	Amos Oz
+286	Ariana Grande
+287	Josephine Baker
+288	European Southern Observatory
+289	Humboldt University of Berlin
+290	University of Bonn
+291	Aram Khachaturian
+292	George Tabori
+293	Theodor W. Adorno
+294	Keri Hilson
+295	Henry Wadsworth Longfellow
+296	Susan Sontag
+297	University of Göttingen
+298	Meat Loaf
+299	Joseph Louis Gay-Lussac
+300	Jean Le Rond d'Alembert
+301	Leó Szilárd
+302	Josiah Willard Gibbs
+303	Marguerite Duras
+304	Michael Bublé
+305	Dmitri Kabalevsky
+306	Nena
+307	Gabriel Marcel
+308	Albert Lortzing
+309	Cat Stevens
+310	György Ligeti
+311	François Arago
+312	Cyndi Lauper
+313	Karlheinz Stockhausen
+314	University of Jena
+315	Carlos Fuentes
+316	Italo Calvino
+317	Sven Hedin
+318	Arnold Schoenberg
+319	Leipzig University
+320	Hugo Grotius
+321	Brazil
+322	Missy Elliott
+323	Polydor Records
+324	Archibald Hill
+325	Toni Braxton
+326	Chris Brown
+327	Dennis Gabor
+328	Karel Čapek
+329	Andrey Vyshinsky
+330	Sir George Stokes, 1st Baronet
+331	Pierre Boulez
+332	Roman Jakobson
+333	Academy of Arts of the GDR
+334	Adolf Erik Nordenskiöld
+335	Pedro II of Brazil
+336	Yehudi Menuhin
+337	Eduard Suess
+338	Charles Wheatstone
+339	Ernest Renan
+340	Alexander R. Todd, Baron Todd
+341	Friedrich Schlegel
+342	Leszek Kołakowski
+343	Romain Gary
+344	François Guizot
+345	Idina Menzel
+346	W.E.B. Du Bois
+347	Alfred Schnittke
+348	Kid Rock
+349	Pavel Jozef Šafárik
+350	Harry Chapin
+351	Brian May
+352	conductor
+353	Russia
+354	Kanye West
+355	short story writer
+356	Jan Evangelista Purkyně
+357	Ignaz Moscheles
+358	Holy See
+359	Joseph Priestley
+360	František Palacký
+361	Montesquieu
+362	non-fiction writer
+363	jazz musician
+364	Canada
+365	music theorist
+366	Prosper Mérimée
+367	Gilbert Bécaud
+368	Melchior de Vogüé
+369	Raymond Aron
+370	Zbigniew Herbert
+371	music pedagogue
+372	Académie Française
+373	Ashanti
+374	Great Britain
+375	Paul G. Allen
+376	Nicki Minaj
+377	university teacher
+378	Holly Near
+379	Glen Campbell
+380	opinion journalist
+381	William Shatner
+382	peace activist
+383	Ezra Pound
+384	Leonard Nimoy
+385	synthesizer
+386	Tristan Tzara
+387	Mark Wahlberg
+388	experimental rock
+389	J. Rodolfo Wilcock
+390	Theodore von Kármán
+391	Victor Ambartsumian
+392	Simon Newcomb
+393	funk
+394	Ava Gardner
+395	Steve Martin
+396	Jean Gaston Darboux
+397	Jean-Baptiste Dumas
+398	Robert Downey, Jr.
+399	Rodion Shchedrin
+400	Mercury Records
+401	Usher
+402	University of Vienna
+403	Jacques Brel
+404	GoonRock
+405	Jacques Rivette
+406	Lucio Dalla
+407	Tyler, the Creator
+408	Nicole Scherzinger
+409	Gore Vidal
+410	Otto Schmidt
+411	John Desmond Bernal
+412	Jérôme Lalande
+413	Jean-Victor Poncelet
+414	David Brewster
+415	Edgar Allan Poe
+416	Robert Frost
+417	"University of California, Berkeley"
+418	Jessica Simpson
+419	Zdeněk Nejedlý
+420	Shaquille O'Neal
+421	physicist
+422	H. P. Lovecraft
+423	German Democratic Republic
+424	Serge Gainsbourg
+425	Japan
+426	Bill Monroe
+427	Asia-Pacific Economic Cooperation
+428	Henry James
+429	Omar Sharif
+430	Milla Jovovich
+431	mathematician
+432	Sergei Korolev
+433	Viggo Mortensen
+434	Renaud
+435	voice
+436	Jamie Foxx
+437	Georges Cuvier
+438	Toronto
+439	Kingdom of Italy
+440	Munich
+441	Amy Lee
+442	Syd Barrett
+443	Ice Cube
+444	Vienna
+445	United Kingdom of Great Britain and Ireland
+446	Julio Cortázar
+447	Madonna
+448	John von Neumann
+449	Donald Knuth
+450	"University of California, Los Angeles"
+451	Jeff Bridges
+452	Universal Postal Union
+453	Jennifer Love Hewitt
+454	Walker Percy
+455	Stephen Hawking
+456	singer
+457	Louis Armstrong
+458	Budapest
+459	Charles Aznavour
+460	W. H. Auden
+461	John Ruskin
+462	Sonny Bono
+463	Timbaland
+464	Steven Weinberg
+465	Fergie
+466	Lenny Kravitz
+467	gospel music
+468	Christopher Lee
+469	Dolly Parton
+470	Albert Szent-Györgyi
+471	Stephen Jay Gould
+472	John Cage
+473	Roger Waters
+474	Norman Mailer
+475	Fazil Iskander
+476	Ursula K. Le Guin
+477	Carly Simon
+478	heart failure
+479	Leon Battista Alberti
+480	librarian
+481	William Morris
+482	Iggy Pop
+483	Etta James
+484	Germany
+485	G. K. Chesterton
+486	Samuel Johnson
+487	Zhores Alfyorov
+488	David Attenborough
+489	Columbia Records
+490	Fred Hoyle
+491	EMI
+492	Margaret Atwood
+493	Veniamin Smekhov
+494	Elie Wiesel
+495	record producer
+496	Belarus
+497	Catholicism
+498	Brooklyn
+499	Gilles Deleuze
+500	Kelly Rowland
+501	Marcellin Berthelot
+502	Joseph E. Stiglitz
+503	Thomas Henry Huxley
+504	Jorge Amado
+505	performing arts
+506	Sofia Kovalevskaya
+507	Martin Sheen
+508	Gloria Estefan
+509	Slavoj Žižek
+510	Mylène Farmer
+511	Rita Levi-Montalcini
+512	Miguel de Unamuno
+513	jurist
+514	Paula Abdul
+515	will.i.am
+516	Mike Myers
+517	Emmanuel Swedenborg
+518	English
+519	John Kenneth Galbraith
+520	Darius Milhaud
+521	Marilyn Manson
+522	Mika
+523	folk rock
+524	Billy Crystal
+525	Philip Roth
+526	Dave Mustaine
+527	Antonin Artaud
+528	Carlo Rubbia
+529	new wave
+530	Tracy Chapman
+531	Mandy Moore
+532	Jan Rubes
+533	German
+534	naturalist
+535	Anatoly Lunacharsky
+536	economist
+537	Ayumi Hamasaki
+538	J. J. Abrams
+539	autobiographer
+540	William S. Burroughs
+541	Lucy Liu
+542	Roy Orbison
+543	science fiction writer
+544	Goldie Hawn
+545	Dannii Minogue
+546	Robin Gibb
+547	Seth MacFarlane
+548	Raven-Symoné
+549	Van McCoy
+550	French Academy of Sciences
+551	Asian Development Bank
+552	Iceland
+553	Lou Reed
+554	Howard Hughes
+555	Andrey Korotayev
+556	diarist
+557	Keith Richards
+558	Ivan Goncharov
+559	Philip Glass
+560	Marvin Gaye
+561	Osip Mandelstam
+562	Joe Cocker
+563	Philip Pullman
+564	Adam Lambert
+565	Richard Wright
+566	Ian McEwan
+567	Island Records
+568	Bette Midler
+569	Samuel P. Huntington
+570	Philip Warren Anderson
+571	Siméon Denis Poisson
+572	Estonia
+573	Gary Becker
+574	Liv Ullmann
+575	Joe Jonas
+576	International Bank for Reconstruction and Development
+577	Ivan Andreyevich Krylov
+578	Royal Swedish Academy of Sciences
+579	Zooey Deschanel
+580	George Martin
+581	Brad Delson
+582	Robert McNamara
+583	Mike Shinoda
+584	Danny Glover
+585	Aaron Copland
+586	Aleksey Nikolayevich Tolstoy
+587	Benedetto Croce
+588	Jennifer Hudson
+589	Jason Mraz
+590	Lara Fabian
+591	Nick Cave
+592	Treaty on Open Skies
+593	Stephen Fry
+594	journalist
+595	Capitol Records
+596	University College London
+597	blues rock
+598	diplomat
+599	theoretical physicist
+600	Taylor Momsen
+601	Ludacris
+602	Ne-Yo
+603	Tori Amos
+604	Phi Beta Kappa Society
+605	Roger Penrose
+606	Steven Tyler
+607	Nas
+608	Joe Satriani
+609	Billy Joel
+610	Fritz Lang
+611	Maya Angelou
+612	Mihajlo Pupin
+613	Diana Arbenina
+614	Svetlana Surganova
+615	Schengen Area
+616	mandolinist
+617	Anatoly Krupnov
+618	G20
+619	Victoria Beckham
+620	Oleg Skripka
+621	Sandy
+622	Adriano Celentano
+623	Norway
+624	Portuguese Empire
+625	Sheryl Crow
+626	Paul Valéry
+627	Alexander Ivanovich Herzen
+628	Jean-Antoine-Nicolas de Caritat de Condorcet
+629	Gerald Wilson
+630	Edward Said
+631	Hayley Williams
+632	Nick Jonas
+633	Robert Graves
+634	historian
+635	David Hasselhoff
+636	Bill Haley
+637	Atlantic Records
+638	David Ogden Stiers
+639	Dido
+640	RCA Records
+641	Collège de France
+642	Jerry Lee Lewis
+643	Billy Bob Thornton
+644	Vanessa Williams
+645	Mae West
+646	OHADA
+647	Virgin Records
+648	Ciara
+649	Debby Ryan
+650	M.I.A.
+651	Anthony Kiedis
+652	Beth Hart
+653	Yevgeny Zamyatin
+654	inventor
+655	Theo van Gogh
+656	Joni Mitchell
+657	television director
+658	Willie Nelson
+659	psychedelic rock
+660	Isaac Hayes
+661	Gaspard Monge
+662	A. A. Milne
+663	David Lynch
+664	Gene Simmons
+665	L. Frank Baum
+666	musical composition
+667	Manu Chao
+668	Leipzig
+669	Ralph Vaughan Williams
+670	Joseph Heller
+671	Sergey Mikhalkov
+672	Bella Thorne
+673	Novodevichy Cemetery
+674	Valery Meladze
+675	Kris Kristofferson
+676	Ike Turner
+677	Parlophone
+678	Telly Savalas
+679	University of Paris (1896-1968)
+680	England
+681	Neil Gaiman
+682	Kevin Jonas
+683	Eric Idle
+684	Warner Music Group
+685	Latvia
+686	dance-pop
+687	Ukraine
+688	Johnny Hallyday
+689	Geffen Records
+690	Czech Republic
+691	Bill Cosby
+692	Ernst Chladni
+693	Karl Lachmann
+694	Tamara Bunke
+695	Bridgit Mendler
+696	Slovakia
+697	Michael Mann
+698	Lauryn Hill
+699	T.I.
+700	Andy Williams
+701	Joseph Liouville
+702	Jan Josef Liefers
+703	Paul Auster
+704	Nino Rota
+705	Nora Ephron
+706	playwright
+707	Slovenia
+708	Debbie Harry
+709	John Mayer
+710	Jordin Sparks
+711	Dean Martin
+712	Carrie Underwood
+713	Princeton University
+714	Alice Walker
+715	Western
+716	Yeshayahu Leibowitz
+717	Bryan Ferry
+718	Tom Wolfe
+719	Steve Carell
+720	Garth Brooks
+721	Connie Francis
+722	Epic
+723	Paul Anka
+724	Ludvig Holberg
+725	Deryck Whibley
+726	Sean Combs
+727	Moldova
+728	Kenny Rogers
+729	soft rock
+730	Joss Stone
+731	La Toya Jackson
+732	art rock
+733	Joyce Carol Oates
+734	Anthony Burgess
+735	Violetta Villas
+736	Carole King
+737	Romania
+738	Nelly
+739	Bulgaria
+740	State of Palestine
+741	Adam Levine
+742	Emma Bunton
+743	Rome
+744	Kingsley Amis
+745	Zoolander
+746	Seth Rogen
+747	Zora Neale Hurston
+748	Ján Kollár
+749	John Farnham
+750	North Macedonia
+751	Bud Spencer
+752	Jaden Smith
+753	Luciano Berio
+754	Jason Newsted
+755	Albania
+756	Courtney Love
+757	Brian Molko
+758	Erykah Badu
+759	Croatia
+760	William H. Macy
+761	Sarah McLachlan
+762	Bosnia and Herzegovina
+763	rapper
+764	stage actor
+765	Tom Hanks
+766	Friedrich Schiller
+767	Donald Trump
+768	Azerbaijan
+769	Zoë Kravitz
+770	Andorra
+771	Alphonse Daudet
+772	Lea Michele
+773	Jada Pinkett Smith
+774	Dianna Agron
+775	Julia Volkova
+776	Colbie Caillat
+777	Mary J. Blige
+778	Fiona Apple
+779	Republic of Cyprus
+780	Sarah Silverman
+781	Jewel
+782	Peggy Lee
+783	Michelle Williams
+784	Georges-Louis Leclerc, Comte de Buffon
+785	Regina Spektor
+786	Katharine McPhee
+787	Linda Ronstadt
+788	Lil' Kim
+789	Georgia
+790	Ève Curie
+791	Meaghan Jette Martin
+792	Sara Bareilles
+793	k.d. lang
+794	Christina Milian
+795	Russian Soviet Federative Socialist Republic
+796	sociologist
+797	Emilie Autumn
+798	Galina Vishnevskaya
+799	China Anne McClain
+800	Joan Jett
+801	Charlotte Church
+802	Solange Knowles
+803	Khloé Kardashian
+804	Angélique Kidjo
+805	Monica
+806	Bhimrao Ramji Ambedkar
+807	Interscope Records
+808	Natalie Cole
+809	Nashville
+810	Kazakhstan
+811	Asia Argento
+812	Lil Mama
+813	Anna Karina
+814	Julieta Venegas
+815	Macy Gray
+816	Ani DiFranco
+817	Jill Scott
+818	chemistry
+819	Malta
+820	Vanessa Carlton
+821	June Carter Cash
+822	Tila Tequila
+823	Amerie
+824	Dee Dee Bridgewater
+825	Lisa Lopes
+826	International Hydrographic Organization
+827	Mýa
+828	Debbie Gibson
+829	MCA Records
+830	Kate Voegele
+831	Severo Ochoa
+832	Irene Cara
+833	Ernest Hemingway
+834	Janelle Monáe
+835	Rebbie Jackson
+836	Suzi Quatro
+837	Priscilla Presley
+838	Yo-Yo Ma
+839	Monaco
+840	Laurie Anderson
+841	Ricky Gervais
+842	Dmitry Medvedev
+843	Selena
+844	Janis Ian
+845	Atlanta
+846	Teena Marie
+847	Elizabeth Bishop
+848	Gladys Knight
+849	Montenegro
+850	Melanie Brown
+851	AJ Michalka
+852	Alyson Michalka
+853	Petula Clark
+854	Faith Evans
+855	Stacie Orrico
+856	Vatican City
+857	Academy of Sciences of the USSR
+858	Ani Lorak
+859	Larry David
+860	Lisa Marie Presley
+861	botanist
+862	Lisa Loeb
+863	Penny Marshall
+864	George Santayana
+865	San Marino
+866	St. Vincent
+867	Jay Chou
+868	Hayley Kiyoko
+869	Aimee Mann
+870	Bulat Okudzhava
+871	Alexz Johnson
+872	Tina Arena
+873	Amanda Palmer
+874	Swizz Beatz
+875	voice actor
+876	Maureen Tucker
+877	Joan Rivers
+878	Cuba
+879	Bret Easton Ellis
+880	Vladimir Turchinsky
+881	Angie Stone
+882	Milva
+883	Belize
+884	Dino Buzzati
+885	Ayọ
+886	Janel Parrish
+887	Zemfira
+888	Laura Marano
+889	Ingrid Michaelson
+890	Jason Derulo
+891	Barbados
+892	John Turturro
+893	comedian
+894	William Styron
+895	Mstislav Keldysh
+896	Theodosius Dobzhansky
+897	choreographer
+898	science fiction
+899	John Cleese
+900	Ilya Oleynikov
+901	Woody Allen
+902	Wang Leehom
+903	Pier Paolo Pasolini
+904	Waylon Jennings
+905	Kevin Spacey
+906	Franco Battiato
+907	Indonesia
+908	film director
+909	Paul Langevin
+910	Royal Netherlands Academy of Arts and Sciences
+911	Theodor Mommsen
+912	play
+913	Wolfgang Amadeus Mozart
+914	Melissa Auf der Maur
+915	Sabrina Bryan
+916	LeToya Luckett
+917	South Africa
+918	Thomas Young
+919	Rickie Lee Jones
+920	banjo
+921	Paul McCartney
+922	James Maslow
+923	Drake Bell
+924	Algeria
+925	Mikhail Zadornov
+926	Keren Ann
+927	Chris Rea
+928	Taraneh Javanbakht
+929	Cree Summer
+930	Ringo Starr
+931	Debbie Reynolds
+932	Alejandro Jodorowsky
+933	George Harrison
+934	vocalist
+935	Uzbekistan
+936	Hungarian Academy of Sciences
+937	Rita Lee
+938	Buckethead
+939	Ulf Ekberg
+940	Lionel Richie
+941	Vitamin C
+942	Bruce Willis
+943	Arnold Schwarzenegger
+944	Taylor Swift
+945	Don Rickles
+946	David Mamet
+947	Ireland
+948	Shen Kuo
+949	Kiely Williams
+950	National Academy of Sciences
+951	Chris Cornell
+952	Alsou
+953	Jive
+954	Jack White
+955	Damon Albarn
+956	Van Morrison
+957	Montparnasse Cemetery
+958	radio personality
+959	Joe Dassin
+960	R. Kelly
+961	Kingdom of Prussia
+962	École Polytechnique
+963	Tionne Watkins
+964	East Africa
+965	Tatyana Tolstaya
+966	Claudio Magris
+967	Édouard René de Laboulaye
+968	Herbert Grönemeyer
+969	Julie Driscoll
+970	Andriy Danylko
+971	Charlotte Gainsbourg
+972	Saint Petersburg State University
+973	Mikhail Bakunin
+974	Sergei Gerasimov
+975	A&M Records
+976	Vladimir Solovyov
+977	Hungary
+978	Harry Nilsson
+979	Academy of Sciences of Turin
+980	Trent Reznor
+981	Michael Jackson
+982	Dmitry Glukhovsky
+983	Edvard Radzinsky
+984	screenwriter
+985	Max Brod
+986	Austria-Hungary
+987	Common
+988	Yvonne De Carlo
+989	opera singer
+990	ABC Records
+991	Rob Reiner
+992	agnosticism
+993	Myles Kennedy
+994	Felipe Colombo
+995	Spain
+996	Joumana Haddad
+997	Sacha Baron Cohen
+998	Sky Ferreira
+999	street artist
+1000	Barbara Mandrell
+1001	Lea Salonga
+1002	"African, Caribbean and Pacific Group of States"
+1003	Neil Diamond
+1004	Republican Party
+1005	Jerry Lewis
+1006	Julian Barnes
+1007	Darren Criss
+1008	Democratic Party
+1009	Eduard Limonov
+1010	Sam Cooke
+1011	MC Hammer
+1012	Russell Brand
+1013	Barry Gibb
+1014	Beatriz Luengo
+1015	Yevgeny Yevtushenko
+1016	Yasmina Reza
+1017	Sammy Davis Jr.
+1018	Chile
+1019	Joss Whedon
+1020	Willow Smith
+1021	Rob Zombie
+1022	Noël Coward
+1023	Method Man
+1024	Clive Barker
+1025	Billy Connolly
+1026	Austrian Academy of Sciences
+1027	Kid Cudi
+1028	Ralph Ellison
+1029	Kingdom of the Netherlands
+1030	United States of America
+1031	mandolin
+1032	Barry Manilow
+1033	Elvis Presley
+1034	Ricky Nelson
+1035	Göttingen
+1036	Avril Lavigne
+1037	Erwin Raisz
+1038	Hyde
+1039	James Franco
+1040	Galileo Galilei
+1041	Vladislav Krapivin
+1042	Oscar Wilde
+1043	Jim Messina
+1044	Michael Cera
+1045	Lemmy Kilmister
+1046	Belgium
+1047	Don DeLillo
+1048	Crispin Glover
+1049	Curtis Mayfield
+1050	David Hemmings
+1051	James Taylor
+1052	Dudley Moore
+1053	Camille Jordan
+1054	Père Lachaise Cemetery
+1055	Wallace Shawn
+1056	Henri Victor Regnault
+1057	Joaquim Maria Machado de Assis
+1058	Yoshiki
+1059	Edward Sabine
+1060	Tyrese Gibson
+1061	Sean Lennon
+1062	Bobby Brown
+1063	Richard Marx
+1064	Bobby Darin
+1065	Billy Preston
+1066	Per Olov Enquist
+1067	Ellie Goulding
+1068	Roger Daltrey
+1069	Giuseppe Ungaretti
+1070	Rick Wakeman
+1071	Andy Griffith
+1072	George Ellery Hale
+1073	John Dos Passos
+1074	Robert Penn Warren
+1075	Jerry Garcia
+1076	Brian Wilson
+1077	Soulja Boy
+1078	Redman
+1079	Fritz Leiber Junior
+1080	Michel Legrand
+1081	Bernard-Henri Lévy
+1082	Lionel Hampton
+1083	Nicolae Iorga
+1084	Harry Connick Jr.
+1085	Ben Moody
+1086	Mark Salling
+1087	Alexey Vorobyov
+1088	Ľudovít Štúr
+1089	Afrika Bambaataa
+1090	dance music
+1091	Uzeyir Hajibeyov
+1092	Donovan
+1093	Antoine César Becquerel
+1094	Randy Newman
+1095	Henry Rollins
+1096	Al Franken
+1097	Leon Russell
+1098	Marlon Jackson
+1099	Luxembourg
+1100	Léo Ferré
+1101	Geddy Lee
+1102	Christoph Wilhelm Hufeland
+1103	David A. Stewart
+1104	Judd Apatow
+1105	film producer
+1106	Akon
+1107	Société Philomathique de Paris
+1108	Valery Leontiev
+1109	Royal Prussian Academy of Sciences
+1110	Finland
+1111	Sony Music
+1112	Alice Cooper
+1113	photographer
+1114	Drake
+1115	Ivan Franko
+1116	Shannon Leto
+1117	astronomy
+1118	Léon Theremin
+1119	George Orwell
+1120	translator
+1121	Valentin Kataev
+1122	Leon Trotsky
+1123	Singapore
+1124	Xavier Cugat
+1125	Ted Nugent
+1126	AFRISTAT
+1127	Alexander Bogdanov
+1128	Jimmy Fallon
+1129	Julian Fellowes
+1130	Tito Jackson
+1131	Neil Tennant
+1132	David Byrne
+1133	Agency for the Prohibition of Nuclear Weapons in Latin America and the Caribbean
+1134	Academia Europaea
+1135	Bertrand Russell
+1136	Lincean Academy
+1137	Theodore Roosevelt
+1138	theater director
+1139	Czechoslovakia
+1140	Jules Verne
+1141	actor
+1142	Sweden
+1143	Denis Johnson
+1144	African Development Bank
+1145	Ashkenazi Jews
+1146	Justin Bieber
+1147	Slash
+1148	Russian Empire
+1149	Gene Autry
+1150	Pat Boone
+1151	Woodrow Wilson
+1152	Whitney Houston
+1153	Shakira
+1154	University of Oxford
+1155	Aleksandr Solzhenitsyn
+1156	Babyface
+1157	Harry Shearer
+1158	director
+1159	Harold Bloom
+1160	Anastacia
+1161	Gotthold Ephraim Lessing
+1162	J. K. Rowling
+1163	Albert Camus
+1164	Peter Buck
+1165	Liechtenstein
+1166	Fredric Jameson
+1167	Rudyard Kipling
+1168	Liberace
+1169	Korney Chukovsky
+1170	Friedrich Engels
+1171	Ilya Ehrenburg
+1172	Nick Cannon
+1173	Adam Ant
+1174	Norman Wisdom
+1175	Randy Jackson
+1176	Benjamin Franklin
+1177	D. H. Lawrence
+1178	Isaac Asimov
+1179	Denmark
+1180	Cambridge
+1181	fashion designer
+1182	Eastern Orthodox Church
+1183	James Blake
+1184	zoologist
+1185	Ryan Tedder
+1186	Karel Jaromír Erben
+1187	Brad Pitt
+1188	Gabriel Lamé
+1189	Glukoza
+1190	Joe Walsh
+1191	Steven Van Zandt
+1192	Sun Ra
+1193	Amiri Baraka
+1194	Jackson Browne
+1195	Berry Gordy
+1196	Arthur Conan Doyle
+1197	Levon Helm
+1198	Ray Davies
+1199	essay
+1200	University of Cambridge
+1201	Julian Lennon
+1202	Billy Dee Williams
+1203	T-Bone Walker
+1204	Gordon Lightfoot
+1205	Vladimir Obruchev
+1206	David Walliams
+1207	Poland
+1208	Accademia Nazionale delle Scienze detta dei XL
+1209	Shel Silverstein
+1210	Joe Jackson
+1211	Mick Ronson
+1212	writer
+1213	archaeologist
+1214	Vitas
+1215	Václav Havel
+1216	David Cross
+1217	Vincent Gallo
+1218	Vince Neil
+1219	Brigitte Bardot
+1220	Diana Ross
+1221	Yegor Letov
+1222	Bob Seger
+1223	Todd Rundgren
+1224	Guglielmo Marconi
+1225	Bret Michaels
+1226	Gordon Parks
+1227	Vladimir Nabokov
+1228	Avery Brooks
+1229	Patrice Chéreau
+1230	Jan Hammer
+1231	Big Sean
+1232	composer
+1233	Rihanna
+1234	Robert De Niro
+1235	Lithuania
+1236	Thomas Mann
+1237	David Crosby
+1238	Romanticism
+1239	pop music
+1240	Big Boi
+1241	Kyle Gass
+1242	Lana Del Rey
+1243	David Hume
+1244	teacher
+1245	Samuel Beckett
+1246	Nikolay Ogarev
+1247	International Telecommunication Union
+1248	Thomas Hobbes
+1249	Caribbean Development Bank
+1250	T. S. Eliot
+1251	Natalie Portman
+1252	Masiela Lusha
+1253	John Muir
+1254	Italy
+1255	Dave Matthews
+1256	Nikolai Fomenko
+1257	M. Pokora
+1258	Lewis Carroll
+1259	George Sand
+1260	Sergey Lazarev
+1261	Arthur Schopenhauer
+1262	Eldar Ryazanov
+1263	William Faulkner
+1264	African Union – United Nations Hybrid Operation in Darfur
+1265	Donny Osmond
+1266	Movement Coordination Centre Europe
+1267	Hollywood Records
+1268	Bertolt Brecht
+1269	Gloria Trevi
+1270	heavy metal
+1271	Mos Def
+1272	Universal Music Group
+1273	Switzerland
+1274	Bob Dylan
+1275	Richard Feynman
+1276	mathematics
+1277	physician
+1278	Carl Peter Thunberg
+1279	Latin
+1280	Bahrain
+1281	Mario Vargas Llosa
+1282	Stephen King
+1283	The Compleat Beatles
+1284	Armenia
+1285	Ronny Cox
+1286	Austria
+1287	Will Smith
+1288	William Butler Yeats
+1289	Paul Simon
+1290	Tara Strong
+1291	Serbia
+1292	Duke Ellington
+1293	lawyer
+1294	Art Garfunkel
+1295	CeeLo Green
+1296	David Mitchell
+1297	Woody Guthrie
+1298	Ray Bradbury
+1299	Australia
+1300	Doris Lessing
+1301	Virginia Woolf
+1302	Frank Sinatra
+1303	Greece
+1304	Carl Sagan
+1305	Harold Pinter
+1306	Mariah Carey
+1307	Jonathan Swift
+1308	Demi Lovato
+1309	Konstantin Eduardovich Tsiolkovskii
+1310	Heinrich Rudolf Hertz
+1311	Henri Becquerel
+1312	physics
+1313	Weimar Republic
+1314	Franz Liszt
+1315	Jodie Foster
+1316	Argentina
+1317	Academy of Arts, Berlin
+1318	Göttingen Academy of Sciences
+1319	Academy of Useful Science
+1320	Wole Soyinka
+1321	William Blake
+1322	Organisation for Economic Cooperation and Development
+1323	Michel de Montaigne
+1324	Mircea Eliade
+1325	Christina Aguilera
+1326	Peru
+1327	Douglas Adams
+1328	Henri Bergson
+1329	Mel Gibson
+1330	European Space Agency
+1331	North Korea
+1332	Miley Cyrus
+1333	Michail Sholokhov
+1334	Cambodia
+1335	Andrea Bocelli
+1336	English people
+1337	Katy Perry
+1338	James Cameron
+1339	Mark Ronson
+1340	literary critic
+1341	Heinrich Böll
+1342	Johnny Cash
+1343	Ivan Turgenev
+1344	Germans
+1345	Dima Bilan
+1346	Turkey
+1347	Marc Connelly
+1348	Paul Reiser
+1349	Islam
+1350	Clint Eastwood
+1351	Natasha Shneider
+1352	German Empire
+1353	J. M. Coetzee
+1354	Daniel Johnston
+1355	Motown
+1356	contemporary folk music
+1357	Justin Timberlake
+1358	Saint Petersburg Academy of Sciences
+1359	Tinashe
+1360	Jann Arden
+1361	Ivor Novello
+1362	Ben Elton
+1363	Nikolai Gogol
+1364	Samuel R. Delany
+1365	businessperson
+1366	Jemaine Clement
+1367	Carl Orff
+1368	Marietta Shaginyan
+1369	Peter Handke
+1370	West Africa
+1371	Republic Records
+1372	Hulk Hogan
+1373	Sean Penn
+1374	Ivan Urgant
+1375	Jim Morrison
+1376	Salman Rushdie
+1377	Lance Bass
+1378	Gretchen Wilson
+1379	Falco
+1380	John Cameron Mitchell
+1381	Heinrich Heine
+1382	Hans Christian Ørsted
+1383	Trey Parker
+1384	Rainer Werner Fassbinder
+1385	Richard Dawkins
+1386	Pierre-Simon Laplace
+1387	Selma Lagerlöf
+1388	Gackt
+1389	Eric Burdon
+1390	Julian Klaczko
+1391	Konstantin Simonov
+1392	Jennette McCurdy
+1393	Jackie Jackson
+1394	John Legend
+1395	Stephen Spender
+1396	André 3000
+1397	Portugal
+1398	Richard Sennett
+1399	Gaspard de Prony
+1400	Visa Waiver Program
+1401	Lianne La Havas
+1402	Karl Valentin
+1403	Harald Lesch
+1404	George Steiner
+1405	Jonathan Winters
+1406	Alexis Korner
+1407	Jack London
+1408	European Union
+1409	John Cale
+1410	Deutsche Akademie für Sprache und Dichtung
+1411	Czesław Miłosz
+1412	rhythm and blues
+1413	Europe
+1414	Felix Mendelssohn
+1415	model
+1416	Jaroslav Vrchlický
+1417	Marlene Dietrich
+1418	Corbin Bleu
+1419	bass guitar
+1420	American Academy of Arts and Letters
+1421	American Academy of Arts and Sciences
+1422	Valeriya Novodvorskaya
+1423	Barbra Streisand
+1424	Connie Smith
+1425	Doc Watson
+1426	Mikhail Lermontov
+1427	American Philosophical Society
+1428	Charles Babbage
+1429	Buffy Sainte-Marie
+1430	Eugène Ionesco
+1431	Octavio Paz
+1432	Robin Thicke
+1433	Jaan Kaplinski
+1434	Randy Travis
+1435	Euclides da Cunha
+1436	military personnel
+1437	Colm Tóibín
+1438	Arthur C. Clarke
+1439	Ben Stiller
+1440	Enrique Iglesias
+1441	Ilya Ilf
+1442	Mary Shelley
+1443	Romain Rolland
+1444	Santa Monica
+1445	Leonid Leonov
+1446	Condoleezza Rice
+1447	Elfriede Jelinek
+1448	Milton Friedman
+1449	Ed Sheeran
+1450	Paul Dirac
+1451	André Gide
+1452	Organisation of Islamic Cooperation
+1453	Hu Shih
+1454	renal insufficiency
+1455	Rudolf Christoph Eucken
+1456	anthropologist
+1457	Amr Diab
+1458	Arab Bank for Economic Development in Africa
+1459	Paris Hilton
+1460	lung cancer
+1461	Asia
+1462	poetry
+1463	Ralph Waldo Emerson
+1464	author
+1465	Sting
+1466	Morgan Freeman
+1467	artist
+1468	Kelly Clarkson
+1469	Jack Black
+1470	Chinghiz Aitmatov
+1471	James Hetfield
+1472	Jared Leto
+1473	pop rock
+1474	Neil Patrick Harris
+1475	children's writer
+1476	pianist
+1477	Anatole Abragam
+1478	singer-songwriter
+1479	Nikolay Semyonov
+1480	North America
+1481	Whoopi Goldberg
+1482	Hugh Laurie
+1483	Kurt Vonnegut
+1484	Christopher Hitchens
+1485	short story
+1486	African Americans
+1487	Columbia University
+1488	Yale University
+1489	Cornell University
+1490	New York University
+1491	James Bryant Conant
+1492	progressive rock
+1493	Russians
+1494	philosopher
+1495	Alliance of Small Island States
+1496	Cass Elliot
+1497	German Academy of Sciences at Berlin
+1498	poet
+1499	François-René de Chateaubriand
+1500	Herman Melville
+1501	John Stuart Mill
+1502	Charles Baudelaire
+1503	Stendhal
+1504	Juilliard School
+1505	Émile Zola
+1506	Christianity
+1507	Avicii
+1508	Tony Visconti
+1509	Jean Renoir
+1510	Éric Rohmer
+1511	Donny Hathaway
+1512	Miranda Cosgrove
+1513	Céline Dion
+1514	Yuri Shevchuk
+1515	Jolin Tsai
+1516	Vladimir Vysotsky
+1517	harmonica
+1518	Portuguese
+1519	John Cassavetes
+1520	Spike Lee
+1521	geologist
+1522	RZA
+1523	Ric Ocasek
+1524	William Dean Howells
+1525	keyboard instrument
+1526	Jean-Luc Godard
+1527	Adolf Butenandt
+1528	Gustavo Cerati
+1529	Charles Lyell
+1530	Saul Williams
+1531	Victor Hugo
+1532	Ernst Mayr
+1533	Lori Lieberman
+1534	Chord Overstreet
+1535	Oceania
+1536	David Bowie
+1537	Dalida
+1538	Boris Grebenshchikov
+1539	German Academy of Sciences Leopoldina
+1540	Ray Charles
+1541	Ivan Yefremov
+1542	Walt Disney Records
+1543	Hannes Alfvén
+1544	Netherlands
+1545	Kurt Weill
+1546	Ludwig Maximilian University of Munich
+1547	John de Lancie
+1548	Nikita Mikhalkov
+1549	Andrei Konchalovsky
+1550	Steve Allen
+1551	Alberto Manguel
+1552	Nino Manfredi
+1553	Sid Caesar
+1554	Patti Smith
+1555	Decca
+1556	Peter Ustinov
+1557	Oprah Winfrey
+1558	recording artist
+1559	Eminem
+1560	Group on Earth Observations
+1561	Spike Milligan
+1562	Henry Louis Gates
+1563	Brigitte Fontaine
+1564	Charlie Rich
+1565	Angela Merkel
+1566	Lord Byron
+1567	Miguel de Cervantes
+1568	Anton Chekhov
+1569	Charles Dickens
+1570	Fritz Haber
+1571	Heinrich Schliemann
+1572	Max Reger
+1573	dancer
+1574	Paul Hindemith
+1575	Kwame Anthony Appiah
+1576	August Wilhelm Schlegel
+1577	Christa Wolf
+1578	Wernher von Braun
+1579	East Timor
+1580	Pierre-Joseph Proudhon
+1581	Peter Kropotkin
+1582	Sebastian Haffner
+1583	Georg Christoph Lichtenberg
+1584	Frank Wedekind
+1585	Gotthelf Fischer von Waldheim
+1586	television producer
+1587	Georg Forster
+1588	Che Guevara
+1589	Yuri Vizbor
+1590	Simon Sechter
+1591	Jean-Baptiste Biot
+1592	disco
+1593	Atco Records
+1594	Yehuda Amichai
+1595	Mikhail Vassilyevich Lomonosov
+1596	Lily Allen
+1597	Rick Rubin
+1598	Gabriel García Márquez
+1599	Johann Wolfgang von Goethe
+1600	philosophy
+1601	Max Born
+1602	Busta Rhymes
+1603	Chuck Berry
+1604	Jimi Hendrix
+1605	chemist
+1606	James Brown
+1607	Phil Harris
+1608	Peter Tork
+1609	piano
+1610	New York City
+1611	Hannah Arendt
+1612	Gustav Kirchhoff
+1613	Albertus Magnus
+1614	Friedrich Wilhelm Joseph Schelling
+1615	Alexander Alexandrovich Fadeyev
+1616	Alfred Einstein
+1617	Ernst Troeltsch
+1618	Moritz von Jacobi
+1619	Barthold Georg Niebuhr
+1620	50 Cent
+1621	Dr. Dre
+1622	Günther Anders
+1623	Snoop Dogg
+1624	Hermann Burmeister
+1625	Sakis Rouvas
+1626	Washington, D.C.
+1627	Wassily Kandinsky
+1628	Tupac Shakur
+1629	Walter Benjamin
+1630	Johann Christian Poggendorff
+1631	August Ludwig von Schlözer
+1632	Wolfhart Pannenberg
+1633	Ernst Curtius
+1634	Erika Mann
+1635	Gustav Landauer
+1636	Abraham Gotthelf Kästner
+1637	Ulrich von Wilamowitz-Moellendorff
+1638	San Francisco
+1639	Arab Monetary Fund
+1640	Jay-Z
+1641	Hermann Usener
+1642	Neil Young
+1643	Theodor Nöldeke
+1644	Kate Bush
+1645	Peter Gay
+1646	musician
+1647	Berlin
+1648	George Henschel
+1649	Anglicanism
+1650	Henrik Steffens
+1651	Reprise Records
+1652	Moscow
+1653	Los Angeles
+1654	Søren Kierkegaard
+1655	Italian
+1656	Jean-Jacques Rousseau
+1657	Stanisław Lem
+1658	Carl Friedrich von Weizsäcker
+1659	Günter Grass
+1660	Hispanic America
+1661	Def Jam Recordings
+1662	Saint Petersburg
+1663	International Finance Corporation
+1664	Chad
+1665	guitar
+1666	Henry Kissinger
+1667	novelist
+1668	Eurocontrol
+1669	New Zealand
+1670	Arista
+1671	Eugen Rosenstock-Huessy
+1672	literary realism
+1673	India
+1674	Alexander von Humboldt
+1675	Jacob Grimm
+1676	Ludwig Geiger
+1677	Allen Ginsberg
+1678	Wilhelm Grimm
+1679	Tuvalu
+1680	André-Marie Ampère
+1681	Wolfgang Schadewaldt
+1682	prose
+1683	Tonga
+1684	American Jews
+1685	Samoa
+1686	Bavarian Academy of Sciences and Humanities
+1687	Solomon Islands
+1688	Vanuatu
+1689	James Joyce
+1690	Brandy Norwood
+1691	Papua New Guinea
+1692	20th century
+1693	Palau
+1694	Harald Weinrich
+1695	Nauru
+1696	Geoffrey Ingram Taylor
+1697	Lena Meyer-Landrut
+1698	Federated States of Micronesia
+1699	Salvador de Madariaga
+1700	Konstantin Fedin
+1701	film editor
+1702	Ray Lankester
+1703	John Hartford
+1704	Sticky Fingaz
+1705	Edmund Wilson
+1706	David Clayton-Thomas
+1707	RuPaul
+1708	atheism
+1709	Hans Mayer
+1710	Friedrich von Raumer
+1711	Allan Sherman
+1712	Marshall Islands
+1713	Kiribati
+1714	Mongolia
+1715	Fiji
+1716	Roger Miller
+1717	Chris Martin
+1718	Jerry Reed
+1719	West Germany
+1720	The Edge
+1721	African Union
+1722	Venezuela
+1723	Arab League
+1724	NATO
+1725	Simone de Beauvoir
+1726	Marcel Proust
+1727	Alexander Pushkin
+1728	Middle East
+1729	Roy Clark
+1730	Master P
+1731	Yoram Kaniuk
+1732	Toni Morrison
+1733	Rabindranath Tagore
+1734	Leo Tolstoy
+1735	Mark Twain
+1736	Jimmy Buffett
+1737	Elektra
+1738	Edmund White
+1739	Bing Crosby
+1740	Suriname
+1741	George Frideric Handel
+1742	Fredro Starr
+1743	Gene Kelly
+1744	Igor Stravinsky
+1745	Pyotr Ilyich Tchaikovsky
+1746	Nazi Germany
+1747	Jewish people
+1748	Jô Soares
+1749	Paraguay
+1750	Guyana
+1751	Miguel
+1752	Robert Schumann
+1753	Ecuador
+1754	Renato Carosone
+1755	Colombia
+1756	Massimo Bontempelli
+1757	Augusto Righi
+1758	Richard Stallman
+1759	Bolivia
+1760	Irène Joliot-Curie
+1761	songwriter
+1762	Trinidad and Tobago
+1763	Prince
+1764	Ingmar Bergman
+1765	Isaac Bashevis Singer
+1766	Saint Vincent and the Grenadines
+1767	Lutheranism
+1768	Wilhelm Wundt
+1769	Heinrich Wilhelm Olbers
+1770	Saint Lucia
+1771	Leonhard Euler
+1772	Leonardo da Vinci
+1773	Saint Kitts and Nevis
+1774	Charles Bukowski
+1775	Rudolf Virchow
+1776	Johann Christoph Gottsched
+1777	Kirsten Dunst
+1778	Helge Schneider
+1779	Erich Kästner
+1780	Jamaica
+1781	Manfred Eigen
+1782	Felix Klein
+1783	Ludwig Prandtl
+1784	August Schleicher
+1785	Athanasius Kircher
+1786	Heinrich Wilhelm Gottfried von Waldeyer-Hartz
+1787	Ferdinand von Richthofen
+1788	Karl Mannheim
+1789	Friedrich Carl von Savigny
+1790	Grenada
+1791	Ralf Dahrendorf
+1792	Uruguay
+1793	Lion Feuchtwanger
+1794	Dietrich Fischer-Dieskau
+1795	Klaus Mann
+1796	Golo Mann
+1797	David Foster
+1798	Thomas Anders
+1799	Leo Strauss
+1800	Leopold von Ranke
+1801	Russian
+1802	Guatemala
+1803	Vladimir Putin
+1804	rock and roll
+1805	Bahamas
+1806	Commonwealth of Nations
+1807	Wilhelm von Humboldt
+1808	UNESCO
+1809	Antigua and Barbuda
+1810	World Trade Organization
+1811	Australia Group
+1812	Honduras
+1813	Boris Vian
+1814	Burton Cummings
+1815	Dominica
+1816	Robert Musil
+1817	Stefan Zweig
+1818	Tomáš Garrigue Masaryk
+1819	Konrad Lorenz
+1820	Peter Lorre
+1821	Ingeborg Bachmann
+1822	Dominican Republic
+1823	Carl Djerassi
+1824	Hanns Eisler
+1825	Egypt
+1826	Haiti
+1827	Walter Scott
+1828	Wilhelm Blaschke
+1829	El Salvador
+1830	Iran
+1831	Iraq
+1832	John Milton
+1833	American English
+1834	accordion
+1835	Communist Party of the Soviet Union
+1836	Emma Goldman
+1837	Costa Rica
+1838	Israel
+1839	Avicenna
+1840	Dmitri Shostakovich
+1841	Winston Churchill
+1842	Augustine of Hippo
+1843	Joseph-Louis Lagrange
+1844	Panama
+1845	Nelly Furtado
+1846	Anna Akhmatova
+1847	Yemen
+1848	Alla Pugacheva
+1849	Arthur Miller
+1850	bandleader
+1851	Charlton Heston
+1852	Polish
+1853	John Travolta
+1854	Jordan
+1855	Henri Poincaré
+1856	engineer
+1857	Nicaragua
+1858	Bavarian Academy of Fine Arts
+1859	Karl Popper
+1860	Organization for Security and Co-operation in Europe
+1861	Kyrgyzstan
+1862	Southern African Development Community
+1863	Kuwait
+1864	Anton Bruckner
+1865	librettist
+1866	Laos
+1867	John Keats
+1868	Steven Seagal
+1869	Lebanon
+1870	lyricist
+1871	Little Richard
+1872	Cliff Richard
+1873	blogger
+1874	Maldives
+1875	novel
+1876	International Energy Agency
+1877	International Development Association
+1878	Joseph Conrad
+1879	politician
+1880	Saul Bellow
+1881	Jean Cocteau
+1882	Russian Academy of Sciences
+1883	hard rock
+1884	Selena Gomez
+1885	John William Strutt, 3rd Baron Rayleigh
+1886	Malaysia
+1887	Béla Bartók
+1888	James D. Watson
+1889	Robin Williams
+1890	Eleanor Roosevelt
+1891	jazz
+1892	country music
+1893	"Weird Al" Yankovic
+1894	Mikhail Bulgakov
+1895	Vladimir Prelog
+1896	violin
+1897	Nikolay Basov
+1898	Myanmar
+1899	Andrey Gubin
+1900	Nepal
+1901	London
+1902	Ivan Illich
+1903	Oman
+1904	indie pop
+1905	Peter Drucker
+1906	Organisation for the Prohibition of Chemical Weapons
+1907	Pakistan
+1908	Warner Bros. Records
+1909	Martin Buber
+1910	Kurt Cobain
+1911	Felix Philipp Kanitz
+1912	Qatar
+1913	Interpol
+1914	contemporary R&B
+1915	Saudi Arabia
+1916	Andrei Tarkovsky
+1917	Sri Lanka
+1918	guitarist
+1919	Syria
+1920	Plato
+1921	Herman Francis Mark
+1922	Joseph Brodsky
+1923	Tajikistan
+1924	biographer
+1925	biologist
+1926	Hong Kong
+1927	Taiwan
+1928	Hugo Huppert
+1929	Thailand
+1930	Walt Disney
+1931	Turkmenistan
+1932	Joseph Fourier
+1933	United Arab Emirates
+1934	Vietnam
+1935	Augustin-Louis Cauchy
+1936	Charlie Chaplin
+1937	South Korea
+1938	Satyajit Ray
+1939	Bo Burnham
+1940	Bob Mould
+1941	Bobby Scott
+1942	Afghanistan
+1943	Council of Europe
+1944	J. R. R. Tolkien
+1945	International Centre for Settlement of Investment Disputes
+1946	Paris
+1947	scientist
+1948	geographer
+1949	Bangladesh
+1950	Swedish
+1951	Gottfried Wilhelm Leibniz
+1952	Noam Chomsky
+1953	Franz Kafka
+1954	Czech
+1955	Karl Marx
+1956	Hungarian
+1957	Jorge Luis Borges
+1958	James Clerk Maxwell
+1959	Mali
+1960	Angola
+1961	Bhutan
+1962	Nahum Sokolow
+1963	C. S. Lewis
+1964	Brunei
+1965	Georg Wilhelm Friedrich Hegel
+1966	Tanzania
+1967	Vince Gill
+1968	Judaism
+1969	Philippines
+1970	Hebrew
+1971	Central African Republic
+1972	Immanuel Kant
+1973	Milan Kundera
+1974	John Maynard Keynes
+1975	Guy de Maupassant
+1976	Miles Davis
+1977	Percy Bysshe Shelley
+1978	Seamus Heaney
+1979	Franz Miklosich
+1980	John Locke
+1981	Daniel Lanois
+1982	Friedrich Nietzsche
+1983	Jean-Paul Sartre
+1984	Albert Einstein
+1985	Pontifical Academy of Sciences
+1986	Max Weber
+1987	Ludwig Wittgenstein
+1988	Ernst Mach
+1989	Bob Hope
+1990	Thomas Aquinas
+1991	James Lighthill
+1992	Togo
+1993	Heinrich Brunner
+1994	John Ciardi
+1995	television presenter
+1996	Tunisia
+1997	character actor
+1998	John Bardeen
+1999	Ginger Rogers
+2000	Ian McLagan
+2001	Zambia
+2002	Zimbabwe
+2003	Michael Nesmith
+2004	Luis Alberto Spinetta
+2005	South Sudan
+2006	Lloyd Price
+2007	Catholic Church
+2008	Mexico
+2009	Kenneth Burke
+2010	Benin
+2011	Botswana
+2012	banjoist
+2013	Burkina Faso
+2014	Tex Ritter
+2015	Burundi
+2016	Elizabeth II
+2017	Comoros
+2018	Republic of the Congo
+2019	Honoré de Balzac
+2020	classical music
+2021	symphony
+2022	Democratic Republic of the Congo
+2023	blues
+2024	Djibouti
+2025	electronic music
+2026	saxophone
+2027	Mario Praz
+2028	Equatorial Guinea
+2029	Gavriil Troyepolsky
+2030	Eritrea
+2031	John Paul II
+2032	Fyodor Dostoyevsky
+2033	Ronald Reagan

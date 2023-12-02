@@ -1,0 +1,637 @@
+{
+    "human": [
+        "person"
+    ],
+    "city": [
+        "city/town"
+    ],
+    "century": [],
+    "university": [
+        "higher education institution",
+        "academic institution"
+    ],
+    "continent": [],
+    "capital": [
+        "city"
+    ],
+    "country": [
+        "political territorial entity"
+    ],
+    "nation": [],
+    "republic": [],
+    "state": [
+        "organization",
+        "administrative territorial entity",
+        "political territorial entity",
+        "subject of international law"
+    ],
+    "political party": [
+        "political organisation"
+    ],
+    "Relajación": [
+        "world view"
+    ],
+    "film": [],
+    "record label": [
+        "business"
+    ],
+    "bank": [
+        "enterprise"
+    ],
+    "independent city of Germany": [
+        "city",
+        "urban municipality of Germany"
+    ],
+    "profession": [
+        "specialty"
+    ],
+    "research institute": [],
+    "architectural style": [
+        "art style"
+    ],
+    "natural language": [],
+    "human population": [],
+    "language": [],
+    "higher education institution": [
+        "educational institution"
+    ],
+    "region of the Czech Republic": [
+        "constituency",
+        "political territorial entity"
+    ],
+    "cemetery": [],
+    "building": [],
+    "constitutional monarchy": [],
+    "ethnic group": [],
+    "organization": [],
+    "federal state": [],
+    "dead language": [],
+    "voluntary association": [],
+    "empire1": [
+        "empire",
+        "realm",
+        "sovereign state"
+    ],
+    "world view": [],
+    "presidential system": [
+        "republic"
+    ],
+    "administrative territorial entity": [],
+    "Free imperial city": [
+        "city"
+    ],
+    "county seat": [
+        "human settlement"
+    ],
+    "geographic region": [
+        "geographical object"
+    ],
+    "island nation": [
+        "country",
+        "state"
+    ],
+    "landlocked country": [
+        "country",
+        "state"
+    ],
+    "treaty": [],
+    "colony": [],
+    "city-state": [
+        "city",
+        "state"
+    ],
+    "district capital": [],
+    "macrolanguage": [],
+    "twin": [],
+    "academy": [
+        "higher education institution",
+        "learned society",
+        "academic institution"
+    ],
+    "trademark": [],
+    "confederation": [
+        "international organization"
+    ],
+    "enclave": [],
+    "megacity": [
+        "city with millions of inhabitants",
+        "city/town"
+    ],
+    "unitary state": [
+        "state"
+    ],
+    "federal city of Russia": [],
+    "conservatory": [
+        "higher education institution"
+    ],
+    "music genre": [
+        "art genre"
+    ],
+    "academic degree": [
+        "academic title"
+    ],
+    "emirate": [
+        "realm"
+    ],
+    "constituency": [
+        "administrative territorial entity",
+        "political territorial entity"
+    ],
+    "metropolis": [
+        "human settlement"
+    ],
+    "Commonwealth realm": [
+        "kingdom",
+        "sovereign state"
+    ],
+    "global city": [
+        "city"
+    ],
+    "campus": [],
+    "holding company": [
+        "business",
+        "enterprise"
+    ],
+    "literary genre": [
+        "art genre"
+    ],
+    "dominion of the British Empire": [
+        "political territorial entity"
+    ],
+    "nationality": [
+        "ethnic group"
+    ],
+    "communist party": [
+        "political party"
+    ],
+    "intergovernmental organization": [
+        "international organization",
+        "subject of international law",
+        "political organisation"
+    ],
+    "major regional center": [],
+    "federal capital": [
+        "capital"
+    ],
+    "state of Austria": [
+        "federated state"
+    ],
+    "statutory city of Austria": [
+        "city",
+        "municipality of Austria",
+        "district of Austria",
+        "place with town rights and privileges"
+    ],
+    "notifiable disease": [],
+    "borough of New York City": [],
+    "academy of sciences": [
+        "academy"
+    ],
+    "kingdom": [
+        "realm"
+    ],
+    "ancient language": [],
+    "exact science": [
+        "science"
+    ],
+    "statistical service": [
+        "research institute"
+    ],
+    "international organization": [
+        "organization"
+    ],
+    "human settlement": [
+        "geographic region",
+        "geographical object"
+    ],
+    "academic rank": [
+        "academic title"
+    ],
+    "federal republic": [
+        "republic",
+        "federal state"
+    ],
+    "district of the Czech Republic": [],
+    "radio format": [],
+    "land-grant university": [],
+    "social state": [
+        "state"
+    ],
+    "military operation": [],
+    "pro-drop language": [
+        "language"
+    ],
+    "municipality of Austria": [],
+    "Islamic republic": [
+        "republic"
+    ],
+    "Hanseatic city": [
+        "city"
+    ],
+    "law enforcement agency": [],
+    "continental union": [
+        "intergovernmental organization",
+        "regional organization"
+    ],
+    "open-access journal": [],
+    "special administrative region of China": [],
+    "socialist state": [
+        "state",
+        "sovereign state"
+    ],
+    "communist state": [
+        "state"
+    ],
+    "subcontinent": [
+        "geographic region"
+    ],
+    "secular state": [
+        "state"
+    ],
+    "musical form": [],
+    "public university": [
+        "university"
+    ],
+    "Christian denomination": [
+        "religious denomination"
+    ],
+    "private university": [
+        "university"
+    ],
+    "border town": [
+        "city/town"
+    ],
+    "rare disease": [
+        "disease"
+    ],
+    "ethnolect": [],
+    "learned society": [
+        "voluntary association"
+    ],
+    "art movement": [
+        "art style",
+        "cultural movement"
+    ],
+    "specialty": [],
+    "political territorial entity": [
+        "administrative territorial entity"
+    ],
+    "financial centre": [
+        "global city"
+    ],
+    "city of the United States": [
+        "city"
+    ],
+    "military alliance": [],
+    "political union": [
+        "international organization",
+        "political territorial entity"
+    ],
+    "Apostolic see": [
+        "episcopal see"
+    ],
+    "residenz": [
+        "building"
+    ],
+    "college town": [
+        "city"
+    ],
+    "Colonial Colleges": [],
+    "ethnic religion": [
+        "Relajación"
+    ],
+    "tourist destination": [
+        "geographic region"
+    ],
+    "Empire on which the sun never sets": [
+        "transcontinental country",
+        "colonial empire"
+    ],
+    "state of Germany": [
+        "federated state"
+    ],
+    "realm": [
+        "state"
+    ],
+    "class of instruments": [],
+    "modern language": [],
+    "Swedish Royal Academies": [
+        "learned society"
+    ],
+    "book publishing company": [
+        "publisher"
+    ],
+    "transcontinental country": [
+        "country"
+    ],
+    "supranational union": [
+        "international organization"
+    ],
+    "international financial institution": [
+        "international organization"
+    ],
+    "complication": [],
+    "county town": [],
+    "superpowers": [
+        "nation"
+    ],
+    "constitutional republic": [
+        "republic"
+    ],
+    "big city": [
+        "city"
+    ],
+    "privately held company": [],
+    "city with millions of inhabitants": [
+        "big city"
+    ],
+    "major label": [
+        "record label"
+    ],
+    "engineering school": [
+        "higher education institution"
+    ],
+    "film production company": [],
+    "comprehensive university": [
+        "university"
+    ],
+    "colonial empire": [
+        "empire1"
+    ],
+    "art genre": [],
+    "art style": [
+        "art genre"
+    ],
+    "rockumentary": [],
+    "subject of international law": [],
+    "seat of government": [],
+    "metropolitan area": [
+        "administrative territorial entity",
+        "human settlement",
+        "political territorial entity"
+    ],
+    "cause of death": [],
+    "quasi-autonomous non-governmental organisation": [],
+    "national academy": [
+        "academy"
+    ],
+    "pontifical academy": [
+        "academy"
+    ],
+    "publisher": [
+        "business"
+    ],
+    "language regulator": [
+        "organization"
+    ],
+    "drama school": [
+        "educational institution"
+    ],
+    "cultural movement": [],
+    "craft": [],
+    "geographic location": [],
+    "port settlement": [
+        "city"
+    ],
+    "Stiftungshochschule": [],
+    "educational institution": [],
+    "continental area and surrounding islands": [
+        "geographic region"
+    ],
+    "record company": [
+        "business"
+    ],
+    "branch of science": [
+        "science",
+        "specialty"
+    ],
+    "people": [],
+    "philosophical movement": [
+        "world view"
+    ],
+    "Parisian cemetery": [
+        "cemetery"
+    ],
+    "mononymous person": [
+        "person"
+    ],
+    "historical country": [],
+    "consolidated city-county": [
+        "city of the United States"
+    ],
+    "literary movement": [
+        "art movement"
+    ],
+    "constituent part of the United Kingdom": [
+        "administrative territorial entity of the United Kingdom"
+    ],
+    "collegiate university": [
+        "university"
+    ],
+    "cultural region": [
+        "geographic region"
+    ],
+    "academic title": [],
+    "university in France": [
+        "university"
+    ],
+    "sanctuary city": [
+        "city"
+    ],
+    "economic union": [],
+    "sovereign state": [
+        "country",
+        "state"
+    ],
+    "regional organization": [
+        "administrative territorial entity",
+        "international organization"
+    ],
+    "position": [],
+    "parliamentary republic": [
+        "republic"
+    ],
+    "legal state": [
+        "state"
+    ],
+    "filmmaking occupation": [
+        "profession"
+    ],
+    "literary form": [],
+    "capital of Russia": [
+        "capital",
+        "former capital"
+    ],
+    "academic institution": [
+        "research institute",
+        "educational institution"
+    ],
+    "academic major": [
+        "academic discipline"
+    ],
+    "business": [
+        "organization"
+    ],
+    "municipality of the Czech Republic": [],
+    "Creative unions in the Soviet Union": [],
+    "democratic republic": [
+        "republic"
+    ],
+    "exempt charity": [],
+    "membership organization": [
+        "organization"
+    ],
+    "enterprise": [
+        "business"
+    ],
+    "major religious group": [
+        "Relajación"
+    ],
+    "political organisation": [
+        "organization"
+    ],
+    "sun grant institution": [],
+    "title of authority": [],
+    "municipality with authorized municipal office": [
+        "municipality of the Czech Republic"
+    ],
+    "city/town": [
+        "administrative territorial entity",
+        "human settlement",
+        "political territorial entity"
+    ],
+    "district town": [
+        "city"
+    ],
+    "honor society": [
+        "organization"
+    ],
+    "ethnoreligious group": [
+        "ethnic group"
+    ],
+    "divided country": [
+        "country"
+    ],
+    "United Nations Depository Library": [],
+    "corporate title": [
+        "profession",
+        "position"
+    ],
+    "historical period": [],
+    "academic discipline": [
+        "specialty"
+    ],
+    "timber-framed house": [],
+    "capital of region": [
+        "capital"
+    ],
+    "union of writers": [],
+    "occupation": [],
+    "sultanate": [
+        "realm"
+    ],
+    "archipelagic state": [
+        "island nation"
+    ],
+    "charter city": [],
+    "town in Hungary": [
+        "city"
+    ],
+    "single-tier municipality": [],
+    "country of the Kingdom of the Netherlands": [],
+    "university college": [
+        "higher education institution"
+    ],
+    "state with limited recognition": [],
+    "theatrical occupation": [
+        "profession",
+        "occupation"
+    ],
+    "specialized agency of the United Nations": [
+        "international organization"
+    ],
+    "research university": [
+        "university"
+    ],
+    "Einheitsgemeinde of Germany": [
+        "integrated municipality"
+    ],
+    "municipality with town privileges in the Czech Republic": [
+        "municipality of the Czech Republic",
+        "city/town"
+    ],
+    "legal professional": [
+        "profession",
+        "person linked to the law"
+    ],
+    "visa policy": [],
+    "space agency": [],
+    "infectious disease": [
+        "disease"
+    ],
+    "event venue": [],
+    "colonial power": [
+        "sovereign state"
+    ],
+    "Original Public Ivy": [],
+    "Wikipedia article covering multiple topics": [],
+    "provincial or territorial capital city in Canada": [],
+    "state or insular area capital in the United States": [
+        "city of the United States"
+    ],
+    "public educational institution of the United States": [],
+    "private not-for-profit educational institution": [],
+    "agent": [],
+    "former capital": [
+        "human settlement"
+    ],
+    "ethnic community": [
+        "ethnic group"
+    ],
+    "urban municipality of Germany": [
+        "city",
+        "place with town rights and privileges"
+    ],
+    "open-access publisher": [
+        "publisher"
+    ],
+    "second largest city": [
+        "city/town"
+    ],
+    "Mediterranean country": [
+        "country",
+        "sovereign state"
+    ],
+    "expedited border crossing scheme": [
+        "visa policy"
+    ],
+    "largest city": [
+        "city/town"
+    ],
+    "geopolitical community": [],
+    "art form": [],
+    "urban district in Saxony": [
+        "independent city of Germany"
+    ],
+    "public research university": [
+        "public university"
+    ],
+    "countries bordering the Baltic Sea": [
+        "sovereign state"
+    ],
+    "academic profession": [
+        "profession"
+    ],
+    "musical profession": [],
+    "autonomous country within the Kingdom of Denmark": [
+        "country"
+    ],
+    "medical profession": [],
+    "municipality of Georgia": [],
+    "urban district of Bavaria": [
+        "independent city of Germany"
+    ],
+    "urban district of Lower Hamburg": [
+        "independent city of Germany"
+    ]
+}

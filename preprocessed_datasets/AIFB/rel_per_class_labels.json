@@ -1,0 +1,145 @@
+{
+    "<http://swrc.ontoware.org/ontology#ResearchTopic>": {
+        "http://swrc.ontoware.org/ontology#isAbout": 2248,
+        "http://swrc.ontoware.org/ontology#isWorkedOnBy": 517,
+        "http://swrc.ontoware.org/ontology#dealtWithIn": 326
+    },
+    "<http://swrc.ontoware.org/ontology#Article>": {
+        "http://swrc.ontoware.org/ontology#publication": 517,
+        "http://swrc.ontoware.org/ontology#author": 514,
+        "http://swrc.ontoware.org/ontology#isAbout": 243,
+        "http://swrc.ontoware.org/ontology#publishes": 140,
+        "http://swrc.ontoware.org/ontology#hasProject": 90,
+        "http://swrc.ontoware.org/ontology#projectInfo": 88
+    },
+    "<http://swrc.ontoware.org/ontology#Lecturer>": {
+        "http://swrc.ontoware.org/ontology#author": 30,
+        "http://swrc.ontoware.org/ontology#publication": 26,
+        "http://swrc.ontoware.org/ontology#isWorkedOnBy": 20,
+        "http://swrc.ontoware.org/ontology#member": 5,
+        "http://swrc.ontoware.org/ontology#worksAtProject": 1
+    },
+    "<http://swrc.ontoware.org/ontology#Publication>": {
+        "http://swrc.ontoware.org/ontology#publication": 3731,
+        "http://swrc.ontoware.org/ontology#author": 3589,
+        "http://swrc.ontoware.org/ontology#isAbout": 1931,
+        "http://swrc.ontoware.org/ontology#publishes": 1098,
+        "http://swrc.ontoware.org/ontology#hasProject": 863,
+        "http://swrc.ontoware.org/ontology#projectInfo": 857,
+        "http://swrc.ontoware.org/ontology#editor": 178
+    },
+    "<http://swrc.ontoware.org/ontology#Person>": {
+        "http://swrc.ontoware.org/ontology#publication": 3731,
+        "http://swrc.ontoware.org/ontology#author": 3598,
+        "http://swrc.ontoware.org/ontology#isWorkedOnBy": 517,
+        "http://swrc.ontoware.org/ontology#member": 301,
+        "http://swrc.ontoware.org/ontology#worksAtProject": 181,
+        "http://swrc.ontoware.org/ontology#editor": 178,
+        "http://swrc.ontoware.org/ontology#head": 5
+    },
+    "<http://swrc.ontoware.org/ontology#Book>": {
+        "http://swrc.ontoware.org/ontology#isAbout": 62,
+        "http://swrc.ontoware.org/ontology#publication": 51,
+        "http://swrc.ontoware.org/ontology#author": 46,
+        "http://swrc.ontoware.org/ontology#publishes": 21,
+        "http://swrc.ontoware.org/ontology#hasProject": 10,
+        "http://swrc.ontoware.org/ontology#editor": 9,
+        "http://swrc.ontoware.org/ontology#projectInfo": 9
+    },
+    "<http://swrc.ontoware.org/ontology#FullProfessor>": {
+        "http://swrc.ontoware.org/ontology#publication": 353,
+        "http://swrc.ontoware.org/ontology#author": 343,
+        "http://swrc.ontoware.org/ontology#member": 48,
+        "http://swrc.ontoware.org/ontology#worksAtProject": 32,
+        "http://swrc.ontoware.org/ontology#isWorkedOnBy": 29,
+        "http://swrc.ontoware.org/ontology#editor": 16,
+        "http://swrc.ontoware.org/ontology#head": 5
+    },
+    "<http://swrc.ontoware.org/ontology#Proceedings>": {
+        "http://swrc.ontoware.org/ontology#publication": 175,
+        "http://swrc.ontoware.org/ontology#editor": 169,
+        "http://swrc.ontoware.org/ontology#isAbout": 82,
+        "http://swrc.ontoware.org/ontology#publishes": 45,
+        "http://swrc.ontoware.org/ontology#hasProject": 45,
+        "http://swrc.ontoware.org/ontology#projectInfo": 41,
+        "http://swrc.ontoware.org/ontology#author": 15
+    },
+    "<http://swrc.ontoware.org/ontology#InCollection>": {
+        "http://swrc.ontoware.org/ontology#author": 248,
+        "http://swrc.ontoware.org/ontology#publication": 236,
+        "http://swrc.ontoware.org/ontology#isAbout": 145,
+        "http://swrc.ontoware.org/ontology#publishes": 79,
+        "http://swrc.ontoware.org/ontology#projectInfo": 42,
+        "http://swrc.ontoware.org/ontology#hasProject": 35
+    },
+    "<http://swrc.ontoware.org/ontology#ResearchGroup>": {
+        "http://swrc.ontoware.org/ontology#publishes": 1098,
+        "http://swrc.ontoware.org/ontology#carriesOut": 73,
+        "http://swrc.ontoware.org/ontology#carriedOutBy": 72,
+        "http://swrc.ontoware.org/ontology#member": 64,
+        "http://swrc.ontoware.org/ontology#head": 5
+    },
+    "<http://swrc.ontoware.org/ontology#TechnicalReport>": {
+        "http://swrc.ontoware.org/ontology#author": 571,
+        "http://swrc.ontoware.org/ontology#publication": 562,
+        "http://swrc.ontoware.org/ontology#isAbout": 302,
+        "http://swrc.ontoware.org/ontology#publishes": 150,
+        "http://swrc.ontoware.org/ontology#hasProject": 112,
+        "http://swrc.ontoware.org/ontology#projectInfo": 112
+    },
+    "<http://swrc.ontoware.org/ontology#Misc>": {
+        "http://swrc.ontoware.org/ontology#publication": 153,
+        "http://swrc.ontoware.org/ontology#author": 151,
+        "http://swrc.ontoware.org/ontology#isAbout": 98,
+        "http://swrc.ontoware.org/ontology#projectInfo": 56,
+        "http://swrc.ontoware.org/ontology#hasProject": 53,
+        "http://swrc.ontoware.org/ontology#publishes": 45
+    },
+    "<http://swrc.ontoware.org/ontology#Graduate>": {
+        "http://swrc.ontoware.org/ontology#member": 4,
+        "http://swrc.ontoware.org/ontology#author": 4,
+        "http://swrc.ontoware.org/ontology#publication": 4,
+        "http://swrc.ontoware.org/ontology#isWorkedOnBy": 2,
+        "http://swrc.ontoware.org/ontology#worksAtProject": 2
+    },
+    "<http://swrc.ontoware.org/ontology#Project>": {
+        "http://swrc.ontoware.org/ontology#hasProject": 863,
+        "http://swrc.ontoware.org/ontology#projectInfo": 857,
+        "http://swrc.ontoware.org/ontology#dealtWithIn": 326,
+        "http://swrc.ontoware.org/ontology#isAbout": 317,
+        "http://swrc.ontoware.org/ontology#member": 237,
+        "http://swrc.ontoware.org/ontology#worksAtProject": 181,
+        "http://swrc.ontoware.org/ontology#carriesOut": 73,
+        "http://swrc.ontoware.org/ontology#carriedOutBy": 72,
+        "http://swrc.ontoware.org/ontology#finances": 64,
+        "http://swrc.ontoware.org/ontology#financedBy": 58
+    },
+    "<http://swrc.ontoware.org/ontology#AssistantProfessor>": {
+        "http://swrc.ontoware.org/ontology#publication": 259,
+        "http://swrc.ontoware.org/ontology#author": 242,
+        "http://swrc.ontoware.org/ontology#isWorkedOnBy": 30,
+        "http://swrc.ontoware.org/ontology#member": 27,
+        "http://swrc.ontoware.org/ontology#worksAtProject": 23,
+        "http://swrc.ontoware.org/ontology#editor": 23
+    },
+    "<http://swrc.ontoware.org/ontology#InProceedings>": {
+        "http://swrc.ontoware.org/ontology#author": 2053,
+        "http://swrc.ontoware.org/ontology#publication": 2029,
+        "http://swrc.ontoware.org/ontology#isAbout": 999,
+        "http://swrc.ontoware.org/ontology#publishes": 618,
+        "http://swrc.ontoware.org/ontology#hasProject": 518,
+        "http://swrc.ontoware.org/ontology#projectInfo": 509
+    },
+    "<http://swrc.ontoware.org/ontology#PhDStudent>": {
+        "http://swrc.ontoware.org/ontology#publication": 614,
+        "http://swrc.ontoware.org/ontology#author": 607,
+        "http://swrc.ontoware.org/ontology#isWorkedOnBy": 216,
+        "http://swrc.ontoware.org/ontology#member": 166,
+        "http://swrc.ontoware.org/ontology#worksAtProject": 92,
+        "http://swrc.ontoware.org/ontology#editor": 6
+    },
+    "<http://swrc.ontoware.org/ontology#Organization>": {
+        "http://swrc.ontoware.org/ontology#finances": 64,
+        "http://swrc.ontoware.org/ontology#financedBy": 58
+    }
+}

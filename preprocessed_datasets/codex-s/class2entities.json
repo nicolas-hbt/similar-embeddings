@@ -1,0 +1,4300 @@
+{
+    "profession": [
+        "actor",
+        "businessperson",
+        "television actor",
+        "choreographer",
+        "engineer",
+        "inventor",
+        "zoologist",
+        "dancer",
+        "model",
+        "singer-songwriter",
+        "lyricist",
+        "songwriter",
+        "entrepreneur",
+        "comedian",
+        "radio personality",
+        "television presenter",
+        "rapper",
+        "politician",
+        "fashion designer",
+        "artist",
+        "diplomat",
+        "economist",
+        "children's writer",
+        "writer",
+        "non-fiction writer",
+        "journalist",
+        "military personnel",
+        "poet",
+        "mathematician",
+        "philosopher",
+        "presenter",
+        "television producer",
+        "archaeologist",
+        "anthropologist",
+        "chemist",
+        "film director",
+        "physicist",
+        "historian",
+        "photographer",
+        "opinion journalist",
+        "blogger",
+        "producer",
+        "director",
+        "science fiction writer",
+        "character actor",
+        "film editor",
+        "professor",
+        "astronomer",
+        "theologian",
+        "teacher",
+        "painter",
+        "essayist",
+        "translator",
+        "novelist",
+        "banjoist",
+        "theater director",
+        "linguist",
+        "sociologist",
+        "keyboardist",
+        "political scientist",
+        "biographer",
+        "television director",
+        "biologist",
+        "pedagogue",
+        "vocalist",
+        "botanist",
+        "scientist",
+        "music critic",
+        "naturalist",
+        "bandleader",
+        "geologist",
+        "librettist",
+        "librarian",
+        "geographer",
+        "music theorist",
+        "literary critic",
+        "street artist",
+        "poet lawyer",
+        "short story writer",
+        "prosaist",
+        "theoretical physicist",
+        "mandolinist"
+    ],
+    "artist": [
+        "actor",
+        "comedian",
+        "musician",
+        "director"
+    ],
+    "filmmaking occupation": [
+        "film actor",
+        "voice actor",
+        "film producer",
+        "executive producer",
+        "film director",
+        "screenwriter",
+        "film editor",
+        "film score composer"
+    ],
+    "actor": [
+        "film actor",
+        "television actor",
+        "voice actor",
+        "comedian",
+        "stage actor",
+        "character actor"
+    ],
+    "musical profession": [
+        "singer",
+        "guitarist",
+        "record producer",
+        "musician",
+        "composer",
+        "pianist",
+        "recording artist",
+        "disc jockey",
+        "film score composer",
+        "jazz musician",
+        "opera singer",
+        "musicologist",
+        "conductor",
+        "music pedagogue"
+    ],
+    "vocalist": [
+        "singer",
+        "rapper",
+        "opera singer"
+    ],
+    "professional": [
+        "businessperson",
+        "politician"
+    ],
+    "human voice": [
+        "voice"
+    ],
+    "musical instrument": [
+        "voice",
+        "keyboard instrument",
+        "percussion instrument"
+    ],
+    "performing artist": [
+        "choreographer",
+        "dancer",
+        "comedian",
+        "stage actor",
+        "conductor",
+        "street artist"
+    ],
+    "academic degree": [
+        "engineer"
+    ],
+    "worker": [
+        "engineer"
+    ],
+    "engineer": [
+        "inventor"
+    ],
+    "creator": [
+        "inventor",
+        "artist",
+        "presenter",
+        "author"
+    ],
+    "biologist": [
+        "zoologist",
+        "botanist"
+    ],
+    "natural language": [
+        "English",
+        "American English",
+        "French",
+        "Hungarian",
+        "Spanish"
+    ],
+    "language": [
+        "English",
+        "German",
+        "French",
+        "Russian",
+        "Swedish",
+        "Polish",
+        "Latin",
+        "Spanish",
+        "Portuguese",
+        "Hebrew",
+        "Arabic",
+        "Italian",
+        "Czech"
+    ],
+    "modern language": [
+        "English",
+        "German",
+        "French",
+        "Russian",
+        "Hungarian",
+        "Swedish",
+        "Polish",
+        "Spanish",
+        "Portuguese",
+        "Hebrew",
+        "Arabic",
+        "Italian",
+        "Czech"
+    ],
+    "Anglic languages": [
+        "English"
+    ],
+    "ethnolect": [
+        "American English"
+    ],
+    "English": [
+        "American English"
+    ],
+    "string instrument": [
+        "guitar"
+    ],
+    "plucked necked box lutes": [
+        "guitar",
+        "banjo"
+    ],
+    "keyboard instrument": [
+        "piano",
+        "organ"
+    ],
+    "struck string instrument": [
+        "piano"
+    ],
+    "true board zithers with resonator box": [
+        "piano"
+    ],
+    "occupation": [
+        "autobiographer",
+        "guitarist",
+        "comedian",
+        "musician",
+        "composer",
+        "philanthropist",
+        "artist",
+        "military personnel",
+        "archaeologist",
+        "pianist",
+        "playwright",
+        "author",
+        "explorer",
+        "teacher",
+        "diarist",
+        "peace activist",
+        "disc jockey",
+        "human rights activist",
+        "jazz musician",
+        "biographer",
+        "naturalist"
+    ],
+    "biographer": [
+        "autobiographer"
+    ],
+    "fashion person": [
+        "model",
+        "fashion designer"
+    ],
+    "instrumentalist": [
+        "guitarist",
+        "banjoist",
+        "multi-instrumentalist",
+        "keyboardist",
+        "mandolinist"
+    ],
+    "singer": [
+        "singer-songwriter",
+        "opera singer"
+    ],
+    "songwriter": [
+        "singer-songwriter",
+        "lyricist"
+    ],
+    "composer": [
+        "record producer",
+        "film score composer"
+    ],
+    "audio engineer": [
+        "record producer"
+    ],
+    "musician": [
+        "record producer",
+        "composer",
+        "recording artist",
+        "disc jockey",
+        "jazz musician",
+        "vocalist",
+        "bandleader",
+        "conductor",
+        "music pedagogue"
+    ],
+    "producer1": [
+        "record producer",
+        "film producer",
+        "television producer"
+    ],
+    "music genre": [
+        "synth-pop",
+        "rock music",
+        "pop music",
+        "dance music",
+        "pop rock",
+        "rhythm and blues",
+        "contemporary R&B",
+        "dance-pop",
+        "soul music",
+        "hip hop music",
+        "contemporary folk music",
+        "jazz",
+        "electronic music",
+        "funk",
+        "blues",
+        "disco",
+        "hard rock",
+        "country music",
+        "traditional pop music",
+        "soft rock",
+        "gospel music",
+        "heavy metal",
+        "classical music",
+        "opera",
+        "traditional heavy metal",
+        "alternative rock",
+        "new wave",
+        "folk rock",
+        "symphony",
+        "blues rock",
+        "experimental rock",
+        "psychedelic rock",
+        "rock and roll",
+        "art rock",
+        "progressive rock",
+        "indie pop"
+    ],
+    "electronic music": [
+        "synth-pop"
+    ],
+    "pop music": [
+        "synth-pop",
+        "pop rock",
+        "dance-pop",
+        "country music",
+        "traditional pop music"
+    ],
+    "new wave": [
+        "synth-pop"
+    ],
+    "popular music": [
+        "rock music",
+        "pop music",
+        "rhythm and blues",
+        "soul music",
+        "hip hop music",
+        "contemporary folk music",
+        "jazz",
+        "rock and roll"
+    ],
+    "music": [
+        "dance music",
+        "electronic music",
+        "funk",
+        "blues"
+    ],
+    "rock music": [
+        "pop rock",
+        "hard rock",
+        "soft rock",
+        "heavy metal",
+        "alternative rock",
+        "new wave",
+        "folk rock",
+        "blues rock",
+        "experimental rock",
+        "psychedelic rock",
+        "art rock",
+        "progressive rock"
+    ],
+    "political party": [
+        "Democratic Party",
+        "Republican Party"
+    ],
+    "class of instruments": [
+        "keyboard instrument",
+        "percussion instrument",
+        "accordion"
+    ],
+    "education": [
+        "lyricist"
+    ],
+    "writer": [
+        "lyricist",
+        "children's writer",
+        "non-fiction writer",
+        "poet",
+        "playwright",
+        "blogger",
+        "screenwriter",
+        "science fiction writer",
+        "translator",
+        "novelist",
+        "short story writer",
+        "prosaist"
+    ],
+    "media professional": [
+        "film producer",
+        "television presenter",
+        "journalist",
+        "television producer"
+    ],
+    "vocal composer": [
+        "songwriter"
+    ],
+    "position": [
+        "entrepreneur",
+        "teacher"
+    ],
+    "businessperson": [
+        "entrepreneur"
+    ],
+    "author": [
+        "composer",
+        "writer",
+        "journalist",
+        "blogger"
+    ],
+    "producer": [
+        "executive producer"
+    ],
+    "theatrical occupation": [
+        "stage actor",
+        "theater director"
+    ],
+    "world view": [
+        "atheism"
+    ],
+    "philosophical movement": [
+        "atheism"
+    ],
+    "Relajación": [
+        "atheism",
+        "agnosticism",
+        "Judaism",
+        "Islam",
+        "Anglicanism"
+    ],
+    "guitar": [
+        "bass guitar"
+    ],
+    "bass": [
+        "bass guitar"
+    ],
+    "media personality": [
+        "radio personality"
+    ],
+    "presenter": [
+        "radio personality",
+        "television presenter"
+    ],
+    "celebrity": [
+        "television presenter"
+    ],
+    "television personality": [
+        "television presenter"
+    ],
+    "legal professional": [
+        "lawyer",
+        "jurist"
+    ],
+    "jurist": [
+        "lawyer",
+        "poet lawyer"
+    ],
+    "university": [
+        "University of Vienna",
+        "Leipzig University",
+        "University of Göttingen",
+        "Saint Petersburg State University"
+    ],
+    "open-access publisher": [
+        "University of Vienna",
+        "University of Oxford",
+        "Leipzig University",
+        "Heidelberg University",
+        "Saint Petersburg State University",
+        "Humboldt University of Berlin",
+        "Royal Society"
+    ],
+    "Christian Church": [
+        "Catholic Church",
+        "Catholic Church",
+        "Eastern Orthodox Church"
+    ],
+    "religious denomination": [
+        "Catholic Church",
+        "Eastern Orthodox Church"
+    ],
+    "High German languages": [
+        "German"
+    ],
+    "benefactor": [
+        "philanthropist"
+    ],
+    "Oïl languages": [
+        "French"
+    ],
+    "Southern European languages": [
+        "French",
+        "Latin",
+        "Italian"
+    ],
+    "nation": [
+        "Jewish people",
+        "English people",
+        "England"
+    ],
+    "people": [
+        "Jewish people",
+        "Russians"
+    ],
+    "ethnoreligious group": [
+        "Jewish people"
+    ],
+    "Semitic": [
+        "Jewish people"
+    ],
+    "designer": [
+        "fashion designer"
+    ],
+    "disease": [
+        "myocardial infarction",
+        "stroke",
+        "cancer",
+        "bipolar disorder",
+        "renal insufficiency",
+        "tuberculosis",
+        "lung cancer",
+        "pneumonia"
+    ],
+    "cause of death": [
+        "myocardial infarction",
+        "stroke",
+        "pneumonia"
+    ],
+    "ischemia": [
+        "myocardial infarction"
+    ],
+    "coronary artery disease": [
+        "myocardial infarction"
+    ],
+    "higher education institution": [
+        "University College London",
+        "University of Oxford",
+        "University of Cambridge"
+    ],
+    "academic institution": [
+        "University College London"
+    ],
+    "university college": [
+        "University College London"
+    ],
+    "medical profession": [
+        "physician"
+    ],
+    "health professional": [
+        "physician"
+    ],
+    "corporate title": [
+        "diplomat"
+    ],
+    "civil servant": [
+        "diplomat"
+    ],
+    "learned society": [
+        "American Academy of Arts and Sciences",
+        "American Philosophical Society",
+        "Société Philomathique de Paris",
+        "Royal Society",
+        "German Academy of Sciences Leopoldina",
+        "Académie Française",
+        "Royal Society of Literature"
+    ],
+    "cerebrovascular disease": [
+        "stroke"
+    ],
+    "private university": [
+        "Yale University",
+        "Cornell University",
+        "Harvard University",
+        "Columbia University",
+        "Princeton University",
+        "New York University",
+        "University of Chicago"
+    ],
+    "Colonial Colleges": [
+        "Yale University",
+        "Harvard University",
+        "Columbia University",
+        "Princeton University"
+    ],
+    "research university": [
+        "Yale University",
+        "Cornell University",
+        "Harvard University",
+        "Columbia University",
+        "Princeton University",
+        "New York University",
+        "University of Chicago"
+    ],
+    "private not-for-profit educational institution": [
+        "Yale University",
+        "Cornell University",
+        "Harvard University",
+        "Columbia University",
+        "Princeton University",
+        "New York University",
+        "University of Chicago",
+        "Juilliard School"
+    ],
+    "social scientist": [
+        "economist",
+        "archaeologist",
+        "anthropologist",
+        "sociologist",
+        "political scientist",
+        "pedagogue"
+    ],
+    "East Slavic languages": [
+        "Russian"
+    ],
+    "academic profession": [
+        "university teacher",
+        "linguist"
+    ],
+    "teacher": [
+        "university teacher"
+    ],
+    "academic": [
+        "university teacher",
+        "professor",
+        "political scientist"
+    ],
+    "faculty member": [
+        "university teacher"
+    ],
+    "Ugric languages": [
+        "Hungarian"
+    ],
+    "land-grant university": [
+        "\"University of California, Berkeley\"",
+        "Cornell University"
+    ],
+    "United Nations Depository Library": [
+        "\"University of California, Berkeley\""
+    ],
+    "Original Public Ivy": [
+        "\"University of California, Berkeley\""
+    ],
+    "public educational institution of the United States": [
+        "\"University of California, Berkeley\"",
+        "\"University of California, Los Angeles\""
+    ],
+    "public research university": [
+        "\"University of California, Berkeley\"",
+        "Heidelberg University",
+        "\"University of California, Los Angeles\"",
+        "University of Cambridge",
+        "University of Bonn"
+    ],
+    "creative work": [
+        "musical composition"
+    ],
+    "specialty": [
+        "musical composition",
+        "screenwriter"
+    ],
+    "musical work": [
+        "musical composition",
+        "opera"
+    ],
+    "academic discipline": [
+        "musical composition",
+        "performing arts",
+        "philosophy",
+        "chemistry",
+        "mathematics",
+        "physics",
+        "astronomy",
+        "astronomy"
+    ],
+    "artistic creation": [
+        "musical composition"
+    ],
+    "art form": [
+        "performing arts"
+    ],
+    "arts": [
+        "performing arts"
+    ],
+    "dance music": [
+        "dance-pop"
+    ],
+    "employee": [
+        "military personnel"
+    ],
+    "warrior": [
+        "military personnel"
+    ],
+    "East Scandinavian languages": [
+        "Swedish"
+    ],
+    "public university": [
+        "University of Oxford",
+        "Leipzig University",
+        "University of Göttingen",
+        "Ludwig Maximilian University of Munich",
+        "Humboldt University of Berlin",
+        "University of Jena"
+    ],
+    "collegiate university": [
+        "University of Oxford",
+        "University of Cambridge"
+    ],
+    "exempt charity": [
+        "University of Oxford"
+    ],
+    "sun grant institution": [
+        "Cornell University"
+    ],
+    "scientist": [
+        "mathematician",
+        "chemist",
+        "physicist",
+        "astronomer",
+        "biologist",
+        "naturalist",
+        "geographer"
+    ],
+    "humanities scholar": [
+        "philosopher",
+        "historian",
+        "musicologist"
+    ],
+    "academic major": [
+        "philosophy",
+        "mathematics"
+    ],
+    "science": [
+        "philosophy"
+    ],
+    "doctrine": [
+        "agnosticism"
+    ],
+    "discussion moderator": [
+        "presenter"
+    ],
+    "Lechitic languages": [
+        "Polish"
+    ],
+    "dead language": [
+        "Latin"
+    ],
+    "ancient language": [
+        "Latin"
+    ],
+    "Latino-Faliscan languages": [
+        "Latin"
+    ],
+    "Castilian languages": [
+        "Spanish"
+    ],
+    "Galician-Portuguese languages": [
+        "Portuguese"
+    ],
+    "Jewish languages": [
+        "Hebrew"
+    ],
+    "Canaanite languages": [
+        "Hebrew"
+    ],
+    "macrolanguage": [
+        "Arabic"
+    ],
+    "Semitic languages": [
+        "Arabic"
+    ],
+    "pro-drop language": [
+        "Italian"
+    ],
+    "centro-meridian Italian languages": [
+        "Italian"
+    ],
+    "cultural studies scholar": [
+        "archaeologist"
+    ],
+    "university in France": [
+        "University of Paris (1896-1968)"
+    ],
+    "communist party": [
+        "Communist Party of the Soviet Union"
+    ],
+    "genre": [
+        "Western",
+        "poetry",
+        "science fiction"
+    ],
+    "fiction": [
+        "Western"
+    ],
+    "director": [
+        "film director",
+        "theater director",
+        "television director"
+    ],
+    "animation studio": [
+        "Warner Bros."
+    ],
+    "film production company": [
+        "Warner Bros."
+    ],
+    "Czech–Slovak languages": [
+        "Czech"
+    ],
+    "ethnic group": [
+        "Germans",
+        "African Americans",
+        "African Americans",
+        "French people",
+        "Ashkenazi Jews",
+        "American Jews",
+        "Russians",
+        "English people"
+    ],
+    "person": [
+        "Germans"
+    ],
+    "campus": [
+        "Heidelberg University",
+        "University of Göttingen"
+    ],
+    "branch of science": [
+        "chemistry",
+        "physics",
+        "astronomy"
+    ],
+    "physical science": [
+        "chemistry",
+        "physics"
+    ],
+    "keyboardist": [
+        "pianist"
+    ],
+    "borough of New York City": [
+        "Manhattan",
+        "Brooklyn"
+    ],
+    "complication": [
+        "heart failure"
+    ],
+    "cardiovascular disease": [
+        "heart failure"
+    ],
+    "clinical sign": [
+        "heart failure"
+    ],
+    "Stiftungshochschule": [
+        "University of Göttingen"
+    ],
+    "ethnic community": [
+        "African Americans",
+        "African Americans"
+    ],
+    "Americans of the United States": [
+        "African Americans",
+        "American Jews"
+    ],
+    "African-American music": [
+        "hip hop music"
+    ],
+    "researcher": [
+        "physicist",
+        "scientist"
+    ],
+    "universal language": [
+        "mathematics"
+    ],
+    "exact science": [
+        "mathematics",
+        "physics",
+        "astronomy"
+    ],
+    "formal science": [
+        "mathematics"
+    ],
+    "honor society": [
+        "Phi Beta Kappa Society"
+    ],
+    "non-fiction writer": [
+        "historian",
+        "essayist",
+        "biographer"
+    ],
+    "engineering school": [
+        "École Polytechnique"
+    ],
+    "visual artist": [
+        "photographer",
+        "painter",
+        "street artist"
+    ],
+    "journalist": [
+        "opinion journalist"
+    ],
+    "screenwriter": [
+        "playwright"
+    ],
+    "cemetery": [
+        "Père Lachaise Cemetery",
+        "Novodevichy Cemetery"
+    ],
+    "human population": [
+        "French people"
+    ],
+    "nationality": [
+        "French people"
+    ],
+    "neoplasm": [
+        "cancer"
+    ],
+    "disease of cellular proliferation": [
+        "cancer"
+    ],
+    "state or insular area capital in the United States": [
+        "Boston",
+        "Nashville",
+        "Atlanta"
+    ],
+    "entrepreneur": [
+        "producer"
+    ],
+    "manager": [
+        "director"
+    ],
+    "percussion instrument": [
+        "drum kit"
+    ],
+    "sets of double-skin cylindrical drums with single playing heads": [
+        "drum kit"
+    ],
+    "science fiction author": [
+        "science fiction writer"
+    ],
+    "musical form": [
+        "blues",
+        "opera",
+        "symphony"
+    ],
+    "Jewish people": [
+        "Ashkenazi Jews",
+        "American Jews"
+    ],
+    "organization": [
+        "American Philosophical Society",
+        "World Trade Organization",
+        "Group on Earth Observations",
+        "Organisation of Islamic Cooperation",
+        "Arab Fund for Economic and Social Development",
+        "USSR Union of Writers"
+    ],
+    "filmmaker": [
+        "film editor"
+    ],
+    "academic rank": [
+        "professor"
+    ],
+    "title of honor": [
+        "professor"
+    ],
+    "title of authority": [
+        "professor"
+    ],
+    "university teacher": [
+        "professor"
+    ],
+    "mood disorder": [
+        "bipolar disorder"
+    ],
+    "bipolar spectrum": [
+        "bipolar disorder"
+    ],
+    "adventurer": [
+        "explorer"
+    ],
+    "traveller": [
+        "explorer"
+    ],
+    "investigator": [
+        "explorer"
+    ],
+    "person linked to the law": [
+        "jurist"
+    ],
+    "religious studies scholar": [
+        "theologian"
+    ],
+    "Christian denomination": [
+        "Lutheranism",
+        "Anglicanism"
+    ],
+    "Protestantism": [
+        "Lutheranism",
+        "Anglicanism"
+    ],
+    "evangelical church": [
+        "Lutheranism"
+    ],
+    "educator": [
+        "teacher"
+    ],
+    "memoirist": [
+        "diarist"
+    ],
+    "Parisian cemetery": [
+        "Montparnasse Cemetery"
+    ],
+    "radio format": [
+        "country music",
+        "gospel music",
+        "alternative rock"
+    ],
+    "translator-interpreter": [
+        "translator"
+    ],
+    "literary genre": [
+        "essay",
+        "short story",
+        "novel",
+        "satire",
+        "prose",
+        "powest"
+    ],
+    "literary form": [
+        "essay",
+        "poetry",
+        "short story",
+        "novel",
+        "prose",
+        "powest",
+        "play"
+    ],
+    "non-fiction literature": [
+        "essay"
+    ],
+    "century": [
+        "20th century"
+    ],
+    "political activist": [
+        "peace activist",
+        "human rights activist"
+    ],
+    "pacifist": [
+        "peace activist"
+    ],
+    "craft": [
+        "banjoist",
+        "multi-instrumentalist",
+        "keyboardist",
+        "street artist"
+    ],
+    "Christian music": [
+        "gospel music"
+    ],
+    "intergovernmental organization": [
+        "United Nations",
+        "Multilateral Investment Guarantee Agency",
+        "International Hydrographic Organization",
+        "Alliance of Small Island States",
+        "Interpol",
+        "UNESCO",
+        "Commonwealth of Nations",
+        "Organisation for the Prohibition of Chemical Weapons",
+        "Nuclear Suppliers Group",
+        "Missile Technology Control Regime",
+        "NATO",
+        "G20",
+        "Organisation internationale de la Francophonie",
+        "International Energy Agency",
+        "Organization for Security and Co-operation in Europe",
+        "Organisation for Economic Cooperation and Development",
+        "European Payments Union",
+        "Council of Europe",
+        "European Space Agency",
+        "Organisation of Islamic Cooperation",
+        "\"African, Caribbean and Pacific Group of States\""
+    ],
+    "international organization": [
+        "United Nations",
+        "World Trade Organization",
+        "Universal Postal Union",
+        "Multilateral Investment Guarantee Agency",
+        "International Centre for Settlement of Investment Disputes",
+        "Alliance of Small Island States",
+        "Interpol",
+        "Asia-Pacific Economic Cooperation",
+        "UNESCO",
+        "Nuclear Suppliers Group",
+        "Missile Technology Control Regime",
+        "Australia Group",
+        "Movement Coordination Centre Europe",
+        "NATO",
+        "African Development Bank",
+        "Organization of American States",
+        "Organisation for Economic Cooperation and Development",
+        "Eurocontrol",
+        "European Space Agency",
+        "European Southern Observatory",
+        "Organisation of Islamic Cooperation",
+        "Agency for the Prohibition of Nuclear Weapons in Latin America and the Caribbean",
+        "Arab Bank for Economic Development in Africa",
+        "Southern African Development Community",
+        "OHADA"
+    ],
+    "subject of international law": [
+        "United Nations",
+        "Holy See"
+    ],
+    "kidney disease": [
+        "renal insufficiency"
+    ],
+    "impaired renal function disease": [
+        "renal insufficiency"
+    ],
+    "cultural heritage site in Russia": [
+        "Novodevichy Cemetery",
+        "Saint Petersburg Academy of Sciences"
+    ],
+    "language scholar": [
+        "linguist"
+    ],
+    "literary work": [
+        "poetry",
+        "prose",
+        "powest"
+    ],
+    "notifiable disease": [
+        "tuberculosis"
+    ],
+    "endemic disease": [
+        "tuberculosis",
+        "tuberculosis"
+    ],
+    "mycobacterium infectious disease": [
+        "tuberculosis"
+    ],
+    "primary bacterial infectious disease": [
+        "tuberculosis"
+    ],
+    "prose": [
+        "short story"
+    ],
+    "narrative": [
+        "short story",
+        "novel"
+    ],
+    "fiction literature": [
+        "short story",
+        "novel"
+    ],
+    "music tradition": [
+        "classical music"
+    ],
+    "art music": [
+        "classical music"
+    ],
+    "sets of free reeds": [
+        "harmonica"
+    ],
+    "natural science": [
+        "astronomy"
+    ],
+    "theatrical genre": [
+        "opera"
+    ],
+    "play": [
+        "opera"
+    ],
+    "classical musician": [
+        "opera singer"
+    ],
+    "naturalist": [
+        "biologist"
+    ],
+    "heavy metal": [
+        "traditional heavy metal"
+    ],
+    "erudite": [
+        "scientist"
+    ],
+    "critic": [
+        "music critic",
+        "literary critic"
+    ],
+    "music journalist": [
+        "music critic"
+    ],
+    "British people": [
+        "English people"
+    ],
+    "conductor": [
+        "bandleader"
+    ],
+    "director1": [
+        "bandleader"
+    ],
+    "music director": [
+        "conductor"
+    ],
+    "earth scientist": [
+        "geologist",
+        "geographer"
+    ],
+    "playwright": [
+        "librettist"
+    ],
+    "information professional": [
+        "librarian"
+    ],
+    "necked box lutes played with a bow": [
+        "violin"
+    ],
+    "comprehensive university": [
+        "Humboldt University of Berlin"
+    ],
+    "contemporary folk music": [
+        "folk rock"
+    ],
+    "musicologist": [
+        "music theorist"
+    ],
+    "theorist": [
+        "music theorist",
+        "theoretical physicist"
+    ],
+    "academic title": [
+        "music pedagogue"
+    ],
+    "pedagogue": [
+        "music pedagogue"
+    ],
+    "music teacher": [
+        "music pedagogue"
+    ],
+    "literary scholar": [
+        "literary critic"
+    ],
+    "poet": [
+        "poet lawyer"
+    ],
+    "continent": [
+        "Africa",
+        "Europe",
+        "North America",
+        "Asia",
+        "Oceania"
+    ],
+    "subcontinent": [
+        "North America"
+    ],
+    "geographic region": [
+        "East Africa",
+        "Latin America",
+        "Middle East",
+        "West Africa",
+        "Nepal"
+    ],
+    "continental area and surrounding islands": [
+        "Asia"
+    ],
+    "United Nations": [
+        "Universal Postal Union"
+    ],
+    "specialized agency of the United Nations": [
+        "Universal Postal Union",
+        "International Bank for Reconstruction and Development",
+        "International Finance Corporation",
+        "UNESCO",
+        "International Telecommunication Union",
+        "International Development Association"
+    ],
+    "geopolitical community": [
+        "Alliance of Small Island States"
+    ],
+    "bank": [
+        "Asian Development Bank",
+        "Arab Bank for Economic Development in Africa"
+    ],
+    "research institute": [
+        "Asian Development Bank",
+        "European Southern Observatory",
+        "German Academy of Sciences at Berlin"
+    ],
+    "international financial institution": [
+        "Asian Development Bank",
+        "Caribbean Development Bank"
+    ],
+    "business": [
+        "Asian Development Bank",
+        "EMI",
+        "Virgin Records"
+    ],
+    "law enforcement agency": [
+        "Interpol"
+    ],
+    "visa policy": [
+        "Visa Waiver Program"
+    ],
+    "expedited border crossing scheme": [
+        "Visa Waiver Program"
+    ],
+    "ecozone": [
+        "Oceania"
+    ],
+    "confederation": [
+        "European Union",
+        "Switzerland"
+    ],
+    "political territorial entity": [
+        "European Union"
+    ],
+    "supranational union": [
+        "European Union",
+        "Soviet Union"
+    ],
+    "economic union": [
+        "European Union"
+    ],
+    "regional organization": [
+        "European Union",
+        "Arab League",
+        "African Union"
+    ],
+    "political organisation": [
+        "European Union"
+    ],
+    "episcopal see": [
+        "Holy See",
+        "Paris"
+    ],
+    "Apostolic see": [
+        "Holy See"
+    ],
+    "treaty": [
+        "Treaty on Open Skies"
+    ],
+    "military alliance": [
+        "NATO"
+    ],
+    "publisher": [
+        "Organisation for Economic Cooperation and Development",
+        "Royal Society",
+        "National Academy of Sciences"
+    ],
+    "administrative territorial entity": [
+        "Schengen Area",
+        "Germany",
+        "Bahamas",
+        "Republic of the Congo",
+        "Senegal",
+        "Azerbaijan"
+    ],
+    "space agency": [
+        "European Space Agency"
+    ],
+    "political union": [
+        "Arab League"
+    ],
+    "military operation": [
+        "African Union – United Nations Hybrid Operation in Darfur"
+    ],
+    "cultural region": [
+        "Middle East"
+    ],
+    "territorial entity": [
+        "Hispanic America"
+    ],
+    "continental union": [
+        "African Union"
+    ],
+    "foundation": [
+        "Arab Monetary Fund"
+    ],
+    "statistical service": [
+        "AFRISTAT"
+    ],
+    "membership organization": [
+        "AFRISTAT"
+    ],
+    "speculative fiction": [
+        "science fiction"
+    ],
+    "art genre": [
+        "satire"
+    ],
+    "humor": [
+        "satire"
+    ],
+    "literary movement": [
+        "literary realism",
+        "Romanticism"
+    ],
+    "architectural style": [
+        "Romanticism"
+    ],
+    "art movement": [
+        "Romanticism"
+    ],
+    "cultural movement": [
+        "Romanticism"
+    ],
+    "art style": [
+        "Romanticism"
+    ],
+    "human": [
+        "Plato",
+        "Georg Wilhelm Friedrich Hegel",
+        "Katy Perry",
+        "Justin Timberlake",
+        "Hulk Hogan",
+        "Jolin Tsai",
+        "Oprah Winfrey",
+        "Heinrich Schliemann",
+        "Sakis Rouvas",
+        "Jay-Z",
+        "Madonna",
+        "Arnold Schwarzenegger",
+        "Michael Jackson",
+        "Tara Strong",
+        "50 Cent",
+        "Snoop Dogg",
+        "John Maynard Keynes",
+        "Britney Spears",
+        "Kanye West",
+        "Dmitry Medvedev",
+        "Akon",
+        "Guglielmo Marconi",
+        "Rihanna",
+        "Mariah Carey",
+        "Steven Seagal",
+        "Peter Drucker",
+        "Mary Wollstonecraft",
+        "Douglas Fairbanks",
+        "Julio Iglesias",
+        "Hilary Duff",
+        "Tyler, the Creator",
+        "Shaquille O'Neal",
+        "Fergie",
+        "Dolly Parton",
+        "will.i.am",
+        "Howard Hughes",
+        "Ludacris",
+        "Nas",
+        "Chris Brown",
+        "Paul G. Allen",
+        "Nicki Minaj",
+        "Yoshiki",
+        "David Hasselhoff",
+        "T.I.",
+        "Jordin Sparks",
+        "Sean Combs",
+        "Solange Knowles",
+        "Lil Mama",
+        "Tila Tequila",
+        "Swizz Beatz",
+        "Nick Cannon",
+        "Vince Neil",
+        "Bernard-Henri Lévy",
+        "Amr Diab",
+        "Jared Leto",
+        "Nikolai Fomenko",
+        "Master P",
+        "Queen Latifah",
+        "Mary-Kate Olsen",
+        "Tamer Hosny",
+        "Ulf Ekberg",
+        "Douglas Adams",
+        "Carl Sagan",
+        "Charles Baudelaire",
+        "Stendhal",
+        "Émile Zola",
+        "Vladimir Vysotsky",
+        "Victor Hugo",
+        "Patti Smith",
+        "Brigitte Fontaine",
+        "Mikhail Bulgakov",
+        "Joseph Brodsky",
+        "J. R. R. Tolkien",
+        "Franz Kafka",
+        "Jorge Luis Borges",
+        "Albert Einstein",
+        "John Paul II",
+        "Fyodor Dostoyevsky",
+        "Dante Alighieri",
+        "Hector Berlioz",
+        "John Lennon",
+        "Leonard Cohen",
+        "Blaise Pascal",
+        "Robert Louis Stevenson",
+        "Jacques Brel",
+        "Serge Gainsbourg",
+        "Renaud",
+        "Charles Aznavour",
+        "Tom Hanks",
+        "George Orwell",
+        "George Sand",
+        "Jonathan Winters",
+        "Barbra Streisand",
+        "Herman Melville",
+        "Charles Lyell",
+        "Ernst Mayr",
+        "Lord Byron",
+        "Miguel de Cervantes",
+        "Anton Chekhov",
+        "Charles Dickens",
+        "Pierre-Joseph Proudhon",
+        "Peter Kropotkin",
+        "Che Guevara",
+        "Gabriel García Márquez",
+        "Johann Wolfgang von Goethe",
+        "Søren Kierkegaard",
+        "Jean-Jacques Rousseau",
+        "Stanisław Lem",
+        "Günter Grass",
+        "Jacob Grimm",
+        "Allen Ginsberg",
+        "Wilhelm Grimm",
+        "James Joyce",
+        "Simone de Beauvoir",
+        "Marcel Proust",
+        "Alexander Pushkin",
+        "Rabindranath Tagore",
+        "Leo Tolstoy",
+        "Mark Twain",
+        "Pyotr Ilyich Tchaikovsky",
+        "Robert Schumann",
+        "Leonhard Euler",
+        "Boris Vian",
+        "Augustine of Hippo",
+        "\"Weird Al\" Yankovic",
+        "Kurt Cobain",
+        "Walt Disney",
+        "Satyajit Ray",
+        "Gottfried Wilhelm Leibniz",
+        "Noam Chomsky",
+        "Karl Marx",
+        "C. S. Lewis",
+        "Immanuel Kant",
+        "Guy de Maupassant",
+        "John Locke",
+        "Friedrich Nietzsche",
+        "Jean-Paul Sartre",
+        "Ludwig Wittgenstein",
+        "Thomas Aquinas",
+        "Honoré de Balzac",
+        "Al-Biruni",
+        "Wilhelm Ostwald",
+        "Maxim Gorki",
+        "Umberto Eco",
+        "Paulo Coelho",
+        "George Soros",
+        "John Frederick William Herschel",
+        "Montesquieu",
+        "Melchior de Vogüé",
+        "William Shatner",
+        "Leonard Nimoy",
+        "Tristan Tzara",
+        "Steve Martin",
+        "Edgar Allan Poe",
+        "Donald Knuth",
+        "Stephen Hawking",
+        "Elie Wiesel",
+        "Joseph E. Stiglitz",
+        "Anatoly Lunacharsky",
+        "Samuel P. Huntington",
+        "Fritz Lang",
+        "Maya Angelou",
+        "Ernest Hemingway",
+        "Ricky Gervais",
+        "Larry David",
+        "John Cleese",
+        "Woody Allen",
+        "Pier Paolo Pasolini",
+        "Franco Battiato",
+        "Paul Langevin",
+        "Theodor Mommsen",
+        "Mikhail Bakunin",
+        "Max Brod",
+        "Oscar Wilde",
+        "Bertrand Russell",
+        "Jules Verne",
+        "Aleksandr Solzhenitsyn",
+        "Gotthold Ephraim Lessing",
+        "J. K. Rowling",
+        "Albert Camus",
+        "Rudyard Kipling",
+        "Friedrich Engels",
+        "Benjamin Franklin",
+        "D. H. Lawrence",
+        "Isaac Asimov",
+        "Arthur Conan Doyle",
+        "Václav Havel",
+        "Brigitte Bardot",
+        "Vladimir Nabokov",
+        "Thomas Mann",
+        "David Hume",
+        "Samuel Beckett",
+        "Thomas Hobbes",
+        "T. S. Eliot",
+        "Masiela Lusha",
+        "Lewis Carroll",
+        "Arthur Schopenhauer",
+        "William Faulkner",
+        "Bertolt Brecht",
+        "Richard Feynman",
+        "Carl Peter Thunberg",
+        "Stephen King",
+        "William Butler Yeats",
+        "David Mitchell",
+        "Ray Bradbury",
+        "Doris Lessing",
+        "Virginia Woolf",
+        "Harold Pinter",
+        "Jonathan Swift",
+        "Demi Lovato",
+        "Konstantin Eduardovich Tsiolkovskii",
+        "Wole Soyinka",
+        "William Blake",
+        "Michel de Montaigne",
+        "Henri Bergson",
+        "Mel Gibson",
+        "Michail Sholokhov",
+        "Heinrich Böll",
+        "Johnny Cash",
+        "Ivan Turgenev",
+        "J. M. Coetzee",
+        "Nikolai Gogol",
+        "Carl Orff",
+        "Peter Handke",
+        "Sean Penn",
+        "Salman Rushdie",
+        "Heinrich Heine",
+        "Richard Dawkins",
+        "Selma Lagerlöf",
+        "Konstantin Simonov",
+        "Karl Valentin",
+        "Harald Lesch",
+        "Jack London",
+        "Czesław Miłosz",
+        "Mikhail Lermontov",
+        "Eugène Ionesco",
+        "Octavio Paz",
+        "Ben Stiller",
+        "Mary Shelley",
+        "Romain Rolland",
+        "Condoleezza Rice",
+        "Elfriede Jelinek",
+        "Milton Friedman",
+        "André Gide",
+        "Hu Shih",
+        "Rudolf Christoph Eucken",
+        "Paris Hilton",
+        "Ralph Waldo Emerson",
+        "Whoopi Goldberg",
+        "Hugh Laurie",
+        "Kurt Vonnegut",
+        "Christopher Hitchens",
+        "François-René de Chateaubriand",
+        "John Stuart Mill",
+        "Éric Rohmer",
+        "John Cassavetes",
+        "Peter Ustinov",
+        "Paul Hindemith",
+        "August Wilhelm Schlegel",
+        "Christa Wolf",
+        "Wernher von Braun",
+        "RZA",
+        "Jean-Luc Godard",
+        "Ivan Yefremov",
+        "Nino Manfredi",
+        "Günther Anders",
+        "Walter Benjamin",
+        "Wolfhart Pannenberg",
+        "Erika Mann",
+        "Gustav Landauer",
+        "Abraham Gotthelf Kästner",
+        "Ulrich von Wilamowitz-Moellendorff",
+        "Sebastian Haffner",
+        "Georg Christoph Lichtenberg",
+        "Frank Wedekind",
+        "Gotthelf Fischer von Waldheim",
+        "Georg Forster",
+        "Yehuda Amichai",
+        "Mikhail Vassilyevich Lomonosov",
+        "Hannah Arendt",
+        "Albertus Magnus",
+        "Friedrich Wilhelm Joseph Schelling",
+        "Alexander Alexandrovich Fadeyev",
+        "Alfred Einstein",
+        "Ernst Troeltsch",
+        "Hermann Usener",
+        "Theodor Nöldeke",
+        "Peter Gay",
+        "Henrik Steffens",
+        "Carl Friedrich von Weizsäcker",
+        "Henry Kissinger",
+        "Eugen Rosenstock-Huessy",
+        "Ludwig Geiger",
+        "Wolfgang Schadewaldt",
+        "Harald Weinrich",
+        "Hans Mayer",
+        "Friedrich von Raumer",
+        "Toni Morrison",
+        "Isaac Bashevis Singer",
+        "Charles Bukowski",
+        "Johann Christoph Gottsched",
+        "Erich Kästner",
+        "Manfred Eigen",
+        "August Schleicher",
+        "Athanasius Kircher",
+        "Karl Mannheim",
+        "Lion Feuchtwanger",
+        "Dietrich Fischer-Dieskau",
+        "Klaus Mann",
+        "Golo Mann",
+        "Leopold von Ranke",
+        "Wilhelm von Humboldt",
+        "Anna Akhmatova",
+        "Arthur Miller",
+        "Charlton Heston",
+        "John Travolta",
+        "Karl Popper",
+        "John Keats",
+        "Joseph Conrad",
+        "Saul Bellow",
+        "Jean Cocteau",
+        "James D. Watson",
+        "Eleanor Roosevelt",
+        "Ivan Illich",
+        "Martin Buber",
+        "Robert Musil",
+        "Stefan Zweig",
+        "Tomáš Garrigue Masaryk",
+        "Konrad Lorenz",
+        "Ingeborg Bachmann",
+        "Carl Djerassi",
+        "Walter Scott",
+        "Wilhelm Blaschke",
+        "John Milton",
+        "Emma Goldman",
+        "Dmitri Shostakovich",
+        "Hugo Huppert",
+        "Milan Kundera",
+        "Percy Bysshe Shelley",
+        "Seamus Heaney",
+        "Franz Miklosich",
+        "Bob Hope",
+        "Ginger Rogers",
+        "Benoit Mandelbrot",
+        "Buckminster Fuller",
+        "Lauren Bacall",
+        "Sidney Poitier",
+        "Mickey Rooney",
+        "Mary Pickford",
+        "Dennis Hopper",
+        "Yul Brynner",
+        "Michel Houellebecq",
+        "Mel Brooks",
+        "Harold Lloyd",
+        "Sidney Sheldon",
+        "John Denver",
+        "John Updike",
+        "Dorothy L. Sayers",
+        "Evelyn Waugh",
+        "Carrie Fisher",
+        "Alan Arkin",
+        "Max Frisch",
+        "Nicholas Marr",
+        "Oswald Heer",
+        "Howard Zinn",
+        "Richard Francis Burton",
+        "Thomas Paine",
+        "Claude Lévi-Strauss",
+        "Graham Greene",
+        "Ricky Martin",
+        "Jacques Derrida",
+        "Alanis Morissette",
+        "Paul Krugman",
+        "Henry David Thoreau",
+        "Janet Jackson",
+        "George Eliot",
+        "Tina Turner",
+        "Adam Sandler",
+        "Vladimir Mayakovsky",
+        "Truman Capote",
+        "Yukio Mishima",
+        "Haruki Murakami",
+        "Lev Gumilyov",
+        "Alexis de Tocqueville",
+        "E. T. A. Hoffmann",
+        "George Carlin",
+        "André Malraux",
+        "Thomas Carlyle",
+        "György Lukács",
+        "Olivier Messiaen",
+        "Melanie C",
+        "Amos Oz",
+        "George Tabori",
+        "Theodor W. Adorno",
+        "Henry Wadsworth Longfellow",
+        "Susan Sontag",
+        "Jean Le Rond d'Alembert",
+        "Marguerite Duras",
+        "Gabriel Marcel",
+        "Albert Lortzing",
+        "Carlos Fuentes",
+        "Italo Calvino",
+        "Sven Hedin",
+        "Arnold Schoenberg",
+        "Hugo Grotius",
+        "Karel Čapek",
+        "Pierre Boulez",
+        "Roman Jakobson",
+        "Adolf Erik Nordenskiöld",
+        "Yehudi Menuhin",
+        "Ernest Renan",
+        "Friedrich Schlegel",
+        "Leszek Kołakowski",
+        "Romain Gary",
+        "François Guizot",
+        "Idina Menzel",
+        "W.E.B. Du Bois",
+        "Pavel Jozef Šafárik",
+        "Jan Evangelista Purkyně",
+        "František Palacký",
+        "Prosper Mérimée",
+        "Raymond Aron",
+        "Zbigniew Herbert",
+        "Ezra Pound",
+        "Simon Newcomb",
+        "Jean Gaston Darboux",
+        "Jacques Rivette",
+        "Gore Vidal",
+        "John Desmond Bernal",
+        "Jérôme Lalande",
+        "David Brewster",
+        "Robert Frost",
+        "Zdeněk Nejedlý",
+        "Henry James",
+        "Omar Sharif",
+        "Viggo Mortensen",
+        "Jamie Foxx",
+        "Georges Cuvier",
+        "Julio Cortázar",
+        "Jennifer Love Hewitt",
+        "Walker Percy",
+        "W. H. Auden",
+        "John Ruskin",
+        "Steven Weinberg",
+        "Christopher Lee",
+        "Stephen Jay Gould",
+        "John Cage",
+        "Norman Mailer",
+        "Fazil Iskander",
+        "Ursula K. Le Guin",
+        "Leon Battista Alberti",
+        "William Morris",
+        "G. K. Chesterton",
+        "Samuel Johnson",
+        "Fred Hoyle",
+        "Margaret Atwood",
+        "Veniamin Smekhov",
+        "Gilles Deleuze",
+        "Thomas Henry Huxley",
+        "Jorge Amado",
+        "Sofia Kovalevskaya",
+        "Mylène Farmer",
+        "Miguel de Unamuno",
+        "Emmanuel Swedenborg",
+        "Billy Crystal",
+        "Philip Roth",
+        "Dave Mustaine",
+        "Antonin Artaud",
+        "Ayumi Hamasaki",
+        "J. J. Abrams",
+        "William S. Burroughs",
+        "Seth MacFarlane",
+        "Andrey Korotayev",
+        "Keith Richards",
+        "Ivan Goncharov",
+        "Osip Mandelstam",
+        "Philip Pullman",
+        "Ian McEwan",
+        "Liv Ullmann",
+        "Ivan Andreyevich Krylov",
+        "Robert McNamara",
+        "Aaron Copland",
+        "Aleksey Nikolayevich Tolstoy",
+        "Benedetto Croce",
+        "Nick Cave",
+        "Stephen Fry",
+        "Roger Penrose",
+        "Paul Valéry",
+        "Alexander Ivanovich Herzen",
+        "Jean-Antoine-Nicolas de Caritat de Condorcet",
+        "Edward Said",
+        "Robert Graves",
+        "Mae West",
+        "Yevgeny Zamyatin",
+        "Theo van Gogh",
+        "Willie Nelson",
+        "A. A. Milne",
+        "L. Frank Baum",
+        "Joseph Heller",
+        "Sergey Mikhalkov",
+        "Bella Thorne",
+        "Telly Savalas",
+        "Neil Gaiman",
+        "Eric Idle",
+        "Bill Cosby",
+        "Karl Lachmann",
+        "Paul Auster",
+        "Nora Ephron",
+        "Alice Walker",
+        "Yeshayahu Leibowitz",
+        "Tom Wolfe",
+        "Ludvig Holberg",
+        "La Toya Jackson",
+        "Joyce Carol Oates",
+        "Anthony Burgess",
+        "Kingsley Amis",
+        "Seth Rogen",
+        "Zora Neale Hurston",
+        "Ján Kollár",
+        "Bud Spencer",
+        "Courtney Love",
+        "Erykah Badu",
+        "William H. Macy",
+        "Alphonse Daudet",
+        "Jada Pinkett Smith",
+        "Fiona Apple",
+        "Jewel",
+        "Georges-Louis Leclerc, Comte de Buffon",
+        "Ève Curie",
+        "Emilie Autumn",
+        "Galina Vishnevskaya",
+        "Khloé Kardashian",
+        "Angélique Kidjo",
+        "Bhimrao Ramji Ambedkar",
+        "Natalie Cole",
+        "Asia Argento",
+        "Anna Karina",
+        "Ani DiFranco",
+        "Jill Scott",
+        "Severo Ochoa",
+        "Ani Lorak",
+        "Penny Marshall",
+        "George Santayana",
+        "Priscilla Presley",
+        "Laurie Anderson",
+        "Janis Ian",
+        "Elizabeth Bishop",
+        "Bulat Okudzhava",
+        "Amanda Palmer",
+        "Joan Rivers",
+        "Bret Easton Ellis",
+        "Dino Buzzati",
+        "Zemfira",
+        "John Turturro",
+        "William Styron",
+        "Theodosius Dobzhansky",
+        "Elvis Presley",
+        "Bob Dylan",
+        "Neil Young",
+        "Andrei Tarkovsky",
+        "Charlie Chaplin",
+        "Cyndi Lauper",
+        "Louis Armstrong",
+        "David Lynch",
+        "Paul McCartney",
+        "Ringo Starr",
+        "George Harrison",
+        "Bruce Willis",
+        "Paul Simon",
+        "Art Garfunkel",
+        "CeeLo Green",
+        "Jennette McCurdy",
+        "Marlene Dietrich",
+        "Corbin Bleu",
+        "Miranda Cosgrove",
+        "Céline Dion",
+        "David Bowie",
+        "Eminem",
+        "James Brown",
+        "Dr. Dre",
+        "Tupac Shakur",
+        "Lena Meyer-Landrut",
+        "Ingmar Bergman",
+        "Ronald Reagan",
+        "Aaliyah",
+        "Judy Garland",
+        "Kevin Costner",
+        "Kylie Minogue",
+        "Cher",
+        "Angelina Jolie",
+        "Liza Minnelli",
+        "Brian May",
+        "Victoria Beckham",
+        "Selena",
+        "Ilya Oleynikov",
+        "Kevin Spacey",
+        "James Maslow",
+        "Lionel Richie",
+        "Taylor Swift",
+        "Sacha Baron Cohen",
+        "Avril Lavigne",
+        "Ellie Goulding",
+        "Valery Leontiev",
+        "Drake",
+        "Justin Bieber",
+        "Whitney Houston",
+        "Shakira",
+        "Brad Pitt",
+        "Glukoza",
+        "Diana Ross",
+        "Robert De Niro",
+        "Lana Del Rey",
+        "Natalie Portman",
+        "Mos Def",
+        "Ronny Cox",
+        "Will Smith",
+        "Frank Sinatra",
+        "Jodie Foster",
+        "Christina Aguilera",
+        "James Cameron",
+        "Dima Bilan",
+        "Clint Eastwood",
+        "Jim Morrison",
+        "Trey Parker",
+        "Rainer Werner Fassbinder",
+        "Gackt",
+        "Eric Burdon",
+        "John Legend",
+        "John Cale",
+        "Enrique Iglesias",
+        "Ed Sheeran",
+        "Morgan Freeman",
+        "Cass Elliot",
+        "Jean Renoir",
+        "Yuri Shevchuk",
+        "Spike Lee",
+        "Chord Overstreet",
+        "Nikita Mikhalkov",
+        "Andrei Konchalovsky",
+        "Lily Allen",
+        "Busta Rhymes",
+        "Bing Crosby",
+        "Gene Kelly",
+        "Kirsten Dunst",
+        "Helge Schneider",
+        "Thomas Anders",
+        "Peter Lorre",
+        "Nelly Furtado",
+        "Alla Pugacheva",
+        "Cliff Richard",
+        "Selena Gomez",
+        "Robin Williams",
+        "Miles Davis",
+        "Fred Astaire",
+        "Billie Holiday",
+        "Ed Harris",
+        "Herbie Hancock",
+        "Jean Yanne",
+        "Julie Delpy",
+        "John Lydon",
+        "Jeff Goldblum",
+        "Richard Harris",
+        "Count Basie",
+        "Vince Vaughn",
+        "Jim Belushi",
+        "Elmer Bernstein",
+        "Lena Horne",
+        "Wiz Khalifa",
+        "Robbie Robertson",
+        "Sergey Kuryokhin",
+        "Alicia Keys",
+        "Vanessa Hudgens",
+        "Nyusha",
+        "Frank Zappa",
+        "Mick Jagger",
+        "Maria Callas",
+        "Al Jolson",
+        "Ruslana",
+        "Alexander Rybak",
+        "Nat King Cole",
+        "Phil Collins",
+        "Jon Bon Jovi",
+        "Katerina Graham",
+        "Sarah Brightman",
+        "Ariana Grande",
+        "Josephine Baker",
+        "Keri Hilson",
+        "Meat Loaf",
+        "Michael Bublé",
+        "Nena",
+        "Missy Elliott",
+        "Toni Braxton",
+        "Kid Rock",
+        "Gilbert Bécaud",
+        "Ashanti",
+        "Glen Campbell",
+        "Mark Wahlberg",
+        "Ava Gardner",
+        "Robert Downey, Jr.",
+        "Lucio Dalla",
+        "Nicole Scherzinger",
+        "Jessica Simpson",
+        "Milla Jovovich",
+        "Ice Cube",
+        "Jeff Bridges",
+        "Sonny Bono",
+        "Timbaland",
+        "Lenny Kravitz",
+        "Carly Simon",
+        "Iggy Pop",
+        "David Attenborough",
+        "Kelly Rowland",
+        "Martin Sheen",
+        "Gloria Estefan",
+        "Paula Abdul",
+        "Mike Myers",
+        "Marilyn Manson",
+        "Mika",
+        "Mandy Moore",
+        "Jan Rubes",
+        "Lucy Liu",
+        "Goldie Hawn",
+        "Dannii Minogue",
+        "Raven-Symoné",
+        "Lou Reed",
+        "Joe Cocker",
+        "Adam Lambert",
+        "Bette Midler",
+        "Joe Jonas",
+        "Zooey Deschanel",
+        "Danny Glover",
+        "Jennifer Hudson",
+        "Taylor Momsen",
+        "Ne-Yo",
+        "Steven Tyler",
+        "Sandy",
+        "Adriano Celentano",
+        "Sheryl Crow",
+        "Nick Jonas",
+        "Bill Haley",
+        "David Ogden Stiers",
+        "Billy Bob Thornton",
+        "Vanessa Williams",
+        "Ciara",
+        "Debby Ryan",
+        "M.I.A.",
+        "Anthony Kiedis",
+        "Isaac Hayes",
+        "Gene Simmons",
+        "Kris Kristofferson",
+        "Ike Turner",
+        "Kevin Jonas",
+        "Johnny Hallyday",
+        "Bridgit Mendler",
+        "Lauryn Hill",
+        "Andy Williams",
+        "Jan Josef Liefers",
+        "Nino Rota",
+        "John Mayer",
+        "Carrie Underwood",
+        "Bryan Ferry",
+        "Steve Carell",
+        "Garth Brooks",
+        "Connie Francis",
+        "Paul Anka",
+        "Deryck Whibley",
+        "Kenny Rogers",
+        "Joss Stone",
+        "Violetta Villas",
+        "Carole King",
+        "Nelly",
+        "Adam Levine",
+        "Emma Bunton",
+        "Jaden Smith",
+        "Brian Molko",
+        "Zoë Kravitz",
+        "Lea Michele",
+        "Dianna Agron",
+        "Julia Volkova",
+        "Mary J. Blige",
+        "Sarah Silverman",
+        "Peggy Lee",
+        "Michelle Williams",
+        "Katharine McPhee",
+        "Linda Ronstadt",
+        "Lil' Kim",
+        "Meaghan Jette Martin",
+        "Sara Bareilles",
+        "k.d. lang",
+        "Christina Milian",
+        "China Anne McClain",
+        "Joan Jett",
+        "Charlotte Church",
+        "Monica",
+        "Julieta Venegas",
+        "Macy Gray",
+        "June Carter Cash",
+        "Amerie",
+        "Dee Dee Bridgewater",
+        "Lisa Lopes",
+        "Mýa",
+        "Debbie Gibson",
+        "Kate Voegele",
+        "Irene Cara",
+        "Janelle Monáe",
+        "Rebbie Jackson",
+        "Suzi Quatro",
+        "Yo-Yo Ma",
+        "Gladys Knight",
+        "Melanie Brown",
+        "AJ Michalka",
+        "Alyson Michalka",
+        "Petula Clark",
+        "Faith Evans",
+        "Stacie Orrico",
+        "Lisa Loeb",
+        "Jay Chou",
+        "Hayley Kiyoko",
+        "Aimee Mann",
+        "Alexz Johnson",
+        "Tina Arena",
+        "Angie Stone",
+        "Milva",
+        "Ayọ",
+        "Janel Parrish",
+        "Laura Marano",
+        "Jason Derulo",
+        "Wang Leehom",
+        "Waylon Jennings",
+        "Melissa Auf der Maur",
+        "Sabrina Bryan",
+        "LeToya Luckett",
+        "Drake Bell",
+        "Keren Ann",
+        "Chris Rea",
+        "Cree Summer",
+        "Alejandro Jodorowsky",
+        "Rita Lee",
+        "Don Rickles",
+        "David Mamet",
+        "Kiely Williams",
+        "Alsou",
+        "Jack White",
+        "R. Kelly",
+        "Tionne Watkins",
+        "Herbert Grönemeyer",
+        "Julie Driscoll",
+        "Andriy Danylko",
+        "Charlotte Gainsbourg",
+        "Sergei Gerasimov",
+        "Vladimir Solovyov",
+        "Harry Nilsson",
+        "Edvard Radzinsky",
+        "Yvonne De Carlo",
+        "Rob Reiner",
+        "Felipe Colombo",
+        "Sky Ferreira",
+        "Barbara Mandrell",
+        "Lea Salonga",
+        "Neil Diamond",
+        "Darren Criss",
+        "MC Hammer",
+        "Russell Brand",
+        "Beatriz Luengo",
+        "Yevgeny Yevtushenko",
+        "Yasmina Reza",
+        "Sammy Davis Jr.",
+        "Joss Whedon",
+        "Willow Smith",
+        "Rob Zombie",
+        "Noël Coward",
+        "Clive Barker",
+        "Billy Connolly",
+        "Kid Cudi",
+        "Barry Manilow",
+        "Ricky Nelson",
+        "Hyde",
+        "James Franco",
+        "Michael Cera",
+        "Lemmy Kilmister",
+        "Crispin Glover",
+        "David Hemmings",
+        "Dudley Moore",
+        "Wallace Shawn",
+        "Tyrese Gibson",
+        "Sean Lennon",
+        "Bobby Brown",
+        "Bobby Darin",
+        "Billy Preston",
+        "Roger Daltrey",
+        "Andy Griffith",
+        "Brian Wilson",
+        "Soulja Boy",
+        "Redman",
+        "Michel Legrand",
+        "Lionel Hampton",
+        "Harry Connick Jr.",
+        "Ben Moody",
+        "Mark Salling",
+        "Alexey Vorobyov",
+        "Donovan",
+        "Henry Rollins",
+        "Al Franken",
+        "Marlon Jackson",
+        "Judd Apatow",
+        "Alice Cooper",
+        "Shannon Leto",
+        "Xavier Cugat",
+        "Jimmy Fallon",
+        "Julian Fellowes",
+        "David Byrne",
+        "Denis Johnson",
+        "Gene Autry",
+        "Pat Boone",
+        "Babyface",
+        "Harry Shearer",
+        "Liberace",
+        "Adam Ant",
+        "Joe Walsh",
+        "Steven Van Zandt",
+        "Sun Ra",
+        "Levon Helm",
+        "Julian Lennon",
+        "Billy Dee Williams",
+        "Gordon Lightfoot",
+        "David Walliams",
+        "Shel Silverstein",
+        "Joe Jackson",
+        "Vitas",
+        "Vincent Gallo",
+        "Bret Michaels",
+        "Gordon Parks",
+        "Avery Brooks",
+        "Patrice Chéreau",
+        "David Crosby",
+        "Big Boi",
+        "Kyle Gass",
+        "Dave Matthews",
+        "M. Pokora",
+        "Sergey Lazarev",
+        "Eldar Ryazanov",
+        "Donny Osmond",
+        "Gloria Trevi",
+        "Marc Connelly",
+        "Paul Reiser",
+        "Natasha Shneider",
+        "Tinashe",
+        "Jann Arden",
+        "Ivor Novello",
+        "Ben Elton",
+        "Ivan Urgant",
+        "Lance Bass",
+        "John Cameron Mitchell",
+        "Wolfgang Amadeus Mozart",
+        "Kate Bush",
+        "Leonardo da Vinci",
+        "Bruce Springsteen",
+        "Frédéric Chopin",
+        "Richard Wagner",
+        "Janis Joplin",
+        "Duke Ellington",
+        "Woody Guthrie",
+        "Miley Cyrus",
+        "Chuck Berry",
+        "Jimi Hendrix",
+        "George Frideric Handel",
+        "Igor Stravinsky",
+        "Prince",
+        "Alan Stivell",
+        "Mark Oliver Everett",
+        "Moby",
+        "William Herschel",
+        "Brad Delson",
+        "Mike Shinoda",
+        "John Farnham",
+        "Thomas Young",
+        "Slash",
+        "Anastacia",
+        "Franz Liszt",
+        "Andrea Bocelli",
+        "Falco",
+        "Jackie Jackson",
+        "Felix Mendelssohn",
+        "Kurt Weill",
+        "Max Reger",
+        "George Henschel",
+        "Miguel",
+        "David Foster",
+        "Hanns Eisler",
+        "Anton Bruckner",
+        "Little Richard",
+        "Béla Bartók",
+        "Akiko Yano",
+        "Charles Mingus Jr.",
+        "A. R. Rahman",
+        "Yoko Ono",
+        "Irving Berlin",
+        "James Blunt",
+        "Shania Twain",
+        "Joan Baez",
+        "Camille Saint-Saëns",
+        "Cat Stevens",
+        "György Ligeti",
+        "Karlheinz Stockhausen",
+        "Alfred Schnittke",
+        "Ignaz Moscheles",
+        "Rodion Shchedrin",
+        "Usher",
+        "GoonRock",
+        "Bill Monroe",
+        "Amy Lee",
+        "Syd Barrett",
+        "Roger Waters",
+        "Etta James",
+        "Darius Milhaud",
+        "Tracy Chapman",
+        "Roy Orbison",
+        "Robin Gibb",
+        "Philip Glass",
+        "Marvin Gaye",
+        "Richard Wright",
+        "George Martin",
+        "Jason Mraz",
+        "Lara Fabian",
+        "Tori Amos",
+        "Joe Satriani",
+        "Billy Joel",
+        "Gerald Wilson",
+        "Hayley Williams",
+        "Dido",
+        "Jerry Lee Lewis",
+        "Beth Hart",
+        "Joni Mitchell",
+        "Manu Chao",
+        "Ralph Vaughan Williams",
+        "Ernst Chladni",
+        "Michael Mann",
+        "Debbie Harry",
+        "Dean Martin",
+        "Luciano Berio",
+        "Jason Newsted",
+        "Sarah McLachlan",
+        "Colbie Caillat",
+        "Regina Spektor",
+        "Vanessa Carlton",
+        "Teena Marie",
+        "Lisa Marie Presley",
+        "St. Vincent",
+        "Maureen Tucker",
+        "Ingrid Michaelson",
+        "Rickie Lee Jones",
+        "Taraneh Javanbakht",
+        "Debbie Reynolds",
+        "Buckethead",
+        "Vitamin C",
+        "Chris Cornell",
+        "Damon Albarn",
+        "Van Morrison",
+        "Joe Dassin",
+        "Trent Reznor",
+        "Common",
+        "Myles Kennedy",
+        "Jerry Lewis",
+        "Sam Cooke",
+        "Barry Gibb",
+        "Method Man",
+        "Curtis Mayfield",
+        "James Taylor",
+        "Richard Marx",
+        "Rick Wakeman",
+        "Jerry Garcia",
+        "Afrika Bambaataa",
+        "Randy Newman",
+        "Leon Russell",
+        "Léo Ferré",
+        "Geddy Lee",
+        "David A. Stewart",
+        "Léon Theremin",
+        "Ted Nugent",
+        "Tito Jackson",
+        "Neil Tennant",
+        "Peter Buck",
+        "Norman Wisdom",
+        "Randy Jackson",
+        "James Blake",
+        "Ryan Tedder",
+        "Jackson Browne",
+        "Berry Gordy",
+        "Ray Davies",
+        "T-Bone Walker",
+        "Mick Ronson",
+        "Yegor Letov",
+        "Bob Seger",
+        "Todd Rundgren",
+        "Jan Hammer",
+        "Big Sean",
+        "Mark Ronson",
+        "Daniel Johnston",
+        "Jemaine Clement",
+        "Gretchen Wilson",
+        "André 3000",
+        "Richard Sennett",
+        "Lianne La Havas",
+        "Alexis Korner",
+        "Connie Smith",
+        "Doc Watson",
+        "Robin Thicke",
+        "Randy Travis",
+        "Sting",
+        "Kelly Clarkson",
+        "Jack Black",
+        "James Hetfield",
+        "Neil Patrick Harris",
+        "Avicii",
+        "Tony Visconti",
+        "Donny Hathaway",
+        "Ric Ocasek",
+        "Gustavo Cerati",
+        "Saul Williams",
+        "Lori Lieberman",
+        "Dalida",
+        "Ray Charles",
+        "John de Lancie",
+        "Steve Allen",
+        "Sid Caesar",
+        "Spike Milligan",
+        "Charlie Rich",
+        "Simon Sechter",
+        "Rick Rubin",
+        "Phil Harris",
+        "Peter Tork",
+        "Brandy Norwood",
+        "John Hartford",
+        "Sticky Fingaz",
+        "David Clayton-Thomas",
+        "RuPaul",
+        "Allan Sherman",
+        "Roger Miller",
+        "Chris Martin",
+        "Jerry Reed",
+        "The Edge",
+        "Roy Clark",
+        "Jimmy Buffett",
+        "Fredro Starr",
+        "Jô Soares",
+        "Renato Carosone",
+        "Burton Cummings",
+        "Bo Burnham",
+        "Bob Mould",
+        "Bobby Scott",
+        "Vince Gill",
+        "Daniel Lanois",
+        "Ian McLagan",
+        "Michael Nesmith",
+        "Luis Alberto Spinetta",
+        "Lloyd Price",
+        "Tex Ritter",
+        "Giorgio Gaber",
+        "Mark Linkous",
+        "Enzo Jannacci",
+        "Tim Rice-Oxley",
+        "Brendon Urie",
+        "Daniel Handler",
+        "Charles Rosen",
+        "Charlie Wilson",
+        "Celeste Buckingham",
+        "Clarence \"Gatemouth\" Brown",
+        "David Lindley",
+        "Ross Bagdasarian Sr.",
+        "Andrew Ridgeley",
+        "Donald Glover",
+        "Lonnie Liston Smith",
+        "Kinky Friedman",
+        "Eddie Money",
+        "Michael Penn",
+        "Lowell George",
+        "Holly Johnson",
+        "Tim Rose",
+        "Mort Shuman",
+        "Martie Maguire",
+        "Graham Parker",
+        "Mick Wingert",
+        "Harry Chapin",
+        "Holly Near",
+        "Van McCoy",
+        "Diana Arbenina",
+        "Svetlana Surganova",
+        "Anatoly Krupnov",
+        "Mohandas Karamchand Gandhi",
+        "Friedrich Schiller",
+        "Leon Trotsky",
+        "Mario Vargas Llosa",
+        "Mircea Eliade",
+        "Johann Christian Poggendorff",
+        "August Ludwig von Schlözer",
+        "Andrey Gubin",
+        "Felix Philipp Kanitz",
+        "Ayn Rand",
+        "H. P. Lovecraft",
+        "Tamara Bunke",
+        "Tatyana Tolstaya",
+        "Claudio Magris",
+        "Édouard René de Laboulaye",
+        "Dmitry Glukhovsky",
+        "Joumana Haddad",
+        "Julian Barnes",
+        "Eduard Limonov",
+        "Giuseppe Ungaretti",
+        "George Ellery Hale",
+        "John Dos Passos",
+        "Robert Penn Warren",
+        "Fritz Leiber Junior",
+        "Nicolae Iorga",
+        "Ľudovít Štúr",
+        "Uzeyir Hajibeyov",
+        "Ralph Ellison",
+        "Vladislav Krapivin",
+        "Don DeLillo",
+        "Joaquim Maria Machado de Assis",
+        "Per Olov Enquist",
+        "Ivan Franko",
+        "Valentin Kataev",
+        "Alexander Bogdanov",
+        "Harold Bloom",
+        "Fredric Jameson",
+        "Korney Chukovsky",
+        "Ilya Ehrenburg",
+        "Karel Jaromír Erben",
+        "Amiri Baraka",
+        "David Cross",
+        "Nikolay Ogarev",
+        "Marietta Shaginyan",
+        "Samuel R. Delany",
+        "Julian Klaczko",
+        "Stephen Spender",
+        "George Steiner",
+        "Jaroslav Vrchlický",
+        "Valeriya Novodvorskaya",
+        "Jaan Kaplinski",
+        "Euclides da Cunha",
+        "Colm Tóibín",
+        "Ilya Ilf",
+        "Leonid Leonov",
+        "Chinghiz Aitmatov",
+        "William Dean Howells",
+        "Boris Grebenshchikov",
+        "Henry Louis Gates",
+        "Alberto Manguel",
+        "Kwame Anthony Appiah",
+        "Yuri Vizbor",
+        "Salvador de Madariaga",
+        "Konstantin Fedin",
+        "Ray Lankester",
+        "Edmund Wilson",
+        "Edmund White",
+        "Yoram Kaniuk",
+        "Massimo Bontempelli",
+        "Nahum Sokolow",
+        "John Ciardi",
+        "Kenneth Burke",
+        "Gavriil Troyepolsky",
+        "Mario Praz",
+        "Elizabeth II",
+        "Angela Merkel",
+        "Vladimir Lenin",
+        "Adolf Butenandt",
+        "Irène Joliot-Curie",
+        "Vladimir Putin",
+        "Winston Churchill",
+        "Max Weber",
+        "Thomas Jefferson",
+        "Giovanni Schiaparelli",
+        "Marcellin Berthelot",
+        "Donald Trump",
+        "Theodore Roosevelt",
+        "Woodrow Wilson",
+        "Pierre-Simon Laplace",
+        "Nikolay Semyonov",
+        "James Bryant Conant",
+        "Hermann Burmeister",
+        "Ernst Curtius",
+        "Barthold Georg Niebuhr",
+        "Wilhelm Wundt",
+        "Heinrich Wilhelm Olbers",
+        "Rudolf Virchow",
+        "Felix Klein",
+        "Heinrich Wilhelm Gottfried von Waldeyer-Hartz",
+        "Friedrich Carl von Savigny",
+        "Ralf Dahrendorf",
+        "Leo Strauss",
+        "Joseph-Louis Lagrange",
+        "John William Strutt, 3rd Baron Rayleigh",
+        "Nikolay Basov",
+        "Ernst Mach",
+        "Heinrich Brunner",
+        "George Porter, Baron Porter of Luddenham",
+        "Urbain Le Verrier",
+        "William Thomson, 1st Baron Kelvin",
+        "Albrecht von Haller",
+        "Stanislao Cannizzaro",
+        "Santiago Ramón y Cajal",
+        "Camillo Golgi",
+        "Benjamin Britten",
+        "Frédéric Joliot-Curie",
+        "Aram Khachaturian",
+        "Joseph Louis Gay-Lussac",
+        "Dmitri Kabalevsky",
+        "François Arago",
+        "Archibald Hill",
+        "Andrey Vyshinsky",
+        "Sir George Stokes, 1st Baronet",
+        "Pedro II of Brazil",
+        "Victor Ambartsumian",
+        "Jean-Baptiste Dumas",
+        "Otto Schmidt",
+        "Jean-Victor Poncelet",
+        "Eduard Suess",
+        "Alexander R. Todd, Baron Todd",
+        "Joseph Priestley",
+        "Albert Szent-Györgyi",
+        "Zhores Alfyorov",
+        "Slavoj Žižek",
+        "Rita Levi-Montalcini",
+        "John Kenneth Galbraith",
+        "Carlo Rubbia",
+        "Siméon Denis Poisson",
+        "Galileo Galilei",
+        "André-Marie Ampère",
+        "John Bardeen",
+        "Richard Stallman",
+        "Joseph Fourier",
+        "Augustin-Louis Cauchy",
+        "James Clerk Maxwell",
+        "John von Neumann",
+        "Heinrich Rudolf Hertz",
+        "Henri Becquerel",
+        "Hans Christian Ørsted",
+        "Charles Babbage",
+        "Arthur C. Clarke",
+        "Paul Dirac",
+        "Hannes Alfvén",
+        "Fritz Haber",
+        "Jean-Baptiste Biot",
+        "Gustav Kirchhoff",
+        "Moritz von Jacobi",
+        "Ludwig Prandtl",
+        "Henri Poincaré",
+        "Vladimir Prelog",
+        "Herman Francis Mark",
+        "Jacobus Henricus van 't Hoff",
+        "Peter Debye",
+        "Lars Onsager",
+        "Henry Louis Le Châtelier",
+        "Alexander Emanuel Agassiz",
+        "J. Robert Oppenheimer",
+        "Paul Jozef Crutzen",
+        "Leó Szilárd",
+        "Josiah Willard Gibbs",
+        "Dennis Gabor",
+        "Charles Wheatstone",
+        "Theodore von Kármán",
+        "Sergei Korolev",
+        "Mihajlo Pupin",
+        "Gaspard Monge",
+        "Joseph Liouville",
+        "Mstislav Keldysh",
+        "Shen Kuo",
+        "Camille Jordan",
+        "Henri Victor Regnault",
+        "Edward Sabine",
+        "Antoine César Becquerel",
+        "Gabriel Lamé",
+        "John Muir",
+        "Gaspard de Prony",
+        "Anatole Abragam",
+        "Geoffrey Ingram Taylor",
+        "Augusto Righi",
+        "James Lighthill",
+        "Raymond Scott",
+        "J. Rodolfo Wilcock",
+        "Oleg Skripka",
+        "Valery Meladze",
+        "Mikhail Zadornov",
+        "Erwin Raisz",
+        "Jim Messina",
+        "Alexander von Humboldt",
+        "Avicenna",
+        "Christoph Wilhelm Hufeland",
+        "Max Born",
+        "Ferdinand von Richthofen",
+        "Vitaly Ginzburg",
+        "Sheldon Lee Glashow",
+        "Philip Warren Anderson",
+        "Gary Becker",
+        "Vladimir Obruchev",
+        "Vladimir Turchinsky",
+        "Wassily Kandinsky",
+        "Buffy Sainte-Marie"
+    ],
+    "physicist": [
+        "theoretical physicist"
+    ],
+    "music term": [
+        "symphony"
+    ],
+    "musical composition": [
+        "symphony"
+    ],
+    "blues": [
+        "blues rock"
+    ],
+    "experimental music": [
+        "experimental rock"
+    ],
+    "psychedelic music": [
+        "psychedelic rock"
+    ],
+    "squeezebox": [
+        "accordion"
+    ],
+    "educational institution": [
+        "Collège de France",
+        "German Academy of Sciences at Berlin"
+    ],
+    "drama": [
+        "play"
+    ],
+    "performance work": [
+        "play"
+    ],
+    "electronic musical instrument": [
+        "synthesizer"
+    ],
+    "Creative unions in the Soviet Union": [
+        "USSR Union of Writers"
+    ],
+    "union of writers": [
+        "USSR Union of Writers"
+    ],
+    "voluntary association": [
+        "Deutsche Akademie für Sprache und Dichtung",
+        "Bavarian Academy of Fine Arts"
+    ],
+    "woodwind instrument": [
+        "saxophone"
+    ],
+    "single clarinets with conical bore": [
+        "saxophone"
+    ],
+    "alternative rock": [
+        "indie pop"
+    ],
+    "independent music": [
+        "indie pop"
+    ],
+    "necked bowl lutes sounded by plectrum": [
+        "mandolin"
+    ],
+    "billionaire": [
+        "Oprah Winfrey",
+        "George Soros",
+        "Donald Trump"
+    ],
+    "mononymous person": [
+        "Solange Knowles",
+        "Stendhal"
+    ],
+    "twin": [
+        "Mary-Kate Olsen",
+        "Serge Gainsbourg",
+        "Elvis Presley"
+    ],
+    "district capital": [
+        "Munich",
+        "Göttingen"
+    ],
+    "metropolis": [
+        "Munich",
+        "Vienna",
+        "Berlin",
+        "London",
+        "Hamburg"
+    ],
+    "financial centre": [
+        "Munich",
+        "London"
+    ],
+    "college town": [
+        "Munich",
+        "Göttingen",
+        "Cambridge"
+    ],
+    "big city": [
+        "Munich",
+        "Leipzig",
+        "Göttingen",
+        "Prague",
+        "Toronto",
+        "Moscow",
+        "Hamburg",
+        "New York City",
+        "San Francisco",
+        "Paris",
+        "Rome",
+        "Singapore",
+        "Cambridge",
+        "Hong Kong",
+        "Washington, D.C.",
+        "Los Angeles",
+        "Chicago",
+        "Detroit",
+        "Nashville",
+        "Atlanta",
+        "Saint Petersburg"
+    ],
+    "city": [
+        "Munich",
+        "Leipzig",
+        "Vienna",
+        "Toronto",
+        "Berlin",
+        "London",
+        "New York City",
+        "San Francisco",
+        "Paris",
+        "Rome",
+        "Singapore",
+        "Cambridge",
+        "Hong Kong",
+        "Vatican City"
+    ],
+    "residenz": [
+        "Munich"
+    ],
+    "state capital in Germany": [
+        "Munich"
+    ],
+    "urban municipality of Germany": [
+        "Munich",
+        "Leipzig",
+        "Göttingen",
+        "Berlin",
+        "Hamburg"
+    ],
+    "independent city of Germany": [
+        "Munich",
+        "Leipzig",
+        "Göttingen"
+    ],
+    "city with millions of inhabitants": [
+        "Munich",
+        "Vienna",
+        "Toronto",
+        "Moscow",
+        "Berlin",
+        "London",
+        "Hamburg",
+        "New York City",
+        "Paris",
+        "Rome",
+        "Singapore",
+        "Hong Kong",
+        "Los Angeles",
+        "Chicago",
+        "Saint Petersburg",
+        "Saint Petersburg",
+        "Saint Petersburg",
+        "Budapest"
+    ],
+    "urban district of Bavaria": [
+        "Munich"
+    ],
+    "urban district in Saxony": [
+        "Leipzig"
+    ],
+    "major regional center": [
+        "Leipzig",
+        "Göttingen"
+    ],
+    "Hanseatic city": [
+        "Göttingen",
+        "Berlin",
+        "Hamburg"
+    ],
+    "district of Austria": [
+        "Vienna"
+    ],
+    "municipality of Austria": [
+        "Vienna"
+    ],
+    "place with town rights and privileges": [
+        "Vienna"
+    ],
+    "statutory city of Austria": [
+        "Vienna"
+    ],
+    "federal capital": [
+        "Vienna",
+        "Berlin"
+    ],
+    "capital": [
+        "Vienna",
+        "Prague",
+        "Moscow",
+        "Berlin",
+        "London",
+        "Paris",
+        "Washington, D.C.",
+        "Budapest"
+    ],
+    "tourist destination": [
+        "Vienna",
+        "Hamburg"
+    ],
+    "state of Austria": [
+        "Vienna"
+    ],
+    "human settlement": [
+        "Vienna",
+        "Hong Kong"
+    ],
+    "capital of region": [
+        "Prague"
+    ],
+    "district town": [
+        "Prague"
+    ],
+    "municipality of the Czech Republic": [
+        "Prague"
+    ],
+    "enclave": [
+        "Prague",
+        "Budapest",
+        "Lesotho",
+        "Vatican City",
+        "San Marino"
+    ],
+    "municipality with town privileges in the Czech Republic": [
+        "Prague"
+    ],
+    "constituency": [
+        "Prague"
+    ],
+    "region of the Czech Republic": [
+        "Prague"
+    ],
+    "district of the Czech Republic": [
+        "Prague"
+    ],
+    "municipality with authorized municipal office": [
+        "Prague"
+    ],
+    "single-tier municipality": [
+        "Toronto"
+    ],
+    "provincial or territorial capital city in Canada": [
+        "Toronto"
+    ],
+    "largest city": [
+        "Moscow",
+        "Moscow",
+        "Moscow",
+        "Moscow",
+        "New York City",
+        "Saint Petersburg"
+    ],
+    "second largest city": [
+        "Moscow",
+        "Saint Petersburg",
+        "Saint Petersburg"
+    ],
+    "capital of Russia": [
+        "Moscow",
+        "Saint Petersburg"
+    ],
+    "federal city of Russia": [
+        "Moscow",
+        "Saint Petersburg"
+    ],
+    "megacity": [
+        "Moscow"
+    ],
+    "city/town": [
+        "Moscow",
+        "Saint Petersburg"
+    ],
+    "Einheitsgemeinde of Germany": [
+        "Berlin",
+        "Hamburg"
+    ],
+    "state of Germany": [
+        "Berlin",
+        "Hamburg"
+    ],
+    "seat of government": [
+        "Berlin"
+    ],
+    "integrated municipality": [
+        "Berlin"
+    ],
+    "town divided by border": [
+        "Berlin"
+    ],
+    "urban district of Berlin": [
+        "Berlin"
+    ],
+    "administrative territorial entity of the United Kingdom": [
+        "London"
+    ],
+    "city-state": [
+        "Hamburg",
+        "Singapore",
+        "Monaco",
+        "Vatican City"
+    ],
+    "Free imperial city": [
+        "Hamburg"
+    ],
+    "port settlement": [
+        "Hamburg",
+        "New York City",
+        "Singapore"
+    ],
+    "urban district of Lower Hamburg": [
+        "Hamburg"
+    ],
+    "city of the United States": [
+        "New York City",
+        "San Francisco",
+        "Washington, D.C.",
+        "Los Angeles",
+        "Chicago",
+        "Detroit",
+        "Nashville",
+        "Atlanta",
+        "Santa Monica",
+        "Beverly Hills"
+    ],
+    "global city": [
+        "New York City",
+        "Paris"
+    ],
+    "sanctuary city": [
+        "San Francisco"
+    ],
+    "consolidated city-county": [
+        "San Francisco",
+        "Nashville"
+    ],
+    "department of France": [
+        "Paris"
+    ],
+    "commune of France with specific status": [
+        "Paris"
+    ],
+    "comune of Italy": [
+        "Rome"
+    ],
+    "border town": [
+        "Rome",
+        "Detroit"
+    ],
+    "island nation": [
+        "Singapore",
+        "Japan",
+        "Ireland",
+        "United Kingdom",
+        "Barbados",
+        "Indonesia",
+        "Bahrain",
+        "East Timor",
+        "New Zealand",
+        "Tuvalu",
+        "Samoa",
+        "Solomon Islands",
+        "Vanuatu",
+        "Papua New Guinea",
+        "Palau",
+        "Nauru",
+        "Federated States of Micronesia",
+        "Marshall Islands",
+        "Kiribati",
+        "Fiji",
+        "Trinidad and Tobago",
+        "Saint Vincent and the Grenadines",
+        "Saint Lucia",
+        "Saint Kitts and Nevis",
+        "Jamaica",
+        "Grenada",
+        "Antigua and Barbuda",
+        "Dominica",
+        "Dominican Republic",
+        "Haiti",
+        "Maldives",
+        "Sri Lanka",
+        "Comoros",
+        "Cape Verde",
+        "Madagascar",
+        "Mauritius",
+        "São Tomé and Príncipe",
+        "Seychelles",
+        "Tonga",
+        "Taiwan",
+        "Iceland",
+        "Republic of Cyprus",
+        "Malta",
+        "Cuba"
+    ],
+    "country": [
+        "Singapore",
+        "Canada",
+        "Japan",
+        "Norway",
+        "Ireland",
+        "United States of America",
+        "Denmark",
+        "Poland",
+        "Italy",
+        "Switzerland",
+        "Austria",
+        "Turkey",
+        "Portugal",
+        "Netherlands",
+        "Uruguay",
+        "Egypt",
+        "Mexico",
+        "Kenya",
+        "Ethiopia",
+        "Ghana",
+        "France",
+        "United Kingdom",
+        "People's Republic of China",
+        "Brazil",
+        "Germany",
+        "Latvia",
+        "Czech Republic",
+        "Slovakia",
+        "Romania",
+        "Bulgaria",
+        "Croatia",
+        "Kazakhstan",
+        "Montenegro",
+        "Barbados",
+        "Indonesia",
+        "South Africa",
+        "Algeria",
+        "Uzbekistan",
+        "Chile",
+        "Bahrain",
+        "Australia",
+        "Argentina",
+        "Peru",
+        "North Korea",
+        "Cambodia",
+        "East Timor",
+        "Chad",
+        "New Zealand",
+        "India",
+        "Tuvalu",
+        "Samoa",
+        "Solomon Islands",
+        "Vanuatu",
+        "Papua New Guinea",
+        "Palau",
+        "Nauru",
+        "Federated States of Micronesia",
+        "Marshall Islands",
+        "Kiribati",
+        "Mongolia",
+        "Fiji",
+        "Venezuela",
+        "Paraguay",
+        "Guyana",
+        "Ecuador",
+        "Colombia",
+        "Bolivia",
+        "Trinidad and Tobago",
+        "Saint Vincent and the Grenadines",
+        "Saint Lucia",
+        "Saint Kitts and Nevis",
+        "Jamaica",
+        "Grenada",
+        "Guatemala",
+        "Bahamas",
+        "Antigua and Barbuda",
+        "Honduras",
+        "Dominica",
+        "Dominican Republic",
+        "Haiti",
+        "El Salvador",
+        "Iran",
+        "Iraq",
+        "Costa Rica",
+        "Israel",
+        "Yemen",
+        "Jordan",
+        "Nicaragua",
+        "Kyrgyzstan",
+        "Laos",
+        "Lebanon",
+        "Maldives",
+        "Malaysia",
+        "Myanmar",
+        "Nepal",
+        "Oman",
+        "Pakistan",
+        "Qatar",
+        "Saudi Arabia",
+        "Sri Lanka",
+        "Syria",
+        "Tajikistan",
+        "Thailand",
+        "Turkmenistan",
+        "United Arab Emirates",
+        "Vietnam",
+        "South Korea",
+        "Afghanistan",
+        "Bangladesh",
+        "Mali",
+        "Angola",
+        "Bhutan",
+        "Brunei",
+        "Tanzania",
+        "Philippines",
+        "Central African Republic",
+        "Togo",
+        "Tunisia",
+        "Zambia",
+        "Zimbabwe",
+        "South Sudan",
+        "Benin",
+        "Botswana",
+        "Burkina Faso",
+        "Burundi",
+        "Comoros",
+        "Republic of the Congo",
+        "Democratic Republic of the Congo",
+        "Djibouti",
+        "Eritrea",
+        "Gambia",
+        "Guinea",
+        "Guinea-Bissau",
+        "Ivory Coast",
+        "Cameroon",
+        "Cape Verde",
+        "Lesotho",
+        "Liberia",
+        "Libya",
+        "Madagascar",
+        "Malawi",
+        "Mauritania",
+        "Mauritius",
+        "Morocco",
+        "Mozambique",
+        "Namibia",
+        "Niger",
+        "Nigeria",
+        "Uganda",
+        "Rwanda",
+        "São Tomé and Príncipe",
+        "Senegal",
+        "Seychelles",
+        "Sierra Leone",
+        "Somalia",
+        "Sudan",
+        "Eswatini",
+        "Kingdom of the Netherlands",
+        "Tonga",
+        "German Empire",
+        "England",
+        "Hungary",
+        "Spain",
+        "Belgium",
+        "Luxembourg",
+        "Finland",
+        "Sweden",
+        "Lithuania",
+        "Greece",
+        "Russia",
+        "Belarus",
+        "Iceland",
+        "Estonia",
+        "Ukraine",
+        "Slovenia",
+        "Moldova",
+        "North Macedonia",
+        "Albania",
+        "Bosnia and Herzegovina",
+        "Azerbaijan",
+        "Andorra",
+        "Republic of Cyprus",
+        "Georgia",
+        "Malta",
+        "Monaco",
+        "Vatican City",
+        "San Marino",
+        "Cuba",
+        "Belize",
+        "Liechtenstein",
+        "Armenia",
+        "Serbia",
+        "Suriname",
+        "Panama",
+        "Kuwait",
+        "Equatorial Guinea",
+        "Gabon",
+        "Kosovo"
+    ],
+    "sovereign state": [
+        "Singapore",
+        "Canada",
+        "Japan",
+        "Norway",
+        "Ireland",
+        "United States of America",
+        "Denmark",
+        "Poland",
+        "Italy",
+        "Switzerland",
+        "Switzerland",
+        "Austria",
+        "Turkey",
+        "Portugal",
+        "Uruguay",
+        "Egypt",
+        "Mexico",
+        "Kenya",
+        "Ethiopia",
+        "Ghana",
+        "France",
+        "United Kingdom",
+        "People's Republic of China",
+        "Brazil",
+        "Germany",
+        "Latvia",
+        "Czech Republic",
+        "Slovakia",
+        "Romania",
+        "Bulgaria",
+        "Croatia",
+        "Kazakhstan",
+        "Montenegro",
+        "Barbados",
+        "Indonesia",
+        "South Africa",
+        "Algeria",
+        "Uzbekistan",
+        "Chile",
+        "Bahrain",
+        "Australia",
+        "Argentina",
+        "Peru",
+        "North Korea",
+        "Cambodia",
+        "East Timor",
+        "Chad",
+        "New Zealand",
+        "India",
+        "Tuvalu",
+        "Samoa",
+        "Solomon Islands",
+        "Vanuatu",
+        "Papua New Guinea",
+        "Palau",
+        "Nauru",
+        "Federated States of Micronesia",
+        "Marshall Islands",
+        "Kiribati",
+        "Mongolia",
+        "Fiji",
+        "Venezuela",
+        "Paraguay",
+        "Guyana",
+        "Ecuador",
+        "Colombia",
+        "Bolivia",
+        "Trinidad and Tobago",
+        "Saint Vincent and the Grenadines",
+        "Saint Lucia",
+        "Saint Kitts and Nevis",
+        "Jamaica",
+        "Grenada",
+        "Guatemala",
+        "Bahamas",
+        "Antigua and Barbuda",
+        "Honduras",
+        "Dominica",
+        "Dominican Republic",
+        "Haiti",
+        "El Salvador",
+        "Iran",
+        "Iraq",
+        "Costa Rica",
+        "Israel",
+        "Yemen",
+        "Jordan",
+        "Nicaragua",
+        "Kyrgyzstan",
+        "Laos",
+        "Lebanon",
+        "Maldives",
+        "Malaysia",
+        "Myanmar",
+        "Nepal",
+        "Oman",
+        "Pakistan",
+        "Qatar",
+        "Saudi Arabia",
+        "Sri Lanka",
+        "Syria",
+        "Tajikistan",
+        "Thailand",
+        "Turkmenistan",
+        "United Arab Emirates",
+        "Vietnam",
+        "South Korea",
+        "Afghanistan",
+        "Bangladesh",
+        "Mali",
+        "Angola",
+        "Bhutan",
+        "Brunei",
+        "Tanzania",
+        "Philippines",
+        "Central African Republic",
+        "Togo",
+        "Tunisia",
+        "Zambia",
+        "Zimbabwe",
+        "South Sudan",
+        "Benin",
+        "Botswana",
+        "Burkina Faso",
+        "Burundi",
+        "Comoros",
+        "Republic of the Congo",
+        "Democratic Republic of the Congo",
+        "Djibouti",
+        "Eritrea",
+        "Gambia",
+        "Guinea",
+        "Guinea-Bissau",
+        "Ivory Coast",
+        "Cameroon",
+        "Cape Verde",
+        "Lesotho",
+        "Liberia",
+        "Libya",
+        "Madagascar",
+        "Malawi",
+        "Mauritania",
+        "Mauritius",
+        "Morocco",
+        "Mozambique",
+        "Namibia",
+        "Niger",
+        "Nigeria",
+        "Uganda",
+        "Rwanda",
+        "São Tomé and Príncipe",
+        "Senegal",
+        "Seychelles",
+        "Sierra Leone",
+        "Somalia",
+        "Sudan",
+        "Eswatini",
+        "Kingdom of the Netherlands",
+        "Tonga",
+        "Nazi Germany",
+        "Holy Roman Empire",
+        "Soviet Union",
+        "Kingdom of Prussia",
+        "Austria-Hungary",
+        "Czechoslovakia",
+        "Russian Empire",
+        "Great Britain",
+        "Kingdom of Italy",
+        "United Kingdom of Great Britain and Ireland",
+        "Austrian Empire",
+        "West Germany",
+        "Russian Soviet Federative Socialist Republic",
+        "Hungary",
+        "Spain",
+        "Belgium",
+        "Luxembourg",
+        "Finland",
+        "Sweden",
+        "Lithuania",
+        "Greece",
+        "Russia",
+        "Belarus",
+        "Iceland",
+        "Estonia",
+        "Estonia",
+        "Ukraine",
+        "Slovenia",
+        "Moldova",
+        "North Macedonia",
+        "Albania",
+        "Bosnia and Herzegovina",
+        "Azerbaijan",
+        "Andorra",
+        "Republic of Cyprus",
+        "Georgia",
+        "Malta",
+        "Monaco",
+        "Vatican City",
+        "San Marino",
+        "Cuba",
+        "Belize",
+        "Liechtenstein",
+        "Armenia",
+        "Serbia",
+        "Suriname",
+        "Panama",
+        "Kuwait",
+        "Kuwait",
+        "Equatorial Guinea",
+        "Gabon"
+    ],
+    "county town": [
+        "Cambridge"
+    ],
+    "special administrative region of China": [
+        "Hong Kong"
+    ],
+    "metropolitan area": [
+        "Hong Kong"
+    ],
+    "federal district": [
+        "Washington, D.C."
+    ],
+    "county seat": [
+        "Los Angeles",
+        "Detroit",
+        "Nashville",
+        "Atlanta"
+    ],
+    "charter city": [
+        "Los Angeles"
+    ],
+    "municipality of Georgia": [
+        "Atlanta"
+    ],
+    "former capital": [
+        "Saint Petersburg"
+    ],
+    "town in Hungary": [
+        "Budapest"
+    ],
+    "geographical object": [
+        "Budapest"
+    ],
+    "Commonwealth realm": [
+        "Canada",
+        "United Kingdom",
+        "Barbados",
+        "Australia",
+        "New Zealand",
+        "Tuvalu",
+        "Solomon Islands",
+        "Papua New Guinea",
+        "Saint Vincent and the Grenadines",
+        "Saint Lucia",
+        "Saint Kitts and Nevis",
+        "Jamaica",
+        "Grenada",
+        "Bahamas",
+        "Antigua and Barbuda",
+        "Belize"
+    ],
+    "dominion of the British Empire": [
+        "Canada",
+        "Australia",
+        "New Zealand",
+        "India"
+    ],
+    "constitutional monarchy": [
+        "Norway",
+        "Thailand",
+        "Morocco"
+    ],
+    "democratic republic": [
+        "United States of America",
+        "Taiwan"
+    ],
+    "federal state": [
+        "United States of America",
+        "Switzerland",
+        "Germany",
+        "Australia",
+        "Belgium"
+    ],
+    "constitutional republic": [
+        "United States of America",
+        "People's Republic of China",
+        "Indonesia",
+        "South Korea",
+        "Bosnia and Herzegovina"
+    ],
+    "superpowers": [
+        "United States of America"
+    ],
+    "colonial power": [
+        "Denmark",
+        "Portugal",
+        "France",
+        "United Kingdom",
+        "Kingdom of the Netherlands",
+        "German Empire",
+        "Kingdom of Italy",
+        "United Kingdom of Great Britain and Ireland",
+        "Spain",
+        "Belgium"
+    ],
+    "state": [
+        "Denmark",
+        "Austria",
+        "Saint Kitts and Nevis",
+        "Grenada",
+        "Antigua and Barbuda",
+        "Republic of Cyprus"
+    ],
+    "autonomous country within the Kingdom of Denmark": [
+        "Denmark"
+    ],
+    "countries bordering the Baltic Sea": [
+        "Denmark",
+        "Poland",
+        "Germany",
+        "Latvia",
+        "Finland",
+        "Sweden",
+        "Lithuania",
+        "Russia",
+        "Estonia"
+    ],
+    "republic": [
+        "Italy",
+        "Austria",
+        "Germany",
+        "Latvia",
+        "Slovakia",
+        "India",
+        "Paraguay",
+        "Colombia",
+        "Bolivia",
+        "Sri Lanka",
+        "Tanzania",
+        "Togo",
+        "Tunisia",
+        "Zambia",
+        "Zimbabwe",
+        "Eritrea",
+        "Liberia",
+        "Malawi",
+        "Mauritius",
+        "Mozambique",
+        "Namibia",
+        "Niger",
+        "Uganda",
+        "Rwanda",
+        "São Tomé and Príncipe",
+        "Senegal",
+        "Seychelles",
+        "Sierra Leone",
+        "Somalia",
+        "Sudan",
+        "Greece",
+        "Belarus",
+        "Estonia",
+        "Ukraine",
+        "Albania",
+        "Georgia",
+        "Serbia"
+    ],
+    "unitary state": [
+        "Italy",
+        "Bulgaria",
+        "Croatia",
+        "Kazakhstan",
+        "Fiji",
+        "Trinidad and Tobago",
+        "Tajikistan",
+        "Luxembourg",
+        "Finland",
+        "Sweden",
+        "Lithuania",
+        "Greece",
+        "Belarus",
+        "Estonia",
+        "Ukraine",
+        "Moldova",
+        "Albania",
+        "Georgia",
+        "Malta",
+        "Monaco",
+        "Cuba",
+        "Liechtenstein",
+        "Kosovo"
+    ],
+    "social state": [
+        "Italy",
+        "Germany",
+        "Russia",
+        "Belarus",
+        "Ukraine"
+    ],
+    "Mediterranean country": [
+        "Italy",
+        "Turkey",
+        "Egypt",
+        "France",
+        "Croatia",
+        "Montenegro",
+        "Algeria",
+        "Israel",
+        "Lebanon",
+        "Syria",
+        "Tunisia",
+        "Libya",
+        "Morocco",
+        "Spain",
+        "Greece",
+        "Slovenia",
+        "Albania",
+        "Bosnia and Herzegovina",
+        "Republic of Cyprus",
+        "Malta",
+        "Monaco"
+    ],
+    "Helvetic Republic": [
+        "Switzerland"
+    ],
+    "Federal Treaty": [
+        "Switzerland"
+    ],
+    "landlocked country": [
+        "Switzerland",
+        "Austria",
+        "Ethiopia",
+        "Czech Republic",
+        "Slovakia",
+        "Kazakhstan",
+        "Uzbekistan",
+        "Chad",
+        "Mongolia",
+        "Paraguay",
+        "Bolivia",
+        "Kyrgyzstan",
+        "Laos",
+        "Nepal",
+        "Tajikistan",
+        "Turkmenistan",
+        "Afghanistan",
+        "Mali",
+        "Bhutan",
+        "Central African Republic",
+        "Zambia",
+        "Zimbabwe",
+        "South Sudan",
+        "Botswana",
+        "Burkina Faso",
+        "Burundi",
+        "Lesotho",
+        "Malawi",
+        "Niger",
+        "Uganda",
+        "Rwanda",
+        "Eswatini",
+        "Hungary",
+        "Luxembourg",
+        "Belarus",
+        "Moldova",
+        "North Macedonia",
+        "Azerbaijan",
+        "Andorra",
+        "Vatican City",
+        "San Marino",
+        "Liechtenstein",
+        "Armenia",
+        "Serbia",
+        "Kosovo"
+    ],
+    "legal state": [
+        "Austria",
+        "Brazil",
+        "Germany",
+        "Senegal",
+        "Russia",
+        "Ukraine",
+        "Georgia"
+    ],
+    "transcontinental country": [
+        "Turkey",
+        "Egypt",
+        "Kazakhstan",
+        "Soviet Union",
+        "Russian Empire",
+        "Russia"
+    ],
+    "country of the Kingdom of the Netherlands": [
+        "Netherlands"
+    ],
+    "secular state": [
+        "Uruguay",
+        "People's Republic of China",
+        "Brazil",
+        "Colombia",
+        "Russia"
+    ],
+    "socialist state": [
+        "People's Republic of China",
+        "Soviet Union"
+    ],
+    "archipelagic state": [
+        "Indonesia",
+        "Papua New Guinea",
+        "Fiji",
+        "Bahamas",
+        "Philippines"
+    ],
+    "presidential system": [
+        "Indonesia"
+    ],
+    "crown colony of the British Empire": [
+        "New Zealand"
+    ],
+    "Territorial evolution of the British Empire": [
+        "Jamaica",
+        "Tonga"
+    ],
+    "monarchy of Antigua and Barbuda": [
+        "Antigua and Barbuda"
+    ],
+    "Islamic republic": [
+        "Iran",
+        "Afghanistan",
+        "Mauritania"
+    ],
+    "communist state": [
+        "Laos",
+        "Vietnam",
+        "Soviet Union",
+        "German Democratic Republic",
+        "Cuba"
+    ],
+    "member states of the Association of Southeast Asian Nations": [
+        "Malaysia"
+    ],
+    "sultanate": [
+        "Oman"
+    ],
+    "emirate": [
+        "Qatar"
+    ],
+    "colony": [
+        "Syria",
+        "Suriname"
+    ],
+    "geographic location": [
+        "Mauritius"
+    ],
+    "parliamentary republic": [
+        "Mauritius"
+    ],
+    "overseas province of Portugal": [
+        "Mozambique"
+    ],
+    "member states of the United Nations": [
+        "Sudan"
+    ],
+    "kingdom": [
+        "Kingdom of the Netherlands",
+        "Great Britain"
+    ],
+    "state with limited recognition": [
+        "Taiwan",
+        "State of Palestine",
+        "Kosovo"
+    ],
+    "Empire on which the sun never sets": [
+        "Portuguese Empire"
+    ],
+    "colonial empire": [
+        "Portuguese Empire"
+    ],
+    "historical period": [
+        "Nazi Germany",
+        "Weimar Republic",
+        "German Empire"
+    ],
+    "historical country": [
+        "Nazi Germany",
+        "Holy Roman Empire",
+        "Soviet Union",
+        "German Democratic Republic",
+        "Kingdom of Prussia",
+        "Austria-Hungary",
+        "Czechoslovakia",
+        "Russian Empire",
+        "Weimar Republic",
+        "German Empire",
+        "Great Britain",
+        "Kingdom of Italy",
+        "United Kingdom of Great Britain and Ireland",
+        "Austrian Empire",
+        "West Germany",
+        "Russian Soviet Federative Socialist Republic"
+    ],
+    "empire1": [
+        "Holy Roman Empire",
+        "Austria-Hungary",
+        "Russian Empire"
+    ],
+    "federal republic": [
+        "Soviet Union"
+    ],
+    "satellite state": [
+        "German Democratic Republic"
+    ],
+    "federated state": [
+        "Kingdom of Prussia"
+    ],
+    "real union": [
+        "Austria-Hungary"
+    ],
+    "empire": [
+        "German Empire"
+    ],
+    "cultural area": [
+        "England"
+    ],
+    "constituent part of the United Kingdom": [
+        "England"
+    ],
+    "member state of the European Union": [
+        "Spain",
+        "Greece"
+    ],
+    "realm": [
+        "Spain"
+    ],
+    "grand duchy": [
+        "Luxembourg"
+    ],
+    "great power": [
+        "Russia"
+    ],
+    "principality": [
+        "Andorra",
+        "Monaco",
+        "Liechtenstein"
+    ],
+    "divided country": [
+        "Republic of Cyprus",
+        "State of Palestine"
+    ],
+    "tourist attraction": [
+        "Vatican City"
+    ],
+    "microstate": [
+        "San Marino",
+        "Liechtenstein"
+    ],
+    "state in the Confederation of the Rhine": [
+        "Liechtenstein"
+    ],
+    "Portuguese Empire": [
+        "Equatorial Guinea"
+    ],
+    "French colonial empire": [
+        "Gabon"
+    ],
+    "Slavs": [
+        "Kosovo"
+    ],
+    "rockumentary": [
+        "The Compleat Beatles"
+    ],
+    "film": [
+        "Zoolander"
+    ],
+    "rare disease": [
+        "lung cancer"
+    ],
+    "respiratory system cancer": [
+        "lung cancer"
+    ],
+    "lung disease": [
+        "lung cancer",
+        "pneumonia"
+    ],
+    "lung neoplasm": [
+        "lung cancer"
+    ],
+    "lower respiratory tract infection": [
+        "pneumonia"
+    ],
+    "infectious disease": [
+        "pneumonia"
+    ],
+    "child prodigy": [
+        "Wolfgang Amadeus Mozart"
+    ],
+    "record label": [
+        "Warner Music Group",
+        "Jive",
+        "Motown",
+        "Walt Disney Records",
+        "Polydor Records",
+        "Mercury Records",
+        "Columbia Records",
+        "EMI",
+        "Island Records",
+        "Capitol Records",
+        "Atlantic Records",
+        "RCA Records",
+        "Virgin Records",
+        "Parlophone",
+        "Geffen Records",
+        "Epic",
+        "Interscope Records",
+        "A&M Records",
+        "ABC Records",
+        "Sony Music",
+        "Hollywood Records",
+        "Decca",
+        "Atco Records",
+        "Reprise Records",
+        "Def Jam Recordings",
+        "Arista",
+        "Elektra",
+        "Warner Bros. Records",
+        "MCA Records",
+        "Republic Records"
+    ],
+    "record company": [
+        "Warner Music Group",
+        "EMI",
+        "RCA Records",
+        "Universal Music Group"
+    ],
+    "agent": [
+        "Columbia Records"
+    ],
+    "trademark": [
+        "Columbia Records",
+        "Parlophone"
+    ],
+    "enterprise": [
+        "EMI",
+        "Virgin Records"
+    ],
+    "privately held company": [
+        "EMI"
+    ],
+    "Wikipedia article covering multiple topics": [
+        "EMI",
+        "Virgin Records"
+    ],
+    "holding company": [
+        "EMI"
+    ],
+    "imprint": [
+        "Parlophone"
+    ],
+    "subsidiary": [
+        "Universal Music Group"
+    ],
+    "major label": [
+        "Universal Music Group"
+    ],
+    "event venue": [
+        "Academy of Arts, Berlin"
+    ],
+    "cultural institution": [
+        "Academy of Arts, Berlin"
+    ],
+    "academy": [
+        "Academy of Arts, Berlin",
+        "Bavarian Academy of Fine Arts",
+        "Academy of Arts of the GDR"
+    ],
+    "academy of sciences": [
+        "Academy of Sciences of the USSR",
+        "Academy of Sciences of Turin",
+        "Accademia Nazionale delle Scienze detta dei XL",
+        "Saint Petersburg Academy of Sciences",
+        "German Academy of Sciences at Berlin",
+        "Russian Academy of Sciences",
+        "Royal Society of Edinburgh",
+        "Royal Society",
+        "French Academy of Sciences",
+        "Royal Swedish Academy of Sciences",
+        "Royal Netherlands Academy of Arts and Sciences",
+        "Hungarian Academy of Sciences",
+        "National Academy of Sciences",
+        "Austrian Academy of Sciences",
+        "Royal Prussian Academy of Sciences",
+        "Academia Europaea",
+        "Lincean Academy",
+        "Göttingen Academy of Sciences",
+        "Academy of Useful Science",
+        "American Academy of Arts and Letters",
+        "German Academy of Sciences Leopoldina",
+        "Bavarian Academy of Sciences and Humanities",
+        "Pontifical Academy of Sciences",
+        "Serbian Academy of Sciences and Arts"
+    ],
+    "national academy": [
+        "Accademia Nazionale delle Scienze detta dei XL",
+        "Royal Society of Edinburgh",
+        "Royal Society",
+        "French Academy of Sciences",
+        "Royal Swedish Academy of Sciences",
+        "Royal Netherlands Academy of Arts and Sciences",
+        "Hungarian Academy of Sciences",
+        "Austrian Academy of Sciences",
+        "Lincean Academy",
+        "Academy of Useful Science",
+        "German Academy of Sciences Leopoldina",
+        "Pontifical Academy of Sciences",
+        "Académie Française",
+        "Royal Society of Literature"
+    ],
+    "building": [
+        "Royal Swedish Academy of Sciences"
+    ],
+    "Swedish Royal Academies": [
+        "Royal Swedish Academy of Sciences"
+    ],
+    "quasi-autonomous non-governmental organisation": [
+        "Royal Netherlands Academy of Arts and Sciences"
+    ],
+    "open-access journal": [
+        "Austrian Academy of Sciences"
+    ],
+    "timber-framed house": [
+        "Göttingen Academy of Sciences"
+    ],
+    "book publishing company": [
+        "Bavarian Academy of Sciences and Humanities"
+    ],
+    "pontifical academy": [
+        "Pontifical Academy of Sciences"
+    ],
+    "language regulator": [
+        "Académie Française"
+    ],
+    "conservatory": [
+        "Juilliard School"
+    ],
+    "drama school": [
+        "Juilliard School"
+    ],
+    "Abrahamic religion": [
+        "Catholicism",
+        "Judaism",
+        "Islam",
+        "Christianity"
+    ],
+    "monotheistic religion": [
+        "Judaism",
+        "Christianity"
+    ],
+    "ethnic religion": [
+        "Judaism"
+    ],
+    "major religious group": [
+        "Islam",
+        "Christianity"
+    ]
+}

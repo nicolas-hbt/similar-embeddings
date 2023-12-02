@@ -1,0 +1,4 @@
+{
+  "comments": "For each positive triple, DistMult creates two negatives where head and tail are corrupted",
+  "title": "Learn FB15K Dataset with DistMult as described by Yang et al., 2014"
+}

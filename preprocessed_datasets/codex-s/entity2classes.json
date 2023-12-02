@@ -1,0 +1,7364 @@
+{
+    "actor": [
+        "profession",
+        "artist"
+    ],
+    "film actor": [
+        "filmmaking occupation",
+        "actor"
+    ],
+    "singer": [
+        "musical profession",
+        "vocalist"
+    ],
+    "businessperson": [
+        "profession",
+        "professional"
+    ],
+    "television actor": [
+        "profession",
+        "actor"
+    ],
+    "voice": [
+        "human voice",
+        "musical instrument"
+    ],
+    "choreographer": [
+        "profession",
+        "performing artist"
+    ],
+    "engineer": [
+        "profession",
+        "academic degree",
+        "worker"
+    ],
+    "inventor": [
+        "profession",
+        "engineer",
+        "creator"
+    ],
+    "zoologist": [
+        "profession",
+        "biologist"
+    ],
+    "English": [
+        "natural language",
+        "language",
+        "modern language",
+        "Anglic languages"
+    ],
+    "American English": [
+        "natural language",
+        "ethnolect",
+        "English"
+    ],
+    "guitar": [
+        "string instrument",
+        "plucked necked box lutes"
+    ],
+    "piano": [
+        "keyboard instrument",
+        "struck string instrument",
+        "true board zithers with resonator box"
+    ],
+    "voice actor": [
+        "filmmaking occupation",
+        "actor"
+    ],
+    "dancer": [
+        "profession",
+        "performing artist"
+    ],
+    "autobiographer": [
+        "occupation",
+        "biographer"
+    ],
+    "model": [
+        "profession",
+        "fashion person"
+    ],
+    "guitarist": [
+        "occupation",
+        "musical profession",
+        "instrumentalist"
+    ],
+    "singer-songwriter": [
+        "profession",
+        "singer",
+        "songwriter"
+    ],
+    "record producer": [
+        "musical profession",
+        "composer",
+        "audio engineer",
+        "musician",
+        "producer1"
+    ],
+    "synth-pop": [
+        "music genre",
+        "electronic music",
+        "pop music",
+        "new wave"
+    ],
+    "rock music": [
+        "music genre",
+        "popular music"
+    ],
+    "pop music": [
+        "music genre",
+        "popular music"
+    ],
+    "dance music": [
+        "music genre",
+        "music"
+    ],
+    "pop rock": [
+        "music genre",
+        "rock music",
+        "pop music"
+    ],
+    "Democratic Party": [
+        "political party"
+    ],
+    "keyboard instrument": [
+        "class of instruments",
+        "musical instrument"
+    ],
+    "rhythm and blues": [
+        "music genre",
+        "popular music"
+    ],
+    "contemporary R&B": [
+        "music genre"
+    ],
+    "lyricist": [
+        "education",
+        "profession",
+        "writer",
+        "songwriter"
+    ],
+    "film producer": [
+        "filmmaking occupation",
+        "producer1",
+        "media professional"
+    ],
+    "songwriter": [
+        "profession",
+        "vocal composer"
+    ],
+    "entrepreneur": [
+        "profession",
+        "position",
+        "businessperson"
+    ],
+    "comedian": [
+        "profession",
+        "occupation",
+        "actor",
+        "artist",
+        "performing artist"
+    ],
+    "musician": [
+        "occupation",
+        "musical profession",
+        "artist"
+    ],
+    "composer": [
+        "occupation",
+        "musical profession",
+        "author",
+        "musician"
+    ],
+    "executive producer": [
+        "filmmaking occupation",
+        "producer"
+    ],
+    "stage actor": [
+        "theatrical occupation",
+        "actor",
+        "performing artist"
+    ],
+    "atheism": [
+        "world view",
+        "philosophical movement",
+        "Relajación"
+    ],
+    "bass guitar": [
+        "guitar",
+        "bass"
+    ],
+    "radio personality": [
+        "profession",
+        "media personality",
+        "presenter"
+    ],
+    "television presenter": [
+        "profession",
+        "celebrity",
+        "presenter",
+        "media professional",
+        "television personality"
+    ],
+    "rapper": [
+        "profession",
+        "vocalist"
+    ],
+    "lawyer": [
+        "legal professional",
+        "jurist"
+    ],
+    "politician": [
+        "profession",
+        "professional"
+    ],
+    "University of Vienna": [
+        "university",
+        "open-access publisher"
+    ],
+    "Catholic Church": [
+        "Christian Church",
+        "religious denomination",
+        "Christian Church"
+    ],
+    "German": [
+        "language",
+        "modern language",
+        "High German languages"
+    ],
+    "philanthropist": [
+        "occupation",
+        "benefactor"
+    ],
+    "French": [
+        "natural language",
+        "language",
+        "modern language",
+        "Oïl languages",
+        "Southern European languages"
+    ],
+    "Jewish people": [
+        "nation",
+        "people",
+        "ethnoreligious group",
+        "Semitic"
+    ],
+    "fashion designer": [
+        "profession",
+        "designer",
+        "fashion person"
+    ],
+    "artist": [
+        "profession",
+        "occupation",
+        "creator"
+    ],
+    "myocardial infarction": [
+        "disease",
+        "cause of death",
+        "ischemia",
+        "coronary artery disease"
+    ],
+    "University College London": [
+        "higher education institution",
+        "academic institution",
+        "university college"
+    ],
+    "physician": [
+        "medical profession",
+        "health professional"
+    ],
+    "diplomat": [
+        "profession",
+        "corporate title",
+        "civil servant"
+    ],
+    "American Academy of Arts and Sciences": [
+        "learned society"
+    ],
+    "stroke": [
+        "disease",
+        "cause of death",
+        "cerebrovascular disease"
+    ],
+    "Yale University": [
+        "private university",
+        "Colonial Colleges",
+        "research university",
+        "private not-for-profit educational institution"
+    ],
+    "Republican Party": [
+        "political party"
+    ],
+    "economist": [
+        "profession",
+        "social scientist"
+    ],
+    "Russian": [
+        "language",
+        "modern language",
+        "East Slavic languages"
+    ],
+    "children's writer": [
+        "profession",
+        "writer"
+    ],
+    "university teacher": [
+        "academic profession",
+        "teacher",
+        "academic",
+        "faculty member"
+    ],
+    "writer": [
+        "profession",
+        "author"
+    ],
+    "Hungarian": [
+        "natural language",
+        "modern language",
+        "Ugric languages"
+    ],
+    "\"University of California, Berkeley\"": [
+        "land-grant university",
+        "United Nations Depository Library",
+        "Original Public Ivy",
+        "public educational institution of the United States",
+        "public research university"
+    ],
+    "non-fiction writer": [
+        "profession",
+        "writer"
+    ],
+    "musical composition": [
+        "creative work",
+        "specialty",
+        "musical work",
+        "academic discipline",
+        "artistic creation"
+    ],
+    "performing arts": [
+        "academic discipline",
+        "art form",
+        "arts"
+    ],
+    "dance-pop": [
+        "music genre",
+        "pop music",
+        "dance music"
+    ],
+    "journalist": [
+        "profession",
+        "author",
+        "media professional"
+    ],
+    "military personnel": [
+        "profession",
+        "occupation",
+        "employee",
+        "warrior"
+    ],
+    "Swedish": [
+        "language",
+        "modern language",
+        "East Scandinavian languages"
+    ],
+    "University of Oxford": [
+        "higher education institution",
+        "public university",
+        "collegiate university",
+        "exempt charity",
+        "open-access publisher"
+    ],
+    "Cornell University": [
+        "land-grant university",
+        "private university",
+        "sun grant institution",
+        "research university",
+        "private not-for-profit educational institution"
+    ],
+    "Harvard University": [
+        "private university",
+        "Colonial Colleges",
+        "research university",
+        "private not-for-profit educational institution"
+    ],
+    "poet": [
+        "profession",
+        "writer"
+    ],
+    "mathematician": [
+        "profession",
+        "scientist"
+    ],
+    "philosopher": [
+        "profession",
+        "humanities scholar"
+    ],
+    "philosophy": [
+        "academic major",
+        "academic discipline",
+        "science"
+    ],
+    "agnosticism": [
+        "doctrine",
+        "Relajación"
+    ],
+    "presenter": [
+        "profession",
+        "creator",
+        "discussion moderator"
+    ],
+    "television producer": [
+        "profession",
+        "producer1",
+        "media professional"
+    ],
+    "Polish": [
+        "language",
+        "modern language",
+        "Lechitic languages"
+    ],
+    "Latin": [
+        "language",
+        "dead language",
+        "ancient language",
+        "Latino-Faliscan languages",
+        "Southern European languages"
+    ],
+    "Spanish": [
+        "natural language",
+        "language",
+        "modern language",
+        "Castilian languages"
+    ],
+    "Portuguese": [
+        "language",
+        "modern language",
+        "Galician-Portuguese languages"
+    ],
+    "Hebrew": [
+        "language",
+        "modern language",
+        "Jewish languages",
+        "Canaanite languages"
+    ],
+    "Arabic": [
+        "language",
+        "macrolanguage",
+        "modern language",
+        "Semitic languages"
+    ],
+    "Italian": [
+        "language",
+        "pro-drop language",
+        "modern language",
+        "centro-meridian Italian languages",
+        "Southern European languages"
+    ],
+    "archaeologist": [
+        "profession",
+        "occupation",
+        "social scientist",
+        "cultural studies scholar"
+    ],
+    "anthropologist": [
+        "profession",
+        "social scientist"
+    ],
+    "University of Paris (1896-1968)": [
+        "university in France"
+    ],
+    "chemist": [
+        "profession",
+        "scientist"
+    ],
+    "Communist Party of the Soviet Union": [
+        "communist party"
+    ],
+    "Leipzig University": [
+        "university",
+        "public university",
+        "open-access publisher"
+    ],
+    "Western": [
+        "genre",
+        "fiction"
+    ],
+    "film director": [
+        "profession",
+        "filmmaking occupation",
+        "director"
+    ],
+    "Warner Bros.": [
+        "animation studio",
+        "film production company"
+    ],
+    "Czech": [
+        "language",
+        "modern language",
+        "Czech–Slovak languages"
+    ],
+    "Germans": [
+        "ethnic group",
+        "person"
+    ],
+    "Heidelberg University": [
+        "campus",
+        "open-access publisher",
+        "public research university"
+    ],
+    "chemistry": [
+        "branch of science",
+        "academic discipline",
+        "physical science"
+    ],
+    "pianist": [
+        "occupation",
+        "musical profession",
+        "keyboardist"
+    ],
+    "soul music": [
+        "music genre",
+        "popular music"
+    ],
+    "Columbia University": [
+        "private university",
+        "Colonial Colleges",
+        "research university",
+        "private not-for-profit educational institution"
+    ],
+    "Manhattan": [
+        "borough of New York City"
+    ],
+    "heart failure": [
+        "complication",
+        "cardiovascular disease",
+        "clinical sign"
+    ],
+    "University of Göttingen": [
+        "university",
+        "campus",
+        "public university",
+        "Stiftungshochschule"
+    ],
+    "African Americans": [
+        "ethnic group",
+        "ethnic community",
+        "ethnic group",
+        "Americans of the United States",
+        "ethnic community"
+    ],
+    "Brooklyn": [
+        "borough of New York City"
+    ],
+    "hip hop music": [
+        "music genre",
+        "popular music",
+        "African-American music"
+    ],
+    "physicist": [
+        "profession",
+        "scientist",
+        "researcher"
+    ],
+    "mathematics": [
+        "universal language",
+        "academic major",
+        "academic discipline",
+        "exact science",
+        "formal science"
+    ],
+    "Princeton University": [
+        "private university",
+        "Colonial Colleges",
+        "research university",
+        "private not-for-profit educational institution"
+    ],
+    "Phi Beta Kappa Society": [
+        "honor society"
+    ],
+    "historian": [
+        "profession",
+        "non-fiction writer",
+        "humanities scholar"
+    ],
+    "École Polytechnique": [
+        "engineering school"
+    ],
+    "photographer": [
+        "profession",
+        "visual artist"
+    ],
+    "opinion journalist": [
+        "profession",
+        "journalist"
+    ],
+    "playwright": [
+        "occupation",
+        "screenwriter",
+        "writer"
+    ],
+    "author": [
+        "occupation",
+        "creator"
+    ],
+    "Père Lachaise Cemetery": [
+        "cemetery"
+    ],
+    "French people": [
+        "human population",
+        "ethnic group",
+        "nationality"
+    ],
+    "cancer": [
+        "disease",
+        "neoplasm",
+        "disease of cellular proliferation"
+    ],
+    "Ludwig Maximilian University of Munich": [
+        "public university"
+    ],
+    "blogger": [
+        "profession",
+        "writer",
+        "author"
+    ],
+    "Boston": [
+        "state or insular area capital in the United States"
+    ],
+    "contemporary folk music": [
+        "music genre",
+        "popular music"
+    ],
+    "jazz": [
+        "music genre",
+        "popular music"
+    ],
+    "electronic music": [
+        "music genre",
+        "music"
+    ],
+    "producer": [
+        "profession",
+        "entrepreneur"
+    ],
+    "director": [
+        "profession",
+        "artist",
+        "manager"
+    ],
+    "screenwriter": [
+        "specialty",
+        "filmmaking occupation",
+        "writer"
+    ],
+    "drum kit": [
+        "percussion instrument",
+        "sets of double-skin cylindrical drums with single playing heads"
+    ],
+    "science fiction writer": [
+        "profession",
+        "writer",
+        "science fiction author"
+    ],
+    "\"University of California, Los Angeles\"": [
+        "public educational institution of the United States",
+        "public research university"
+    ],
+    "percussion instrument": [
+        "class of instruments",
+        "musical instrument"
+    ],
+    "funk": [
+        "music genre",
+        "music"
+    ],
+    "blues": [
+        "music genre",
+        "musical form",
+        "music"
+    ],
+    "disco": [
+        "music genre"
+    ],
+    "hard rock": [
+        "music genre",
+        "rock music"
+    ],
+    "recording artist": [
+        "musical profession",
+        "musician"
+    ],
+    "Ashkenazi Jews": [
+        "ethnic group",
+        "Jewish people"
+    ],
+    "character actor": [
+        "profession",
+        "actor"
+    ],
+    "New York University": [
+        "private university",
+        "research university",
+        "private not-for-profit educational institution"
+    ],
+    "American Philosophical Society": [
+        "organization",
+        "learned society"
+    ],
+    "film editor": [
+        "profession",
+        "filmmaking occupation",
+        "filmmaker"
+    ],
+    "American Jews": [
+        "ethnic group",
+        "Jewish people",
+        "Americans of the United States"
+    ],
+    "professor": [
+        "profession",
+        "academic rank",
+        "title of honor",
+        "title of authority",
+        "university teacher",
+        "academic"
+    ],
+    "University of Cambridge": [
+        "higher education institution",
+        "collegiate university",
+        "public research university"
+    ],
+    "University of Chicago": [
+        "private university",
+        "research university",
+        "private not-for-profit educational institution"
+    ],
+    "bipolar disorder": [
+        "disease",
+        "mood disorder",
+        "bipolar spectrum"
+    ],
+    "astronomer": [
+        "profession",
+        "scientist"
+    ],
+    "explorer": [
+        "occupation",
+        "adventurer",
+        "traveller",
+        "investigator"
+    ],
+    "jurist": [
+        "legal professional",
+        "person linked to the law"
+    ],
+    "Saint Petersburg State University": [
+        "university",
+        "open-access publisher"
+    ],
+    "Russians": [
+        "ethnic group",
+        "people"
+    ],
+    "theologian": [
+        "profession",
+        "religious studies scholar"
+    ],
+    "Lutheranism": [
+        "Christian denomination",
+        "Protestantism",
+        "evangelical church"
+    ],
+    "teacher": [
+        "profession",
+        "position",
+        "occupation",
+        "educator"
+    ],
+    "diarist": [
+        "occupation",
+        "memoirist"
+    ],
+    "painter": [
+        "profession",
+        "visual artist"
+    ],
+    "Montparnasse Cemetery": [
+        "Parisian cemetery"
+    ],
+    "country music": [
+        "music genre",
+        "radio format",
+        "pop music"
+    ],
+    "University of Bonn": [
+        "public research university"
+    ],
+    "essayist": [
+        "profession",
+        "non-fiction writer"
+    ],
+    "translator": [
+        "profession",
+        "writer",
+        "translator-interpreter"
+    ],
+    "novelist": [
+        "profession",
+        "writer"
+    ],
+    "essay": [
+        "literary genre",
+        "literary form",
+        "non-fiction literature"
+    ],
+    "20th century": [
+        "century"
+    ],
+    "peace activist": [
+        "occupation",
+        "political activist",
+        "pacifist"
+    ],
+    "traditional pop music": [
+        "music genre",
+        "pop music"
+    ],
+    "soft rock": [
+        "music genre",
+        "rock music"
+    ],
+    "banjoist": [
+        "profession",
+        "craft",
+        "instrumentalist"
+    ],
+    "multi-instrumentalist": [
+        "craft",
+        "instrumentalist"
+    ],
+    "gospel music": [
+        "music genre",
+        "radio format",
+        "Christian music"
+    ],
+    "banjo": [
+        "plucked necked box lutes"
+    ],
+    "theater director": [
+        "profession",
+        "director",
+        "theatrical occupation"
+    ],
+    "disc jockey": [
+        "occupation",
+        "musical profession",
+        "musician"
+    ],
+    "film score composer": [
+        "filmmaking occupation",
+        "musical profession",
+        "composer"
+    ],
+    "United Nations": [
+        "intergovernmental organization",
+        "international organization",
+        "subject of international law"
+    ],
+    "renal insufficiency": [
+        "disease",
+        "kidney disease",
+        "impaired renal function disease"
+    ],
+    "Novodevichy Cemetery": [
+        "cemetery",
+        "cultural heritage site in Russia"
+    ],
+    "human rights activist": [
+        "occupation",
+        "political activist"
+    ],
+    "Eastern Orthodox Church": [
+        "religious denomination",
+        "Christian Church"
+    ],
+    "physics": [
+        "branch of science",
+        "academic discipline",
+        "exact science",
+        "physical science"
+    ],
+    "linguist": [
+        "profession",
+        "academic profession",
+        "language scholar"
+    ],
+    "poetry": [
+        "literary form",
+        "genre",
+        "literary work"
+    ],
+    "sociologist": [
+        "profession",
+        "social scientist"
+    ],
+    "tuberculosis": [
+        "disease",
+        "notifiable disease",
+        "endemic disease",
+        "endemic disease",
+        "mycobacterium infectious disease",
+        "primary bacterial infectious disease"
+    ],
+    "jazz musician": [
+        "occupation",
+        "musical profession",
+        "musician"
+    ],
+    "short story": [
+        "literary genre",
+        "literary form",
+        "prose",
+        "narrative",
+        "fiction literature"
+    ],
+    "keyboardist": [
+        "profession",
+        "craft",
+        "instrumentalist"
+    ],
+    "heavy metal": [
+        "music genre",
+        "rock music"
+    ],
+    "classical music": [
+        "music genre",
+        "music tradition",
+        "art music"
+    ],
+    "harmonica": [
+        "sets of free reeds"
+    ],
+    "astronomy": [
+        "branch of science",
+        "academic discipline",
+        "natural science",
+        "exact science",
+        "academic discipline"
+    ],
+    "political scientist": [
+        "profession",
+        "academic",
+        "social scientist"
+    ],
+    "opera": [
+        "music genre",
+        "musical form",
+        "theatrical genre",
+        "play",
+        "musical work"
+    ],
+    "biographer": [
+        "profession",
+        "occupation",
+        "non-fiction writer"
+    ],
+    "opera singer": [
+        "musical profession",
+        "singer",
+        "vocalist",
+        "classical musician"
+    ],
+    "television director": [
+        "profession",
+        "director"
+    ],
+    "biologist": [
+        "profession",
+        "scientist",
+        "naturalist"
+    ],
+    "pedagogue": [
+        "profession",
+        "social scientist"
+    ],
+    "vocalist": [
+        "profession",
+        "musician"
+    ],
+    "traditional heavy metal": [
+        "music genre",
+        "heavy metal"
+    ],
+    "botanist": [
+        "profession",
+        "biologist"
+    ],
+    "scientist": [
+        "profession",
+        "researcher",
+        "erudite"
+    ],
+    "music critic": [
+        "profession",
+        "critic",
+        "music journalist"
+    ],
+    "musicologist": [
+        "musical profession",
+        "humanities scholar"
+    ],
+    "English people": [
+        "nation",
+        "ethnic group",
+        "British people"
+    ],
+    "naturalist": [
+        "profession",
+        "occupation",
+        "scientist"
+    ],
+    "bandleader": [
+        "profession",
+        "conductor",
+        "musician",
+        "director1"
+    ],
+    "conductor": [
+        "musical profession",
+        "musician",
+        "performing artist",
+        "music director"
+    ],
+    "alternative rock": [
+        "music genre",
+        "radio format",
+        "rock music"
+    ],
+    "geologist": [
+        "profession",
+        "earth scientist"
+    ],
+    "novel": [
+        "literary genre",
+        "literary form",
+        "narrative",
+        "fiction literature"
+    ],
+    "new wave": [
+        "music genre",
+        "rock music"
+    ],
+    "librettist": [
+        "profession",
+        "playwright"
+    ],
+    "librarian": [
+        "profession",
+        "information professional"
+    ],
+    "geographer": [
+        "profession",
+        "scientist",
+        "earth scientist"
+    ],
+    "violin": [
+        "necked box lutes played with a bow"
+    ],
+    "Humboldt University of Berlin": [
+        "public university",
+        "comprehensive university",
+        "open-access publisher"
+    ],
+    "folk rock": [
+        "music genre",
+        "rock music",
+        "contemporary folk music"
+    ],
+    "music theorist": [
+        "profession",
+        "musicologist",
+        "theorist"
+    ],
+    "music pedagogue": [
+        "academic title",
+        "musical profession",
+        "musician",
+        "pedagogue",
+        "music teacher"
+    ],
+    "literary critic": [
+        "profession",
+        "critic",
+        "literary scholar"
+    ],
+    "street artist": [
+        "profession",
+        "craft",
+        "performing artist",
+        "visual artist"
+    ],
+    "poet lawyer": [
+        "profession",
+        "poet",
+        "jurist"
+    ],
+    "Africa": [
+        "continent"
+    ],
+    "Europe": [
+        "continent"
+    ],
+    "North America": [
+        "continent",
+        "subcontinent"
+    ],
+    "East Africa": [
+        "geographic region"
+    ],
+    "Asia": [
+        "continent",
+        "continental area and surrounding islands"
+    ],
+    "World Trade Organization": [
+        "organization",
+        "international organization"
+    ],
+    "Universal Postal Union": [
+        "United Nations",
+        "international organization",
+        "specialized agency of the United Nations"
+    ],
+    "International Bank for Reconstruction and Development": [
+        "specialized agency of the United Nations"
+    ],
+    "Multilateral Investment Guarantee Agency": [
+        "intergovernmental organization",
+        "international organization"
+    ],
+    "International Centre for Settlement of Investment Disputes": [
+        "international organization"
+    ],
+    "International Hydrographic Organization": [
+        "intergovernmental organization"
+    ],
+    "International Finance Corporation": [
+        "specialized agency of the United Nations"
+    ],
+    "Alliance of Small Island States": [
+        "intergovernmental organization",
+        "international organization",
+        "geopolitical community"
+    ],
+    "Asian Development Bank": [
+        "bank",
+        "research institute",
+        "international financial institution",
+        "business"
+    ],
+    "Interpol": [
+        "intergovernmental organization",
+        "international organization",
+        "law enforcement agency"
+    ],
+    "Asia-Pacific Economic Cooperation": [
+        "international organization"
+    ],
+    "UNESCO": [
+        "intergovernmental organization",
+        "international organization",
+        "specialized agency of the United Nations"
+    ],
+    "Commonwealth of Nations": [
+        "intergovernmental organization"
+    ],
+    "Organisation for the Prohibition of Chemical Weapons": [
+        "intergovernmental organization"
+    ],
+    "International Telecommunication Union": [
+        "specialized agency of the United Nations"
+    ],
+    "International Development Association": [
+        "specialized agency of the United Nations"
+    ],
+    "Visa Waiver Program": [
+        "visa policy",
+        "expedited border crossing scheme"
+    ],
+    "Oceania": [
+        "continent",
+        "ecozone"
+    ],
+    "European Union": [
+        "confederation",
+        "political territorial entity",
+        "supranational union",
+        "economic union",
+        "regional organization",
+        "political organisation"
+    ],
+    "Holy See": [
+        "episcopal see",
+        "Apostolic see",
+        "subject of international law"
+    ],
+    "Nuclear Suppliers Group": [
+        "intergovernmental organization",
+        "international organization"
+    ],
+    "Missile Technology Control Regime": [
+        "intergovernmental organization",
+        "international organization"
+    ],
+    "Treaty on Open Skies": [
+        "treaty"
+    ],
+    "Australia Group": [
+        "international organization"
+    ],
+    "Movement Coordination Centre Europe": [
+        "international organization"
+    ],
+    "NATO": [
+        "intergovernmental organization",
+        "international organization",
+        "military alliance"
+    ],
+    "G20": [
+        "intergovernmental organization"
+    ],
+    "Caribbean Development Bank": [
+        "international financial institution"
+    ],
+    "Organisation internationale de la Francophonie": [
+        "intergovernmental organization"
+    ],
+    "African Development Bank": [
+        "international organization"
+    ],
+    "Organization of American States": [
+        "international organization"
+    ],
+    "International Energy Agency": [
+        "intergovernmental organization"
+    ],
+    "Organization for Security and Co-operation in Europe": [
+        "intergovernmental organization"
+    ],
+    "Organisation for Economic Cooperation and Development": [
+        "intergovernmental organization",
+        "international organization",
+        "publisher"
+    ],
+    "Group on Earth Observations": [
+        "organization"
+    ],
+    "Latin America": [
+        "geographic region"
+    ],
+    "European Payments Union": [
+        "intergovernmental organization"
+    ],
+    "Eurocontrol": [
+        "international organization"
+    ],
+    "Schengen Area": [
+        "administrative territorial entity"
+    ],
+    "Council of Europe": [
+        "intergovernmental organization"
+    ],
+    "European Space Agency": [
+        "intergovernmental organization",
+        "international organization",
+        "space agency"
+    ],
+    "European Southern Observatory": [
+        "research institute",
+        "international organization"
+    ],
+    "Arab League": [
+        "political union",
+        "regional organization"
+    ],
+    "African Union – United Nations Hybrid Operation in Darfur": [
+        "military operation"
+    ],
+    "Organisation of Islamic Cooperation": [
+        "organization",
+        "intergovernmental organization",
+        "international organization"
+    ],
+    "Middle East": [
+        "geographic region",
+        "cultural region"
+    ],
+    "Agency for the Prohibition of Nuclear Weapons in Latin America and the Caribbean": [
+        "international organization"
+    ],
+    "Hispanic America": [
+        "territorial entity"
+    ],
+    "African Union": [
+        "continental union",
+        "regional organization"
+    ],
+    "Arab Fund for Economic and Social Development": [
+        "organization"
+    ],
+    "Arab Monetary Fund": [
+        "foundation"
+    ],
+    "Arab Bank for Economic Development in Africa": [
+        "bank",
+        "international organization"
+    ],
+    "\"African, Caribbean and Pacific Group of States\"": [
+        "intergovernmental organization"
+    ],
+    "West Africa": [
+        "geographic region"
+    ],
+    "Southern African Development Community": [
+        "international organization"
+    ],
+    "AFRISTAT": [
+        "statistical service",
+        "membership organization"
+    ],
+    "OHADA": [
+        "international organization"
+    ],
+    "science fiction": [
+        "genre",
+        "speculative fiction"
+    ],
+    "satire": [
+        "literary genre",
+        "art genre",
+        "humor"
+    ],
+    "literary realism": [
+        "literary movement"
+    ],
+    "short story writer": [
+        "profession",
+        "writer"
+    ],
+    "prosaist": [
+        "profession",
+        "writer"
+    ],
+    "prose": [
+        "literary genre",
+        "literary form",
+        "literary work"
+    ],
+    "Romanticism": [
+        "architectural style",
+        "art movement",
+        "cultural movement",
+        "literary movement",
+        "art style"
+    ],
+    "Plato": [
+        "human"
+    ],
+    "theoretical physicist": [
+        "profession",
+        "physicist",
+        "theorist"
+    ],
+    "symphony": [
+        "music genre",
+        "musical form",
+        "music term",
+        "musical composition"
+    ],
+    "blues rock": [
+        "music genre",
+        "blues",
+        "rock music"
+    ],
+    "experimental rock": [
+        "music genre",
+        "rock music",
+        "experimental music"
+    ],
+    "psychedelic rock": [
+        "music genre",
+        "rock music",
+        "psychedelic music"
+    ],
+    "rock and roll": [
+        "music genre",
+        "popular music"
+    ],
+    "art rock": [
+        "music genre",
+        "rock music"
+    ],
+    "accordion": [
+        "class of instruments",
+        "squeezebox"
+    ],
+    "Collège de France": [
+        "educational institution"
+    ],
+    "powest": [
+        "literary genre",
+        "literary form",
+        "literary work"
+    ],
+    "play": [
+        "literary form",
+        "drama",
+        "performance work"
+    ],
+    "Georg Wilhelm Friedrich Hegel": [
+        "human"
+    ],
+    "synthesizer": [
+        "electronic musical instrument"
+    ],
+    "University of Jena": [
+        "public university"
+    ],
+    "USSR Union of Writers": [
+        "organization",
+        "Creative unions in the Soviet Union",
+        "union of writers"
+    ],
+    "Deutsche Akademie für Sprache und Dichtung": [
+        "voluntary association"
+    ],
+    "organ": [
+        "keyboard instrument"
+    ],
+    "progressive rock": [
+        "music genre",
+        "rock music"
+    ],
+    "Société Philomathique de Paris": [
+        "learned society"
+    ],
+    "mandolinist": [
+        "profession",
+        "instrumentalist"
+    ],
+    "saxophone": [
+        "woodwind instrument",
+        "single clarinets with conical bore"
+    ],
+    "indie pop": [
+        "music genre",
+        "alternative rock",
+        "independent music"
+    ],
+    "mandolin": [
+        "necked bowl lutes sounded by plectrum"
+    ],
+    "Katy Perry": [
+        "human"
+    ],
+    "Justin Timberlake": [
+        "human"
+    ],
+    "Hulk Hogan": [
+        "human"
+    ],
+    "Jolin Tsai": [
+        "human"
+    ],
+    "Oprah Winfrey": [
+        "human",
+        "billionaire"
+    ],
+    "Heinrich Schliemann": [
+        "human"
+    ],
+    "Sakis Rouvas": [
+        "human"
+    ],
+    "Jay-Z": [
+        "human"
+    ],
+    "Madonna": [
+        "human"
+    ],
+    "Arnold Schwarzenegger": [
+        "human"
+    ],
+    "Michael Jackson": [
+        "human"
+    ],
+    "Tara Strong": [
+        "human"
+    ],
+    "50 Cent": [
+        "human"
+    ],
+    "Snoop Dogg": [
+        "human"
+    ],
+    "John Maynard Keynes": [
+        "human"
+    ],
+    "Britney Spears": [
+        "human"
+    ],
+    "Kanye West": [
+        "human"
+    ],
+    "Dmitry Medvedev": [
+        "human"
+    ],
+    "Akon": [
+        "human"
+    ],
+    "Guglielmo Marconi": [
+        "human"
+    ],
+    "Rihanna": [
+        "human"
+    ],
+    "Mariah Carey": [
+        "human"
+    ],
+    "Steven Seagal": [
+        "human"
+    ],
+    "Peter Drucker": [
+        "human"
+    ],
+    "Mary Wollstonecraft": [
+        "human"
+    ],
+    "Douglas Fairbanks": [
+        "human"
+    ],
+    "Julio Iglesias": [
+        "human"
+    ],
+    "Hilary Duff": [
+        "human"
+    ],
+    "Tyler, the Creator": [
+        "human"
+    ],
+    "Shaquille O'Neal": [
+        "human"
+    ],
+    "Fergie": [
+        "human"
+    ],
+    "Dolly Parton": [
+        "human"
+    ],
+    "will.i.am": [
+        "human"
+    ],
+    "Howard Hughes": [
+        "human"
+    ],
+    "Ludacris": [
+        "human"
+    ],
+    "Nas": [
+        "human"
+    ],
+    "Chris Brown": [
+        "human"
+    ],
+    "Paul G. Allen": [
+        "human"
+    ],
+    "Nicki Minaj": [
+        "human"
+    ],
+    "Yoshiki": [
+        "human"
+    ],
+    "David Hasselhoff": [
+        "human"
+    ],
+    "T.I.": [
+        "human"
+    ],
+    "Jordin Sparks": [
+        "human"
+    ],
+    "Sean Combs": [
+        "human"
+    ],
+    "Solange Knowles": [
+        "human",
+        "mononymous person"
+    ],
+    "Lil Mama": [
+        "human"
+    ],
+    "Tila Tequila": [
+        "human"
+    ],
+    "Swizz Beatz": [
+        "human"
+    ],
+    "Nick Cannon": [
+        "human"
+    ],
+    "Vince Neil": [
+        "human"
+    ],
+    "Bernard-Henri Lévy": [
+        "human"
+    ],
+    "Amr Diab": [
+        "human"
+    ],
+    "Jared Leto": [
+        "human"
+    ],
+    "Nikolai Fomenko": [
+        "human"
+    ],
+    "Master P": [
+        "human"
+    ],
+    "Queen Latifah": [
+        "human"
+    ],
+    "Mary-Kate Olsen": [
+        "human",
+        "twin"
+    ],
+    "Tamer Hosny": [
+        "human"
+    ],
+    "Ulf Ekberg": [
+        "human"
+    ],
+    "Munich": [
+        "district capital",
+        "metropolis",
+        "financial centre",
+        "college town",
+        "big city",
+        "city",
+        "residenz",
+        "state capital in Germany",
+        "urban municipality of Germany",
+        "independent city of Germany",
+        "city with millions of inhabitants",
+        "urban district of Bavaria"
+    ],
+    "Leipzig": [
+        "independent city of Germany",
+        "urban district in Saxony",
+        "city",
+        "big city",
+        "major regional center",
+        "urban municipality of Germany"
+    ],
+    "Göttingen": [
+        "college town",
+        "independent city of Germany",
+        "major regional center",
+        "Hanseatic city",
+        "district capital",
+        "big city",
+        "urban municipality of Germany"
+    ],
+    "Vienna": [
+        "district of Austria",
+        "metropolis",
+        "municipality of Austria",
+        "city",
+        "place with town rights and privileges",
+        "statutory city of Austria",
+        "federal capital",
+        "capital",
+        "tourist destination",
+        "state of Austria",
+        "city with millions of inhabitants",
+        "human settlement"
+    ],
+    "Prague": [
+        "capital of region",
+        "district town",
+        "capital",
+        "municipality of the Czech Republic",
+        "enclave",
+        "municipality with town privileges in the Czech Republic",
+        "constituency",
+        "region of the Czech Republic",
+        "district of the Czech Republic",
+        "municipality with authorized municipal office",
+        "big city"
+    ],
+    "Toronto": [
+        "single-tier municipality",
+        "city",
+        "provincial or territorial capital city in Canada",
+        "big city",
+        "city with millions of inhabitants"
+    ],
+    "Moscow": [
+        "largest city",
+        "capital",
+        "largest city",
+        "second largest city",
+        "capital of Russia",
+        "federal city of Russia",
+        "megacity",
+        "big city",
+        "largest city",
+        "city/town",
+        "largest city",
+        "city with millions of inhabitants"
+    ],
+    "Berlin": [
+        "Einheitsgemeinde of Germany",
+        "state of Germany",
+        "seat of government",
+        "city",
+        "Hanseatic city",
+        "capital",
+        "federal capital",
+        "metropolis",
+        "integrated municipality",
+        "urban municipality of Germany",
+        "town divided by border",
+        "city with millions of inhabitants",
+        "urban district of Berlin"
+    ],
+    "London": [
+        "city with millions of inhabitants",
+        "administrative territorial entity of the United Kingdom",
+        "capital",
+        "metropolis",
+        "financial centre",
+        "city"
+    ],
+    "Hamburg": [
+        "big city",
+        "city-state",
+        "urban municipality of Germany",
+        "Free imperial city",
+        "state of Germany",
+        "port settlement",
+        "Hanseatic city",
+        "metropolis",
+        "tourist destination",
+        "Einheitsgemeinde of Germany",
+        "city with millions of inhabitants",
+        "urban district of Lower Hamburg"
+    ],
+    "New York City": [
+        "port settlement",
+        "city of the United States",
+        "global city",
+        "city",
+        "big city",
+        "largest city",
+        "city with millions of inhabitants"
+    ],
+    "San Francisco": [
+        "sanctuary city",
+        "city of the United States",
+        "city",
+        "consolidated city-county",
+        "big city"
+    ],
+    "Paris": [
+        "capital",
+        "episcopal see",
+        "global city",
+        "big city",
+        "department of France",
+        "commune of France with specific status",
+        "city",
+        "city with millions of inhabitants"
+    ],
+    "Rome": [
+        "city",
+        "comune of Italy",
+        "border town",
+        "big city",
+        "city with millions of inhabitants"
+    ],
+    "Singapore": [
+        "city",
+        "island nation",
+        "port settlement",
+        "country",
+        "city-state",
+        "sovereign state",
+        "big city",
+        "city with millions of inhabitants"
+    ],
+    "Cambridge": [
+        "city",
+        "college town",
+        "county town",
+        "big city"
+    ],
+    "Hong Kong": [
+        "special administrative region of China",
+        "city",
+        "human settlement",
+        "metropolitan area",
+        "big city",
+        "city with millions of inhabitants"
+    ],
+    "Washington, D.C.": [
+        "federal district",
+        "capital",
+        "city of the United States",
+        "big city"
+    ],
+    "Los Angeles": [
+        "county seat",
+        "city of the United States",
+        "charter city",
+        "big city",
+        "city with millions of inhabitants"
+    ],
+    "Chicago": [
+        "city of the United States",
+        "city with millions of inhabitants",
+        "big city"
+    ],
+    "Detroit": [
+        "border town",
+        "city of the United States",
+        "county seat",
+        "big city"
+    ],
+    "Nashville": [
+        "consolidated city-county",
+        "city of the United States",
+        "county seat",
+        "state or insular area capital in the United States",
+        "big city"
+    ],
+    "Atlanta": [
+        "county seat",
+        "state or insular area capital in the United States",
+        "big city",
+        "city of the United States",
+        "municipality of Georgia"
+    ],
+    "Santa Monica": [
+        "city of the United States"
+    ],
+    "Saint Petersburg": [
+        "city with millions of inhabitants",
+        "city/town",
+        "second largest city",
+        "city with millions of inhabitants",
+        "city with millions of inhabitants",
+        "largest city",
+        "capital of Russia",
+        "former capital",
+        "second largest city",
+        "federal city of Russia",
+        "big city"
+    ],
+    "Budapest": [
+        "town in Hungary",
+        "capital",
+        "geographical object",
+        "city with millions of inhabitants",
+        "enclave"
+    ],
+    "Beverly Hills": [
+        "city of the United States"
+    ],
+    "Canada": [
+        "sovereign state",
+        "Commonwealth realm",
+        "country",
+        "dominion of the British Empire"
+    ],
+    "Japan": [
+        "island nation",
+        "sovereign state",
+        "country"
+    ],
+    "Norway": [
+        "sovereign state",
+        "country",
+        "constitutional monarchy"
+    ],
+    "Ireland": [
+        "sovereign state",
+        "country",
+        "island nation"
+    ],
+    "United States of America": [
+        "sovereign state",
+        "country",
+        "democratic republic",
+        "federal state",
+        "constitutional republic",
+        "superpowers"
+    ],
+    "Denmark": [
+        "colonial power",
+        "state",
+        "sovereign state",
+        "country",
+        "autonomous country within the Kingdom of Denmark",
+        "countries bordering the Baltic Sea"
+    ],
+    "Poland": [
+        "sovereign state",
+        "country",
+        "countries bordering the Baltic Sea"
+    ],
+    "Italy": [
+        "republic",
+        "unitary state",
+        "social state",
+        "Mediterranean country",
+        "sovereign state",
+        "country"
+    ],
+    "Switzerland": [
+        "confederation",
+        "federal state",
+        "Helvetic Republic",
+        "sovereign state",
+        "Federal Treaty",
+        "landlocked country",
+        "sovereign state",
+        "country"
+    ],
+    "Austria": [
+        "country",
+        "state",
+        "legal state",
+        "republic",
+        "landlocked country",
+        "sovereign state"
+    ],
+    "Turkey": [
+        "Mediterranean country",
+        "transcontinental country",
+        "country",
+        "sovereign state"
+    ],
+    "Portugal": [
+        "colonial power",
+        "sovereign state",
+        "country"
+    ],
+    "Netherlands": [
+        "country",
+        "country of the Kingdom of the Netherlands"
+    ],
+    "Uruguay": [
+        "secular state",
+        "sovereign state",
+        "country"
+    ],
+    "Egypt": [
+        "Mediterranean country",
+        "sovereign state",
+        "country",
+        "transcontinental country"
+    ],
+    "Mexico": [
+        "country",
+        "sovereign state"
+    ],
+    "Kenya": [
+        "country",
+        "sovereign state"
+    ],
+    "Ethiopia": [
+        "sovereign state",
+        "landlocked country",
+        "country"
+    ],
+    "Ghana": [
+        "country",
+        "sovereign state"
+    ],
+    "France": [
+        "country",
+        "colonial power",
+        "sovereign state",
+        "Mediterranean country"
+    ],
+    "United Kingdom": [
+        "island nation",
+        "sovereign state",
+        "colonial power",
+        "country",
+        "Commonwealth realm"
+    ],
+    "People's Republic of China": [
+        "country",
+        "secular state",
+        "constitutional republic",
+        "socialist state",
+        "sovereign state"
+    ],
+    "Brazil": [
+        "sovereign state",
+        "secular state",
+        "country",
+        "legal state"
+    ],
+    "Germany": [
+        "federal state",
+        "country",
+        "sovereign state",
+        "social state",
+        "legal state",
+        "republic",
+        "administrative territorial entity",
+        "countries bordering the Baltic Sea"
+    ],
+    "Latvia": [
+        "republic",
+        "country",
+        "sovereign state",
+        "countries bordering the Baltic Sea"
+    ],
+    "Czech Republic": [
+        "landlocked country",
+        "country",
+        "sovereign state"
+    ],
+    "Slovakia": [
+        "landlocked country",
+        "country",
+        "sovereign state",
+        "republic"
+    ],
+    "Romania": [
+        "country",
+        "sovereign state"
+    ],
+    "Bulgaria": [
+        "country",
+        "unitary state",
+        "sovereign state"
+    ],
+    "Croatia": [
+        "sovereign state",
+        "country",
+        "Mediterranean country",
+        "unitary state"
+    ],
+    "Kazakhstan": [
+        "landlocked country",
+        "transcontinental country",
+        "country",
+        "sovereign state",
+        "unitary state"
+    ],
+    "Montenegro": [
+        "sovereign state",
+        "Mediterranean country",
+        "country"
+    ],
+    "Barbados": [
+        "sovereign state",
+        "Commonwealth realm",
+        "country",
+        "island nation"
+    ],
+    "Indonesia": [
+        "archipelagic state",
+        "country",
+        "constitutional republic",
+        "island nation",
+        "sovereign state",
+        "presidential system"
+    ],
+    "South Africa": [
+        "sovereign state",
+        "country"
+    ],
+    "Algeria": [
+        "sovereign state",
+        "country",
+        "Mediterranean country"
+    ],
+    "Uzbekistan": [
+        "country",
+        "landlocked country",
+        "sovereign state"
+    ],
+    "Chile": [
+        "sovereign state",
+        "country"
+    ],
+    "Bahrain": [
+        "country",
+        "sovereign state",
+        "island nation"
+    ],
+    "Australia": [
+        "dominion of the British Empire",
+        "Commonwealth realm",
+        "sovereign state",
+        "country",
+        "federal state"
+    ],
+    "Argentina": [
+        "country",
+        "sovereign state"
+    ],
+    "Peru": [
+        "sovereign state",
+        "country"
+    ],
+    "North Korea": [
+        "country",
+        "sovereign state"
+    ],
+    "Cambodia": [
+        "country",
+        "sovereign state"
+    ],
+    "East Timor": [
+        "country",
+        "island nation",
+        "sovereign state"
+    ],
+    "Chad": [
+        "sovereign state",
+        "country",
+        "landlocked country"
+    ],
+    "New Zealand": [
+        "Commonwealth realm",
+        "island nation",
+        "country",
+        "sovereign state",
+        "crown colony of the British Empire",
+        "dominion of the British Empire"
+    ],
+    "India": [
+        "dominion of the British Empire",
+        "sovereign state",
+        "republic",
+        "country"
+    ],
+    "Tuvalu": [
+        "country",
+        "sovereign state",
+        "island nation",
+        "Commonwealth realm"
+    ],
+    "Samoa": [
+        "country",
+        "sovereign state",
+        "island nation"
+    ],
+    "Solomon Islands": [
+        "country",
+        "island nation",
+        "Commonwealth realm",
+        "sovereign state"
+    ],
+    "Vanuatu": [
+        "sovereign state",
+        "country",
+        "island nation"
+    ],
+    "Papua New Guinea": [
+        "island nation",
+        "sovereign state",
+        "country",
+        "archipelagic state",
+        "Commonwealth realm"
+    ],
+    "Palau": [
+        "country",
+        "island nation",
+        "sovereign state"
+    ],
+    "Nauru": [
+        "island nation",
+        "sovereign state",
+        "country"
+    ],
+    "Federated States of Micronesia": [
+        "country",
+        "island nation",
+        "sovereign state"
+    ],
+    "Marshall Islands": [
+        "sovereign state",
+        "country",
+        "island nation"
+    ],
+    "Kiribati": [
+        "island nation",
+        "country",
+        "sovereign state"
+    ],
+    "Mongolia": [
+        "sovereign state",
+        "country",
+        "landlocked country"
+    ],
+    "Fiji": [
+        "unitary state",
+        "sovereign state",
+        "island nation",
+        "archipelagic state",
+        "country"
+    ],
+    "Venezuela": [
+        "sovereign state",
+        "country"
+    ],
+    "Paraguay": [
+        "country",
+        "landlocked country",
+        "sovereign state",
+        "republic"
+    ],
+    "Guyana": [
+        "sovereign state",
+        "country"
+    ],
+    "Ecuador": [
+        "country",
+        "sovereign state"
+    ],
+    "Colombia": [
+        "republic",
+        "country",
+        "sovereign state",
+        "secular state"
+    ],
+    "Bolivia": [
+        "country",
+        "landlocked country",
+        "sovereign state",
+        "republic"
+    ],
+    "Trinidad and Tobago": [
+        "unitary state",
+        "sovereign state",
+        "island nation",
+        "country"
+    ],
+    "Saint Vincent and the Grenadines": [
+        "country",
+        "sovereign state",
+        "island nation",
+        "Commonwealth realm"
+    ],
+    "Saint Lucia": [
+        "Commonwealth realm",
+        "country",
+        "island nation",
+        "sovereign state"
+    ],
+    "Saint Kitts and Nevis": [
+        "state",
+        "country",
+        "island nation",
+        "sovereign state",
+        "Commonwealth realm"
+    ],
+    "Jamaica": [
+        "sovereign state",
+        "country",
+        "Commonwealth realm",
+        "island nation",
+        "Territorial evolution of the British Empire"
+    ],
+    "Grenada": [
+        "country",
+        "sovereign state",
+        "island nation",
+        "state",
+        "Commonwealth realm"
+    ],
+    "Guatemala": [
+        "sovereign state",
+        "country"
+    ],
+    "Bahamas": [
+        "country",
+        "administrative territorial entity",
+        "Commonwealth realm",
+        "sovereign state",
+        "archipelagic state"
+    ],
+    "Antigua and Barbuda": [
+        "country",
+        "island nation",
+        "state",
+        "monarchy of Antigua and Barbuda",
+        "sovereign state",
+        "Commonwealth realm"
+    ],
+    "Honduras": [
+        "country",
+        "sovereign state"
+    ],
+    "Dominica": [
+        "country",
+        "sovereign state",
+        "island nation"
+    ],
+    "Dominican Republic": [
+        "island nation",
+        "sovereign state",
+        "country"
+    ],
+    "Haiti": [
+        "sovereign state",
+        "island nation",
+        "country"
+    ],
+    "El Salvador": [
+        "country",
+        "sovereign state"
+    ],
+    "Iran": [
+        "Islamic republic",
+        "sovereign state",
+        "country"
+    ],
+    "Iraq": [
+        "sovereign state",
+        "country"
+    ],
+    "Costa Rica": [
+        "sovereign state",
+        "country"
+    ],
+    "Israel": [
+        "country",
+        "sovereign state",
+        "Mediterranean country"
+    ],
+    "Yemen": [
+        "sovereign state",
+        "country"
+    ],
+    "Jordan": [
+        "sovereign state",
+        "country"
+    ],
+    "Nicaragua": [
+        "sovereign state",
+        "country"
+    ],
+    "Kyrgyzstan": [
+        "sovereign state",
+        "landlocked country",
+        "country"
+    ],
+    "Laos": [
+        "country",
+        "sovereign state",
+        "landlocked country",
+        "communist state"
+    ],
+    "Lebanon": [
+        "sovereign state",
+        "Mediterranean country",
+        "country"
+    ],
+    "Maldives": [
+        "sovereign state",
+        "country",
+        "island nation"
+    ],
+    "Malaysia": [
+        "sovereign state",
+        "country",
+        "member states of the Association of Southeast Asian Nations"
+    ],
+    "Myanmar": [
+        "sovereign state",
+        "country"
+    ],
+    "Nepal": [
+        "sovereign state",
+        "landlocked country",
+        "country",
+        "geographic region"
+    ],
+    "Oman": [
+        "country",
+        "sovereign state",
+        "sultanate"
+    ],
+    "Pakistan": [
+        "sovereign state",
+        "country"
+    ],
+    "Qatar": [
+        "emirate",
+        "country",
+        "sovereign state"
+    ],
+    "Saudi Arabia": [
+        "sovereign state",
+        "country"
+    ],
+    "Sri Lanka": [
+        "republic",
+        "sovereign state",
+        "island nation",
+        "country"
+    ],
+    "Syria": [
+        "colony",
+        "country",
+        "Mediterranean country",
+        "sovereign state"
+    ],
+    "Tajikistan": [
+        "sovereign state",
+        "country",
+        "landlocked country",
+        "unitary state"
+    ],
+    "Thailand": [
+        "constitutional monarchy",
+        "sovereign state",
+        "country"
+    ],
+    "Turkmenistan": [
+        "landlocked country",
+        "sovereign state",
+        "country"
+    ],
+    "United Arab Emirates": [
+        "sovereign state",
+        "country"
+    ],
+    "Vietnam": [
+        "country",
+        "sovereign state",
+        "communist state"
+    ],
+    "South Korea": [
+        "country",
+        "sovereign state",
+        "constitutional republic"
+    ],
+    "Afghanistan": [
+        "landlocked country",
+        "Islamic republic",
+        "country",
+        "sovereign state"
+    ],
+    "Bangladesh": [
+        "country",
+        "sovereign state"
+    ],
+    "Mali": [
+        "country",
+        "landlocked country",
+        "sovereign state"
+    ],
+    "Angola": [
+        "sovereign state",
+        "country"
+    ],
+    "Bhutan": [
+        "sovereign state",
+        "country",
+        "landlocked country"
+    ],
+    "Brunei": [
+        "sovereign state",
+        "country"
+    ],
+    "Tanzania": [
+        "sovereign state",
+        "republic",
+        "country"
+    ],
+    "Philippines": [
+        "country",
+        "archipelagic state",
+        "sovereign state"
+    ],
+    "Central African Republic": [
+        "sovereign state",
+        "country",
+        "landlocked country"
+    ],
+    "Togo": [
+        "country",
+        "republic",
+        "sovereign state"
+    ],
+    "Tunisia": [
+        "Mediterranean country",
+        "country",
+        "sovereign state",
+        "republic"
+    ],
+    "Zambia": [
+        "landlocked country",
+        "sovereign state",
+        "republic",
+        "country"
+    ],
+    "Zimbabwe": [
+        "republic",
+        "landlocked country",
+        "country",
+        "sovereign state"
+    ],
+    "South Sudan": [
+        "landlocked country",
+        "sovereign state",
+        "country"
+    ],
+    "Benin": [
+        "sovereign state",
+        "country"
+    ],
+    "Botswana": [
+        "landlocked country",
+        "country",
+        "sovereign state"
+    ],
+    "Burkina Faso": [
+        "landlocked country",
+        "sovereign state",
+        "country"
+    ],
+    "Burundi": [
+        "sovereign state",
+        "country",
+        "landlocked country"
+    ],
+    "Comoros": [
+        "island nation",
+        "sovereign state",
+        "country"
+    ],
+    "Republic of the Congo": [
+        "administrative territorial entity",
+        "country",
+        "sovereign state"
+    ],
+    "Democratic Republic of the Congo": [
+        "country",
+        "sovereign state"
+    ],
+    "Djibouti": [
+        "country",
+        "sovereign state"
+    ],
+    "Eritrea": [
+        "republic",
+        "country",
+        "sovereign state"
+    ],
+    "Gambia": [
+        "country",
+        "sovereign state"
+    ],
+    "Guinea": [
+        "country",
+        "sovereign state"
+    ],
+    "Guinea-Bissau": [
+        "sovereign state",
+        "country"
+    ],
+    "Ivory Coast": [
+        "country",
+        "sovereign state"
+    ],
+    "Cameroon": [
+        "country",
+        "sovereign state"
+    ],
+    "Cape Verde": [
+        "island nation",
+        "country",
+        "sovereign state"
+    ],
+    "Lesotho": [
+        "enclave",
+        "country",
+        "landlocked country",
+        "sovereign state"
+    ],
+    "Liberia": [
+        "republic",
+        "sovereign state",
+        "country"
+    ],
+    "Libya": [
+        "country",
+        "sovereign state",
+        "Mediterranean country"
+    ],
+    "Madagascar": [
+        "island nation",
+        "country",
+        "sovereign state"
+    ],
+    "Malawi": [
+        "sovereign state",
+        "country",
+        "republic",
+        "landlocked country"
+    ],
+    "Mauritania": [
+        "Islamic republic",
+        "sovereign state",
+        "country"
+    ],
+    "Mauritius": [
+        "island nation",
+        "country",
+        "geographic location",
+        "sovereign state",
+        "parliamentary republic",
+        "republic"
+    ],
+    "Morocco": [
+        "sovereign state",
+        "constitutional monarchy",
+        "Mediterranean country",
+        "country"
+    ],
+    "Mozambique": [
+        "sovereign state",
+        "overseas province of Portugal",
+        "country",
+        "republic"
+    ],
+    "Namibia": [
+        "sovereign state",
+        "country",
+        "republic"
+    ],
+    "Niger": [
+        "republic",
+        "sovereign state",
+        "country",
+        "landlocked country"
+    ],
+    "Nigeria": [
+        "sovereign state",
+        "country"
+    ],
+    "Uganda": [
+        "country",
+        "republic",
+        "landlocked country",
+        "sovereign state"
+    ],
+    "Rwanda": [
+        "country",
+        "republic",
+        "landlocked country",
+        "sovereign state"
+    ],
+    "São Tomé and Príncipe": [
+        "republic",
+        "island nation",
+        "sovereign state",
+        "country"
+    ],
+    "Senegal": [
+        "legal state",
+        "administrative territorial entity",
+        "country",
+        "sovereign state",
+        "republic"
+    ],
+    "Seychelles": [
+        "country",
+        "republic",
+        "sovereign state",
+        "island nation"
+    ],
+    "Sierra Leone": [
+        "sovereign state",
+        "republic",
+        "country"
+    ],
+    "Somalia": [
+        "country",
+        "republic",
+        "sovereign state"
+    ],
+    "Sudan": [
+        "sovereign state",
+        "country",
+        "member states of the United Nations",
+        "republic"
+    ],
+    "Eswatini": [
+        "landlocked country",
+        "country",
+        "sovereign state"
+    ],
+    "Kingdom of the Netherlands": [
+        "country",
+        "sovereign state",
+        "kingdom",
+        "colonial power"
+    ],
+    "Tonga": [
+        "island nation",
+        "Territorial evolution of the British Empire",
+        "sovereign state",
+        "country"
+    ],
+    "Taiwan": [
+        "democratic republic",
+        "island nation",
+        "state with limited recognition"
+    ],
+    "Portuguese Empire": [
+        "Empire on which the sun never sets",
+        "colonial empire"
+    ],
+    "Nazi Germany": [
+        "historical period",
+        "historical country",
+        "sovereign state"
+    ],
+    "Holy Roman Empire": [
+        "historical country",
+        "empire1",
+        "sovereign state"
+    ],
+    "Soviet Union": [
+        "sovereign state",
+        "transcontinental country",
+        "historical country",
+        "communist state",
+        "federal republic",
+        "supranational union",
+        "socialist state"
+    ],
+    "German Democratic Republic": [
+        "satellite state",
+        "communist state",
+        "historical country"
+    ],
+    "Kingdom of Prussia": [
+        "sovereign state",
+        "federated state",
+        "historical country"
+    ],
+    "Austria-Hungary": [
+        "historical country",
+        "empire1",
+        "real union",
+        "sovereign state"
+    ],
+    "Czechoslovakia": [
+        "sovereign state",
+        "historical country"
+    ],
+    "Russian Empire": [
+        "sovereign state",
+        "historical country",
+        "transcontinental country",
+        "empire1"
+    ],
+    "Weimar Republic": [
+        "historical period",
+        "historical country"
+    ],
+    "German Empire": [
+        "country",
+        "historical period",
+        "empire",
+        "colonial power",
+        "historical country"
+    ],
+    "Great Britain": [
+        "sovereign state",
+        "historical country",
+        "kingdom"
+    ],
+    "Kingdom of Italy": [
+        "historical country",
+        "sovereign state",
+        "colonial power"
+    ],
+    "United Kingdom of Great Britain and Ireland": [
+        "sovereign state",
+        "colonial power",
+        "historical country"
+    ],
+    "Austrian Empire": [
+        "historical country",
+        "sovereign state"
+    ],
+    "West Germany": [
+        "sovereign state",
+        "historical country"
+    ],
+    "Russian Soviet Federative Socialist Republic": [
+        "sovereign state",
+        "historical country"
+    ],
+    "England": [
+        "cultural area",
+        "constituent part of the United Kingdom",
+        "nation",
+        "country"
+    ],
+    "Hungary": [
+        "country",
+        "landlocked country",
+        "sovereign state"
+    ],
+    "Spain": [
+        "sovereign state",
+        "colonial power",
+        "country",
+        "Mediterranean country",
+        "member state of the European Union",
+        "realm"
+    ],
+    "Belgium": [
+        "country",
+        "sovereign state",
+        "colonial power",
+        "federal state"
+    ],
+    "Luxembourg": [
+        "country",
+        "landlocked country",
+        "sovereign state",
+        "grand duchy",
+        "unitary state"
+    ],
+    "Finland": [
+        "country",
+        "sovereign state",
+        "unitary state",
+        "countries bordering the Baltic Sea"
+    ],
+    "Sweden": [
+        "country",
+        "sovereign state",
+        "unitary state",
+        "countries bordering the Baltic Sea"
+    ],
+    "Lithuania": [
+        "country",
+        "sovereign state",
+        "unitary state",
+        "countries bordering the Baltic Sea"
+    ],
+    "Greece": [
+        "Mediterranean country",
+        "unitary state",
+        "sovereign state",
+        "republic",
+        "country",
+        "member state of the European Union"
+    ],
+    "Russia": [
+        "sovereign state",
+        "transcontinental country",
+        "legal state",
+        "country",
+        "secular state",
+        "great power",
+        "social state",
+        "countries bordering the Baltic Sea"
+    ],
+    "Belarus": [
+        "country",
+        "landlocked country",
+        "unitary state",
+        "republic",
+        "social state",
+        "sovereign state"
+    ],
+    "Iceland": [
+        "sovereign state",
+        "island nation",
+        "country"
+    ],
+    "Estonia": [
+        "sovereign state",
+        "country",
+        "sovereign state",
+        "unitary state",
+        "republic",
+        "countries bordering the Baltic Sea"
+    ],
+    "Ukraine": [
+        "social state",
+        "sovereign state",
+        "republic",
+        "legal state",
+        "unitary state",
+        "country"
+    ],
+    "Slovenia": [
+        "country",
+        "Mediterranean country",
+        "sovereign state"
+    ],
+    "Moldova": [
+        "landlocked country",
+        "unitary state",
+        "sovereign state",
+        "country"
+    ],
+    "North Macedonia": [
+        "country",
+        "sovereign state",
+        "landlocked country"
+    ],
+    "Albania": [
+        "sovereign state",
+        "country",
+        "unitary state",
+        "Mediterranean country",
+        "republic"
+    ],
+    "Bosnia and Herzegovina": [
+        "constitutional republic",
+        "sovereign state",
+        "country",
+        "Mediterranean country"
+    ],
+    "Azerbaijan": [
+        "landlocked country",
+        "administrative territorial entity",
+        "sovereign state",
+        "country"
+    ],
+    "Andorra": [
+        "principality",
+        "country",
+        "landlocked country",
+        "sovereign state"
+    ],
+    "Republic of Cyprus": [
+        "island nation",
+        "sovereign state",
+        "country",
+        "Mediterranean country",
+        "divided country",
+        "state"
+    ],
+    "Georgia": [
+        "republic",
+        "unitary state",
+        "legal state",
+        "sovereign state",
+        "country"
+    ],
+    "Malta": [
+        "island nation",
+        "country",
+        "unitary state",
+        "Mediterranean country",
+        "sovereign state"
+    ],
+    "Monaco": [
+        "unitary state",
+        "Mediterranean country",
+        "sovereign state",
+        "principality",
+        "country",
+        "city-state"
+    ],
+    "Vatican City": [
+        "sovereign state",
+        "city-state",
+        "enclave",
+        "landlocked country",
+        "city",
+        "tourist attraction",
+        "country"
+    ],
+    "San Marino": [
+        "microstate",
+        "enclave",
+        "sovereign state",
+        "landlocked country",
+        "country"
+    ],
+    "Cuba": [
+        "country",
+        "island nation",
+        "communist state",
+        "sovereign state",
+        "unitary state"
+    ],
+    "Belize": [
+        "country",
+        "sovereign state",
+        "Commonwealth realm"
+    ],
+    "Liechtenstein": [
+        "unitary state",
+        "sovereign state",
+        "principality",
+        "state in the Confederation of the Rhine",
+        "country",
+        "landlocked country",
+        "microstate"
+    ],
+    "Armenia": [
+        "landlocked country",
+        "sovereign state",
+        "country"
+    ],
+    "Serbia": [
+        "republic",
+        "sovereign state",
+        "landlocked country",
+        "country"
+    ],
+    "Suriname": [
+        "colony",
+        "sovereign state",
+        "country"
+    ],
+    "Panama": [
+        "sovereign state",
+        "country"
+    ],
+    "Kuwait": [
+        "country",
+        "sovereign state",
+        "sovereign state"
+    ],
+    "Equatorial Guinea": [
+        "Portuguese Empire",
+        "sovereign state",
+        "country"
+    ],
+    "Gabon": [
+        "country",
+        "sovereign state",
+        "French colonial empire"
+    ],
+    "State of Palestine": [
+        "state with limited recognition",
+        "divided country"
+    ],
+    "Kosovo": [
+        "country",
+        "state with limited recognition",
+        "landlocked country",
+        "unitary state",
+        "Slavs"
+    ],
+    "Douglas Adams": [
+        "human"
+    ],
+    "Carl Sagan": [
+        "human"
+    ],
+    "Charles Baudelaire": [
+        "human"
+    ],
+    "Stendhal": [
+        "human",
+        "mononymous person"
+    ],
+    "Émile Zola": [
+        "human"
+    ],
+    "Vladimir Vysotsky": [
+        "human"
+    ],
+    "Victor Hugo": [
+        "human"
+    ],
+    "Patti Smith": [
+        "human"
+    ],
+    "Brigitte Fontaine": [
+        "human"
+    ],
+    "Mikhail Bulgakov": [
+        "human"
+    ],
+    "Joseph Brodsky": [
+        "human"
+    ],
+    "J. R. R. Tolkien": [
+        "human"
+    ],
+    "Franz Kafka": [
+        "human"
+    ],
+    "Jorge Luis Borges": [
+        "human"
+    ],
+    "Albert Einstein": [
+        "human"
+    ],
+    "John Paul II": [
+        "human"
+    ],
+    "Fyodor Dostoyevsky": [
+        "human"
+    ],
+    "Dante Alighieri": [
+        "human"
+    ],
+    "Hector Berlioz": [
+        "human"
+    ],
+    "John Lennon": [
+        "human"
+    ],
+    "Leonard Cohen": [
+        "human"
+    ],
+    "Blaise Pascal": [
+        "human"
+    ],
+    "Robert Louis Stevenson": [
+        "human"
+    ],
+    "Jacques Brel": [
+        "human"
+    ],
+    "Serge Gainsbourg": [
+        "twin",
+        "human"
+    ],
+    "Renaud": [
+        "human"
+    ],
+    "Charles Aznavour": [
+        "human"
+    ],
+    "Tom Hanks": [
+        "human"
+    ],
+    "George Orwell": [
+        "human"
+    ],
+    "George Sand": [
+        "human"
+    ],
+    "Jonathan Winters": [
+        "human"
+    ],
+    "Barbra Streisand": [
+        "human"
+    ],
+    "Herman Melville": [
+        "human"
+    ],
+    "Charles Lyell": [
+        "human"
+    ],
+    "Ernst Mayr": [
+        "human"
+    ],
+    "Lord Byron": [
+        "human"
+    ],
+    "Miguel de Cervantes": [
+        "human"
+    ],
+    "Anton Chekhov": [
+        "human"
+    ],
+    "Charles Dickens": [
+        "human"
+    ],
+    "Pierre-Joseph Proudhon": [
+        "human"
+    ],
+    "Peter Kropotkin": [
+        "human"
+    ],
+    "Che Guevara": [
+        "human"
+    ],
+    "Gabriel García Márquez": [
+        "human"
+    ],
+    "Johann Wolfgang von Goethe": [
+        "human"
+    ],
+    "Søren Kierkegaard": [
+        "human"
+    ],
+    "Jean-Jacques Rousseau": [
+        "human"
+    ],
+    "Stanisław Lem": [
+        "human"
+    ],
+    "Günter Grass": [
+        "human"
+    ],
+    "Jacob Grimm": [
+        "human"
+    ],
+    "Allen Ginsberg": [
+        "human"
+    ],
+    "Wilhelm Grimm": [
+        "human"
+    ],
+    "James Joyce": [
+        "human"
+    ],
+    "Simone de Beauvoir": [
+        "human"
+    ],
+    "Marcel Proust": [
+        "human"
+    ],
+    "Alexander Pushkin": [
+        "human"
+    ],
+    "Rabindranath Tagore": [
+        "human"
+    ],
+    "Leo Tolstoy": [
+        "human"
+    ],
+    "Mark Twain": [
+        "human"
+    ],
+    "Pyotr Ilyich Tchaikovsky": [
+        "human"
+    ],
+    "Robert Schumann": [
+        "human"
+    ],
+    "Leonhard Euler": [
+        "human"
+    ],
+    "Boris Vian": [
+        "human"
+    ],
+    "Augustine of Hippo": [
+        "human"
+    ],
+    "\"Weird Al\" Yankovic": [
+        "human"
+    ],
+    "Kurt Cobain": [
+        "human"
+    ],
+    "Walt Disney": [
+        "human"
+    ],
+    "Satyajit Ray": [
+        "human"
+    ],
+    "Gottfried Wilhelm Leibniz": [
+        "human"
+    ],
+    "Noam Chomsky": [
+        "human"
+    ],
+    "Karl Marx": [
+        "human"
+    ],
+    "C. S. Lewis": [
+        "human"
+    ],
+    "Immanuel Kant": [
+        "human"
+    ],
+    "Guy de Maupassant": [
+        "human"
+    ],
+    "John Locke": [
+        "human"
+    ],
+    "Friedrich Nietzsche": [
+        "human"
+    ],
+    "Jean-Paul Sartre": [
+        "human"
+    ],
+    "Ludwig Wittgenstein": [
+        "human"
+    ],
+    "Thomas Aquinas": [
+        "human"
+    ],
+    "Honoré de Balzac": [
+        "human"
+    ],
+    "Al-Biruni": [
+        "human"
+    ],
+    "Wilhelm Ostwald": [
+        "human"
+    ],
+    "Maxim Gorki": [
+        "human"
+    ],
+    "Umberto Eco": [
+        "human"
+    ],
+    "Paulo Coelho": [
+        "human"
+    ],
+    "George Soros": [
+        "billionaire",
+        "human"
+    ],
+    "John Frederick William Herschel": [
+        "human"
+    ],
+    "Montesquieu": [
+        "human"
+    ],
+    "Melchior de Vogüé": [
+        "human"
+    ],
+    "William Shatner": [
+        "human"
+    ],
+    "Leonard Nimoy": [
+        "human"
+    ],
+    "Tristan Tzara": [
+        "human"
+    ],
+    "Steve Martin": [
+        "human"
+    ],
+    "Edgar Allan Poe": [
+        "human"
+    ],
+    "Donald Knuth": [
+        "human"
+    ],
+    "Stephen Hawking": [
+        "human"
+    ],
+    "Elie Wiesel": [
+        "human"
+    ],
+    "Joseph E. Stiglitz": [
+        "human"
+    ],
+    "Anatoly Lunacharsky": [
+        "human"
+    ],
+    "Samuel P. Huntington": [
+        "human"
+    ],
+    "Fritz Lang": [
+        "human"
+    ],
+    "Maya Angelou": [
+        "human"
+    ],
+    "Ernest Hemingway": [
+        "human"
+    ],
+    "Ricky Gervais": [
+        "human"
+    ],
+    "Larry David": [
+        "human"
+    ],
+    "John Cleese": [
+        "human"
+    ],
+    "Woody Allen": [
+        "human"
+    ],
+    "Pier Paolo Pasolini": [
+        "human"
+    ],
+    "Franco Battiato": [
+        "human"
+    ],
+    "Paul Langevin": [
+        "human"
+    ],
+    "Theodor Mommsen": [
+        "human"
+    ],
+    "Mikhail Bakunin": [
+        "human"
+    ],
+    "Max Brod": [
+        "human"
+    ],
+    "Oscar Wilde": [
+        "human"
+    ],
+    "Bertrand Russell": [
+        "human"
+    ],
+    "Jules Verne": [
+        "human"
+    ],
+    "Aleksandr Solzhenitsyn": [
+        "human"
+    ],
+    "Gotthold Ephraim Lessing": [
+        "human"
+    ],
+    "J. K. Rowling": [
+        "human"
+    ],
+    "Albert Camus": [
+        "human"
+    ],
+    "Rudyard Kipling": [
+        "human"
+    ],
+    "Friedrich Engels": [
+        "human"
+    ],
+    "Benjamin Franklin": [
+        "human"
+    ],
+    "D. H. Lawrence": [
+        "human"
+    ],
+    "Isaac Asimov": [
+        "human"
+    ],
+    "Arthur Conan Doyle": [
+        "human"
+    ],
+    "Václav Havel": [
+        "human"
+    ],
+    "Brigitte Bardot": [
+        "human"
+    ],
+    "Vladimir Nabokov": [
+        "human"
+    ],
+    "Thomas Mann": [
+        "human"
+    ],
+    "David Hume": [
+        "human"
+    ],
+    "Samuel Beckett": [
+        "human"
+    ],
+    "Thomas Hobbes": [
+        "human"
+    ],
+    "T. S. Eliot": [
+        "human"
+    ],
+    "Masiela Lusha": [
+        "human"
+    ],
+    "Lewis Carroll": [
+        "human"
+    ],
+    "Arthur Schopenhauer": [
+        "human"
+    ],
+    "William Faulkner": [
+        "human"
+    ],
+    "Bertolt Brecht": [
+        "human"
+    ],
+    "Richard Feynman": [
+        "human"
+    ],
+    "Carl Peter Thunberg": [
+        "human"
+    ],
+    "Stephen King": [
+        "human"
+    ],
+    "William Butler Yeats": [
+        "human"
+    ],
+    "David Mitchell": [
+        "human"
+    ],
+    "Ray Bradbury": [
+        "human"
+    ],
+    "Doris Lessing": [
+        "human"
+    ],
+    "Virginia Woolf": [
+        "human"
+    ],
+    "Harold Pinter": [
+        "human"
+    ],
+    "Jonathan Swift": [
+        "human"
+    ],
+    "Demi Lovato": [
+        "human"
+    ],
+    "Konstantin Eduardovich Tsiolkovskii": [
+        "human"
+    ],
+    "Wole Soyinka": [
+        "human"
+    ],
+    "William Blake": [
+        "human"
+    ],
+    "Michel de Montaigne": [
+        "human"
+    ],
+    "Henri Bergson": [
+        "human"
+    ],
+    "Mel Gibson": [
+        "human"
+    ],
+    "Michail Sholokhov": [
+        "human"
+    ],
+    "Heinrich Böll": [
+        "human"
+    ],
+    "Johnny Cash": [
+        "human"
+    ],
+    "Ivan Turgenev": [
+        "human"
+    ],
+    "J. M. Coetzee": [
+        "human"
+    ],
+    "Nikolai Gogol": [
+        "human"
+    ],
+    "Carl Orff": [
+        "human"
+    ],
+    "Peter Handke": [
+        "human"
+    ],
+    "Sean Penn": [
+        "human"
+    ],
+    "Salman Rushdie": [
+        "human"
+    ],
+    "Heinrich Heine": [
+        "human"
+    ],
+    "Richard Dawkins": [
+        "human"
+    ],
+    "Selma Lagerlöf": [
+        "human"
+    ],
+    "Konstantin Simonov": [
+        "human"
+    ],
+    "Karl Valentin": [
+        "human"
+    ],
+    "Harald Lesch": [
+        "human"
+    ],
+    "Jack London": [
+        "human"
+    ],
+    "Czesław Miłosz": [
+        "human"
+    ],
+    "Mikhail Lermontov": [
+        "human"
+    ],
+    "Eugène Ionesco": [
+        "human"
+    ],
+    "Octavio Paz": [
+        "human"
+    ],
+    "Ben Stiller": [
+        "human"
+    ],
+    "Mary Shelley": [
+        "human"
+    ],
+    "Romain Rolland": [
+        "human"
+    ],
+    "Condoleezza Rice": [
+        "human"
+    ],
+    "Elfriede Jelinek": [
+        "human"
+    ],
+    "Milton Friedman": [
+        "human"
+    ],
+    "André Gide": [
+        "human"
+    ],
+    "Hu Shih": [
+        "human"
+    ],
+    "Rudolf Christoph Eucken": [
+        "human"
+    ],
+    "Paris Hilton": [
+        "human"
+    ],
+    "Ralph Waldo Emerson": [
+        "human"
+    ],
+    "Whoopi Goldberg": [
+        "human"
+    ],
+    "Hugh Laurie": [
+        "human"
+    ],
+    "Kurt Vonnegut": [
+        "human"
+    ],
+    "Christopher Hitchens": [
+        "human"
+    ],
+    "François-René de Chateaubriand": [
+        "human"
+    ],
+    "John Stuart Mill": [
+        "human"
+    ],
+    "Éric Rohmer": [
+        "human"
+    ],
+    "John Cassavetes": [
+        "human"
+    ],
+    "Peter Ustinov": [
+        "human"
+    ],
+    "Paul Hindemith": [
+        "human"
+    ],
+    "August Wilhelm Schlegel": [
+        "human"
+    ],
+    "Christa Wolf": [
+        "human"
+    ],
+    "Wernher von Braun": [
+        "human"
+    ],
+    "RZA": [
+        "human"
+    ],
+    "Jean-Luc Godard": [
+        "human"
+    ],
+    "Ivan Yefremov": [
+        "human"
+    ],
+    "Nino Manfredi": [
+        "human"
+    ],
+    "Günther Anders": [
+        "human"
+    ],
+    "Walter Benjamin": [
+        "human"
+    ],
+    "Wolfhart Pannenberg": [
+        "human"
+    ],
+    "Erika Mann": [
+        "human"
+    ],
+    "Gustav Landauer": [
+        "human"
+    ],
+    "Abraham Gotthelf Kästner": [
+        "human"
+    ],
+    "Ulrich von Wilamowitz-Moellendorff": [
+        "human"
+    ],
+    "Sebastian Haffner": [
+        "human"
+    ],
+    "Georg Christoph Lichtenberg": [
+        "human"
+    ],
+    "Frank Wedekind": [
+        "human"
+    ],
+    "Gotthelf Fischer von Waldheim": [
+        "human"
+    ],
+    "Georg Forster": [
+        "human"
+    ],
+    "Yehuda Amichai": [
+        "human"
+    ],
+    "Mikhail Vassilyevich Lomonosov": [
+        "human"
+    ],
+    "Hannah Arendt": [
+        "human"
+    ],
+    "Albertus Magnus": [
+        "human"
+    ],
+    "Friedrich Wilhelm Joseph Schelling": [
+        "human"
+    ],
+    "Alexander Alexandrovich Fadeyev": [
+        "human"
+    ],
+    "Alfred Einstein": [
+        "human"
+    ],
+    "Ernst Troeltsch": [
+        "human"
+    ],
+    "Hermann Usener": [
+        "human"
+    ],
+    "Theodor Nöldeke": [
+        "human"
+    ],
+    "Peter Gay": [
+        "human"
+    ],
+    "Henrik Steffens": [
+        "human"
+    ],
+    "Carl Friedrich von Weizsäcker": [
+        "human"
+    ],
+    "Henry Kissinger": [
+        "human"
+    ],
+    "Eugen Rosenstock-Huessy": [
+        "human"
+    ],
+    "Ludwig Geiger": [
+        "human"
+    ],
+    "Wolfgang Schadewaldt": [
+        "human"
+    ],
+    "Harald Weinrich": [
+        "human"
+    ],
+    "Hans Mayer": [
+        "human"
+    ],
+    "Friedrich von Raumer": [
+        "human"
+    ],
+    "Toni Morrison": [
+        "human"
+    ],
+    "Isaac Bashevis Singer": [
+        "human"
+    ],
+    "Charles Bukowski": [
+        "human"
+    ],
+    "Johann Christoph Gottsched": [
+        "human"
+    ],
+    "Erich Kästner": [
+        "human"
+    ],
+    "Manfred Eigen": [
+        "human"
+    ],
+    "August Schleicher": [
+        "human"
+    ],
+    "Athanasius Kircher": [
+        "human"
+    ],
+    "Karl Mannheim": [
+        "human"
+    ],
+    "Lion Feuchtwanger": [
+        "human"
+    ],
+    "Dietrich Fischer-Dieskau": [
+        "human"
+    ],
+    "Klaus Mann": [
+        "human"
+    ],
+    "Golo Mann": [
+        "human"
+    ],
+    "Leopold von Ranke": [
+        "human"
+    ],
+    "Wilhelm von Humboldt": [
+        "human"
+    ],
+    "Anna Akhmatova": [
+        "human"
+    ],
+    "Arthur Miller": [
+        "human"
+    ],
+    "Charlton Heston": [
+        "human"
+    ],
+    "John Travolta": [
+        "human"
+    ],
+    "Karl Popper": [
+        "human"
+    ],
+    "John Keats": [
+        "human"
+    ],
+    "Joseph Conrad": [
+        "human"
+    ],
+    "Saul Bellow": [
+        "human"
+    ],
+    "Jean Cocteau": [
+        "human"
+    ],
+    "James D. Watson": [
+        "human"
+    ],
+    "Eleanor Roosevelt": [
+        "human"
+    ],
+    "Ivan Illich": [
+        "human"
+    ],
+    "Martin Buber": [
+        "human"
+    ],
+    "Robert Musil": [
+        "human"
+    ],
+    "Stefan Zweig": [
+        "human"
+    ],
+    "Tomáš Garrigue Masaryk": [
+        "human"
+    ],
+    "Konrad Lorenz": [
+        "human"
+    ],
+    "Ingeborg Bachmann": [
+        "human"
+    ],
+    "Carl Djerassi": [
+        "human"
+    ],
+    "Walter Scott": [
+        "human"
+    ],
+    "Wilhelm Blaschke": [
+        "human"
+    ],
+    "John Milton": [
+        "human"
+    ],
+    "Emma Goldman": [
+        "human"
+    ],
+    "Dmitri Shostakovich": [
+        "human"
+    ],
+    "Hugo Huppert": [
+        "human"
+    ],
+    "Milan Kundera": [
+        "human"
+    ],
+    "Percy Bysshe Shelley": [
+        "human"
+    ],
+    "Seamus Heaney": [
+        "human"
+    ],
+    "Franz Miklosich": [
+        "human"
+    ],
+    "Bob Hope": [
+        "human"
+    ],
+    "Ginger Rogers": [
+        "human"
+    ],
+    "Benoit Mandelbrot": [
+        "human"
+    ],
+    "Buckminster Fuller": [
+        "human"
+    ],
+    "Lauren Bacall": [
+        "human"
+    ],
+    "Sidney Poitier": [
+        "human"
+    ],
+    "Mickey Rooney": [
+        "human"
+    ],
+    "Mary Pickford": [
+        "human"
+    ],
+    "Dennis Hopper": [
+        "human"
+    ],
+    "Yul Brynner": [
+        "human"
+    ],
+    "Michel Houellebecq": [
+        "human"
+    ],
+    "Mel Brooks": [
+        "human"
+    ],
+    "Harold Lloyd": [
+        "human"
+    ],
+    "Sidney Sheldon": [
+        "human"
+    ],
+    "John Denver": [
+        "human"
+    ],
+    "John Updike": [
+        "human"
+    ],
+    "Dorothy L. Sayers": [
+        "human"
+    ],
+    "Evelyn Waugh": [
+        "human"
+    ],
+    "Carrie Fisher": [
+        "human"
+    ],
+    "Alan Arkin": [
+        "human"
+    ],
+    "Max Frisch": [
+        "human"
+    ],
+    "Nicholas Marr": [
+        "human"
+    ],
+    "Oswald Heer": [
+        "human"
+    ],
+    "Howard Zinn": [
+        "human"
+    ],
+    "Richard Francis Burton": [
+        "human"
+    ],
+    "Thomas Paine": [
+        "human"
+    ],
+    "Claude Lévi-Strauss": [
+        "human"
+    ],
+    "Graham Greene": [
+        "human"
+    ],
+    "Ricky Martin": [
+        "human"
+    ],
+    "Jacques Derrida": [
+        "human"
+    ],
+    "Alanis Morissette": [
+        "human"
+    ],
+    "Paul Krugman": [
+        "human"
+    ],
+    "Henry David Thoreau": [
+        "human"
+    ],
+    "Janet Jackson": [
+        "human"
+    ],
+    "George Eliot": [
+        "human"
+    ],
+    "Tina Turner": [
+        "human"
+    ],
+    "Adam Sandler": [
+        "human"
+    ],
+    "Vladimir Mayakovsky": [
+        "human"
+    ],
+    "Truman Capote": [
+        "human"
+    ],
+    "Yukio Mishima": [
+        "human"
+    ],
+    "Haruki Murakami": [
+        "human"
+    ],
+    "Lev Gumilyov": [
+        "human"
+    ],
+    "Alexis de Tocqueville": [
+        "human"
+    ],
+    "E. T. A. Hoffmann": [
+        "human"
+    ],
+    "George Carlin": [
+        "human"
+    ],
+    "André Malraux": [
+        "human"
+    ],
+    "Thomas Carlyle": [
+        "human"
+    ],
+    "György Lukács": [
+        "human"
+    ],
+    "Olivier Messiaen": [
+        "human"
+    ],
+    "Melanie C": [
+        "human"
+    ],
+    "Amos Oz": [
+        "human"
+    ],
+    "George Tabori": [
+        "human"
+    ],
+    "Theodor W. Adorno": [
+        "human"
+    ],
+    "Henry Wadsworth Longfellow": [
+        "human"
+    ],
+    "Susan Sontag": [
+        "human"
+    ],
+    "Jean Le Rond d'Alembert": [
+        "human"
+    ],
+    "Marguerite Duras": [
+        "human"
+    ],
+    "Gabriel Marcel": [
+        "human"
+    ],
+    "Albert Lortzing": [
+        "human"
+    ],
+    "Carlos Fuentes": [
+        "human"
+    ],
+    "Italo Calvino": [
+        "human"
+    ],
+    "Sven Hedin": [
+        "human"
+    ],
+    "Arnold Schoenberg": [
+        "human"
+    ],
+    "Hugo Grotius": [
+        "human"
+    ],
+    "Karel Čapek": [
+        "human"
+    ],
+    "Pierre Boulez": [
+        "human"
+    ],
+    "Roman Jakobson": [
+        "human"
+    ],
+    "Adolf Erik Nordenskiöld": [
+        "human"
+    ],
+    "Yehudi Menuhin": [
+        "human"
+    ],
+    "Ernest Renan": [
+        "human"
+    ],
+    "Friedrich Schlegel": [
+        "human"
+    ],
+    "Leszek Kołakowski": [
+        "human"
+    ],
+    "Romain Gary": [
+        "human"
+    ],
+    "François Guizot": [
+        "human"
+    ],
+    "Idina Menzel": [
+        "human"
+    ],
+    "W.E.B. Du Bois": [
+        "human"
+    ],
+    "Pavel Jozef Šafárik": [
+        "human"
+    ],
+    "Jan Evangelista Purkyně": [
+        "human"
+    ],
+    "František Palacký": [
+        "human"
+    ],
+    "Prosper Mérimée": [
+        "human"
+    ],
+    "Raymond Aron": [
+        "human"
+    ],
+    "Zbigniew Herbert": [
+        "human"
+    ],
+    "Ezra Pound": [
+        "human"
+    ],
+    "Simon Newcomb": [
+        "human"
+    ],
+    "Jean Gaston Darboux": [
+        "human"
+    ],
+    "Jacques Rivette": [
+        "human"
+    ],
+    "Gore Vidal": [
+        "human"
+    ],
+    "John Desmond Bernal": [
+        "human"
+    ],
+    "Jérôme Lalande": [
+        "human"
+    ],
+    "David Brewster": [
+        "human"
+    ],
+    "Robert Frost": [
+        "human"
+    ],
+    "Zdeněk Nejedlý": [
+        "human"
+    ],
+    "Henry James": [
+        "human"
+    ],
+    "Omar Sharif": [
+        "human"
+    ],
+    "Viggo Mortensen": [
+        "human"
+    ],
+    "Jamie Foxx": [
+        "human"
+    ],
+    "Georges Cuvier": [
+        "human"
+    ],
+    "Julio Cortázar": [
+        "human"
+    ],
+    "Jennifer Love Hewitt": [
+        "human"
+    ],
+    "Walker Percy": [
+        "human"
+    ],
+    "W. H. Auden": [
+        "human"
+    ],
+    "John Ruskin": [
+        "human"
+    ],
+    "Steven Weinberg": [
+        "human"
+    ],
+    "Christopher Lee": [
+        "human"
+    ],
+    "Stephen Jay Gould": [
+        "human"
+    ],
+    "John Cage": [
+        "human"
+    ],
+    "Norman Mailer": [
+        "human"
+    ],
+    "Fazil Iskander": [
+        "human"
+    ],
+    "Ursula K. Le Guin": [
+        "human"
+    ],
+    "Leon Battista Alberti": [
+        "human"
+    ],
+    "William Morris": [
+        "human"
+    ],
+    "G. K. Chesterton": [
+        "human"
+    ],
+    "Samuel Johnson": [
+        "human"
+    ],
+    "Fred Hoyle": [
+        "human"
+    ],
+    "Margaret Atwood": [
+        "human"
+    ],
+    "Veniamin Smekhov": [
+        "human"
+    ],
+    "Gilles Deleuze": [
+        "human"
+    ],
+    "Thomas Henry Huxley": [
+        "human"
+    ],
+    "Jorge Amado": [
+        "human"
+    ],
+    "Sofia Kovalevskaya": [
+        "human"
+    ],
+    "Mylène Farmer": [
+        "human"
+    ],
+    "Miguel de Unamuno": [
+        "human"
+    ],
+    "Emmanuel Swedenborg": [
+        "human"
+    ],
+    "Billy Crystal": [
+        "human"
+    ],
+    "Philip Roth": [
+        "human"
+    ],
+    "Dave Mustaine": [
+        "human"
+    ],
+    "Antonin Artaud": [
+        "human"
+    ],
+    "Ayumi Hamasaki": [
+        "human"
+    ],
+    "J. J. Abrams": [
+        "human"
+    ],
+    "William S. Burroughs": [
+        "human"
+    ],
+    "Seth MacFarlane": [
+        "human"
+    ],
+    "Andrey Korotayev": [
+        "human"
+    ],
+    "Keith Richards": [
+        "human"
+    ],
+    "Ivan Goncharov": [
+        "human"
+    ],
+    "Osip Mandelstam": [
+        "human"
+    ],
+    "Philip Pullman": [
+        "human"
+    ],
+    "Ian McEwan": [
+        "human"
+    ],
+    "Liv Ullmann": [
+        "human"
+    ],
+    "Ivan Andreyevich Krylov": [
+        "human"
+    ],
+    "Robert McNamara": [
+        "human"
+    ],
+    "Aaron Copland": [
+        "human"
+    ],
+    "Aleksey Nikolayevich Tolstoy": [
+        "human"
+    ],
+    "Benedetto Croce": [
+        "human"
+    ],
+    "Nick Cave": [
+        "human"
+    ],
+    "Stephen Fry": [
+        "human"
+    ],
+    "Roger Penrose": [
+        "human"
+    ],
+    "Paul Valéry": [
+        "human"
+    ],
+    "Alexander Ivanovich Herzen": [
+        "human"
+    ],
+    "Jean-Antoine-Nicolas de Caritat de Condorcet": [
+        "human"
+    ],
+    "Edward Said": [
+        "human"
+    ],
+    "Robert Graves": [
+        "human"
+    ],
+    "Mae West": [
+        "human"
+    ],
+    "Yevgeny Zamyatin": [
+        "human"
+    ],
+    "Theo van Gogh": [
+        "human"
+    ],
+    "Willie Nelson": [
+        "human"
+    ],
+    "A. A. Milne": [
+        "human"
+    ],
+    "L. Frank Baum": [
+        "human"
+    ],
+    "Joseph Heller": [
+        "human"
+    ],
+    "Sergey Mikhalkov": [
+        "human"
+    ],
+    "Bella Thorne": [
+        "human"
+    ],
+    "Telly Savalas": [
+        "human"
+    ],
+    "Neil Gaiman": [
+        "human"
+    ],
+    "Eric Idle": [
+        "human"
+    ],
+    "Bill Cosby": [
+        "human"
+    ],
+    "Karl Lachmann": [
+        "human"
+    ],
+    "Paul Auster": [
+        "human"
+    ],
+    "Nora Ephron": [
+        "human"
+    ],
+    "Alice Walker": [
+        "human"
+    ],
+    "Yeshayahu Leibowitz": [
+        "human"
+    ],
+    "Tom Wolfe": [
+        "human"
+    ],
+    "Ludvig Holberg": [
+        "human"
+    ],
+    "La Toya Jackson": [
+        "human"
+    ],
+    "Joyce Carol Oates": [
+        "human"
+    ],
+    "Anthony Burgess": [
+        "human"
+    ],
+    "Kingsley Amis": [
+        "human"
+    ],
+    "Seth Rogen": [
+        "human"
+    ],
+    "Zora Neale Hurston": [
+        "human"
+    ],
+    "Ján Kollár": [
+        "human"
+    ],
+    "Bud Spencer": [
+        "human"
+    ],
+    "Courtney Love": [
+        "human"
+    ],
+    "Erykah Badu": [
+        "human"
+    ],
+    "William H. Macy": [
+        "human"
+    ],
+    "Alphonse Daudet": [
+        "human"
+    ],
+    "Jada Pinkett Smith": [
+        "human"
+    ],
+    "Fiona Apple": [
+        "human"
+    ],
+    "Jewel": [
+        "human"
+    ],
+    "Georges-Louis Leclerc, Comte de Buffon": [
+        "human"
+    ],
+    "Ève Curie": [
+        "human"
+    ],
+    "Emilie Autumn": [
+        "human"
+    ],
+    "Galina Vishnevskaya": [
+        "human"
+    ],
+    "Khloé Kardashian": [
+        "human"
+    ],
+    "Angélique Kidjo": [
+        "human"
+    ],
+    "Bhimrao Ramji Ambedkar": [
+        "human"
+    ],
+    "Natalie Cole": [
+        "human"
+    ],
+    "Asia Argento": [
+        "human"
+    ],
+    "Anna Karina": [
+        "human"
+    ],
+    "Ani DiFranco": [
+        "human"
+    ],
+    "Jill Scott": [
+        "human"
+    ],
+    "Severo Ochoa": [
+        "human"
+    ],
+    "Ani Lorak": [
+        "human"
+    ],
+    "Penny Marshall": [
+        "human"
+    ],
+    "George Santayana": [
+        "human"
+    ],
+    "Priscilla Presley": [
+        "human"
+    ],
+    "Laurie Anderson": [
+        "human"
+    ],
+    "Janis Ian": [
+        "human"
+    ],
+    "Elizabeth Bishop": [
+        "human"
+    ],
+    "Bulat Okudzhava": [
+        "human"
+    ],
+    "Amanda Palmer": [
+        "human"
+    ],
+    "Joan Rivers": [
+        "human"
+    ],
+    "Bret Easton Ellis": [
+        "human"
+    ],
+    "Dino Buzzati": [
+        "human"
+    ],
+    "Zemfira": [
+        "human"
+    ],
+    "John Turturro": [
+        "human"
+    ],
+    "William Styron": [
+        "human"
+    ],
+    "Theodosius Dobzhansky": [
+        "human"
+    ],
+    "Elvis Presley": [
+        "human",
+        "twin"
+    ],
+    "Bob Dylan": [
+        "human"
+    ],
+    "Neil Young": [
+        "human"
+    ],
+    "Andrei Tarkovsky": [
+        "human"
+    ],
+    "Charlie Chaplin": [
+        "human"
+    ],
+    "Cyndi Lauper": [
+        "human"
+    ],
+    "Louis Armstrong": [
+        "human"
+    ],
+    "David Lynch": [
+        "human"
+    ],
+    "Paul McCartney": [
+        "human"
+    ],
+    "Ringo Starr": [
+        "human"
+    ],
+    "George Harrison": [
+        "human"
+    ],
+    "Bruce Willis": [
+        "human"
+    ],
+    "Paul Simon": [
+        "human"
+    ],
+    "Art Garfunkel": [
+        "human"
+    ],
+    "CeeLo Green": [
+        "human"
+    ],
+    "Jennette McCurdy": [
+        "human"
+    ],
+    "Marlene Dietrich": [
+        "human"
+    ],
+    "Corbin Bleu": [
+        "human"
+    ],
+    "Miranda Cosgrove": [
+        "human"
+    ],
+    "Céline Dion": [
+        "human"
+    ],
+    "David Bowie": [
+        "human"
+    ],
+    "Eminem": [
+        "human"
+    ],
+    "James Brown": [
+        "human"
+    ],
+    "Dr. Dre": [
+        "human"
+    ],
+    "Tupac Shakur": [
+        "human"
+    ],
+    "Lena Meyer-Landrut": [
+        "human"
+    ],
+    "Ingmar Bergman": [
+        "human"
+    ],
+    "Ronald Reagan": [
+        "human"
+    ],
+    "Aaliyah": [
+        "human"
+    ],
+    "Judy Garland": [
+        "human"
+    ],
+    "Kevin Costner": [
+        "human"
+    ],
+    "Kylie Minogue": [
+        "human"
+    ],
+    "Cher": [
+        "human"
+    ],
+    "Angelina Jolie": [
+        "human"
+    ],
+    "Liza Minnelli": [
+        "human"
+    ],
+    "Brian May": [
+        "human"
+    ],
+    "Victoria Beckham": [
+        "human"
+    ],
+    "Selena": [
+        "human"
+    ],
+    "Ilya Oleynikov": [
+        "human"
+    ],
+    "Kevin Spacey": [
+        "human"
+    ],
+    "James Maslow": [
+        "human"
+    ],
+    "Lionel Richie": [
+        "human"
+    ],
+    "Taylor Swift": [
+        "human"
+    ],
+    "Sacha Baron Cohen": [
+        "human"
+    ],
+    "Avril Lavigne": [
+        "human"
+    ],
+    "Ellie Goulding": [
+        "human"
+    ],
+    "Valery Leontiev": [
+        "human"
+    ],
+    "Drake": [
+        "human"
+    ],
+    "Justin Bieber": [
+        "human"
+    ],
+    "Whitney Houston": [
+        "human"
+    ],
+    "Shakira": [
+        "human"
+    ],
+    "Brad Pitt": [
+        "human"
+    ],
+    "Glukoza": [
+        "human"
+    ],
+    "Diana Ross": [
+        "human"
+    ],
+    "Robert De Niro": [
+        "human"
+    ],
+    "Lana Del Rey": [
+        "human"
+    ],
+    "Natalie Portman": [
+        "human"
+    ],
+    "Mos Def": [
+        "human"
+    ],
+    "Ronny Cox": [
+        "human"
+    ],
+    "Will Smith": [
+        "human"
+    ],
+    "Frank Sinatra": [
+        "human"
+    ],
+    "Jodie Foster": [
+        "human"
+    ],
+    "Christina Aguilera": [
+        "human"
+    ],
+    "James Cameron": [
+        "human"
+    ],
+    "Dima Bilan": [
+        "human"
+    ],
+    "Clint Eastwood": [
+        "human"
+    ],
+    "Jim Morrison": [
+        "human"
+    ],
+    "Trey Parker": [
+        "human"
+    ],
+    "Rainer Werner Fassbinder": [
+        "human"
+    ],
+    "Gackt": [
+        "human"
+    ],
+    "Eric Burdon": [
+        "human"
+    ],
+    "John Legend": [
+        "human"
+    ],
+    "John Cale": [
+        "human"
+    ],
+    "Enrique Iglesias": [
+        "human"
+    ],
+    "Ed Sheeran": [
+        "human"
+    ],
+    "Morgan Freeman": [
+        "human"
+    ],
+    "Cass Elliot": [
+        "human"
+    ],
+    "Jean Renoir": [
+        "human"
+    ],
+    "Yuri Shevchuk": [
+        "human"
+    ],
+    "Spike Lee": [
+        "human"
+    ],
+    "Chord Overstreet": [
+        "human"
+    ],
+    "Nikita Mikhalkov": [
+        "human"
+    ],
+    "Andrei Konchalovsky": [
+        "human"
+    ],
+    "Lily Allen": [
+        "human"
+    ],
+    "Busta Rhymes": [
+        "human"
+    ],
+    "Bing Crosby": [
+        "human"
+    ],
+    "Gene Kelly": [
+        "human"
+    ],
+    "Kirsten Dunst": [
+        "human"
+    ],
+    "Helge Schneider": [
+        "human"
+    ],
+    "Thomas Anders": [
+        "human"
+    ],
+    "Peter Lorre": [
+        "human"
+    ],
+    "Nelly Furtado": [
+        "human"
+    ],
+    "Alla Pugacheva": [
+        "human"
+    ],
+    "Cliff Richard": [
+        "human"
+    ],
+    "Selena Gomez": [
+        "human"
+    ],
+    "Robin Williams": [
+        "human"
+    ],
+    "Miles Davis": [
+        "human"
+    ],
+    "Fred Astaire": [
+        "human"
+    ],
+    "Billie Holiday": [
+        "human"
+    ],
+    "Ed Harris": [
+        "human"
+    ],
+    "Herbie Hancock": [
+        "human"
+    ],
+    "Jean Yanne": [
+        "human"
+    ],
+    "Julie Delpy": [
+        "human"
+    ],
+    "John Lydon": [
+        "human"
+    ],
+    "Jeff Goldblum": [
+        "human"
+    ],
+    "Richard Harris": [
+        "human"
+    ],
+    "Count Basie": [
+        "human"
+    ],
+    "Vince Vaughn": [
+        "human"
+    ],
+    "Jim Belushi": [
+        "human"
+    ],
+    "Elmer Bernstein": [
+        "human"
+    ],
+    "Lena Horne": [
+        "human"
+    ],
+    "Wiz Khalifa": [
+        "human"
+    ],
+    "Robbie Robertson": [
+        "human"
+    ],
+    "Sergey Kuryokhin": [
+        "human"
+    ],
+    "Alicia Keys": [
+        "human"
+    ],
+    "Vanessa Hudgens": [
+        "human"
+    ],
+    "Nyusha": [
+        "human"
+    ],
+    "Frank Zappa": [
+        "human"
+    ],
+    "Mick Jagger": [
+        "human"
+    ],
+    "Maria Callas": [
+        "human"
+    ],
+    "Al Jolson": [
+        "human"
+    ],
+    "Ruslana": [
+        "human"
+    ],
+    "Alexander Rybak": [
+        "human"
+    ],
+    "Nat King Cole": [
+        "human"
+    ],
+    "Phil Collins": [
+        "human"
+    ],
+    "Jon Bon Jovi": [
+        "human"
+    ],
+    "Katerina Graham": [
+        "human"
+    ],
+    "Sarah Brightman": [
+        "human"
+    ],
+    "Ariana Grande": [
+        "human"
+    ],
+    "Josephine Baker": [
+        "human"
+    ],
+    "Keri Hilson": [
+        "human"
+    ],
+    "Meat Loaf": [
+        "human"
+    ],
+    "Michael Bublé": [
+        "human"
+    ],
+    "Nena": [
+        "human"
+    ],
+    "Missy Elliott": [
+        "human"
+    ],
+    "Toni Braxton": [
+        "human"
+    ],
+    "Kid Rock": [
+        "human"
+    ],
+    "Gilbert Bécaud": [
+        "human"
+    ],
+    "Ashanti": [
+        "human"
+    ],
+    "Glen Campbell": [
+        "human"
+    ],
+    "Mark Wahlberg": [
+        "human"
+    ],
+    "Ava Gardner": [
+        "human"
+    ],
+    "Robert Downey, Jr.": [
+        "human"
+    ],
+    "Lucio Dalla": [
+        "human"
+    ],
+    "Nicole Scherzinger": [
+        "human"
+    ],
+    "Jessica Simpson": [
+        "human"
+    ],
+    "Milla Jovovich": [
+        "human"
+    ],
+    "Ice Cube": [
+        "human"
+    ],
+    "Jeff Bridges": [
+        "human"
+    ],
+    "Sonny Bono": [
+        "human"
+    ],
+    "Timbaland": [
+        "human"
+    ],
+    "Lenny Kravitz": [
+        "human"
+    ],
+    "Carly Simon": [
+        "human"
+    ],
+    "Iggy Pop": [
+        "human"
+    ],
+    "David Attenborough": [
+        "human"
+    ],
+    "Kelly Rowland": [
+        "human"
+    ],
+    "Martin Sheen": [
+        "human"
+    ],
+    "Gloria Estefan": [
+        "human"
+    ],
+    "Paula Abdul": [
+        "human"
+    ],
+    "Mike Myers": [
+        "human"
+    ],
+    "Marilyn Manson": [
+        "human"
+    ],
+    "Mika": [
+        "human"
+    ],
+    "Mandy Moore": [
+        "human"
+    ],
+    "Jan Rubes": [
+        "human"
+    ],
+    "Lucy Liu": [
+        "human"
+    ],
+    "Goldie Hawn": [
+        "human"
+    ],
+    "Dannii Minogue": [
+        "human"
+    ],
+    "Raven-Symoné": [
+        "human"
+    ],
+    "Lou Reed": [
+        "human"
+    ],
+    "Joe Cocker": [
+        "human"
+    ],
+    "Adam Lambert": [
+        "human"
+    ],
+    "Bette Midler": [
+        "human"
+    ],
+    "Joe Jonas": [
+        "human"
+    ],
+    "Zooey Deschanel": [
+        "human"
+    ],
+    "Danny Glover": [
+        "human"
+    ],
+    "Jennifer Hudson": [
+        "human"
+    ],
+    "Taylor Momsen": [
+        "human"
+    ],
+    "Ne-Yo": [
+        "human"
+    ],
+    "Steven Tyler": [
+        "human"
+    ],
+    "Sandy": [
+        "human"
+    ],
+    "Adriano Celentano": [
+        "human"
+    ],
+    "Sheryl Crow": [
+        "human"
+    ],
+    "Nick Jonas": [
+        "human"
+    ],
+    "Bill Haley": [
+        "human"
+    ],
+    "David Ogden Stiers": [
+        "human"
+    ],
+    "Billy Bob Thornton": [
+        "human"
+    ],
+    "Vanessa Williams": [
+        "human"
+    ],
+    "Ciara": [
+        "human"
+    ],
+    "Debby Ryan": [
+        "human"
+    ],
+    "M.I.A.": [
+        "human"
+    ],
+    "Anthony Kiedis": [
+        "human"
+    ],
+    "Isaac Hayes": [
+        "human"
+    ],
+    "Gene Simmons": [
+        "human"
+    ],
+    "Kris Kristofferson": [
+        "human"
+    ],
+    "Ike Turner": [
+        "human"
+    ],
+    "Kevin Jonas": [
+        "human"
+    ],
+    "Johnny Hallyday": [
+        "human"
+    ],
+    "Bridgit Mendler": [
+        "human"
+    ],
+    "Lauryn Hill": [
+        "human"
+    ],
+    "Andy Williams": [
+        "human"
+    ],
+    "Jan Josef Liefers": [
+        "human"
+    ],
+    "Nino Rota": [
+        "human"
+    ],
+    "John Mayer": [
+        "human"
+    ],
+    "Carrie Underwood": [
+        "human"
+    ],
+    "Bryan Ferry": [
+        "human"
+    ],
+    "Steve Carell": [
+        "human"
+    ],
+    "Garth Brooks": [
+        "human"
+    ],
+    "Connie Francis": [
+        "human"
+    ],
+    "Paul Anka": [
+        "human"
+    ],
+    "Deryck Whibley": [
+        "human"
+    ],
+    "Kenny Rogers": [
+        "human"
+    ],
+    "Joss Stone": [
+        "human"
+    ],
+    "Violetta Villas": [
+        "human"
+    ],
+    "Carole King": [
+        "human"
+    ],
+    "Nelly": [
+        "human"
+    ],
+    "Adam Levine": [
+        "human"
+    ],
+    "Emma Bunton": [
+        "human"
+    ],
+    "Jaden Smith": [
+        "human"
+    ],
+    "Brian Molko": [
+        "human"
+    ],
+    "Zoë Kravitz": [
+        "human"
+    ],
+    "Lea Michele": [
+        "human"
+    ],
+    "Dianna Agron": [
+        "human"
+    ],
+    "Julia Volkova": [
+        "human"
+    ],
+    "Mary J. Blige": [
+        "human"
+    ],
+    "Sarah Silverman": [
+        "human"
+    ],
+    "Peggy Lee": [
+        "human"
+    ],
+    "Michelle Williams": [
+        "human"
+    ],
+    "Katharine McPhee": [
+        "human"
+    ],
+    "Linda Ronstadt": [
+        "human"
+    ],
+    "Lil' Kim": [
+        "human"
+    ],
+    "Meaghan Jette Martin": [
+        "human"
+    ],
+    "Sara Bareilles": [
+        "human"
+    ],
+    "k.d. lang": [
+        "human"
+    ],
+    "Christina Milian": [
+        "human"
+    ],
+    "China Anne McClain": [
+        "human"
+    ],
+    "Joan Jett": [
+        "human"
+    ],
+    "Charlotte Church": [
+        "human"
+    ],
+    "Monica": [
+        "human"
+    ],
+    "Julieta Venegas": [
+        "human"
+    ],
+    "Macy Gray": [
+        "human"
+    ],
+    "June Carter Cash": [
+        "human"
+    ],
+    "Amerie": [
+        "human"
+    ],
+    "Dee Dee Bridgewater": [
+        "human"
+    ],
+    "Lisa Lopes": [
+        "human"
+    ],
+    "Mýa": [
+        "human"
+    ],
+    "Debbie Gibson": [
+        "human"
+    ],
+    "Kate Voegele": [
+        "human"
+    ],
+    "Irene Cara": [
+        "human"
+    ],
+    "Janelle Monáe": [
+        "human"
+    ],
+    "Rebbie Jackson": [
+        "human"
+    ],
+    "Suzi Quatro": [
+        "human"
+    ],
+    "Yo-Yo Ma": [
+        "human"
+    ],
+    "Gladys Knight": [
+        "human"
+    ],
+    "Melanie Brown": [
+        "human"
+    ],
+    "AJ Michalka": [
+        "human"
+    ],
+    "Alyson Michalka": [
+        "human"
+    ],
+    "Petula Clark": [
+        "human"
+    ],
+    "Faith Evans": [
+        "human"
+    ],
+    "Stacie Orrico": [
+        "human"
+    ],
+    "Lisa Loeb": [
+        "human"
+    ],
+    "Jay Chou": [
+        "human"
+    ],
+    "Hayley Kiyoko": [
+        "human"
+    ],
+    "Aimee Mann": [
+        "human"
+    ],
+    "Alexz Johnson": [
+        "human"
+    ],
+    "Tina Arena": [
+        "human"
+    ],
+    "Angie Stone": [
+        "human"
+    ],
+    "Milva": [
+        "human"
+    ],
+    "Ayọ": [
+        "human"
+    ],
+    "Janel Parrish": [
+        "human"
+    ],
+    "Laura Marano": [
+        "human"
+    ],
+    "Jason Derulo": [
+        "human"
+    ],
+    "Wang Leehom": [
+        "human"
+    ],
+    "Waylon Jennings": [
+        "human"
+    ],
+    "Melissa Auf der Maur": [
+        "human"
+    ],
+    "Sabrina Bryan": [
+        "human"
+    ],
+    "LeToya Luckett": [
+        "human"
+    ],
+    "Drake Bell": [
+        "human"
+    ],
+    "Keren Ann": [
+        "human"
+    ],
+    "Chris Rea": [
+        "human"
+    ],
+    "Cree Summer": [
+        "human"
+    ],
+    "Alejandro Jodorowsky": [
+        "human"
+    ],
+    "Rita Lee": [
+        "human"
+    ],
+    "Don Rickles": [
+        "human"
+    ],
+    "David Mamet": [
+        "human"
+    ],
+    "Kiely Williams": [
+        "human"
+    ],
+    "Alsou": [
+        "human"
+    ],
+    "Jack White": [
+        "human"
+    ],
+    "R. Kelly": [
+        "human"
+    ],
+    "Tionne Watkins": [
+        "human"
+    ],
+    "Herbert Grönemeyer": [
+        "human"
+    ],
+    "Julie Driscoll": [
+        "human"
+    ],
+    "Andriy Danylko": [
+        "human"
+    ],
+    "Charlotte Gainsbourg": [
+        "human"
+    ],
+    "Sergei Gerasimov": [
+        "human"
+    ],
+    "Vladimir Solovyov": [
+        "human"
+    ],
+    "Harry Nilsson": [
+        "human"
+    ],
+    "Edvard Radzinsky": [
+        "human"
+    ],
+    "Yvonne De Carlo": [
+        "human"
+    ],
+    "Rob Reiner": [
+        "human"
+    ],
+    "Felipe Colombo": [
+        "human"
+    ],
+    "Sky Ferreira": [
+        "human"
+    ],
+    "Barbara Mandrell": [
+        "human"
+    ],
+    "Lea Salonga": [
+        "human"
+    ],
+    "Neil Diamond": [
+        "human"
+    ],
+    "Darren Criss": [
+        "human"
+    ],
+    "MC Hammer": [
+        "human"
+    ],
+    "Russell Brand": [
+        "human"
+    ],
+    "Beatriz Luengo": [
+        "human"
+    ],
+    "Yevgeny Yevtushenko": [
+        "human"
+    ],
+    "Yasmina Reza": [
+        "human"
+    ],
+    "Sammy Davis Jr.": [
+        "human"
+    ],
+    "Joss Whedon": [
+        "human"
+    ],
+    "Willow Smith": [
+        "human"
+    ],
+    "Rob Zombie": [
+        "human"
+    ],
+    "Noël Coward": [
+        "human"
+    ],
+    "Clive Barker": [
+        "human"
+    ],
+    "Billy Connolly": [
+        "human"
+    ],
+    "Kid Cudi": [
+        "human"
+    ],
+    "Barry Manilow": [
+        "human"
+    ],
+    "Ricky Nelson": [
+        "human"
+    ],
+    "Hyde": [
+        "human"
+    ],
+    "James Franco": [
+        "human"
+    ],
+    "Michael Cera": [
+        "human"
+    ],
+    "Lemmy Kilmister": [
+        "human"
+    ],
+    "Crispin Glover": [
+        "human"
+    ],
+    "David Hemmings": [
+        "human"
+    ],
+    "Dudley Moore": [
+        "human"
+    ],
+    "Wallace Shawn": [
+        "human"
+    ],
+    "Tyrese Gibson": [
+        "human"
+    ],
+    "Sean Lennon": [
+        "human"
+    ],
+    "Bobby Brown": [
+        "human"
+    ],
+    "Bobby Darin": [
+        "human"
+    ],
+    "Billy Preston": [
+        "human"
+    ],
+    "Roger Daltrey": [
+        "human"
+    ],
+    "Andy Griffith": [
+        "human"
+    ],
+    "Brian Wilson": [
+        "human"
+    ],
+    "Soulja Boy": [
+        "human"
+    ],
+    "Redman": [
+        "human"
+    ],
+    "Michel Legrand": [
+        "human"
+    ],
+    "Lionel Hampton": [
+        "human"
+    ],
+    "Harry Connick Jr.": [
+        "human"
+    ],
+    "Ben Moody": [
+        "human"
+    ],
+    "Mark Salling": [
+        "human"
+    ],
+    "Alexey Vorobyov": [
+        "human"
+    ],
+    "Donovan": [
+        "human"
+    ],
+    "Henry Rollins": [
+        "human"
+    ],
+    "Al Franken": [
+        "human"
+    ],
+    "Marlon Jackson": [
+        "human"
+    ],
+    "Judd Apatow": [
+        "human"
+    ],
+    "Alice Cooper": [
+        "human"
+    ],
+    "Shannon Leto": [
+        "human"
+    ],
+    "Xavier Cugat": [
+        "human"
+    ],
+    "Jimmy Fallon": [
+        "human"
+    ],
+    "Julian Fellowes": [
+        "human"
+    ],
+    "David Byrne": [
+        "human"
+    ],
+    "Denis Johnson": [
+        "human"
+    ],
+    "Gene Autry": [
+        "human"
+    ],
+    "Pat Boone": [
+        "human"
+    ],
+    "Babyface": [
+        "human"
+    ],
+    "Harry Shearer": [
+        "human"
+    ],
+    "Liberace": [
+        "human"
+    ],
+    "Adam Ant": [
+        "human"
+    ],
+    "Joe Walsh": [
+        "human"
+    ],
+    "Steven Van Zandt": [
+        "human"
+    ],
+    "Sun Ra": [
+        "human"
+    ],
+    "Levon Helm": [
+        "human"
+    ],
+    "Julian Lennon": [
+        "human"
+    ],
+    "Billy Dee Williams": [
+        "human"
+    ],
+    "Gordon Lightfoot": [
+        "human"
+    ],
+    "David Walliams": [
+        "human"
+    ],
+    "Shel Silverstein": [
+        "human"
+    ],
+    "Joe Jackson": [
+        "human"
+    ],
+    "Vitas": [
+        "human"
+    ],
+    "Vincent Gallo": [
+        "human"
+    ],
+    "Bret Michaels": [
+        "human"
+    ],
+    "Gordon Parks": [
+        "human"
+    ],
+    "Avery Brooks": [
+        "human"
+    ],
+    "Patrice Chéreau": [
+        "human"
+    ],
+    "David Crosby": [
+        "human"
+    ],
+    "Big Boi": [
+        "human"
+    ],
+    "Kyle Gass": [
+        "human"
+    ],
+    "Dave Matthews": [
+        "human"
+    ],
+    "M. Pokora": [
+        "human"
+    ],
+    "Sergey Lazarev": [
+        "human"
+    ],
+    "Eldar Ryazanov": [
+        "human"
+    ],
+    "Donny Osmond": [
+        "human"
+    ],
+    "Gloria Trevi": [
+        "human"
+    ],
+    "Marc Connelly": [
+        "human"
+    ],
+    "Paul Reiser": [
+        "human"
+    ],
+    "Natasha Shneider": [
+        "human"
+    ],
+    "Tinashe": [
+        "human"
+    ],
+    "Jann Arden": [
+        "human"
+    ],
+    "Ivor Novello": [
+        "human"
+    ],
+    "Ben Elton": [
+        "human"
+    ],
+    "Ivan Urgant": [
+        "human"
+    ],
+    "Lance Bass": [
+        "human"
+    ],
+    "John Cameron Mitchell": [
+        "human"
+    ],
+    "The Compleat Beatles": [
+        "rockumentary"
+    ],
+    "Zoolander": [
+        "film"
+    ],
+    "lung cancer": [
+        "disease",
+        "rare disease",
+        "respiratory system cancer",
+        "lung disease",
+        "lung neoplasm"
+    ],
+    "pneumonia": [
+        "lung disease",
+        "lower respiratory tract infection",
+        "cause of death",
+        "infectious disease",
+        "disease"
+    ],
+    "Wolfgang Amadeus Mozart": [
+        "human",
+        "child prodigy"
+    ],
+    "Kate Bush": [
+        "human"
+    ],
+    "Leonardo da Vinci": [
+        "human"
+    ],
+    "Bruce Springsteen": [
+        "human"
+    ],
+    "Frédéric Chopin": [
+        "human"
+    ],
+    "Richard Wagner": [
+        "human"
+    ],
+    "Janis Joplin": [
+        "human"
+    ],
+    "Duke Ellington": [
+        "human"
+    ],
+    "Woody Guthrie": [
+        "human"
+    ],
+    "Miley Cyrus": [
+        "human"
+    ],
+    "Chuck Berry": [
+        "human"
+    ],
+    "Jimi Hendrix": [
+        "human"
+    ],
+    "George Frideric Handel": [
+        "human"
+    ],
+    "Igor Stravinsky": [
+        "human"
+    ],
+    "Prince": [
+        "human"
+    ],
+    "Alan Stivell": [
+        "human"
+    ],
+    "Mark Oliver Everett": [
+        "human"
+    ],
+    "Moby": [
+        "human"
+    ],
+    "William Herschel": [
+        "human"
+    ],
+    "Brad Delson": [
+        "human"
+    ],
+    "Mike Shinoda": [
+        "human"
+    ],
+    "John Farnham": [
+        "human"
+    ],
+    "Thomas Young": [
+        "human"
+    ],
+    "Slash": [
+        "human"
+    ],
+    "Anastacia": [
+        "human"
+    ],
+    "Franz Liszt": [
+        "human"
+    ],
+    "Andrea Bocelli": [
+        "human"
+    ],
+    "Falco": [
+        "human"
+    ],
+    "Jackie Jackson": [
+        "human"
+    ],
+    "Felix Mendelssohn": [
+        "human"
+    ],
+    "Kurt Weill": [
+        "human"
+    ],
+    "Max Reger": [
+        "human"
+    ],
+    "George Henschel": [
+        "human"
+    ],
+    "Miguel": [
+        "human"
+    ],
+    "David Foster": [
+        "human"
+    ],
+    "Hanns Eisler": [
+        "human"
+    ],
+    "Anton Bruckner": [
+        "human"
+    ],
+    "Little Richard": [
+        "human"
+    ],
+    "Béla Bartók": [
+        "human"
+    ],
+    "Akiko Yano": [
+        "human"
+    ],
+    "Charles Mingus Jr.": [
+        "human"
+    ],
+    "A. R. Rahman": [
+        "human"
+    ],
+    "Yoko Ono": [
+        "human"
+    ],
+    "Irving Berlin": [
+        "human"
+    ],
+    "James Blunt": [
+        "human"
+    ],
+    "Shania Twain": [
+        "human"
+    ],
+    "Joan Baez": [
+        "human"
+    ],
+    "Camille Saint-Saëns": [
+        "human"
+    ],
+    "Cat Stevens": [
+        "human"
+    ],
+    "György Ligeti": [
+        "human"
+    ],
+    "Karlheinz Stockhausen": [
+        "human"
+    ],
+    "Alfred Schnittke": [
+        "human"
+    ],
+    "Ignaz Moscheles": [
+        "human"
+    ],
+    "Rodion Shchedrin": [
+        "human"
+    ],
+    "Usher": [
+        "human"
+    ],
+    "GoonRock": [
+        "human"
+    ],
+    "Bill Monroe": [
+        "human"
+    ],
+    "Amy Lee": [
+        "human"
+    ],
+    "Syd Barrett": [
+        "human"
+    ],
+    "Roger Waters": [
+        "human"
+    ],
+    "Etta James": [
+        "human"
+    ],
+    "Darius Milhaud": [
+        "human"
+    ],
+    "Tracy Chapman": [
+        "human"
+    ],
+    "Roy Orbison": [
+        "human"
+    ],
+    "Robin Gibb": [
+        "human"
+    ],
+    "Philip Glass": [
+        "human"
+    ],
+    "Marvin Gaye": [
+        "human"
+    ],
+    "Richard Wright": [
+        "human"
+    ],
+    "George Martin": [
+        "human"
+    ],
+    "Jason Mraz": [
+        "human"
+    ],
+    "Lara Fabian": [
+        "human"
+    ],
+    "Tori Amos": [
+        "human"
+    ],
+    "Joe Satriani": [
+        "human"
+    ],
+    "Billy Joel": [
+        "human"
+    ],
+    "Gerald Wilson": [
+        "human"
+    ],
+    "Hayley Williams": [
+        "human"
+    ],
+    "Dido": [
+        "human"
+    ],
+    "Jerry Lee Lewis": [
+        "human"
+    ],
+    "Beth Hart": [
+        "human"
+    ],
+    "Joni Mitchell": [
+        "human"
+    ],
+    "Manu Chao": [
+        "human"
+    ],
+    "Ralph Vaughan Williams": [
+        "human"
+    ],
+    "Ernst Chladni": [
+        "human"
+    ],
+    "Michael Mann": [
+        "human"
+    ],
+    "Debbie Harry": [
+        "human"
+    ],
+    "Dean Martin": [
+        "human"
+    ],
+    "Luciano Berio": [
+        "human"
+    ],
+    "Jason Newsted": [
+        "human"
+    ],
+    "Sarah McLachlan": [
+        "human"
+    ],
+    "Colbie Caillat": [
+        "human"
+    ],
+    "Regina Spektor": [
+        "human"
+    ],
+    "Vanessa Carlton": [
+        "human"
+    ],
+    "Teena Marie": [
+        "human"
+    ],
+    "Lisa Marie Presley": [
+        "human"
+    ],
+    "St. Vincent": [
+        "human"
+    ],
+    "Maureen Tucker": [
+        "human"
+    ],
+    "Ingrid Michaelson": [
+        "human"
+    ],
+    "Rickie Lee Jones": [
+        "human"
+    ],
+    "Taraneh Javanbakht": [
+        "human"
+    ],
+    "Debbie Reynolds": [
+        "human"
+    ],
+    "Buckethead": [
+        "human"
+    ],
+    "Vitamin C": [
+        "human"
+    ],
+    "Chris Cornell": [
+        "human"
+    ],
+    "Damon Albarn": [
+        "human"
+    ],
+    "Van Morrison": [
+        "human"
+    ],
+    "Joe Dassin": [
+        "human"
+    ],
+    "Trent Reznor": [
+        "human"
+    ],
+    "Common": [
+        "human"
+    ],
+    "Myles Kennedy": [
+        "human"
+    ],
+    "Jerry Lewis": [
+        "human"
+    ],
+    "Sam Cooke": [
+        "human"
+    ],
+    "Barry Gibb": [
+        "human"
+    ],
+    "Method Man": [
+        "human"
+    ],
+    "Curtis Mayfield": [
+        "human"
+    ],
+    "James Taylor": [
+        "human"
+    ],
+    "Richard Marx": [
+        "human"
+    ],
+    "Rick Wakeman": [
+        "human"
+    ],
+    "Jerry Garcia": [
+        "human"
+    ],
+    "Afrika Bambaataa": [
+        "human"
+    ],
+    "Randy Newman": [
+        "human"
+    ],
+    "Leon Russell": [
+        "human"
+    ],
+    "Léo Ferré": [
+        "human"
+    ],
+    "Geddy Lee": [
+        "human"
+    ],
+    "David A. Stewart": [
+        "human"
+    ],
+    "Léon Theremin": [
+        "human"
+    ],
+    "Ted Nugent": [
+        "human"
+    ],
+    "Tito Jackson": [
+        "human"
+    ],
+    "Neil Tennant": [
+        "human"
+    ],
+    "Peter Buck": [
+        "human"
+    ],
+    "Norman Wisdom": [
+        "human"
+    ],
+    "Randy Jackson": [
+        "human"
+    ],
+    "James Blake": [
+        "human"
+    ],
+    "Ryan Tedder": [
+        "human"
+    ],
+    "Jackson Browne": [
+        "human"
+    ],
+    "Berry Gordy": [
+        "human"
+    ],
+    "Ray Davies": [
+        "human"
+    ],
+    "T-Bone Walker": [
+        "human"
+    ],
+    "Mick Ronson": [
+        "human"
+    ],
+    "Yegor Letov": [
+        "human"
+    ],
+    "Bob Seger": [
+        "human"
+    ],
+    "Todd Rundgren": [
+        "human"
+    ],
+    "Jan Hammer": [
+        "human"
+    ],
+    "Big Sean": [
+        "human"
+    ],
+    "Mark Ronson": [
+        "human"
+    ],
+    "Daniel Johnston": [
+        "human"
+    ],
+    "Jemaine Clement": [
+        "human"
+    ],
+    "Gretchen Wilson": [
+        "human"
+    ],
+    "André 3000": [
+        "human"
+    ],
+    "Richard Sennett": [
+        "human"
+    ],
+    "Lianne La Havas": [
+        "human"
+    ],
+    "Alexis Korner": [
+        "human"
+    ],
+    "Connie Smith": [
+        "human"
+    ],
+    "Doc Watson": [
+        "human"
+    ],
+    "Robin Thicke": [
+        "human"
+    ],
+    "Randy Travis": [
+        "human"
+    ],
+    "Sting": [
+        "human"
+    ],
+    "Kelly Clarkson": [
+        "human"
+    ],
+    "Jack Black": [
+        "human"
+    ],
+    "James Hetfield": [
+        "human"
+    ],
+    "Neil Patrick Harris": [
+        "human"
+    ],
+    "Avicii": [
+        "human"
+    ],
+    "Tony Visconti": [
+        "human"
+    ],
+    "Donny Hathaway": [
+        "human"
+    ],
+    "Ric Ocasek": [
+        "human"
+    ],
+    "Gustavo Cerati": [
+        "human"
+    ],
+    "Saul Williams": [
+        "human"
+    ],
+    "Lori Lieberman": [
+        "human"
+    ],
+    "Dalida": [
+        "human"
+    ],
+    "Ray Charles": [
+        "human"
+    ],
+    "John de Lancie": [
+        "human"
+    ],
+    "Steve Allen": [
+        "human"
+    ],
+    "Sid Caesar": [
+        "human"
+    ],
+    "Spike Milligan": [
+        "human"
+    ],
+    "Charlie Rich": [
+        "human"
+    ],
+    "Simon Sechter": [
+        "human"
+    ],
+    "Rick Rubin": [
+        "human"
+    ],
+    "Phil Harris": [
+        "human"
+    ],
+    "Peter Tork": [
+        "human"
+    ],
+    "Brandy Norwood": [
+        "human"
+    ],
+    "John Hartford": [
+        "human"
+    ],
+    "Sticky Fingaz": [
+        "human"
+    ],
+    "David Clayton-Thomas": [
+        "human"
+    ],
+    "RuPaul": [
+        "human"
+    ],
+    "Allan Sherman": [
+        "human"
+    ],
+    "Roger Miller": [
+        "human"
+    ],
+    "Chris Martin": [
+        "human"
+    ],
+    "Jerry Reed": [
+        "human"
+    ],
+    "The Edge": [
+        "human"
+    ],
+    "Roy Clark": [
+        "human"
+    ],
+    "Jimmy Buffett": [
+        "human"
+    ],
+    "Fredro Starr": [
+        "human"
+    ],
+    "Jô Soares": [
+        "human"
+    ],
+    "Renato Carosone": [
+        "human"
+    ],
+    "Burton Cummings": [
+        "human"
+    ],
+    "Bo Burnham": [
+        "human"
+    ],
+    "Bob Mould": [
+        "human"
+    ],
+    "Bobby Scott": [
+        "human"
+    ],
+    "Vince Gill": [
+        "human"
+    ],
+    "Daniel Lanois": [
+        "human"
+    ],
+    "Ian McLagan": [
+        "human"
+    ],
+    "Michael Nesmith": [
+        "human"
+    ],
+    "Luis Alberto Spinetta": [
+        "human"
+    ],
+    "Lloyd Price": [
+        "human"
+    ],
+    "Tex Ritter": [
+        "human"
+    ],
+    "Giorgio Gaber": [
+        "human"
+    ],
+    "Mark Linkous": [
+        "human"
+    ],
+    "Enzo Jannacci": [
+        "human"
+    ],
+    "Tim Rice-Oxley": [
+        "human"
+    ],
+    "Brendon Urie": [
+        "human"
+    ],
+    "Daniel Handler": [
+        "human"
+    ],
+    "Charles Rosen": [
+        "human"
+    ],
+    "Charlie Wilson": [
+        "human"
+    ],
+    "Celeste Buckingham": [
+        "human"
+    ],
+    "Clarence \"Gatemouth\" Brown": [
+        "human"
+    ],
+    "David Lindley": [
+        "human"
+    ],
+    "Ross Bagdasarian Sr.": [
+        "human"
+    ],
+    "Andrew Ridgeley": [
+        "human"
+    ],
+    "Donald Glover": [
+        "human"
+    ],
+    "Lonnie Liston Smith": [
+        "human"
+    ],
+    "Kinky Friedman": [
+        "human"
+    ],
+    "Eddie Money": [
+        "human"
+    ],
+    "Michael Penn": [
+        "human"
+    ],
+    "Lowell George": [
+        "human"
+    ],
+    "Holly Johnson": [
+        "human"
+    ],
+    "Tim Rose": [
+        "human"
+    ],
+    "Mort Shuman": [
+        "human"
+    ],
+    "Martie Maguire": [
+        "human"
+    ],
+    "Graham Parker": [
+        "human"
+    ],
+    "Mick Wingert": [
+        "human"
+    ],
+    "Harry Chapin": [
+        "human"
+    ],
+    "Holly Near": [
+        "human"
+    ],
+    "Van McCoy": [
+        "human"
+    ],
+    "Diana Arbenina": [
+        "human"
+    ],
+    "Svetlana Surganova": [
+        "human"
+    ],
+    "Anatoly Krupnov": [
+        "human"
+    ],
+    "Warner Music Group": [
+        "record label",
+        "record company"
+    ],
+    "Jive": [
+        "record label"
+    ],
+    "Motown": [
+        "record label"
+    ],
+    "Walt Disney Records": [
+        "record label"
+    ],
+    "Polydor Records": [
+        "record label"
+    ],
+    "Mercury Records": [
+        "record label"
+    ],
+    "Columbia Records": [
+        "record label",
+        "agent",
+        "trademark"
+    ],
+    "EMI": [
+        "enterprise",
+        "business",
+        "privately held company",
+        "Wikipedia article covering multiple topics",
+        "record label",
+        "record company",
+        "holding company"
+    ],
+    "Island Records": [
+        "record label"
+    ],
+    "Capitol Records": [
+        "record label"
+    ],
+    "Atlantic Records": [
+        "record label"
+    ],
+    "RCA Records": [
+        "record company",
+        "record label"
+    ],
+    "Virgin Records": [
+        "business",
+        "record label",
+        "Wikipedia article covering multiple topics",
+        "enterprise"
+    ],
+    "Parlophone": [
+        "trademark",
+        "record label",
+        "imprint"
+    ],
+    "Geffen Records": [
+        "record label"
+    ],
+    "Epic": [
+        "record label"
+    ],
+    "Interscope Records": [
+        "record label"
+    ],
+    "A&M Records": [
+        "record label"
+    ],
+    "ABC Records": [
+        "record label"
+    ],
+    "Sony Music": [
+        "record label"
+    ],
+    "Hollywood Records": [
+        "record label"
+    ],
+    "Decca": [
+        "record label"
+    ],
+    "Atco Records": [
+        "record label"
+    ],
+    "Reprise Records": [
+        "record label"
+    ],
+    "Def Jam Recordings": [
+        "record label"
+    ],
+    "Arista": [
+        "record label"
+    ],
+    "Elektra": [
+        "record label"
+    ],
+    "Warner Bros. Records": [
+        "record label"
+    ],
+    "MCA Records": [
+        "record label"
+    ],
+    "Republic Records": [
+        "record label"
+    ],
+    "Universal Music Group": [
+        "subsidiary",
+        "major label",
+        "record company"
+    ],
+    "Mohandas Karamchand Gandhi": [
+        "human"
+    ],
+    "Friedrich Schiller": [
+        "human"
+    ],
+    "Leon Trotsky": [
+        "human"
+    ],
+    "Mario Vargas Llosa": [
+        "human"
+    ],
+    "Mircea Eliade": [
+        "human"
+    ],
+    "Johann Christian Poggendorff": [
+        "human"
+    ],
+    "August Ludwig von Schlözer": [
+        "human"
+    ],
+    "Andrey Gubin": [
+        "human"
+    ],
+    "Felix Philipp Kanitz": [
+        "human"
+    ],
+    "Ayn Rand": [
+        "human"
+    ],
+    "H. P. Lovecraft": [
+        "human"
+    ],
+    "Tamara Bunke": [
+        "human"
+    ],
+    "Tatyana Tolstaya": [
+        "human"
+    ],
+    "Claudio Magris": [
+        "human"
+    ],
+    "Édouard René de Laboulaye": [
+        "human"
+    ],
+    "Dmitry Glukhovsky": [
+        "human"
+    ],
+    "Joumana Haddad": [
+        "human"
+    ],
+    "Julian Barnes": [
+        "human"
+    ],
+    "Eduard Limonov": [
+        "human"
+    ],
+    "Giuseppe Ungaretti": [
+        "human"
+    ],
+    "George Ellery Hale": [
+        "human"
+    ],
+    "John Dos Passos": [
+        "human"
+    ],
+    "Robert Penn Warren": [
+        "human"
+    ],
+    "Fritz Leiber Junior": [
+        "human"
+    ],
+    "Nicolae Iorga": [
+        "human"
+    ],
+    "Ľudovít Štúr": [
+        "human"
+    ],
+    "Uzeyir Hajibeyov": [
+        "human"
+    ],
+    "Ralph Ellison": [
+        "human"
+    ],
+    "Vladislav Krapivin": [
+        "human"
+    ],
+    "Don DeLillo": [
+        "human"
+    ],
+    "Joaquim Maria Machado de Assis": [
+        "human"
+    ],
+    "Per Olov Enquist": [
+        "human"
+    ],
+    "Ivan Franko": [
+        "human"
+    ],
+    "Valentin Kataev": [
+        "human"
+    ],
+    "Alexander Bogdanov": [
+        "human"
+    ],
+    "Harold Bloom": [
+        "human"
+    ],
+    "Fredric Jameson": [
+        "human"
+    ],
+    "Korney Chukovsky": [
+        "human"
+    ],
+    "Ilya Ehrenburg": [
+        "human"
+    ],
+    "Karel Jaromír Erben": [
+        "human"
+    ],
+    "Amiri Baraka": [
+        "human"
+    ],
+    "David Cross": [
+        "human"
+    ],
+    "Nikolay Ogarev": [
+        "human"
+    ],
+    "Marietta Shaginyan": [
+        "human"
+    ],
+    "Samuel R. Delany": [
+        "human"
+    ],
+    "Julian Klaczko": [
+        "human"
+    ],
+    "Stephen Spender": [
+        "human"
+    ],
+    "George Steiner": [
+        "human"
+    ],
+    "Jaroslav Vrchlický": [
+        "human"
+    ],
+    "Valeriya Novodvorskaya": [
+        "human"
+    ],
+    "Jaan Kaplinski": [
+        "human"
+    ],
+    "Euclides da Cunha": [
+        "human"
+    ],
+    "Colm Tóibín": [
+        "human"
+    ],
+    "Ilya Ilf": [
+        "human"
+    ],
+    "Leonid Leonov": [
+        "human"
+    ],
+    "Chinghiz Aitmatov": [
+        "human"
+    ],
+    "William Dean Howells": [
+        "human"
+    ],
+    "Boris Grebenshchikov": [
+        "human"
+    ],
+    "Henry Louis Gates": [
+        "human"
+    ],
+    "Alberto Manguel": [
+        "human"
+    ],
+    "Kwame Anthony Appiah": [
+        "human"
+    ],
+    "Yuri Vizbor": [
+        "human"
+    ],
+    "Salvador de Madariaga": [
+        "human"
+    ],
+    "Konstantin Fedin": [
+        "human"
+    ],
+    "Ray Lankester": [
+        "human"
+    ],
+    "Edmund Wilson": [
+        "human"
+    ],
+    "Edmund White": [
+        "human"
+    ],
+    "Yoram Kaniuk": [
+        "human"
+    ],
+    "Massimo Bontempelli": [
+        "human"
+    ],
+    "Nahum Sokolow": [
+        "human"
+    ],
+    "John Ciardi": [
+        "human"
+    ],
+    "Kenneth Burke": [
+        "human"
+    ],
+    "Gavriil Troyepolsky": [
+        "human"
+    ],
+    "Mario Praz": [
+        "human"
+    ],
+    "Elizabeth II": [
+        "human"
+    ],
+    "Angela Merkel": [
+        "human"
+    ],
+    "Vladimir Lenin": [
+        "human"
+    ],
+    "Adolf Butenandt": [
+        "human"
+    ],
+    "Irène Joliot-Curie": [
+        "human"
+    ],
+    "Vladimir Putin": [
+        "human"
+    ],
+    "Winston Churchill": [
+        "human"
+    ],
+    "Max Weber": [
+        "human"
+    ],
+    "Thomas Jefferson": [
+        "human"
+    ],
+    "Giovanni Schiaparelli": [
+        "human"
+    ],
+    "Marcellin Berthelot": [
+        "human"
+    ],
+    "Donald Trump": [
+        "human",
+        "billionaire"
+    ],
+    "Theodore Roosevelt": [
+        "human"
+    ],
+    "Woodrow Wilson": [
+        "human"
+    ],
+    "Pierre-Simon Laplace": [
+        "human"
+    ],
+    "Nikolay Semyonov": [
+        "human"
+    ],
+    "James Bryant Conant": [
+        "human"
+    ],
+    "Hermann Burmeister": [
+        "human"
+    ],
+    "Ernst Curtius": [
+        "human"
+    ],
+    "Barthold Georg Niebuhr": [
+        "human"
+    ],
+    "Wilhelm Wundt": [
+        "human"
+    ],
+    "Heinrich Wilhelm Olbers": [
+        "human"
+    ],
+    "Rudolf Virchow": [
+        "human"
+    ],
+    "Felix Klein": [
+        "human"
+    ],
+    "Heinrich Wilhelm Gottfried von Waldeyer-Hartz": [
+        "human"
+    ],
+    "Friedrich Carl von Savigny": [
+        "human"
+    ],
+    "Ralf Dahrendorf": [
+        "human"
+    ],
+    "Leo Strauss": [
+        "human"
+    ],
+    "Joseph-Louis Lagrange": [
+        "human"
+    ],
+    "John William Strutt, 3rd Baron Rayleigh": [
+        "human"
+    ],
+    "Nikolay Basov": [
+        "human"
+    ],
+    "Ernst Mach": [
+        "human"
+    ],
+    "Heinrich Brunner": [
+        "human"
+    ],
+    "George Porter, Baron Porter of Luddenham": [
+        "human"
+    ],
+    "Urbain Le Verrier": [
+        "human"
+    ],
+    "William Thomson, 1st Baron Kelvin": [
+        "human"
+    ],
+    "Albrecht von Haller": [
+        "human"
+    ],
+    "Stanislao Cannizzaro": [
+        "human"
+    ],
+    "Santiago Ramón y Cajal": [
+        "human"
+    ],
+    "Camillo Golgi": [
+        "human"
+    ],
+    "Benjamin Britten": [
+        "human"
+    ],
+    "Frédéric Joliot-Curie": [
+        "human"
+    ],
+    "Aram Khachaturian": [
+        "human"
+    ],
+    "Joseph Louis Gay-Lussac": [
+        "human"
+    ],
+    "Dmitri Kabalevsky": [
+        "human"
+    ],
+    "François Arago": [
+        "human"
+    ],
+    "Archibald Hill": [
+        "human"
+    ],
+    "Andrey Vyshinsky": [
+        "human"
+    ],
+    "Sir George Stokes, 1st Baronet": [
+        "human"
+    ],
+    "Pedro II of Brazil": [
+        "human"
+    ],
+    "Victor Ambartsumian": [
+        "human"
+    ],
+    "Jean-Baptiste Dumas": [
+        "human"
+    ],
+    "Otto Schmidt": [
+        "human"
+    ],
+    "Jean-Victor Poncelet": [
+        "human"
+    ],
+    "Eduard Suess": [
+        "human"
+    ],
+    "Alexander R. Todd, Baron Todd": [
+        "human"
+    ],
+    "Joseph Priestley": [
+        "human"
+    ],
+    "Albert Szent-Györgyi": [
+        "human"
+    ],
+    "Zhores Alfyorov": [
+        "human"
+    ],
+    "Slavoj Žižek": [
+        "human"
+    ],
+    "Rita Levi-Montalcini": [
+        "human"
+    ],
+    "John Kenneth Galbraith": [
+        "human"
+    ],
+    "Carlo Rubbia": [
+        "human"
+    ],
+    "Siméon Denis Poisson": [
+        "human"
+    ],
+    "Academy of Arts, Berlin": [
+        "event venue",
+        "cultural institution",
+        "academy"
+    ],
+    "Bavarian Academy of Fine Arts": [
+        "academy",
+        "voluntary association"
+    ],
+    "Academy of Arts of the GDR": [
+        "academy"
+    ],
+    "Academy of Sciences of the USSR": [
+        "academy of sciences"
+    ],
+    "Academy of Sciences of Turin": [
+        "academy of sciences"
+    ],
+    "Accademia Nazionale delle Scienze detta dei XL": [
+        "academy of sciences",
+        "national academy"
+    ],
+    "Saint Petersburg Academy of Sciences": [
+        "cultural heritage site in Russia",
+        "academy of sciences"
+    ],
+    "German Academy of Sciences at Berlin": [
+        "academy of sciences",
+        "research institute",
+        "educational institution"
+    ],
+    "Russian Academy of Sciences": [
+        "academy of sciences"
+    ],
+    "Royal Society of Edinburgh": [
+        "academy of sciences",
+        "national academy"
+    ],
+    "Royal Society": [
+        "academy of sciences",
+        "publisher",
+        "open-access publisher",
+        "learned society",
+        "national academy"
+    ],
+    "French Academy of Sciences": [
+        "academy of sciences",
+        "national academy"
+    ],
+    "Royal Swedish Academy of Sciences": [
+        "building",
+        "Swedish Royal Academies",
+        "academy of sciences",
+        "national academy"
+    ],
+    "Royal Netherlands Academy of Arts and Sciences": [
+        "academy of sciences",
+        "quasi-autonomous non-governmental organisation",
+        "national academy"
+    ],
+    "Hungarian Academy of Sciences": [
+        "academy of sciences",
+        "national academy"
+    ],
+    "National Academy of Sciences": [
+        "academy of sciences",
+        "publisher"
+    ],
+    "Austrian Academy of Sciences": [
+        "open-access journal",
+        "academy of sciences",
+        "national academy"
+    ],
+    "Royal Prussian Academy of Sciences": [
+        "academy of sciences"
+    ],
+    "Academia Europaea": [
+        "academy of sciences"
+    ],
+    "Lincean Academy": [
+        "academy of sciences",
+        "national academy"
+    ],
+    "Göttingen Academy of Sciences": [
+        "academy of sciences",
+        "timber-framed house"
+    ],
+    "Academy of Useful Science": [
+        "academy of sciences",
+        "national academy"
+    ],
+    "American Academy of Arts and Letters": [
+        "academy of sciences"
+    ],
+    "German Academy of Sciences Leopoldina": [
+        "learned society",
+        "academy of sciences",
+        "national academy"
+    ],
+    "Bavarian Academy of Sciences and Humanities": [
+        "book publishing company",
+        "academy of sciences"
+    ],
+    "Pontifical Academy of Sciences": [
+        "academy of sciences",
+        "pontifical academy",
+        "national academy"
+    ],
+    "Serbian Academy of Sciences and Arts": [
+        "academy of sciences"
+    ],
+    "Académie Française": [
+        "language regulator",
+        "learned society",
+        "national academy"
+    ],
+    "Royal Society of Literature": [
+        "learned society",
+        "national academy"
+    ],
+    "Juilliard School": [
+        "private not-for-profit educational institution",
+        "conservatory",
+        "drama school"
+    ],
+    "Catholicism": [
+        "Abrahamic religion"
+    ],
+    "Judaism": [
+        "monotheistic religion",
+        "Relajación",
+        "ethnic religion",
+        "Abrahamic religion"
+    ],
+    "Islam": [
+        "major religious group",
+        "Relajación",
+        "Abrahamic religion"
+    ],
+    "Christianity": [
+        "major religious group",
+        "Abrahamic religion",
+        "monotheistic religion"
+    ],
+    "Anglicanism": [
+        "Protestantism",
+        "Christian denomination",
+        "Relajación"
+    ],
+    "Galileo Galilei": [
+        "human"
+    ],
+    "André-Marie Ampère": [
+        "human"
+    ],
+    "John Bardeen": [
+        "human"
+    ],
+    "Richard Stallman": [
+        "human"
+    ],
+    "Joseph Fourier": [
+        "human"
+    ],
+    "Augustin-Louis Cauchy": [
+        "human"
+    ],
+    "James Clerk Maxwell": [
+        "human"
+    ],
+    "John von Neumann": [
+        "human"
+    ],
+    "Heinrich Rudolf Hertz": [
+        "human"
+    ],
+    "Henri Becquerel": [
+        "human"
+    ],
+    "Hans Christian Ørsted": [
+        "human"
+    ],
+    "Charles Babbage": [
+        "human"
+    ],
+    "Arthur C. Clarke": [
+        "human"
+    ],
+    "Paul Dirac": [
+        "human"
+    ],
+    "Hannes Alfvén": [
+        "human"
+    ],
+    "Fritz Haber": [
+        "human"
+    ],
+    "Jean-Baptiste Biot": [
+        "human"
+    ],
+    "Gustav Kirchhoff": [
+        "human"
+    ],
+    "Moritz von Jacobi": [
+        "human"
+    ],
+    "Ludwig Prandtl": [
+        "human"
+    ],
+    "Henri Poincaré": [
+        "human"
+    ],
+    "Vladimir Prelog": [
+        "human"
+    ],
+    "Herman Francis Mark": [
+        "human"
+    ],
+    "Jacobus Henricus van 't Hoff": [
+        "human"
+    ],
+    "Peter Debye": [
+        "human"
+    ],
+    "Lars Onsager": [
+        "human"
+    ],
+    "Henry Louis Le Châtelier": [
+        "human"
+    ],
+    "Alexander Emanuel Agassiz": [
+        "human"
+    ],
+    "J. Robert Oppenheimer": [
+        "human"
+    ],
+    "Paul Jozef Crutzen": [
+        "human"
+    ],
+    "Leó Szilárd": [
+        "human"
+    ],
+    "Josiah Willard Gibbs": [
+        "human"
+    ],
+    "Dennis Gabor": [
+        "human"
+    ],
+    "Charles Wheatstone": [
+        "human"
+    ],
+    "Theodore von Kármán": [
+        "human"
+    ],
+    "Sergei Korolev": [
+        "human"
+    ],
+    "Mihajlo Pupin": [
+        "human"
+    ],
+    "Gaspard Monge": [
+        "human"
+    ],
+    "Joseph Liouville": [
+        "human"
+    ],
+    "Mstislav Keldysh": [
+        "human"
+    ],
+    "Shen Kuo": [
+        "human"
+    ],
+    "Camille Jordan": [
+        "human"
+    ],
+    "Henri Victor Regnault": [
+        "human"
+    ],
+    "Edward Sabine": [
+        "human"
+    ],
+    "Antoine César Becquerel": [
+        "human"
+    ],
+    "Gabriel Lamé": [
+        "human"
+    ],
+    "John Muir": [
+        "human"
+    ],
+    "Gaspard de Prony": [
+        "human"
+    ],
+    "Anatole Abragam": [
+        "human"
+    ],
+    "Geoffrey Ingram Taylor": [
+        "human"
+    ],
+    "Augusto Righi": [
+        "human"
+    ],
+    "James Lighthill": [
+        "human"
+    ],
+    "Raymond Scott": [
+        "human"
+    ],
+    "J. Rodolfo Wilcock": [
+        "human"
+    ],
+    "Oleg Skripka": [
+        "human"
+    ],
+    "Valery Meladze": [
+        "human"
+    ],
+    "Mikhail Zadornov": [
+        "human"
+    ],
+    "Erwin Raisz": [
+        "human"
+    ],
+    "Jim Messina": [
+        "human"
+    ],
+    "Alexander von Humboldt": [
+        "human"
+    ],
+    "Avicenna": [
+        "human"
+    ],
+    "Christoph Wilhelm Hufeland": [
+        "human"
+    ],
+    "Max Born": [
+        "human"
+    ],
+    "Ferdinand von Richthofen": [
+        "human"
+    ],
+    "Vitaly Ginzburg": [
+        "human"
+    ],
+    "Sheldon Lee Glashow": [
+        "human"
+    ],
+    "Philip Warren Anderson": [
+        "human"
+    ],
+    "Gary Becker": [
+        "human"
+    ],
+    "Vladimir Obruchev": [
+        "human"
+    ],
+    "Vladimir Turchinsky": [
+        "human"
+    ],
+    "Wassily Kandinsky": [
+        "human"
+    ],
+    "Buffy Sainte-Marie": [
+        "human"
+    ]
+}

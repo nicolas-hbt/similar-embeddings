@@ -1,0 +1,2772 @@
+{
+    "education": {
+        "P106": 56
+    },
+    "conservatory": {
+        "P69": 10,
+        "P108": 3,
+        "P17": 1
+    },
+    "university in France": {
+        "P69": 23,
+        "P108": 20
+    },
+    "political activist": {
+        "P106": 31
+    },
+    "historical country": {
+        "P27": 352,
+        "P530": 59,
+        "P17": 46,
+        "P37": 21,
+        "P30": 16,
+        "P463": 8,
+        "P140": 4,
+        "P551": 4,
+        "P159": 2,
+        "P35": 2,
+        "P108": 1
+    },
+    "capital of region": {
+        "P19": 5,
+        "P20": 5,
+        "P17": 4,
+        "P551": 2
+    },
+    "keyboard instrument": {
+        "P1303": 273
+    },
+    "media personality": {
+        "P106": 35
+    },
+    "performance work": {
+        "P136": 15
+    },
+    "cultural heritage site in Russia": {
+        "P463": 67,
+        "P119": 24,
+        "P108": 9,
+        "P159": 1,
+        "P17": 1
+    },
+    "Czech–Slovak languages": {
+        "P1412": 12,
+        "P37": 2
+    },
+    "earth scientist": {
+        "P106": 32
+    },
+    "academic": {
+        "P106": 257
+    },
+    "blues": {
+        "P136": 17
+    },
+    "record company": {
+        "P264": 158,
+        "P749": 15,
+        "P136": 6,
+        "P159": 4,
+        "P17": 3,
+        "P112": 1,
+        "P740": 1,
+        "P361": 1,
+        "P108": 1
+    },
+    "federal district": {
+        "P19": 8,
+        "P551": 5,
+        "P20": 2,
+        "P30": 1
+    },
+    "Colonial Colleges": {
+        "P108": 82,
+        "P69": 80
+    },
+    "biographer": {
+        "P106": 122
+    },
+    "humanities scholar": {
+        "P106": 268
+    },
+    "cultural area": {
+        "P551": 9,
+        "P17": 3,
+        "P530": 1,
+        "P30": 1,
+        "P37": 1,
+        "P35": 1,
+        "P737": 1,
+        "P740": 1,
+        "P27": 1
+    },
+    "literary form": {
+        "P136": 181,
+        "P101": 52,
+        "P106": 6
+    },
+    "major religious group": {
+        "P140": 42,
+        "P37": 1,
+        "P361": 1
+    },
+    "port settlement": {
+        "P530": 52,
+        "P19": 46,
+        "P551": 39,
+        "P20": 31,
+        "P463": 15,
+        "P159": 9,
+        "P17": 8,
+        "P30": 1,
+        "P37": 1,
+        "P840": 1,
+        "P740": 1
+    },
+    "enterprise": {
+        "P264": 69,
+        "P159": 2,
+        "P749": 2,
+        "P17": 1
+    },
+    "municipality of Georgia": {
+        "P19": 13,
+        "P551": 5,
+        "P740": 3,
+        "P37": 1,
+        "P17": 1,
+        "P20": 1
+    },
+    "subcontinent": {
+        "P30": 29,
+        "P361": 3
+    },
+    "college town": {
+        "P20": 23,
+        "P17": 14,
+        "P19": 12,
+        "P551": 7,
+        "P119": 2,
+        "P159": 1
+    },
+    "art movement": {
+        "P135": 20
+    },
+    "Islamic republic": {
+        "P530": 171,
+        "P463": 41,
+        "P30": 2,
+        "P37": 2,
+        "P361": 1,
+        "P27": 1,
+        "P119": 1
+    },
+    "statistical service": {
+        "P463": 22
+    },
+    "instrumentalist": {
+        "P106": 279
+    },
+    "charter city": {
+        "P551": 45,
+        "P20": 26,
+        "P19": 26,
+        "P159": 4,
+        "P740": 3,
+        "P30": 1,
+        "P17": 1
+    },
+    "Creative unions in the Soviet Union": {
+        "P463": 19
+    },
+    "psychedelic music": {
+        "P136": 15
+    },
+    "socialist state": {
+        "P530": 299,
+        "P27": 93,
+        "P463": 21,
+        "P17": 4,
+        "P30": 3,
+        "P361": 1,
+        "P37": 1
+    },
+    "musical form": {
+        "P136": 95,
+        "P101": 1,
+        "P800": 1
+    },
+    "colony": {
+        "P530": 70,
+        "P463": 30,
+        "P37": 1,
+        "P30": 1,
+        "P361": 1
+    },
+    "parliamentary republic": {
+        "P530": 22,
+        "P463": 18,
+        "P37": 2,
+        "P30": 1,
+        "P361": 1
+    },
+    "honor society": {
+        "P463": 19
+    },
+    "countries bordering the Baltic Sea": {
+        "P530": 1098,
+        "P463": 221,
+        "P27": 172,
+        "P17": 19,
+        "P30": 9,
+        "P551": 6,
+        "P37": 5,
+        "P35": 2,
+        "P172": 2,
+        "P737": 1,
+        "P159": 1,
+        "P740": 1,
+        "P495": 1,
+        "P119": 1,
+        "P1412": 1
+    },
+    "corporate title": {
+        "P106": 35
+    },
+    "benefactor": {
+        "P106": 17
+    },
+    "microstate": {
+        "P530": 30,
+        "P463": 20,
+        "P30": 2,
+        "P37": 2
+    },
+    "historical period": {
+        "P27": 46,
+        "P17": 16,
+        "P30": 3,
+        "P37": 2,
+        "P159": 1
+    },
+    "Christian Church": {
+        "P140": 76
+    },
+    "branch of science": {
+        "P101": 74
+    },
+    "disease": {
+        "P509": 213,
+        "P1050": 32
+    },
+    "genre": {
+        "P136": 66,
+        "P101": 31
+    },
+    "new wave": {
+        "P136": 19
+    },
+    "High German languages": {
+        "P1412": 196,
+        "P37": 14
+    },
+    "international organization": {
+        "P463": 1668,
+        "P108": 4
+    },
+    "literary scholar": {
+        "P106": 96
+    },
+    "natural language": {
+        "P1412": 960,
+        "P37": 110,
+        "P101": 1
+    },
+    "theatrical occupation": {
+        "P106": 154
+    },
+    "district of Austria": {
+        "P20": 11,
+        "P19": 10,
+        "P551": 5,
+        "P17": 4,
+        "P159": 1
+    },
+    "radio format": {
+        "P136": 141
+    },
+    "crown colony of the British Empire": {
+        "P530": 61,
+        "P463": 22,
+        "P27": 1,
+        "P35": 1
+    },
+    "drama": {
+        "P136": 15
+    },
+    "string instrument": {
+        "P1303": 276
+    },
+    "state or insular area capital in the United States": {
+        "P19": 25,
+        "P551": 14,
+        "P20": 13,
+        "P740": 3,
+        "P17": 2,
+        "P37": 1
+    },
+    "academy": {
+        "P463": 65,
+        "P17": 4
+    },
+    "director1": {
+        "P106": 19
+    },
+    "ecozone": {
+        "P30": 12
+    },
+    "academic degree": {
+        "P106": 71,
+        "P101": 1
+    },
+    "ancient language": {
+        "P1412": 45,
+        "P37": 1
+    },
+    "people": {
+        "P172": 89,
+        "P140": 1,
+        "P3095": 1
+    },
+    "academic title": {
+        "P106": 30
+    },
+    "cultural institution": {
+        "P463": 17,
+        "P17": 1
+    },
+    "professional": {
+        "P106": 222
+    },
+    "mononymous person": {
+        "P106": 19,
+        "P737": 3,
+        "P172": 2,
+        "P136": 2,
+        "P27": 2,
+        "P264": 1,
+        "P1303": 1,
+        "P101": 1,
+        "P1412": 1,
+        "P509": 1,
+        "P20": 1,
+        "P140": 1
+    },
+    "enclave": {
+        "P530": 29,
+        "P463": 29,
+        "P19": 14,
+        "P17": 7,
+        "P20": 6,
+        "P37": 5,
+        "P30": 4,
+        "P551": 3,
+        "P159": 1,
+        "P35": 1,
+        "P27": 1
+    },
+    "traveller": {
+        "P106": 16
+    },
+    "United Nations": {
+        "P463": 160
+    },
+    "trademark": {
+        "P264": 111,
+        "P17": 3,
+        "P159": 2,
+        "P740": 1,
+        "P136": 1,
+        "P749": 1
+    },
+    "political union": {
+        "P463": 18,
+        "P530": 1
+    },
+    "Hanseatic city": {
+        "P20": 30,
+        "P17": 18,
+        "P551": 12,
+        "P19": 11,
+        "P119": 9,
+        "P740": 1,
+        "P37": 1
+    },
+    "struck string instrument": {
+        "P1303": 242
+    },
+    "French colonial empire": {
+        "P463": 18,
+        "P530": 11,
+        "P37": 1,
+        "P27": 1,
+        "P30": 1
+    },
+    "continental union": {
+        "P463": 49,
+        "P530": 1,
+        "P361": 1
+    },
+    "music": {
+        "P136": 100
+    },
+    "space agency": {
+        "P463": 19
+    },
+    "record label": {
+        "P264": 831,
+        "P17": 30,
+        "P136": 26,
+        "P159": 24,
+        "P749": 20,
+        "P740": 6,
+        "P112": 4,
+        "P108": 1,
+        "P361": 1
+    },
+    "woodwind instrument": {
+        "P1303": 19
+    },
+    "department of France": {
+        "P20": 69,
+        "P19": 33,
+        "P551": 22,
+        "P159": 2,
+        "P17": 1,
+        "P30": 1,
+        "P119": 1
+    },
+    "human settlement": {
+        "P530": 15,
+        "P20": 11,
+        "P19": 10,
+        "P551": 5,
+        "P17": 5,
+        "P463": 4,
+        "P159": 1,
+        "P361": 1,
+        "P37": 1,
+        "P30": 1
+    },
+    "macrolanguage": {
+        "P37": 24,
+        "P1412": 12
+    },
+    "popular music": {
+        "P136": 684,
+        "P101": 3,
+        "P106": 1
+    },
+    "mood disorder": {
+        "P1050": 16
+    },
+    "social scientist": {
+        "P106": 158
+    },
+    "emirate": {
+        "P530": 25,
+        "P463": 16,
+        "P30": 1,
+        "P37": 1,
+        "P361": 1
+    },
+    "naturalist": {
+        "P106": 19
+    },
+    "subject of international law": {
+        "P463": 179,
+        "P530": 42,
+        "P108": 4
+    },
+    "Castilian languages": {
+        "P1412": 56,
+        "P37": 18
+    },
+    "erudite": {
+        "P106": 23
+    },
+    "necked box lutes played with a bow": {
+        "P1303": 35
+    },
+    "town in Hungary": {
+        "P19": 9,
+        "P17": 2,
+        "P30": 1,
+        "P159": 1,
+        "P37": 1,
+        "P20": 1,
+        "P551": 1
+    },
+    "entrepreneur": {
+        "P106": 60
+    },
+    "intergovernmental organization": {
+        "P463": 1494,
+        "P108": 4,
+        "P361": 2,
+        "P17": 1
+    },
+    "collegiate university": {
+        "P69": 26,
+        "P108": 26
+    },
+    "statutory city of Austria": {
+        "P20": 11,
+        "P19": 10,
+        "P551": 5,
+        "P17": 4,
+        "P159": 1
+    },
+    "bank": {
+        "P463": 77
+    },
+    "twin": {
+        "P106": 29,
+        "P1303": 8,
+        "P136": 5,
+        "P27": 3,
+        "P1412": 3,
+        "P451": 2,
+        "P40": 2,
+        "P509": 2,
+        "P264": 2,
+        "P26": 2,
+        "P737": 2,
+        "P69": 1,
+        "P119": 1,
+        "P19": 1,
+        "P20": 1,
+        "P161": 1
+    },
+    "conductor": {
+        "P106": 19
+    },
+    "tourist destination": {
+        "P19": 14,
+        "P20": 13,
+        "P17": 11,
+        "P551": 8,
+        "P159": 1
+    },
+    "artistic creation": {
+        "P101": 137
+    },
+    "language regulator": {
+        "P463": 21,
+        "P37": 1,
+        "P17": 1,
+        "P159": 1,
+        "P101": 1,
+        "P1412": 1
+    },
+    "Relajación": {
+        "P140": 211,
+        "P135": 17,
+        "P37": 1,
+        "P17": 1,
+        "P3095": 1
+    },
+    "cause of death": {
+        "P509": 139,
+        "P1050": 3
+    },
+    "play": {
+        "P136": 39,
+        "P101": 1
+    },
+    "city of the United States": {
+        "P19": 128,
+        "P551": 114,
+        "P20": 86,
+        "P159": 16,
+        "P740": 10,
+        "P17": 8,
+        "P30": 5,
+        "P37": 1,
+        "P840": 1
+    },
+    "film production company": {
+        "P108": 7,
+        "P264": 6,
+        "P112": 1,
+        "P749": 1
+    },
+    "campus": {
+        "P69": 48,
+        "P108": 22
+    },
+    "political territorial entity": {
+        "P530": 53,
+        "P463": 25,
+        "P361": 1
+    },
+    "worker": {
+        "P106": 71,
+        "P101": 1
+    },
+    "Apostolic see": {
+        "P530": 42
+    },
+    "Americans of the United States": {
+        "P172": 161,
+        "P140": 1
+    },
+    "real union": {
+        "P27": 18,
+        "P17": 3,
+        "P30": 1,
+        "P140": 1,
+        "P108": 1,
+        "P37": 1
+    },
+    "realm": {
+        "P530": 90,
+        "P463": 29,
+        "P27": 13,
+        "P30": 2,
+        "P551": 2,
+        "P37": 1
+    },
+    "disease of cellular proliferation": {
+        "P509": 23
+    },
+    "electronic musical instrument": {
+        "P1303": 18
+    },
+    "public research university": {
+        "P69": 75,
+        "P108": 38
+    },
+    "celebrity": {
+        "P106": 68
+    },
+    "divided country": {
+        "P530": 103,
+        "P463": 25,
+        "P361": 3,
+        "P30": 3,
+        "P37": 1,
+        "P27": 1
+    },
+    "geographic location": {
+        "P530": 22,
+        "P463": 18,
+        "P37": 2,
+        "P30": 1,
+        "P361": 1
+    },
+    "dance music": {
+        "P136": 23
+    },
+    "title of honor": {
+        "P106": 47
+    },
+    "author": {
+        "P106": 1222,
+        "P101": 3
+    },
+    "city with millions of inhabitants": {
+        "P20": 285,
+        "P19": 261,
+        "P551": 209,
+        "P530": 67,
+        "P17": 48,
+        "P159": 31,
+        "P463": 19,
+        "P119": 10,
+        "P30": 9,
+        "P740": 6,
+        "P37": 6,
+        "P840": 1,
+        "P361": 1
+    },
+    "Jewish languages": {
+        "P1412": 15
+    },
+    "Mediterranean country": {
+        "P530": 1505,
+        "P463": 431,
+        "P27": 169,
+        "P30": 24,
+        "P37": 15,
+        "P551": 11,
+        "P17": 9,
+        "P361": 6,
+        "P119": 3,
+        "P737": 2,
+        "P172": 2,
+        "P19": 2,
+        "P140": 1
+    },
+    "Parisian cemetery": {
+        "P119": 16
+    },
+    "holding company": {
+        "P264": 44,
+        "P159": 1,
+        "P749": 1
+    },
+    "fiction literature": {
+        "P136": 80,
+        "P101": 3
+    },
+    "legal professional": {
+        "P106": 38
+    },
+    "sultanate": {
+        "P530": 18,
+        "P463": 17,
+        "P37": 1,
+        "P30": 1
+    },
+    "pro-drop language": {
+        "P1412": 70,
+        "P37": 8
+    },
+    "universal language": {
+        "P101": 20
+    },
+    "journalist": {
+        "P106": 31
+    },
+    "Latino-Faliscan languages": {
+        "P1412": 45,
+        "P37": 1
+    },
+    "ethnolect": {
+        "P1412": 14,
+        "P37": 1
+    },
+    "continental area and surrounding islands": {
+        "P30": 51,
+        "P361": 1
+    },
+    "law enforcement agency": {
+        "P463": 179
+    },
+    "kidney disease": {
+        "P509": 15
+    },
+    "county town": {
+        "P20": 9,
+        "P17": 3,
+        "P19": 3,
+        "P551": 2
+    },
+    "class of instruments": {
+        "P1303": 98
+    },
+    "foundation": {
+        "P463": 20
+    },
+    "consolidated city-county": {
+        "P20": 11,
+        "P19": 10,
+        "P551": 8,
+        "P17": 2,
+        "P30": 1
+    },
+    "Swedish Royal Academies": {
+        "P463": 71,
+        "P17": 1
+    },
+    "engineer": {
+        "P106": 36
+    },
+    "sanctuary city": {
+        "P19": 9,
+        "P551": 3,
+        "P20": 3,
+        "P17": 1,
+        "P30": 1
+    },
+    "integrated municipality": {
+        "P20": 22,
+        "P551": 8,
+        "P119": 7,
+        "P19": 6,
+        "P17": 5,
+        "P740": 1,
+        "P37": 1
+    },
+    "rare disease": {
+        "P509": 20
+    },
+    "pedagogue": {
+        "P106": 30
+    },
+    "federal capital": {
+        "P20": 33,
+        "P19": 16,
+        "P551": 13,
+        "P17": 9,
+        "P119": 7,
+        "P159": 1,
+        "P740": 1,
+        "P37": 1
+    },
+    "teacher": {
+        "P106": 195
+    },
+    "physicist": {
+        "P106": 15
+    },
+    "publisher": {
+        "P463": 214,
+        "P17": 2,
+        "P159": 1
+    },
+    "state": {
+        "P530": 333,
+        "P463": 124,
+        "P27": 30,
+        "P30": 6,
+        "P551": 4,
+        "P37": 3,
+        "P35": 3,
+        "P361": 2,
+        "P17": 2,
+        "P172": 1
+    },
+    "state in the Confederation of the Rhine": {
+        "P530": 19,
+        "P463": 10,
+        "P30": 1,
+        "P37": 1
+    },
+    "Anglic languages": {
+        "P1412": 676,
+        "P37": 56
+    },
+    "occupation": {
+        "P106": 1984,
+        "P101": 1,
+        "P1303": 1
+    },
+    "director": {
+        "P106": 202
+    },
+    "satellite state": {
+        "P530": 10,
+        "P27": 6,
+        "P17": 4,
+        "P551": 1,
+        "P463": 1,
+        "P30": 1,
+        "P37": 1
+    },
+    "English": {
+        "P1412": 14,
+        "P37": 1
+    },
+    "academic rank": {
+        "P106": 47
+    },
+    "organization": {
+        "P463": 361
+    },
+    "educator": {
+        "P106": 38
+    },
+    "land-grant university": {
+        "P108": 19,
+        "P69": 12
+    },
+    "vocal composer": {
+        "P106": 234
+    },
+    "bipolar spectrum": {
+        "P1050": 16
+    },
+    "republic": {
+        "P530": 2222,
+        "P463": 664,
+        "P27": 154,
+        "P30": 33,
+        "P37": 32,
+        "P17": 24,
+        "P361": 21,
+        "P551": 12,
+        "P172": 5,
+        "P737": 2,
+        "P159": 1,
+        "P740": 1,
+        "P495": 1
+    },
+    "performing artist": {
+        "P106": 375
+    },
+    "educational institution": {
+        "P108": 22,
+        "P463": 15,
+        "P69": 1,
+        "P17": 1
+    },
+    "Canaanite languages": {
+        "P1412": 15
+    },
+    "administrative territorial entity of the United Kingdom": {
+        "P20": 30,
+        "P551": 20,
+        "P19": 19,
+        "P159": 7,
+        "P17": 3,
+        "P30": 1,
+        "P119": 1
+    },
+    "nation": {
+        "P172": 88,
+        "P551": 9,
+        "P17": 3,
+        "P530": 1,
+        "P30": 1,
+        "P37": 1,
+        "P35": 1,
+        "P737": 1,
+        "P740": 1,
+        "P27": 1,
+        "P140": 1,
+        "P3095": 1
+    },
+    "constitutional republic": {
+        "P530": 822,
+        "P27": 616,
+        "P463": 101,
+        "P17": 36,
+        "P30": 6,
+        "P551": 4,
+        "P159": 3,
+        "P361": 2,
+        "P37": 2,
+        "P495": 2,
+        "P740": 2,
+        "P172": 1
+    },
+    "producer": {
+        "P106": 14
+    },
+    "musician": {
+        "P106": 888,
+        "P1303": 5,
+        "P101": 1
+    },
+    "great power": {
+        "P530": 263,
+        "P27": 55,
+        "P463": 18,
+        "P17": 3,
+        "P30": 2,
+        "P35": 2,
+        "P37": 1,
+        "P551": 1
+    },
+    "sun grant institution": {
+        "P108": 9,
+        "P69": 7
+    },
+    "electronic music": {
+        "P136": 19
+    },
+    "geopolitical community": {
+        "P463": 32
+    },
+    "bass": {
+        "P1303": 70,
+        "P106": 1
+    },
+    "timber-framed house": {
+        "P463": 36,
+        "P17": 1
+    },
+    "Federal Treaty": {
+        "P530": 68,
+        "P463": 25,
+        "P27": 13,
+        "P37": 3,
+        "P551": 2,
+        "P30": 1
+    },
+    "private not-for-profit educational institution": {
+        "P69": 121,
+        "P108": 119,
+        "P17": 1
+    },
+    "clinical sign": {
+        "P509": 31
+    },
+    "place with town rights and privileges": {
+        "P20": 11,
+        "P19": 10,
+        "P551": 5,
+        "P17": 4,
+        "P159": 1
+    },
+    "colonial empire": {
+        "P17": 13,
+        "P30": 4,
+        "P140": 1,
+        "P37": 1
+    },
+    "Einheitsgemeinde of Germany": {
+        "P20": 24,
+        "P17": 12,
+        "P551": 11,
+        "P19": 10,
+        "P119": 7,
+        "P740": 1,
+        "P37": 1
+    },
+    "person linked to the law": {
+        "P106": 18
+    },
+    "art style": {
+        "P135": 20
+    },
+    "residenz": {
+        "P20": 8,
+        "P19": 8,
+        "P17": 5,
+        "P551": 4,
+        "P159": 1
+    },
+    "single clarinets with conical bore": {
+        "P1303": 19
+    },
+    "billionaire": {
+        "P106": 25,
+        "P551": 6,
+        "P1412": 4,
+        "P102": 3,
+        "P27": 2,
+        "P19": 1,
+        "P140": 1,
+        "P463": 1,
+        "P172": 1,
+        "P161": 1,
+        "P737": 1
+    },
+    "city": {
+        "P20": 202,
+        "P19": 140,
+        "P551": 115,
+        "P530": 73,
+        "P17": 32,
+        "P463": 22,
+        "P159": 21,
+        "P119": 10,
+        "P30": 7,
+        "P37": 7,
+        "P740": 2,
+        "P35": 1,
+        "P27": 1,
+        "P840": 1,
+        "P361": 1
+    },
+    "media professional": {
+        "P106": 525
+    },
+    "comune of Italy": {
+        "P20": 14,
+        "P551": 3,
+        "P19": 2,
+        "P17": 1,
+        "P159": 1,
+        "P119": 1,
+        "P37": 1
+    },
+    "position": {
+        "P106": 79,
+        "P101": 2
+    },
+    "state capital in Germany": {
+        "P20": 8,
+        "P19": 8,
+        "P17": 5,
+        "P551": 4,
+        "P159": 1
+    },
+    "ethnic religion": {
+        "P140": 33,
+        "P17": 1,
+        "P3095": 1
+    },
+    "university": {
+        "P69": 64,
+        "P108": 45
+    },
+    "filmmaking occupation": {
+        "P106": 1288
+    },
+    "music director": {
+        "P106": 49
+    },
+    "democratic republic": {
+        "P530": 659,
+        "P27": 619,
+        "P17": 35,
+        "P463": 31,
+        "P551": 4,
+        "P159": 3,
+        "P30": 3,
+        "P37": 2,
+        "P495": 2,
+        "P740": 2,
+        "P361": 1,
+        "P172": 1
+    },
+    "cemetery": {
+        "P119": 45
+    },
+    "city-state": {
+        "P530": 71,
+        "P463": 30,
+        "P17": 8,
+        "P19": 6,
+        "P37": 5,
+        "P551": 3,
+        "P30": 3,
+        "P20": 2,
+        "P119": 2,
+        "P35": 1,
+        "P27": 1
+    },
+    "Ugric languages": {
+        "P1412": 12,
+        "P37": 3
+    },
+    "evangelical church": {
+        "P140": 37
+    },
+    "continent": {
+        "P30": 212,
+        "P361": 5,
+        "P138": 1,
+        "P530": 1,
+        "P17": 1
+    },
+    "communist state": {
+        "P530": 230,
+        "P27": 101,
+        "P463": 38,
+        "P17": 7,
+        "P30": 6,
+        "P37": 3,
+        "P551": 3,
+        "P361": 1
+    },
+    "single-tier municipality": {
+        "P551": 10,
+        "P19": 5,
+        "P20": 2,
+        "P30": 1,
+        "P17": 1
+    },
+    "musical profession": {
+        "P106": 2344,
+        "P101": 1,
+        "P1303": 1
+    },
+    "fiction": {
+        "P136": 18
+    },
+    "municipality with town privileges in the Czech Republic": {
+        "P19": 5,
+        "P20": 5,
+        "P17": 4,
+        "P551": 2
+    },
+    "health professional": {
+        "P106": 20
+    },
+    "district town": {
+        "P19": 5,
+        "P20": 5,
+        "P17": 4,
+        "P551": 2
+    },
+    "Christian music": {
+        "P136": 21
+    },
+    "composer": {
+        "P106": 272
+    },
+    "religious studies scholar": {
+        "P106": 16
+    },
+    "non-fiction literature": {
+        "P136": 22,
+        "P101": 17
+    },
+    "federated state": {
+        "P27": 12,
+        "P17": 2,
+        "P37": 1,
+        "P463": 1,
+        "P159": 1,
+        "P30": 1
+    },
+    "discussion moderator": {
+        "P106": 27,
+        "P101": 1
+    },
+    "federal republic": {
+        "P27": 93,
+        "P530": 39,
+        "P17": 3,
+        "P463": 2,
+        "P30": 2,
+        "P37": 1
+    },
+    "memoirist": {
+        "P106": 32
+    },
+    "pacifist": {
+        "P106": 16
+    },
+    "landlocked country": {
+        "P530": 1711,
+        "P463": 692,
+        "P27": 54,
+        "P30": 38,
+        "P37": 32,
+        "P361": 14,
+        "P17": 7,
+        "P551": 7,
+        "P172": 3,
+        "P35": 2,
+        "P140": 1
+    },
+    "neoplasm": {
+        "P509": 23
+    },
+    "Free imperial city": {
+        "P17": 7,
+        "P19": 4,
+        "P551": 3,
+        "P20": 2
+    },
+    "language scholar": {
+        "P106": 48
+    },
+    "specialty": {
+        "P106": 313,
+        "P101": 137
+    },
+    "lung neoplasm": {
+        "P509": 20
+    },
+    "island nation": {
+        "P530": 1661,
+        "P463": 688,
+        "P27": 177,
+        "P30": 41,
+        "P37": 33,
+        "P17": 19,
+        "P361": 13,
+        "P35": 11,
+        "P551": 3,
+        "P140": 1,
+        "P19": 1,
+        "P740": 1,
+        "P20": 1
+    },
+    "pontifical academy": {
+        "P463": 15,
+        "P17": 1
+    },
+    "imprint": {
+        "P264": 13,
+        "P17": 2,
+        "P740": 1,
+        "P159": 1,
+        "P136": 1,
+        "P749": 1
+    },
+    "notifiable disease": {
+        "P509": 16,
+        "P1050": 13
+    },
+    "seat of government": {
+        "P20": 22,
+        "P551": 8,
+        "P119": 7,
+        "P19": 6,
+        "P17": 5,
+        "P740": 1,
+        "P37": 1
+    },
+    "borough of New York City": {
+        "P19": 34,
+        "P551": 18,
+        "P20": 10,
+        "P740": 1
+    },
+    "event venue": {
+        "P463": 17,
+        "P17": 1
+    },
+    "visa policy": {
+        "P463": 35
+    },
+    "ethnic group": {
+        "P172": 442,
+        "P140": 1
+    },
+    "learned society": {
+        "P463": 491,
+        "P17": 4,
+        "P159": 2,
+        "P37": 1,
+        "P101": 1,
+        "P1412": 1
+    },
+    "animation studio": {
+        "P108": 7,
+        "P264": 6,
+        "P112": 1,
+        "P749": 1
+    },
+    "military alliance": {
+        "P463": 30
+    },
+    "archipelagic state": {
+        "P530": 300,
+        "P463": 82,
+        "P30": 5,
+        "P37": 3,
+        "P35": 2,
+        "P27": 2
+    },
+    "East Scandinavian languages": {
+        "P1412": 14,
+        "P37": 3
+    },
+    "music tradition": {
+        "P136": 39,
+        "P135": 3,
+        "P101": 1
+    },
+    "impaired renal function disease": {
+        "P509": 15
+    },
+    "critic": {
+        "P106": 114
+    },
+    "exact science": {
+        "P101": 79
+    },
+    "colonial power": {
+        "P530": 687,
+        "P27": 370,
+        "P463": 199,
+        "P17": 24,
+        "P30": 14,
+        "P551": 11,
+        "P37": 9,
+        "P119": 1,
+        "P737": 1,
+        "P35": 1,
+        "P361": 1,
+        "P159": 1
+    },
+    "monotheistic religion": {
+        "P140": 61,
+        "P361": 1,
+        "P17": 1,
+        "P3095": 1
+    },
+    "profession": {
+        "P106": 5931,
+        "P101": 9,
+        "P1303": 5
+    },
+    "humor": {
+        "P136": 14,
+        "P101": 1
+    },
+    "film": {
+        "P161": 11,
+        "P495": 3,
+        "P840": 1
+    },
+    "town divided by border": {
+        "P20": 22,
+        "P551": 8,
+        "P119": 7,
+        "P19": 6,
+        "P17": 5,
+        "P740": 1,
+        "P37": 1
+    },
+    "country": {
+        "P530": 10554,
+        "P463": 3335,
+        "P27": 1311,
+        "P30": 180,
+        "P37": 152,
+        "P17": 107,
+        "P361": 83,
+        "P551": 49,
+        "P35": 20,
+        "P172": 12,
+        "P119": 6,
+        "P159": 5,
+        "P740": 5,
+        "P737": 4,
+        "P495": 4,
+        "P19": 3,
+        "P140": 2,
+        "P20": 2,
+        "P138": 1,
+        "P1412": 1
+    },
+    "exempt charity": {
+        "P108": 11,
+        "P69": 7
+    },
+    "agent": {
+        "P264": 98,
+        "P159": 1,
+        "P17": 1
+    },
+    "member states of the Association of Southeast Asian Nations": {
+        "P530": 156,
+        "P463": 13,
+        "P30": 1
+    },
+    "science fiction author": {
+        "P106": 73
+    },
+    "lower respiratory tract infection": {
+        "P509": 35
+    },
+    "heavy metal": {
+        "P136": 15
+    },
+    "lung disease": {
+        "P509": 55
+    },
+    "natural science": {
+        "P101": 17
+    },
+    "arts": {
+        "P101": 20
+    },
+    "city/town": {
+        "P20": 45,
+        "P19": 44,
+        "P551": 23,
+        "P17": 8,
+        "P159": 3,
+        "P37": 1,
+        "P30": 1
+    },
+    "physical science": {
+        "P101": 57
+    },
+    "episcopal see": {
+        "P20": 69,
+        "P530": 42,
+        "P19": 33,
+        "P551": 22,
+        "P159": 2,
+        "P17": 1,
+        "P30": 1,
+        "P119": 1
+    },
+    "provincial or territorial capital city in Canada": {
+        "P551": 10,
+        "P19": 5,
+        "P20": 2,
+        "P30": 1,
+        "P17": 1
+    },
+    "state with limited recognition": {
+        "P530": 469,
+        "P463": 11,
+        "P30": 3,
+        "P27": 3,
+        "P361": 2,
+        "P37": 1
+    },
+    "researcher": {
+        "P106": 124,
+        "P101": 1
+    },
+    "non-fiction writer": {
+        "P106": 213
+    },
+    "administrative territorial entity": {
+        "P530": 440,
+        "P463": 122,
+        "P27": 87,
+        "P17": 15,
+        "P30": 6,
+        "P37": 4,
+        "P551": 4,
+        "P172": 2,
+        "P737": 1,
+        "P159": 1,
+        "P740": 1,
+        "P495": 1,
+        "P35": 1
+    },
+    "autonomous country within the Kingdom of Denmark": {
+        "P530": 173,
+        "P463": 29,
+        "P27": 7,
+        "P551": 1
+    },
+    "Lechitic languages": {
+        "P1412": 18,
+        "P37": 3
+    },
+    "respiratory system cancer": {
+        "P509": 20
+    },
+    "book publishing company": {
+        "P463": 71,
+        "P159": 1,
+        "P17": 1
+    },
+    "civil servant": {
+        "P106": 35
+    },
+    "Portuguese Empire": {
+        "P530": 14,
+        "P463": 13,
+        "P37": 3,
+        "P17": 1,
+        "P30": 1
+    },
+    "empire1": {
+        "P27": 88,
+        "P37": 9,
+        "P17": 7,
+        "P30": 3,
+        "P140": 3,
+        "P463": 2,
+        "P530": 2,
+        "P551": 2,
+        "P108": 1
+    },
+    "percussion instrument": {
+        "P1303": 25
+    },
+    "big city": {
+        "P20": 237,
+        "P19": 234,
+        "P551": 181,
+        "P530": 67,
+        "P17": 48,
+        "P159": 20,
+        "P463": 19,
+        "P740": 10,
+        "P30": 10,
+        "P37": 5,
+        "P119": 4,
+        "P840": 1,
+        "P361": 1
+    },
+    "subsidiary": {
+        "P264": 42,
+        "P749": 9,
+        "P159": 1,
+        "P361": 1,
+        "P17": 1,
+        "P108": 1
+    },
+    "major label": {
+        "P264": 42,
+        "P749": 9,
+        "P159": 1,
+        "P361": 1,
+        "P17": 1,
+        "P108": 1
+    },
+    "musical instrument": {
+        "P1303": 634
+    },
+    "Helvetic Republic": {
+        "P530": 68,
+        "P463": 25,
+        "P27": 13,
+        "P37": 3,
+        "P551": 2,
+        "P30": 1
+    },
+    "academic major": {
+        "P101": 72,
+        "P136": 1
+    },
+    "special administrative region of China": {
+        "P530": 15,
+        "P463": 4,
+        "P361": 1,
+        "P37": 1,
+        "P30": 1,
+        "P17": 1
+    },
+    "child prodigy": {
+        "P1412": 5,
+        "P106": 4,
+        "P1303": 3,
+        "P136": 3,
+        "P140": 1,
+        "P20": 1,
+        "P737": 1
+    },
+    "sets of free reeds": {
+        "P1303": 35
+    },
+    "businessperson": {
+        "P106": 41,
+        "P101": 2
+    },
+    "national academy": {
+        "P463": 559,
+        "P17": 13,
+        "P159": 6,
+        "P37": 1,
+        "P101": 1,
+        "P1412": 1
+    },
+    "music teacher": {
+        "P106": 30
+    },
+    "true board zithers with resonator box": {
+        "P1303": 242
+    },
+    "drama school": {
+        "P69": 10,
+        "P108": 3,
+        "P17": 1
+    },
+    "science": {
+        "P101": 52,
+        "P136": 1
+    },
+    "cardiovascular disease": {
+        "P509": 31
+    },
+    "unitary state": {
+        "P530": 1473,
+        "P463": 412,
+        "P27": 54,
+        "P30": 24,
+        "P37": 11,
+        "P17": 5,
+        "P551": 4,
+        "P172": 3,
+        "P119": 2,
+        "P140": 1,
+        "P19": 1,
+        "P361": 1,
+        "P1412": 1,
+        "P737": 1
+    },
+    "open-access journal": {
+        "P463": 13,
+        "P17": 1,
+        "P159": 1
+    },
+    "art music": {
+        "P136": 39,
+        "P135": 3,
+        "P101": 1
+    },
+    "warrior": {
+        "P106": 16
+    },
+    "necked bowl lutes sounded by plectrum": {
+        "P1303": 18
+    },
+    "Abrahamic religion": {
+        "P140": 117,
+        "P361": 2,
+        "P37": 1,
+        "P17": 1,
+        "P3095": 1
+    },
+    "human": {
+        "P106": 10197,
+        "P136": 1662,
+        "P27": 1648,
+        "P463": 1629,
+        "P1412": 1476,
+        "P1303": 1443,
+        "P737": 1346,
+        "P264": 879,
+        "P69": 383,
+        "P101": 371,
+        "P140": 359,
+        "P172": 349,
+        "P108": 344,
+        "P20": 331,
+        "P19": 328,
+        "P551": 295,
+        "P509": 244,
+        "P3373": 174,
+        "P102": 143,
+        "P26": 120,
+        "P451": 86,
+        "P119": 79,
+        "P40": 64,
+        "P135": 54,
+        "P1050": 32,
+        "P2348": 27,
+        "P161": 24,
+        "P35": 22,
+        "P740": 11,
+        "P112": 3,
+        "P138": 2,
+        "P800": 1
+    },
+    "playwright": {
+        "P106": 29
+    },
+    "global city": {
+        "P20": 98,
+        "P19": 74,
+        "P551": 58,
+        "P159": 11,
+        "P17": 2,
+        "P840": 1,
+        "P740": 1,
+        "P30": 1,
+        "P119": 1
+    },
+    "jurist": {
+        "P106": 35
+    },
+    "Original Public Ivy": {
+        "P108": 10,
+        "P69": 5
+    },
+    "East Slavic languages": {
+        "P1412": 115,
+        "P37": 8
+    },
+    "experimental music": {
+        "P136": 12
+    },
+    "nationality": {
+        "P172": 26
+    },
+    "border town": {
+        "P20": 15,
+        "P19": 8,
+        "P551": 6,
+        "P17": 2,
+        "P740": 2,
+        "P30": 1,
+        "P159": 1,
+        "P119": 1,
+        "P37": 1
+    },
+    "keyboardist": {
+        "P106": 188,
+        "P1303": 1
+    },
+    "regional organization": {
+        "P463": 92,
+        "P530": 55,
+        "P361": 2
+    },
+    "dead language": {
+        "P1412": 45,
+        "P37": 1
+    },
+    "speculative fiction": {
+        "P136": 16
+    },
+    "theatrical genre": {
+        "P136": 39,
+        "P101": 1
+    },
+    "former capital": {
+        "P19": 16,
+        "P20": 12,
+        "P551": 11,
+        "P17": 4,
+        "P159": 1
+    },
+    "union of writers": {
+        "P463": 19
+    },
+    "grand duchy": {
+        "P463": 30,
+        "P530": 23,
+        "P30": 1,
+        "P37": 1
+    },
+    "endemic disease": {
+        "P509": 32,
+        "P1050": 26
+    },
+    "largest city": {
+        "P20": 173,
+        "P19": 169,
+        "P551": 95,
+        "P17": 21,
+        "P159": 18,
+        "P37": 4,
+        "P30": 4,
+        "P840": 1,
+        "P740": 1
+    },
+    "squeezebox": {
+        "P1303": 15
+    },
+    "urban district of Bavaria": {
+        "P20": 8,
+        "P19": 8,
+        "P17": 5,
+        "P551": 4,
+        "P159": 1
+    },
+    "public university": {
+        "P69": 115,
+        "P108": 83
+    },
+    "philosophical movement": {
+        "P140": 123,
+        "P135": 16
+    },
+    "prose": {
+        "P136": 27,
+        "P101": 1
+    },
+    "ethnic community": {
+        "P172": 288
+    },
+    "ischemia": {
+        "P509": 70
+    },
+    "second largest city": {
+        "P19": 60,
+        "P20": 57,
+        "P551": 34,
+        "P17": 12,
+        "P159": 4,
+        "P37": 1,
+        "P30": 1
+    },
+    "major regional center": {
+        "P20": 11,
+        "P17": 11,
+        "P19": 4,
+        "P551": 3,
+        "P119": 2
+    },
+    "state of Austria": {
+        "P20": 11,
+        "P19": 10,
+        "P551": 5,
+        "P17": 4,
+        "P159": 1
+    },
+    "Wikipedia article covering multiple topics": {
+        "P264": 69,
+        "P159": 2,
+        "P749": 2,
+        "P17": 1
+    },
+    "federal state": {
+        "P530": 989,
+        "P27": 726,
+        "P463": 137,
+        "P17": 50,
+        "P551": 10,
+        "P37": 9,
+        "P30": 5,
+        "P159": 4,
+        "P172": 4,
+        "P495": 4,
+        "P740": 3,
+        "P737": 1,
+        "P361": 1,
+        "P35": 1
+    },
+    "independent city of Germany": {
+        "P20": 19,
+        "P17": 16,
+        "P19": 12,
+        "P551": 7,
+        "P119": 2,
+        "P159": 1
+    },
+    "territorial entity": {
+        "P361": 14
+    },
+    "county seat": {
+        "P551": 58,
+        "P19": 46,
+        "P20": 36,
+        "P740": 8,
+        "P17": 4,
+        "P159": 4,
+        "P30": 2,
+        "P37": 1
+    },
+    "constitutional monarchy": {
+        "P530": 160,
+        "P463": 66,
+        "P27": 4,
+        "P30": 2,
+        "P37": 1,
+        "P361": 1,
+        "P20": 1
+    },
+    "legal state": {
+        "P530": 1131,
+        "P27": 175,
+        "P463": 147,
+        "P17": 21,
+        "P551": 9,
+        "P30": 8,
+        "P37": 5,
+        "P172": 4,
+        "P35": 2,
+        "P361": 1,
+        "P119": 1,
+        "P737": 1,
+        "P159": 1,
+        "P740": 1,
+        "P495": 1
+    },
+    "cultural movement": {
+        "P135": 20
+    },
+    "plucked necked box lutes": {
+        "P1303": 295
+    },
+    "treaty": {
+        "P463": 31
+    },
+    "voluntary association": {
+        "P463": 54,
+        "P17": 1
+    },
+    "political organisation": {
+        "P530": 53,
+        "P463": 25,
+        "P361": 1
+    },
+    "songwriter": {
+        "P106": 435
+    },
+    "Semitic": {
+        "P172": 61,
+        "P140": 1,
+        "P3095": 1
+    },
+    "literary movement": {
+        "P135": 33
+    },
+    "principality": {
+        "P530": 45,
+        "P463": 30,
+        "P30": 3,
+        "P37": 2,
+        "P119": 2,
+        "P172": 1,
+        "P19": 1
+    },
+    "university teacher": {
+        "P106": 47
+    },
+    "constituent part of the United Kingdom": {
+        "P551": 9,
+        "P17": 3,
+        "P530": 1,
+        "P30": 1,
+        "P37": 1,
+        "P35": 1,
+        "P737": 1,
+        "P740": 1,
+        "P27": 1
+    },
+    "language": {
+        "P1412": 1450,
+        "P37": 178,
+        "P101": 1
+    },
+    "tourist attraction": {
+        "P530": 6,
+        "P37": 3,
+        "P463": 3,
+        "P30": 1,
+        "P17": 1,
+        "P35": 1,
+        "P27": 1
+    },
+    "municipality of Austria": {
+        "P20": 11,
+        "P19": 10,
+        "P551": 5,
+        "P17": 4,
+        "P159": 1
+    },
+    "dominion of the British Empire": {
+        "P530": 620,
+        "P463": 88,
+        "P27": 51,
+        "P37": 4,
+        "P35": 3,
+        "P361": 2,
+        "P30": 2,
+        "P172": 2,
+        "P17": 1,
+        "P495": 1,
+        "P551": 1
+    },
+    "district capital": {
+        "P20": 14,
+        "P17": 11,
+        "P19": 9,
+        "P551": 5,
+        "P119": 2,
+        "P159": 1
+    },
+    "Semitic languages": {
+        "P37": 24,
+        "P1412": 12
+    },
+    "independent music": {
+        "P136": 12
+    },
+    "alternative rock": {
+        "P136": 12
+    },
+    "Territorial evolution of the British Empire": {
+        "P530": 41,
+        "P463": 32,
+        "P30": 2,
+        "P37": 2,
+        "P551": 1,
+        "P35": 1,
+        "P740": 1,
+        "P17": 1
+    },
+    "building": {
+        "P463": 71,
+        "P17": 1
+    },
+    "academy of sciences": {
+        "P463": 1180,
+        "P17": 23,
+        "P108": 17,
+        "P159": 10,
+        "P69": 1
+    },
+    "business": {
+        "P264": 69,
+        "P463": 61,
+        "P159": 2,
+        "P749": 2,
+        "P17": 1
+    },
+    "human voice": {
+        "P1303": 551
+    },
+    "research university": {
+        "P108": 116,
+        "P69": 111
+    },
+    "academic discipline": {
+        "P101": 320,
+        "P136": 1
+    },
+    "television personality": {
+        "P106": 68
+    },
+    "capital of Russia": {
+        "P20": 45,
+        "P19": 44,
+        "P551": 23,
+        "P17": 8,
+        "P159": 3,
+        "P37": 1,
+        "P30": 1
+    },
+    "guitar": {
+        "P1303": 70,
+        "P106": 1
+    },
+    "architectural style": {
+        "P135": 20
+    },
+    "contemporary folk music": {
+        "P136": 28
+    },
+    "empire": {
+        "P27": 18,
+        "P17": 6,
+        "P159": 1,
+        "P30": 1,
+        "P37": 1
+    },
+    "Jewish people": {
+        "P172": 36,
+        "P140": 1
+    },
+    "centro-meridian Italian languages": {
+        "P1412": 70,
+        "P37": 8
+    },
+    "membership organization": {
+        "P463": 22
+    },
+    "comprehensive university": {
+        "P69": 43,
+        "P108": 28
+    },
+    "narrative": {
+        "P136": 80,
+        "P101": 3
+    },
+    "university college": {
+        "P69": 10,
+        "P108": 5
+    },
+    "rock music": {
+        "P136": 328,
+        "P135": 1
+    },
+    "music term": {
+        "P136": 18,
+        "P800": 1
+    },
+    "metropolis": {
+        "P20": 73,
+        "P19": 47,
+        "P551": 40,
+        "P17": 24,
+        "P159": 9,
+        "P119": 8,
+        "P740": 1,
+        "P37": 1,
+        "P30": 1
+    },
+    "doctrine": {
+        "P140": 20,
+        "P135": 1
+    },
+    "formal science": {
+        "P101": 20
+    },
+    "infectious disease": {
+        "P509": 35
+    },
+    "pop music": {
+        "P136": 209,
+        "P135": 1
+    },
+    "social state": {
+        "P530": 946,
+        "P27": 172,
+        "P463": 115,
+        "P17": 21,
+        "P30": 7,
+        "P551": 7,
+        "P37": 4,
+        "P172": 3,
+        "P35": 2,
+        "P737": 2,
+        "P159": 1,
+        "P740": 1,
+        "P495": 1
+    },
+    "filmmaker": {
+        "P106": 23
+    },
+    "cultural region": {
+        "P361": 16
+    },
+    "classical musician": {
+        "P106": 16
+    },
+    "supranational union": {
+        "P27": 93,
+        "P530": 92,
+        "P463": 27,
+        "P17": 3,
+        "P30": 2,
+        "P37": 1,
+        "P361": 1
+    },
+    "monarchy of Antigua and Barbuda": {
+        "P463": 16,
+        "P530": 8,
+        "P361": 1,
+        "P30": 1,
+        "P35": 1
+    },
+    "Galician-Portuguese languages": {
+        "P1412": 19,
+        "P37": 9
+    },
+    "rockumentary": {
+        "P161": 13,
+        "P495": 1
+    },
+    "designer": {
+        "P106": 29
+    },
+    "cerebrovascular disease": {
+        "P509": 34,
+        "P1050": 3
+    },
+    "Oïl languages": {
+        "P1412": 202,
+        "P37": 32,
+        "P101": 1
+    },
+    "presenter": {
+        "P106": 103
+    },
+    "century": {
+        "P2348": 27
+    },
+    "screenwriter": {
+        "P106": 142
+    },
+    "military operation": {
+        "P463": 40
+    },
+    "creative work": {
+        "P101": 137
+    },
+    "urban district of Lower Hamburg": {
+        "P17": 7,
+        "P19": 4,
+        "P551": 3,
+        "P20": 2
+    },
+    "Stiftungshochschule": {
+        "P69": 29,
+        "P108": 16
+    },
+    "musicologist": {
+        "P106": 19
+    },
+    "Commonwealth realm": {
+        "P530": 749,
+        "P463": 294,
+        "P27": 199,
+        "P35": 15,
+        "P17": 13,
+        "P30": 13,
+        "P37": 13,
+        "P361": 3,
+        "P172": 2,
+        "P495": 1,
+        "P551": 1,
+        "P740": 1
+    },
+    "member states of the United Nations": {
+        "P530": 45,
+        "P463": 15,
+        "P30": 1,
+        "P37": 1
+    },
+    "communist party": {
+        "P102": 23
+    },
+    "adventurer": {
+        "P106": 16
+    },
+    "fashion person": {
+        "P106": 120
+    },
+    "international financial institution": {
+        "P463": 83
+    },
+    "research institute": {
+        "P463": 88,
+        "P69": 1,
+        "P17": 1
+    },
+    "expedited border crossing scheme": {
+        "P463": 35
+    },
+    "Slavs": {
+        "P530": 70,
+        "P30": 1
+    },
+    "music journalist": {
+        "P106": 18
+    },
+    "British people": {
+        "P172": 27
+    },
+    "engineering school": {
+        "P69": 18,
+        "P108": 8
+    },
+    "coronary artery disease": {
+        "P509": 70
+    },
+    "person": {
+        "P172": 37
+    },
+    "creator": {
+        "P106": 178,
+        "P101": 1
+    },
+    "district of the Czech Republic": {
+        "P19": 5,
+        "P20": 5,
+        "P17": 4,
+        "P551": 2
+    },
+    "United Nations Depository Library": {
+        "P108": 10,
+        "P69": 5
+    },
+    "audio engineer": {
+        "P106": 225
+    },
+    "music genre": {
+        "P136": 1458,
+        "P101": 5,
+        "P135": 4,
+        "P106": 1,
+        "P800": 1
+    },
+    "employee": {
+        "P106": 16
+    },
+    "superpowers": {
+        "P27": 616,
+        "P530": 314,
+        "P17": 35,
+        "P463": 26,
+        "P551": 4,
+        "P159": 3,
+        "P37": 2,
+        "P495": 2,
+        "P740": 2,
+        "P30": 2,
+        "P361": 1,
+        "P172": 1
+    },
+    "metropolitan area": {
+        "P530": 15,
+        "P463": 4,
+        "P361": 1,
+        "P37": 1,
+        "P30": 1,
+        "P17": 1
+    },
+    "transcontinental country": {
+        "P530": 559,
+        "P27": 216,
+        "P463": 83,
+        "P30": 10,
+        "P17": 9,
+        "P37": 7,
+        "P551": 3,
+        "P35": 2,
+        "P361": 2
+    },
+    "political party": {
+        "P102": 120
+    },
+    "quasi-autonomous non-governmental organisation": {
+        "P463": 41,
+        "P17": 1
+    },
+    "musical composition": {
+        "P136": 18,
+        "P800": 1
+    },
+    "primary bacterial infectious disease": {
+        "P509": 16,
+        "P1050": 13
+    },
+    "human population": {
+        "P172": 26
+    },
+    "world view": {
+        "P140": 123,
+        "P135": 16
+    },
+    "Protestantism": {
+        "P140": 58
+    },
+    "writer": {
+        "P106": 1309
+    },
+    "sovereign state": {
+        "P530": 10614,
+        "P463": 3382,
+        "P27": 1614,
+        "P30": 192,
+        "P37": 171,
+        "P17": 129,
+        "P361": 84,
+        "P551": 45,
+        "P35": 21,
+        "P172": 12,
+        "P140": 6,
+        "P119": 6,
+        "P159": 5,
+        "P740": 4,
+        "P495": 4,
+        "P737": 3,
+        "P19": 3,
+        "P20": 2,
+        "P138": 1,
+        "P108": 1,
+        "P1412": 1
+    },
+    "Southern European languages": {
+        "P1412": 317,
+        "P37": 41,
+        "P101": 1
+    },
+    "producer1": {
+        "P106": 468
+    },
+    "secular state": {
+        "P530": 798,
+        "P463": 83,
+        "P27": 65,
+        "P361": 5,
+        "P17": 5,
+        "P37": 4,
+        "P30": 3,
+        "P551": 2,
+        "P35": 2,
+        "P119": 1
+    },
+    "scientist": {
+        "P106": 301,
+        "P101": 1
+    },
+    "overseas province of Portugal": {
+        "P530": 30,
+        "P463": 18,
+        "P17": 1,
+        "P37": 1,
+        "P30": 1,
+        "P361": 1
+    },
+    "economic union": {
+        "P530": 53,
+        "P463": 25,
+        "P361": 1
+    },
+    "theorist": {
+        "P106": 34
+    },
+    "sets of double-skin cylindrical drums with single playing heads": {
+        "P1303": 25
+    },
+    "visual artist": {
+        "P106": 107
+    },
+    "faculty member": {
+        "P106": 195
+    },
+    "presidential system": {
+        "P530": 133,
+        "P463": 17,
+        "P30": 1
+    },
+    "religious denomination": {
+        "P140": 46
+    },
+    "higher education institution": {
+        "P69": 36,
+        "P108": 31
+    },
+    "region of the Czech Republic": {
+        "P19": 5,
+        "P20": 5,
+        "P17": 4,
+        "P551": 2
+    },
+    "African-American music": {
+        "P136": 78
+    },
+    "biologist": {
+        "P106": 38
+    },
+    "confederation": {
+        "P530": 121,
+        "P463": 50,
+        "P27": 13,
+        "P37": 3,
+        "P551": 2,
+        "P30": 1,
+        "P361": 1
+    },
+    "state of Germany": {
+        "P20": 24,
+        "P17": 12,
+        "P551": 11,
+        "P19": 10,
+        "P119": 7,
+        "P740": 1,
+        "P37": 1
+    },
+    "constituency": {
+        "P19": 5,
+        "P20": 5,
+        "P17": 4,
+        "P551": 2
+    },
+    "specialized agency of the United Nations": {
+        "P463": 980
+    },
+    "federal city of Russia": {
+        "P20": 45,
+        "P19": 44,
+        "P551": 23,
+        "P17": 8,
+        "P159": 3,
+        "P37": 1,
+        "P30": 1
+    },
+    "urban district of Berlin": {
+        "P20": 22,
+        "P551": 8,
+        "P119": 7,
+        "P19": 6,
+        "P17": 5,
+        "P740": 1,
+        "P37": 1
+    },
+    "academic profession": {
+        "P106": 243
+    },
+    "craft": {
+        "P106": 62
+    },
+    "urban municipality of Germany": {
+        "P20": 43,
+        "P17": 28,
+        "P19": 22,
+        "P551": 18,
+        "P119": 9,
+        "P159": 1,
+        "P740": 1,
+        "P37": 1
+    },
+    "cultural studies scholar": {
+        "P106": 12
+    },
+    "public educational institution of the United States": {
+        "P69": 24,
+        "P108": 12
+    },
+    "member state of the European Union": {
+        "P530": 233,
+        "P463": 56,
+        "P27": 16,
+        "P30": 3,
+        "P551": 2,
+        "P37": 1
+    },
+    "Christian denomination": {
+        "P140": 58
+    },
+    "information professional": {
+        "P106": 17
+    },
+    "open-access publisher": {
+        "P463": 110,
+        "P69": 104,
+        "P108": 74,
+        "P159": 1,
+        "P17": 1
+    },
+    "musical work": {
+        "P101": 138,
+        "P136": 39
+    },
+    "kingdom": {
+        "P27": 15,
+        "P463": 13,
+        "P530": 7,
+        "P30": 4,
+        "P17": 3,
+        "P37": 1
+    },
+    "mycobacterium infectious disease": {
+        "P509": 16,
+        "P1050": 13
+    },
+    "poet": {
+        "P106": 15
+    },
+    "art genre": {
+        "P136": 14,
+        "P101": 1
+    },
+    "megacity": {
+        "P20": 33,
+        "P19": 28,
+        "P551": 12,
+        "P17": 4,
+        "P159": 2,
+        "P37": 1,
+        "P30": 1
+    },
+    "ethnoreligious group": {
+        "P172": 61,
+        "P140": 1,
+        "P3095": 1
+    },
+    "private university": {
+        "P108": 116,
+        "P69": 111
+    },
+    "title of authority": {
+        "P106": 47
+    },
+    "art form": {
+        "P101": 20
+    },
+    "investigator": {
+        "P106": 16
+    },
+    "urban district in Saxony": {
+        "P20": 5,
+        "P17": 5,
+        "P19": 3,
+        "P551": 2
+    },
+    "actor": {
+        "P106": 1058
+    },
+    "translator-interpreter": {
+        "P106": 110
+    },
+    "literary work": {
+        "P136": 64,
+        "P101": 32,
+        "P106": 6
+    },
+    "literary genre": {
+        "P136": 148,
+        "P101": 22,
+        "P106": 6
+    },
+    "manager": {
+        "P106": 38
+    },
+    "singer": {
+        "P106": 395
+    },
+    "geographic region": {
+        "P361": 61,
+        "P530": 37,
+        "P463": 13,
+        "P30": 1
+    },
+    "commune of France with specific status": {
+        "P20": 69,
+        "P19": 33,
+        "P551": 22,
+        "P159": 2,
+        "P17": 1,
+        "P30": 1,
+        "P119": 1
+    },
+    "privately held company": {
+        "P264": 44,
+        "P159": 1,
+        "P749": 1
+    },
+    "capital": {
+        "P20": 173,
+        "P19": 118,
+        "P551": 75,
+        "P17": 23,
+        "P159": 13,
+        "P119": 9,
+        "P30": 5,
+        "P37": 3,
+        "P740": 1
+    },
+    "vocalist": {
+        "P106": 621
+    },
+    "complication": {
+        "P509": 31
+    },
+    "artist": {
+        "P106": 1105,
+        "P101": 2
+    },
+    "medical profession": {
+        "P106": 20
+    },
+    "Empire on which the sun never sets": {
+        "P17": 13,
+        "P30": 4,
+        "P140": 1,
+        "P37": 1
+    },
+    "municipality of the Czech Republic": {
+        "P19": 5,
+        "P20": 5,
+        "P17": 4,
+        "P551": 2
+    },
+    "academic institution": {
+        "P69": 10,
+        "P108": 5
+    },
+    "municipality with authorized municipal office": {
+        "P19": 5,
+        "P20": 5,
+        "P17": 4,
+        "P551": 2
+    },
+    "modern language": {
+        "P1412": 1417,
+        "P37": 180,
+        "P101": 1
+    },
+    "country of the Kingdom of the Netherlands": {
+        "P530": 55,
+        "P463": 25,
+        "P17": 1,
+        "P27": 1,
+        "P30": 1,
+        "P37": 1
+    },
+    "geographical object": {
+        "P19": 9,
+        "P17": 2,
+        "P30": 1,
+        "P159": 1,
+        "P37": 1,
+        "P20": 1,
+        "P551": 1
+    },
+    "financial centre": {
+        "P20": 38,
+        "P19": 27,
+        "P551": 24,
+        "P17": 8,
+        "P159": 8,
+        "P30": 1,
+        "P119": 1
+    }
+}

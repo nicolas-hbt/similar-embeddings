@@ -1,0 +1,3806 @@
+{
+    "http://yago-knowledge.org/resource/Metropolitan_cities_of_Italy": [
+        "http://schema.org/AdministrativeArea"
+    ],
+    "http://yago-knowledge.org/resource/Manorialism": [
+        "http://schema.org/Place",
+        "http://schema.org/Organization"
+    ],
+    "http://schema.org/Museum": [
+        "http://schema.org/CivicStructure"
+    ],
+    "http://yago-knowledge.org/resource/Provinces_of_Afghanistan": [
+        "http://schema.org/AdministrativeArea"
+    ],
+    "http://yago-knowledge.org/resource/Executive_(government)": [
+        "http://schema.org/GovernmentOrganization"
+    ],
+    "http://yago-knowledge.org/resource/Regions_of_the_Philippines": [
+        "http://schema.org/AdministrativeArea"
+    ],
+    "http://yago-knowledge.org/resource/City_with_county_rights": [
+        "http://schema.org/City",
+        "http://schema.org/Corporation"
+    ],
+    "http://yago-knowledge.org/resource/Baladiyat_of_Libya": [
+        "http://schema.org/AdministrativeArea"
+    ],
+    "http://yago-knowledge.org/resource/Music_tracker": [
+        "http://schema.org/SoftwareApplication",
+        "http://schema.org/Product"
+    ],
+    "http://yago-knowledge.org/resource/Archipelago": [
+        "http://schema.org/Landform"
+    ],
+    "http://yago-knowledge.org/resource/Research_university": [
+        "http://schema.org/Place",
+        "http://schema.org/CollegeOrUniversity"
+    ],
+    "http://yago-knowledge.org/resource/Guitar": [
+        "http://schema.org/Product"
+    ],
+    "http://yago-knowledge.org/resource/Township_(Canada)": [
+        "http://schema.org/AdministrativeArea"
+    ],
+    "http://yago-knowledge.org/resource/Gemarkung": [
+        "http://schema.org/AdministrativeArea"
+    ],
+    "http://yago-knowledge.org/resource/Reference_work": [
+        "http://schema.org/Product",
+        "http://schema.org/CreativeWork"
+    ],
+    "http://yago-knowledge.org/resource/Municipal_district": [
+        "http://schema.org/AdministrativeArea"
+    ],
+    "http://yago-knowledge.org/resource/Conglomerate_(company)": [
+        "http://schema.org/Organization"
+    ],
+    "http://yago-knowledge.org/resource/Republics_of_the_Soviet_Union": [
+        "http://schema.org/State",
+        "http://schema.org/Country",
+        "http://schema.org/Organization"
+    ],
+    "http://yago-knowledge.org/resource/Street": [
+        "http://schema.org/Place"
+    ],
+    "http://yago-knowledge.org/resource/Allied_health_professions": [
+        "http://schema.org/Occupation"
+    ],
+    "http://yago-knowledge.org/resource/Municipal_arrondissements_of_France": [
+        "http://schema.org/AdministrativeArea"
+    ],
+    "http://yago-knowledge.org/resource/Free_license": [
+        "http://schema.org/Product",
+        "http://schema.org/CreativeWork"
+    ],
+    "http://yago-knowledge.org/resource/Core_cities_of_Japan": [
+        "http://schema.org/City",
+        "http://schema.org/Corporation"
+    ],
+    "http://yago-knowledge.org/resource/Violin": [
+        "http://schema.org/Product"
+    ],
+    "http://yago-knowledge.org/resource/Town_square": [
+        "http://schema.org/Place"
+    ],
+    "http://yago-knowledge.org/resource/Performance_rights_organisation": [
+        "http://schema.org/Organization"
+    ],
+    "http://yago-knowledge.org/resource/Children's_television_series": [
+        "http://schema.org/TVSeries"
+    ],
+    "http://yago-knowledge.org/resource/Departments_of_Uruguay": [
+        "http://schema.org/AdministrativeArea"
+    ],
+    "http://yago-knowledge.org/resource/Japanese_television_drama": [
+        "http://schema.org/TVSeries"
+    ],
+    "http://yago-knowledge.org/resource/Military_alliance": [
+        "http://schema.org/Organization"
+    ],
+    "http://yago-knowledge.org/resource/Council": [
+        "http://schema.org/Organization"
+    ],
+    "http://yago-knowledge.org/resource/Republic": [],
+    "http://yago-knowledge.org/resource/Phyle": [
+        "http://schema.org/AdministrativeArea"
+    ],
+    "http://yago-knowledge.org/resource/Naval_base": [
+        "http://schema.org/DefenceEstablishment"
+    ],
+    "http://yago-knowledge.org/resource/Han_system": [
+        "http://schema.org/AdministrativeArea",
+        "http://schema.org/Organization"
+    ],
+    "http://yago-knowledge.org/resource/Voivodeships_of_Poland": [
+        "http://schema.org/AdministrativeArea"
+    ],
+    "http://yago-knowledge.org/resource/Grammy_Award": [],
+    "http://schema.org/Hospital": [
+        "http://schema.org/CivicStructure",
+        "http://schema.org/MedicalOrganization",
+        "http://schema.org/EmergencyService"
+    ],
+    "http://yago-knowledge.org/resource/Word_processor": [
+        "http://schema.org/SoftwareApplication"
+    ],
+    "http://yago-knowledge.org/resource/Districts_of_the_Czech_Republic": [
+        "http://schema.org/AdministrativeArea"
+    ],
+    "http://schema.org/Periodical": [
+        "http://schema.org/CreativeWorkSeries"
+    ],
+    "http://schema.org/Language": [],
+    "http://yago-knowledge.org/resource/Verbandsgemeinde": [
+        "http://schema.org/AdministrativeArea"
+    ],
+    "http://yago-knowledge.org/resource/Theme_(arts)": [],
+    "http://yago-knowledge.org/resource/Panel_painting": [
+        "http://schema.org/Painting"
+    ],
+    "http://yago-knowledge.org/resource/Estate_(land)": [
+        "http://schema.org/Place"
+    ],
+    "http://yago-knowledge.org/resource/Central_business_district": [
+        "http://schema.org/Place"
+    ],
+    "http://yago-knowledge.org/resource/Prospekt_(street)": [
+        "http://schema.org/Place"
+    ],
+    "http://yago-knowledge.org/resource/Film_distributor": [
+        "http://schema.org/Organization"
+    ],
+    "http://yago-knowledge.org/resource/Dress": [
+        "http://schema.org/Product"
+    ],
+    "http://schema.org/Game": [
+        "http://schema.org/CreativeWork"
+    ],
+    "http://yago-knowledge.org/resource/JavaScript_engine": [
+        "http://schema.org/Product",
+        "http://schema.org/CreativeWork"
+    ],
+    "http://yago-knowledge.org/resource/Buddhist_texts": [
+        "http://schema.org/Product",
+        "http://schema.org/CreativeWork"
+    ],
+    "http://yago-knowledge.org/resource/Naval_academy": [
+        "http://schema.org/DefenceEstablishment",
+        "http://schema.org/School"
+    ],
+    "http://yago-knowledge.org/resource/Hypothesis": [],
+    "http://yago-knowledge.org/resource/Textbook": [
+        "http://schema.org/Book"
+    ],
+    "http://yago-knowledge.org/resource/Extermination_camp": [
+        "http://schema.org/GovernmentBuilding",
+        "http://schema.org/Organization"
+    ],
+    "http://yago-knowledge.org/resource/Political_union": [
+        "http://schema.org/Place",
+        "http://schema.org/Organization"
+    ],
+    "http://yago-knowledge.org/resource/Location": [
+        "http://schema.org/Place"
+    ],
+    "http://yago-knowledge.org/resource/International_organization": [
+        "http://schema.org/Organization"
+    ],
+    "http://yago-knowledge.org/resource/Film_school": [
+        "http://schema.org/GovernmentOffice",
+        "http://schema.org/NGO",
+        "http://schema.org/School",
+        "http://schema.org/CollegeOrUniversity"
+    ],
+    "http://yago-knowledge.org/resource/Hypervisor": [
+        "http://schema.org/Product",
+        "http://schema.org/CreativeWork"
+    ],
+    "http://yago-knowledge.org/resource/Character_(arts)": [
+        "http://schema.org/CreativeWork"
+    ],
+    "http://yago-knowledge.org/resource/Law_enforcement_agency": [
+        "http://schema.org/GovernmentOffice"
+    ],
+    "http://yago-knowledge.org/resource/Coalition": [
+        "http://schema.org/Organization"
+    ],
+    "http://yago-knowledge.org/resource/Biographical_dictionary": [
+        "http://schema.org/CreativeWorkSeries",
+        "http://schema.org/Product",
+        "http://schema.org/Dataset",
+        "http://schema.org/Collection"
+    ],
+    "http://yago-knowledge.org/resource/Superpower_(ability)": [
+        "http://schema.org/CreativeWork"
+    ],
+    "http://schema.org/ArchiveOrganization": [
+        "http://schema.org/LocalBusiness"
+    ],
+    "http://yago-knowledge.org/resource/Relic": [],
+    "http://schema.org/Service": [],
+    "http://yago-knowledge.org/resource/Almanac": [
+        "http://schema.org/Product",
+        "http://schema.org/Periodical"
+    ],
+    "http://yago-knowledge.org/resource/Brick_and_mortar": [
+        "http://schema.org/Organization"
+    ],
+    "http://yago-knowledge.org/resource/Relics_associated_with_Jesus": [],
+    "http://yago-knowledge.org/resource/Aerospace_manufacturer": [
+        "http://schema.org/Organization"
+    ],
+    "http://yago-knowledge.org/resource/Regierungsbezirk": [
+        "http://schema.org/GovernmentOrganization",
+        "http://schema.org/AdministrativeArea"
+    ],
+    "http://yago-knowledge.org/resource/Area_(country_subdivision)": [
+        "http://schema.org/Place"
+    ],
+    "http://yago-knowledge.org/resource/Land-grant_university": [
+        "http://schema.org/CollegeOrUniversity"
+    ],
+    "http://yago-knowledge.org/resource/Haltepunkt": [
+        "http://schema.org/Place"
+    ],
+    "http://yago-knowledge.org/resource/Mobile_operating_system": [
+        "http://schema.org/Product",
+        "http://schema.org/CreativeWork"
+    ],
+    "http://yago-knowledge.org/resource/University": [
+        "http://schema.org/Place",
+        "http://schema.org/CollegeOrUniversity"
+    ],
+    "http://yago-knowledge.org/resource/Boulevard": [
+        "http://schema.org/Place"
+    ],
+    "http://yago-knowledge.org/resource/Web_framework": [
+        "http://schema.org/Product",
+        "http://schema.org/CreativeWork"
+    ],
+    "http://yago-knowledge.org/resource/Urban_agglomeration": [
+        "http://schema.org/Place"
+    ],
+    "http://yago-knowledge.org/resource/State-owned_enterprise": [
+        "http://schema.org/Organization"
+    ],
+    "http://yago-knowledge.org/resource/Municipalities_of_Brazil": [
+        "http://schema.org/AdministrativeArea",
+        "http://schema.org/Corporation"
+    ],
+    "http://schema.org/SportsEvent": [
+        "http://schema.org/Event"
+    ],
+    "http://yago-knowledge.org/resource/Adventure_(Dungeons_&_Dragons)": [
+        "http://schema.org/Product",
+        "http://schema.org/VideoGame"
+    ],
+    "http://yago-knowledge.org/resource/Fraternity": [
+        "http://schema.org/Organization"
+    ],
+    "http://yago-knowledge.org/resource/Greatest_hits_album": [
+        "http://schema.org/Collection",
+        "http://schema.org/MusicAlbum"
+    ],
+    "http://yago-knowledge.org/resource/Written_language": [
+        "http://schema.org/Language"
+    ],
+    "http://yago-knowledge.org/resource/Cantons_of_Switzerland": [
+        "http://schema.org/State"
+    ],
+    "http://yago-knowledge.org/resource/Animated_series": [
+        "http://schema.org/TVSeries"
+    ],
+    "http://yago-knowledge.org/resource/Job": [],
+    "http://yago-knowledge.org/resource/Image_organizer": [
+        "http://schema.org/SoftwareApplication"
+    ],
+    "http://yago-knowledge.org/resource/Normal_school": [
+        "http://schema.org/School"
+    ],
+    "http://schema.org/MedicalEnumeration": [],
+    "http://schema.org/SportsTeam": [
+        "http://schema.org/SportsOrganization"
+    ],
+    "http://schema.org/City": [
+        "http://schema.org/AdministrativeArea"
+    ],
+    "http://yago-knowledge.org/resource/District_(Taiwan)": [
+        "http://schema.org/AdministrativeArea"
+    ],
+    "http://schema.org/MiddleSchool": [
+        "http://schema.org/EducationalOrganization"
+    ],
+    "http://yago-knowledge.org/resource/Console_application": [
+        "http://schema.org/SoftwareApplication",
+        "http://schema.org/Product"
+    ],
+    "http://yago-knowledge.org/resource/Brigade": [
+        "http://schema.org/Organization"
+    ],
+    "http://yago-knowledge.org/resource/Sub-prefectural_city": [
+        "http://schema.org/AdministrativeArea"
+    ],
+    "http://yago-knowledge.org/resource/Autonomous_county": [
+        "http://schema.org/AdministrativeArea"
+    ],
+    "http://schema.org/CreativeWorkSeries": [
+        "http://schema.org/CreativeWork"
+    ],
+    "http://yago-knowledge.org/resource/Monument": [],
+    "http://yago-knowledge.org/resource/Music_competition": [],
+    "http://yago-knowledge.org/resource/Townships_of_China": [
+        "http://schema.org/AdministrativeArea"
+    ],
+    "http://schema.org/MusicComposition": [
+        "http://schema.org/CreativeWork"
+    ],
+    "http://yago-knowledge.org/resource/String_quartet": [
+        "http://schema.org/Organization"
+    ],
+    "http://yago-knowledge.org/resource/Audio_file_format": [
+        "http://schema.org/Product",
+        "http://schema.org/CreativeWork"
+    ],
+    "http://yago-knowledge.org/resource/Chain_store": [
+        "http://schema.org/Brand",
+        "http://schema.org/Organization"
+    ],
+    "http://yago-knowledge.org/resource/Message_transfer_agent": [
+        "http://schema.org/Product",
+        "http://schema.org/CreativeWork"
+    ],
+    "http://bioschemas.org/MolecularEntity": [
+        "http://bioschemas.org/BioChemEntity"
+    ],
+    "http://yago-knowledge.org/resource/International_financial_institutions": [
+        "http://schema.org/Organization"
+    ],
+    "http://yago-knowledge.org/resource/Nation": [],
+    "http://yago-knowledge.org/resource/Mental_disorder": [
+        "http://schema.org/MedicalCondition"
+    ],
+    "http://yago-knowledge.org/resource/Colleges_of_the_University_of_Cambridge": [
+        "http://schema.org/Place",
+        "http://schema.org/CollegeOrUniversity"
+    ],
+    "http://yago-knowledge.org/resource/Episcopal_see": [
+        "http://schema.org/AdministrativeArea",
+        "http://schema.org/Organization"
+    ],
+    "http://schema.org/TrainStation": [
+        "http://schema.org/CivicStructure"
+    ],
+    "http://yago-knowledge.org/resource/Metropolitan_municipalities_in_Turkey": [
+        "http://schema.org/AdministrativeArea",
+        "http://schema.org/Corporation"
+    ],
+    "http://yago-knowledge.org/resource/Role-playing_game_system": [
+        "http://schema.org/Game"
+    ],
+    "http://yago-knowledge.org/resource/Firewall_(computing)": [
+        "http://schema.org/SoftwareApplication",
+        "http://schema.org/Product"
+    ],
+    "http://yago-knowledge.org/resource/Upazila": [
+        "http://schema.org/AdministrativeArea"
+    ],
+    "http://yago-knowledge.org/resource/Regions_of_the_Czech_Republic": [
+        "http://schema.org/AdministrativeArea",
+        "http://schema.org/Organization"
+    ],
+    "http://yago-knowledge.org/resource/Civil_parishes_in_Ireland": [
+        "http://schema.org/AdministrativeArea"
+    ],
+    "http://yago-knowledge.org/resource/Electric_guitar": [
+        "http://schema.org/Product"
+    ],
+    "http://yago-knowledge.org/resource/Encyclopedia": [
+        "http://schema.org/CreativeWorkSeries",
+        "http://schema.org/Product"
+    ],
+    "http://yago-knowledge.org/resource/Carfree_city": [
+        "http://schema.org/Place"
+    ],
+    "http://yago-knowledge.org/resource/Local_government": [
+        "http://schema.org/Organization"
+    ],
+    "http://yago-knowledge.org/resource/Business": [
+        "http://schema.org/Organization"
+    ],
+    "http://yago-knowledge.org/resource/Box_set": [
+        "http://schema.org/CreativeWorkSeries",
+        "http://schema.org/Product"
+    ],
+    "http://schema.org/Brand": [],
+    "http://schema.org/CatholicChurch": [
+        "http://schema.org/Church"
+    ],
+    "http://schema.org/MovieTheater": [
+        "http://schema.org/CivicStructure",
+        "http://schema.org/EntertainmentBusiness"
+    ],
+    "http://yago-knowledge.org/resource/Short_film": [
+        "http://schema.org/Movie"
+    ],
+    "http://yago-knowledge.org/resource/Application_framework": [
+        "http://schema.org/Product",
+        "http://schema.org/CreativeWork"
+    ],
+    "http://yago-knowledge.org/resource/Historical_region": [
+        "http://schema.org/Place"
+    ],
+    "http://schema.org/Thing": [],
+    "http://yago-knowledge.org/resource/Militaria": [],
+    "http://yago-knowledge.org/resource/Index_(publishing)": [
+        "http://schema.org/Product",
+        "http://schema.org/CreativeWork"
+    ],
+    "http://yago-knowledge.org/resource/Regions_of_Italy": [
+        "http://schema.org/AdministrativeArea"
+    ],
+    "http://yago-knowledge.org/resource/Intergovernmental_organization": [
+        "http://schema.org/Organization"
+    ],
+    "http://yago-knowledge.org/resource/District_(China)": [
+        "http://schema.org/AdministrativeArea"
+    ],
+    "http://yago-knowledge.org/resource/Schooner": [
+        "http://schema.org/Vehicle"
+    ],
+    "http://yago-knowledge.org/resource/Medal": [
+        "http://schema.org/CreativeWork"
+    ],
+    "http://yago-knowledge.org/resource/Parishes_of_the_Church_of_Sweden": [
+        "http://schema.org/AdministrativeArea",
+        "http://schema.org/Organization"
+    ],
+    "http://yago-knowledge.org/resource/Limited_series_(comics)": [
+        "http://schema.org/ComicSeries"
+    ],
+    "http://yago-knowledge.org/resource/Massif": [
+        "http://schema.org/Landform"
+    ],
+    "http://yago-knowledge.org/resource/Art_movement": [],
+    "http://yago-knowledge.org/resource/Municipal_Corporation_(India)": [
+        "http://schema.org/AdministrativeArea",
+        "http://schema.org/Corporation"
+    ],
+    "http://yago-knowledge.org/resource/Sloop": [
+        "http://schema.org/Vehicle"
+    ],
+    "http://yago-knowledge.org/resource/Agglomeration_communities_in_France": [
+        "http://schema.org/AdministrativeArea",
+        "http://schema.org/Organization"
+    ],
+    "http://yago-knowledge.org/resource/Sacred_language": [
+        "http://schema.org/Language"
+    ],
+    "http://yago-knowledge.org/resource/Nonprofit_organization": [
+        "http://schema.org/Organization"
+    ],
+    "http://yago-knowledge.org/resource/Battalion": [
+        "http://schema.org/Organization"
+    ],
+    "http://yago-knowledge.org/resource/Notname": [],
+    "http://yago-knowledge.org/resource/Insular_area": [
+        "http://schema.org/AdministrativeArea"
+    ],
+    "http://yago-knowledge.org/resource/Codex": [
+        "http://schema.org/Manuscript"
+    ],
+    "http://schema.org/Cemetery": [
+        "http://schema.org/CivicStructure"
+    ],
+    "http://yago-knowledge.org/resource/Ministries_of_Japan": [
+        "http://schema.org/GovernmentOffice"
+    ],
+    "http://yago-knowledge.org/resource/Split_album": [
+        "http://schema.org/MusicAlbum"
+    ],
+    "http://yago-knowledge.org/resource/Regions_of_Chile": [
+        "http://schema.org/AdministrativeArea"
+    ],
+    "http://yago-knowledge.org/resource/Printer_(publishing)": [
+        "http://schema.org/Place",
+        "http://schema.org/Organization"
+    ],
+    "http://yago-knowledge.org/resource/Linux_distribution": [
+        "http://schema.org/Product",
+        "http://schema.org/CreativeWork"
+    ],
+    "http://yago-knowledge.org/resource/Territories_of_the_United_States": [
+        "http://schema.org/AdministrativeArea"
+    ],
+    "http://yago-knowledge.org/resource/Season_(sports)": [
+        "http://schema.org/EventSeries"
+    ],
+    "http://yago-knowledge.org/resource/Yacht": [
+        "http://schema.org/Vehicle"
+    ],
+    "http://schema.org/Nerve": [
+        "http://schema.org/AnatomicalStructure"
+    ],
+    "http://yago-knowledge.org/resource/Dictionary": [
+        "http://schema.org/Product",
+        "http://schema.org/CreativeWork"
+    ],
+    "http://schema.org/PlaceOfWorship": [
+        "http://schema.org/CivicStructure"
+    ],
+    "http://yago-knowledge.org/resource/Musical_form": [],
+    "http://yago-knowledge.org/resource/Cities_designated_by_government_ordinance_of_Japan": [
+        "http://schema.org/City",
+        "http://schema.org/Corporation"
+    ],
+    "http://yago-knowledge.org/resource/Real-time_operating_system": [
+        "http://schema.org/Product",
+        "http://schema.org/CreativeWork"
+    ],
+    "http://schema.org/Country": [
+        "http://schema.org/AdministrativeArea"
+    ],
+    "http://schema.org/MedicalCondition": [
+        "http://schema.org/MedicalEntity"
+    ],
+    "http://yago-knowledge.org/resource/Decree": [
+        "http://schema.org/Legislation"
+    ],
+    "http://yago-knowledge.org/resource/Localities_of_Mexico": [
+        "http://schema.org/AdministrativeArea"
+    ],
+    "http://yago-knowledge.org/resource/Wikimedia_project": [
+        "http://schema.org/CreativeWork"
+    ],
+    "http://yago-knowledge.org/resource/Explanatory_dictionary": [
+        "http://schema.org/Product",
+        "http://schema.org/CreativeWork"
+    ],
+    "http://yago-knowledge.org/resource/Puppet_state": [
+        "http://schema.org/AdministrativeArea",
+        "http://schema.org/Organization"
+    ],
+    "http://yago-knowledge.org/resource/Expansion_pack": [
+        "http://schema.org/Product",
+        "http://schema.org/VideoGame"
+    ],
+    "http://yago-knowledge.org/resource/Railway_infrastructure_manager": [
+        "http://schema.org/Organization"
+    ],
+    "http://yago-knowledge.org/resource/Concert_film": [
+        "http://schema.org/Movie"
+    ],
+    "http://yago-knowledge.org/resource/Military_order_(religious_society)": [
+        "http://schema.org/Organization"
+    ],
+    "http://yago-knowledge.org/resource/Quarter_(urban_subdivision)": [
+        "http://schema.org/AdministrativeArea"
+    ],
+    "http://yago-knowledge.org/resource/State_university_system": [
+        "http://schema.org/EducationalOrganization"
+    ],
+    "http://yago-knowledge.org/resource/Copyright_collective": [
+        "http://schema.org/Organization"
+    ],
+    "http://yago-knowledge.org/resource/Boarding_school": [
+        "http://schema.org/Place",
+        "http://schema.org/School"
+    ],
+    "http://yago-knowledge.org/resource/Sports_governing_body": [
+        "http://schema.org/NGO",
+        "http://schema.org/SportsOrganization"
+    ],
+    "http://yago-knowledge.org/resource/Fief": [
+        "http://schema.org/AdministrativeArea"
+    ],
+    "http://schema.org/WebSite": [
+        "http://schema.org/CreativeWork"
+    ],
+    "http://yago-knowledge.org/resource/NHS_trust": [
+        "http://schema.org/Organization"
+    ],
+    "http://yago-knowledge.org/resource/Communes_of_Senegal": [
+        "http://schema.org/AdministrativeArea"
+    ],
+    "http://schema.org/Newspaper": [
+        "http://schema.org/Periodical"
+    ],
+    "http://yago-knowledge.org/resource/Live-action_animated_film": [
+        "http://schema.org/Movie"
+    ],
+    "http://yago-knowledge.org/resource/Sports_club": [
+        "http://schema.org/NGO",
+        "http://schema.org/SportsOrganization"
+    ],
+    "http://yago-knowledge.org/resource/Steamboat": [
+        "http://schema.org/Vehicle"
+    ],
+    "http://yago-knowledge.org/resource/Biological_process": [],
+    "http://yago-knowledge.org/resource/Polyptych": [
+        "http://schema.org/VisualArtwork"
+    ],
+    "http://yago-knowledge.org/resource/Juno_Award": [],
+    "http://yago-knowledge.org/resource/Mosaic": [
+        "http://schema.org/Product",
+        "http://schema.org/VisualArtwork"
+    ],
+    "http://yago-knowledge.org/resource/Civil_parish": [
+        "http://schema.org/AdministrativeArea"
+    ],
+    "http://yago-knowledge.org/resource/Thesaurus": [
+        "http://schema.org/Product",
+        "http://schema.org/CreativeWork"
+    ],
+    "http://schema.org/TVSeason": [
+        "http://schema.org/CreativeWorkSeason"
+    ],
+    "http://yago-knowledge.org/resource/Taxonomic_database": [],
+    "http://yago-knowledge.org/resource/Softphone": [
+        "http://schema.org/SoftwareApplication"
+    ],
+    "http://yago-knowledge.org/resource/Village_(United_States)": [
+        "http://schema.org/AdministrativeArea",
+        "http://schema.org/Corporation"
+    ],
+    "http://bioschemas.org/Gene": [
+        "http://bioschemas.org/BioChemEntity"
+    ],
+    "http://schema.org/SoftwareApplication": [
+        "http://schema.org/CreativeWork"
+    ],
+    "http://yago-knowledge.org/resource/Publishing": [],
+    "http://yago-knowledge.org/resource/Central_Committee": [
+        "http://schema.org/Organization"
+    ],
+    "http://yago-knowledge.org/resource/Film_award": [],
+    "http://schema.org/Book": [
+        "http://schema.org/CreativeWork"
+    ],
+    "http://yago-knowledge.org/resource/Lifestyle_(sociology)": [],
+    "http://schema.org/TVSeries": [
+        "http://schema.org/CreativeWorkSeries"
+    ],
+    "http://yago-knowledge.org/resource/Crusader_states": [
+        "http://schema.org/Country",
+        "http://schema.org/Organization"
+    ],
+    "http://yago-knowledge.org/resource/Software": [
+        "http://schema.org/Product",
+        "http://schema.org/CreativeWork"
+    ],
+    "http://yago-knowledge.org/resource/General_staff": [
+        "http://schema.org/Organization"
+    ],
+    "http://yago-knowledge.org/resource/Electoral_alliance": [
+        "http://schema.org/Organization"
+    ],
+    "http://yago-knowledge.org/resource/Borough_status_in_the_United_Kingdom": [
+        "http://schema.org/AdministrativeArea"
+    ],
+    "http://yago-knowledge.org/resource/Métropole": [
+        "http://schema.org/AdministrativeArea",
+        "http://schema.org/Organization"
+    ],
+    "http://yago-knowledge.org/resource/Heterocyclic_compound": [
+        "http://bioschemas.org/ChemicalSubstance"
+    ],
+    "http://yago-knowledge.org/resource/Text_(literary_theory)": [
+        "http://schema.org/CreativeWork"
+    ],
+    "http://yago-knowledge.org/resource/Lutherstadt": [
+        "http://schema.org/City"
+    ],
+    "http://yago-knowledge.org/resource/Political_division": [
+        "http://schema.org/Place"
+    ],
+    "http://yago-knowledge.org/resource/Ponzi_scheme": [],
+    "http://yago-knowledge.org/resource/Chronicle": [
+        "http://schema.org/Collection",
+        "http://schema.org/Product"
+    ],
+    "http://yago-knowledge.org/resource/Small_press": [
+        "http://schema.org/Organization"
+    ],
+    "http://yago-knowledge.org/resource/Piano_duet": [
+        "http://schema.org/MusicComposition"
+    ],
+    "http://yago-knowledge.org/resource/Dot-com_company": [
+        "http://schema.org/Organization"
+    ],
+    "http://yago-knowledge.org/resource/Bulk_carrier": [
+        "http://schema.org/Vehicle"
+    ],
+    "http://yago-knowledge.org/resource/Urban_districts_of_Ukraine": [
+        "http://schema.org/AdministrativeArea"
+    ],
+    "http://yago-knowledge.org/resource/Ministry_of_Home_Affairs": [
+        "http://schema.org/GovernmentOffice"
+    ],
+    "http://yago-knowledge.org/resource/Peninsula": [
+        "http://schema.org/Landform"
+    ],
+    "http://yago-knowledge.org/resource/Grandes_écoles": [
+        "http://schema.org/School",
+        "http://schema.org/CollegeOrUniversity"
+    ],
+    "http://yago-knowledge.org/resource/Autonomous_communities_of_Spain": [
+        "http://schema.org/AdministrativeArea"
+    ],
+    "http://yago-knowledge.org/resource/Fabergé_egg": [
+        "http://schema.org/Product",
+        "http://schema.org/CreativeWork"
+    ],
+    "http://yago-knowledge.org/resource/Series_finale": [
+        "http://schema.org/Episode"
+    ],
+    "http://yago-knowledge.org/resource/Competition": [],
+    "http://yago-knowledge.org/resource/Picture_book": [
+        "http://schema.org/Book"
+    ],
+    "http://yago-knowledge.org/resource/Zaibatsu": [
+        "http://schema.org/Organization"
+    ],
+    "http://schema.org/Occupation": [],
+    "http://yago-knowledge.org/resource/NAACP_Image_Awards": [],
+    "http://schema.org/Collection": [
+        "http://schema.org/CreativeWork"
+    ],
+    "http://yago-knowledge.org/resource/European_political_party": [
+        "http://schema.org/NGO"
+    ],
+    "http://yago-knowledge.org/resource/Empire": [
+        "http://schema.org/Country",
+        "http://schema.org/Organization"
+    ],
+    "http://yago-knowledge.org/resource/Collegiate_university": [
+        "http://schema.org/Place",
+        "http://schema.org/CollegeOrUniversity"
+    ],
+    "http://yago-knowledge.org/resource/Cities_of_the_Philippines": [
+        "http://schema.org/City"
+    ],
+    "http://yago-knowledge.org/resource/Border": [],
+    "http://yago-knowledge.org/resource/List_of_university_networks": [
+        "http://schema.org/CollegeOrUniversity"
+    ],
+    "http://yago-knowledge.org/resource/College_town": [
+        "http://schema.org/City"
+    ],
+    "http://yago-knowledge.org/resource/Anthology": [
+        "http://schema.org/Collection"
+    ],
+    "http://yago-knowledge.org/resource/Company": [
+        "http://schema.org/Organization"
+    ],
+    "http://yago-knowledge.org/resource/Private_school": [
+        "http://schema.org/Place",
+        "http://schema.org/School"
+    ],
+    "http://yago-knowledge.org/resource/Governorates_of_Tunisia": [
+        "http://schema.org/AdministrativeArea"
+    ],
+    "http://yago-knowledge.org/resource/Surah": [
+        "http://schema.org/Chapter"
+    ],
+    "http://yago-knowledge.org/resource/Cloud_computing": [],
+    "http://yago-knowledge.org/resource/Imageboard": [
+        "http://schema.org/Product",
+        "http://schema.org/WebSite"
+    ],
+    "http://yago-knowledge.org/resource/Mobile_browser": [
+        "http://schema.org/SoftwareApplication",
+        "http://schema.org/Product"
+    ],
+    "http://yago-knowledge.org/resource/Hoax": [],
+    "http://schema.org/EmergencyService": [
+        "http://schema.org/LocalBusiness"
+    ],
+    "http://yago-knowledge.org/resource/Public_utility": [
+        "http://schema.org/Organization"
+    ],
+    "http://yago-knowledge.org/resource/File_system": [
+        "http://schema.org/Product",
+        "http://schema.org/CreativeWork"
+    ],
+    "http://yago-knowledge.org/resource/Research_center": [
+        "http://schema.org/EducationalOrganization",
+        "http://schema.org/Place"
+    ],
+    "http://yago-knowledge.org/resource/Communes_of_Luxembourg": [
+        "http://schema.org/AdministrativeArea"
+    ],
+    "http://yago-knowledge.org/resource/Supercontinent": [
+        "http://schema.org/Continent"
+    ],
+    "http://yago-knowledge.org/resource/501(c)(3)_organization": [
+        "http://schema.org/Organization"
+    ],
+    "http://yago-knowledge.org/resource/Political_movement": [],
+    "http://yago-knowledge.org/resource/Faculty_of_Law": [
+        "http://schema.org/EducationalOrganization",
+        "http://schema.org/Place"
+    ],
+    "http://yago-knowledge.org/resource/Mass_(music)": [
+        "http://schema.org/MusicComposition"
+    ],
+    "http://yago-knowledge.org/resource/Holding_company": [
+        "http://schema.org/Organization"
+    ],
+    "http://yago-knowledge.org/resource/Cultural_region": [
+        "http://schema.org/Place"
+    ],
+    "http://yago-knowledge.org/resource/Military_academy": [
+        "http://schema.org/GovernmentOffice",
+        "http://schema.org/DefenceEstablishment",
+        "http://schema.org/NGO",
+        "http://schema.org/School",
+        "http://schema.org/CollegeOrUniversity"
+    ],
+    "http://yago-knowledge.org/resource/Telephone_company": [
+        "http://schema.org/Organization"
+    ],
+    "http://schema.org/ParkingFacility": [
+        "http://schema.org/CivicStructure"
+    ],
+    "http://yago-knowledge.org/resource/Literary_award": [],
+    "http://yago-knowledge.org/resource/Parliamentary_group": [
+        "http://schema.org/Organization"
+    ],
+    "http://yago-knowledge.org/resource/Departments_of_Argentina": [
+        "http://schema.org/AdministrativeArea"
+    ],
+    "http://yago-knowledge.org/resource/Subdivisions_of_Russia": [
+        "http://schema.org/AdministrativeArea"
+    ],
+    "http://yago-knowledge.org/resource/Type_foundry": [
+        "http://schema.org/Place",
+        "http://schema.org/Organization"
+    ],
+    "http://schema.org/GovernmentOffice": [
+        "http://schema.org/LocalBusiness"
+    ],
+    "http://yago-knowledge.org/resource/Public_limited_company": [
+        "http://schema.org/Organization"
+    ],
+    "http://yago-knowledge.org/resource/Steamship": [
+        "http://schema.org/Vehicle"
+    ],
+    "http://yago-knowledge.org/resource/Social_networking_service": [
+        "http://schema.org/Product",
+        "http://schema.org/WebSite"
+    ],
+    "http://yago-knowledge.org/resource/Style_(visual_arts)": [
+        "http://schema.org/CreativeWork"
+    ],
+    "http://yago-knowledge.org/resource/List_of_narrative_forms": [],
+    "http://yago-knowledge.org/resource/Provinces_of_Spain": [
+        "http://schema.org/AdministrativeArea"
+    ],
+    "http://yago-knowledge.org/resource/Journalism_genres": [],
+    "http://yago-knowledge.org/resource/Sub-provincial_division": [
+        "http://schema.org/City"
+    ],
+    "http://yago-knowledge.org/resource/Commonwealth_realm": [
+        "http://schema.org/Country",
+        "http://schema.org/Organization"
+    ],
+    "http://yago-knowledge.org/resource/Districts_of_Serbia": [
+        "http://schema.org/AdministrativeArea"
+    ],
+    "http://yago-knowledge.org/resource/Law_school": [
+        "http://schema.org/EducationalOrganization",
+        "http://schema.org/Place"
+    ],
+    "http://schema.org/ComicStory": [
+        "http://schema.org/CreativeWork"
+    ],
+    "http://yago-knowledge.org/resource/Faculty_(division)": [
+        "http://schema.org/EducationalOrganization",
+        "http://schema.org/Place"
+    ],
+    "http://yago-knowledge.org/resource/Civil_awards_and_decorations": [],
+    "http://yago-knowledge.org/resource/Open-source_software": [
+        "http://schema.org/Product",
+        "http://schema.org/CreativeWork"
+    ],
+    "http://schema.org/Corporation": [
+        "http://schema.org/Organization"
+    ],
+    "http://schema.org/Church": [
+        "http://schema.org/PlaceOfWorship"
+    ],
+    "http://yago-knowledge.org/resource/Municipality_(Austria)": [
+        "http://schema.org/AdministrativeArea",
+        "http://schema.org/Corporation"
+    ],
+    "http://yago-knowledge.org/resource/Monastery": [
+        "http://schema.org/PlaceOfWorship",
+        "http://schema.org/Organization"
+    ],
+    "http://yago-knowledge.org/resource/Image_hosting_service": [
+        "http://schema.org/Product",
+        "http://schema.org/CreativeWork"
+    ],
+    "http://yago-knowledge.org/resource/Epitaph": [
+        "http://schema.org/Sculpture",
+        "http://schema.org/Product"
+    ],
+    "http://yago-knowledge.org/resource/Free_software": [
+        "http://schema.org/Product",
+        "http://schema.org/CreativeWork"
+    ],
+    "http://yago-knowledge.org/resource/Studio_album": [
+        "http://schema.org/MusicAlbum"
+    ],
+    "http://yago-knowledge.org/resource/Municipalities_of_Sweden": [
+        "http://schema.org/AdministrativeArea",
+        "http://schema.org/Corporation"
+    ],
+    "http://yago-knowledge.org/resource/Public_policy_school": [
+        "http://schema.org/Place",
+        "http://schema.org/School",
+        "http://schema.org/CollegeOrUniversity"
+    ],
+    "http://yago-knowledge.org/resource/Cave": [
+        "http://schema.org/Landform"
+    ],
+    "http://yago-knowledge.org/resource/Reissue": [
+        "http://schema.org/Product",
+        "http://schema.org/CreativeWork"
+    ],
+    "http://yago-knowledge.org/resource/Arthropathy": [
+        "http://schema.org/MedicalCondition"
+    ],
+    "http://yago-knowledge.org/resource/Sexually_transmitted_infection": [
+        "http://schema.org/InfectiousDisease"
+    ],
+    "http://yago-knowledge.org/resource/Epic_poetry": [
+        "http://schema.org/CreativeWork"
+    ],
+    "http://yago-knowledge.org/resource/Frazione": [
+        "http://schema.org/AdministrativeArea"
+    ],
+    "http://yago-knowledge.org/resource/Municipalities_and_communities_of_Greece": [
+        "http://schema.org/AdministrativeArea",
+        "http://schema.org/Corporation"
+    ],
+    "http://yago-knowledge.org/resource/London_boroughs": [
+        "http://schema.org/AdministrativeArea"
+    ],
+    "http://yago-knowledge.org/resource/Syndrome": [
+        "http://schema.org/MedicalSymptom"
+    ],
+    "http://yago-knowledge.org/resource/Diamond": [
+        "http://bioschemas.org/MolecularEntity",
+        "http://schema.org/Product",
+        "http://bioschemas.org/ChemicalSubstance"
+    ],
+    "http://yago-knowledge.org/resource/Video_game_genre": [],
+    "http://yago-knowledge.org/resource/Olympic_sports": [
+        "http://schema.org/Event"
+    ],
+    "http://yago-knowledge.org/resource/Simulation_software": [
+        "http://schema.org/SoftwareApplication"
+    ],
+    "http://yago-knowledge.org/resource/Religious_text": [
+        "http://schema.org/Product",
+        "http://schema.org/CreativeWork"
+    ],
+    "http://yago-knowledge.org/resource/Governorates_of_Yemen": [
+        "http://schema.org/AdministrativeArea"
+    ],
+    "http://yago-knowledge.org/resource/Municipalities_of_Spain": [
+        "http://schema.org/AdministrativeArea",
+        "http://schema.org/Corporation"
+    ],
+    "http://yago-knowledge.org/resource/Music_publisher_(popular_music)": [
+        "http://schema.org/Organization"
+    ],
+    "http://yago-knowledge.org/resource/Desert": [
+        "http://schema.org/Place"
+    ],
+    "http://yago-knowledge.org/resource/Order_of_chivalry": [
+        "http://schema.org/Organization"
+    ],
+    "http://yago-knowledge.org/resource/Metropolis": [
+        "http://schema.org/City"
+    ],
+    "http://yago-knowledge.org/resource/New_England_town": [
+        "http://schema.org/AdministrativeArea",
+        "http://schema.org/Corporation"
+    ],
+    "http://yago-knowledge.org/resource/Comarques_of_Catalonia": [
+        "http://schema.org/AdministrativeArea"
+    ],
+    "http://yago-knowledge.org/resource/File_hosting_service": [
+        "http://schema.org/Product",
+        "http://schema.org/CreativeWork"
+    ],
+    "http://yago-knowledge.org/resource/Military_base": [
+        "http://schema.org/DefenceEstablishment"
+    ],
+    "http://yago-knowledge.org/resource/Sub-regions_of_Finland": [
+        "http://schema.org/AdministrativeArea"
+    ],
+    "http://yago-knowledge.org/resource/Rabbi": [
+        "http://schema.org/Person"
+    ],
+    "http://yago-knowledge.org/resource/Confederation": [
+        "http://schema.org/Organization"
+    ],
+    "http://yago-knowledge.org/resource/Command-line_interface": [],
+    "http://schema.org/GovernmentOrganization": [
+        "http://schema.org/Organization"
+    ],
+    "http://yago-knowledge.org/resource/Districts_of_Mongolia": [
+        "http://schema.org/AdministrativeArea"
+    ],
+    "http://yago-knowledge.org/resource/Arrondissements_of_France": [
+        "http://schema.org/AdministrativeArea"
+    ],
+    "http://yago-knowledge.org/resource/Miasteczko": [
+        "http://schema.org/AdministrativeArea",
+        "http://schema.org/Corporation"
+    ],
+    "http://yago-knowledge.org/resource/Device_driver": [
+        "http://schema.org/Product",
+        "http://schema.org/CreativeWork"
+    ],
+    "http://yago-knowledge.org/resource/United_States_federal_executive_departments": [
+        "http://schema.org/GovernmentOffice"
+    ],
+    "http://yago-knowledge.org/resource/Municipalities_of_Cuba": [
+        "http://schema.org/AdministrativeArea",
+        "http://schema.org/Corporation"
+    ],
+    "http://schema.org/EventSeries": [
+        "http://schema.org/Event"
+    ],
+    "http://yago-knowledge.org/resource/Widget_toolkit": [
+        "http://schema.org/SoftwareApplication",
+        "http://schema.org/Product"
+    ],
+    "http://yago-knowledge.org/resource/Pseudogene": [
+        "http://bioschemas.org/Gene"
+    ],
+    "http://yago-knowledge.org/resource/Historical_period": [],
+    "http://yago-knowledge.org/resource/Consolidated_city-county": [
+        "http://schema.org/City",
+        "http://schema.org/Corporation"
+    ],
+    "http://yago-knowledge.org/resource/Double_album": [
+        "http://schema.org/MusicAlbum"
+    ],
+    "http://yago-knowledge.org/resource/Cultural_institution": [
+        "http://schema.org/Organization"
+    ],
+    "http://schema.org/BookSeries": [
+        "http://schema.org/CreativeWorkSeries"
+    ],
+    "http://yago-knowledge.org/resource/Local_government_in_Victoria": [
+        "http://schema.org/AdministrativeArea"
+    ],
+    "http://yago-knowledge.org/resource/Meta-organization": [
+        "http://schema.org/Organization"
+    ],
+    "http://schema.org/Report": [
+        "http://schema.org/Article"
+    ],
+    "http://yago-knowledge.org/resource/Football_association": [
+        "http://schema.org/NGO",
+        "http://schema.org/SportsOrganization"
+    ],
+    "http://yago-knowledge.org/resource/Financial_institution": [
+        "http://schema.org/Organization"
+    ],
+    "http://yago-knowledge.org/resource/School_district": [
+        "http://schema.org/EducationalOrganization",
+        "http://schema.org/GovernmentOrganization",
+        "http://schema.org/GovernmentOffice",
+        "http://schema.org/AdministrativeArea"
+    ],
+    "http://yago-knowledge.org/resource/Double_concerto": [
+        "http://schema.org/MusicComposition"
+    ],
+    "http://yago-knowledge.org/resource/Counties_of_China": [
+        "http://schema.org/AdministrativeArea"
+    ],
+    "http://yago-knowledge.org/resource/Municipalities_of_Portugal": [
+        "http://schema.org/AdministrativeArea",
+        "http://schema.org/Corporation"
+    ],
+    "http://yago-knowledge.org/resource/Productivity_software": [
+        "http://schema.org/Product",
+        "http://schema.org/CreativeWork"
+    ],
+    "http://yago-knowledge.org/resource/International_auxiliary_language": [
+        "http://schema.org/CreativeWork",
+        "http://schema.org/Language"
+    ],
+    "http://yago-knowledge.org/resource/Corporate_title": [
+        "http://schema.org/Occupation"
+    ],
+    "http://schema.org/Substance": [
+        "http://schema.org/MedicalEntity"
+    ],
+    "http://yago-knowledge.org/resource/Republics_of_Russia": [
+        "http://schema.org/State"
+    ],
+    "http://yago-knowledge.org/resource/Awards_ceremony": [
+        "http://schema.org/Event"
+    ],
+    "http://schema.org/Store": [
+        "http://schema.org/LocalBusiness"
+    ],
+    "http://yago-knowledge.org/resource/Laboratory": [
+        "http://schema.org/EducationalOrganization",
+        "http://schema.org/Place"
+    ],
+    "http://yago-knowledge.org/resource/Education": [],
+    "http://yago-knowledge.org/resource/Journal": [
+        "http://schema.org/Product",
+        "http://schema.org/Periodical"
+    ],
+    "http://yago-knowledge.org/resource/Girl_group": [
+        "http://schema.org/MusicGroup"
+    ],
+    "http://yago-knowledge.org/resource/Administrative_centre": [
+        "http://schema.org/AdministrativeArea"
+    ],
+    "http://yago-knowledge.org/resource/Geographical_feature": [],
+    "http://yago-knowledge.org/resource/Alcohol": [
+        "http://bioschemas.org/ChemicalSubstance"
+    ],
+    "http://yago-knowledge.org/resource/Municipalities_of_Bulgaria": [
+        "http://schema.org/AdministrativeArea"
+    ],
+    "http://yago-knowledge.org/resource/National_library": [
+        "http://schema.org/Library"
+    ],
+    "http://yago-knowledge.org/resource/Districts_of_Japan": [
+        "http://schema.org/AdministrativeArea"
+    ],
+    "http://yago-knowledge.org/resource/Raion": [
+        "http://schema.org/AdministrativeArea"
+    ],
+    "http://yago-knowledge.org/resource/Think_tank": [
+        "http://schema.org/Organization"
+    ],
+    "http://yago-knowledge.org/resource/Metropolitan_regions_in_Germany": [
+        "http://schema.org/AdministrativeArea"
+    ],
+    "http://yago-knowledge.org/resource/Women's_college": [
+        "http://schema.org/Place",
+        "http://schema.org/School",
+        "http://schema.org/CollegeOrUniversity"
+    ],
+    "http://yago-knowledge.org/resource/Deep-submergence_vehicle": [
+        "http://schema.org/Vehicle"
+    ],
+    "http://schema.org/Park": [
+        "http://schema.org/CivicStructure"
+    ],
+    "http://yago-knowledge.org/resource/Student_society": [
+        "http://schema.org/NGO"
+    ],
+    "http://yago-knowledge.org/resource/3D_film": [
+        "http://schema.org/Movie"
+    ],
+    "http://yago-knowledge.org/resource/Soil_type": [],
+    "http://yago-knowledge.org/resource/Graphics_software": [
+        "http://schema.org/SoftwareApplication"
+    ],
+    "http://yago-knowledge.org/resource/Oblasts_of_Russia": [
+        "http://schema.org/AdministrativeArea"
+    ],
+    "http://yago-knowledge.org/resource/LP_record": [
+        "http://schema.org/Product",
+        "http://schema.org/MusicAlbum"
+    ],
+    "http://yago-knowledge.org/resource/Command_(military_formation)": [
+        "http://schema.org/Place",
+        "http://schema.org/Organization"
+    ],
+    "http://yago-knowledge.org/resource/Municipalities_of_Puerto_Rico": [
+        "http://schema.org/AdministrativeArea",
+        "http://schema.org/Corporation"
+    ],
+    "http://schema.org/Specialty": [],
+    "http://yago-knowledge.org/resource/Tour_Down_Under": [
+        "http://schema.org/SportsEvent"
+    ],
+    "http://yago-knowledge.org/resource/Political_party": [
+        "http://schema.org/NGO"
+    ],
+    "http://schema.org/Festival": [
+        "http://schema.org/Event"
+    ],
+    "http://schema.org/MusicAlbum": [
+        "http://schema.org/MusicPlaylist"
+    ],
+    "http://yago-knowledge.org/resource/Open-source_license": [
+        "http://schema.org/Product",
+        "http://schema.org/CreativeWork"
+    ],
+    "http://yago-knowledge.org/resource/Metahuman": [
+        "http://schema.org/CreativeWork"
+    ],
+    "http://schema.org/Mountain": [
+        "http://schema.org/Landform"
+    ],
+    "http://yago-knowledge.org/resource/Teaching_hospital": [
+        "http://schema.org/EducationalOrganization",
+        "http://schema.org/Hospital"
+    ],
+    "http://yago-knowledge.org/resource/Landeskirche": [
+        "http://schema.org/AdministrativeArea",
+        "http://schema.org/Organization"
+    ],
+    "http://yago-knowledge.org/resource/Novella": [
+        "http://schema.org/CreativeWork"
+    ],
+    "http://schema.org/Organization": [],
+    "http://schema.org/WebPage": [
+        "http://schema.org/CreativeWork"
+    ],
+    "http://yago-knowledge.org/resource/Genre": [],
+    "http://yago-knowledge.org/resource/Secret_police": [
+        "http://schema.org/GovernmentOffice"
+    ],
+    "http://yago-knowledge.org/resource/Arts_centre": [
+        "http://schema.org/EventVenue",
+        "http://schema.org/Organization"
+    ],
+    "http://yago-knowledge.org/resource/Gospel": [
+        "http://schema.org/Product",
+        "http://schema.org/CreativeWork"
+    ],
+    "http://yago-knowledge.org/resource/Khutor": [
+        "http://schema.org/Place"
+    ],
+    "http://yago-knowledge.org/resource/Family_business": [
+        "http://schema.org/Organization"
+    ],
+    "http://yago-knowledge.org/resource/Academic_department": [
+        "http://schema.org/EducationalOrganization",
+        "http://schema.org/Place"
+    ],
+    "http://yago-knowledge.org/resource/Universal_bank": [
+        "http://schema.org/BankOrCreditUnion"
+    ],
+    "http://yago-knowledge.org/resource/Wedding_dress": [
+        "http://schema.org/Product"
+    ],
+    "http://yago-knowledge.org/resource/Extinct_language": [
+        "http://schema.org/Product",
+        "http://schema.org/Language"
+    ],
+    "http://yago-knowledge.org/resource/Municipalities_of_the_Philippines": [
+        "http://schema.org/AdministrativeArea",
+        "http://schema.org/Corporation"
+    ],
+    "http://schema.org/Map": [
+        "http://schema.org/CreativeWork"
+    ],
+    "http://yago-knowledge.org/resource/Art_museum": [
+        "http://schema.org/Museum"
+    ],
+    "http://yago-knowledge.org/resource/Township_(New_Jersey)": [
+        "http://schema.org/AdministrativeArea",
+        "http://schema.org/Corporation"
+    ],
+    "http://yago-knowledge.org/resource/Collaborative_software": [
+        "http://schema.org/SoftwareApplication"
+    ],
+    "http://yago-knowledge.org/resource/Library_consortium": [
+        "http://schema.org/NGO"
+    ],
+    "http://yago-knowledge.org/resource/Religious_order_(Catholic)": [
+        "http://schema.org/Organization"
+    ],
+    "http://yago-knowledge.org/resource/Delict": [],
+    "http://yago-knowledge.org/resource/Landlocked_country": [
+        "http://schema.org/Country",
+        "http://schema.org/Organization"
+    ],
+    "http://yago-knowledge.org/resource/Peace_treaty": [
+        "http://schema.org/Legislation",
+        "http://schema.org/Product"
+    ],
+    "http://yago-knowledge.org/resource/Caravel": [
+        "http://schema.org/Vehicle"
+    ],
+    "http://yago-knowledge.org/resource/Polyketide": [
+        "http://bioschemas.org/ChemicalSubstance"
+    ],
+    "http://yago-knowledge.org/resource/Combat_helmet": [
+        "http://schema.org/Product"
+    ],
+    "http://yago-knowledge.org/resource/New_Testament_apocrypha": [
+        "http://schema.org/Product",
+        "http://schema.org/CreativeWork"
+    ],
+    "http://yago-knowledge.org/resource/Union_territory": [
+        "http://schema.org/Country",
+        "http://schema.org/Organization"
+    ],
+    "http://yago-knowledge.org/resource/Battle": [
+        "http://schema.org/Event"
+    ],
+    "http://yago-knowledge.org/resource/States_of_Germany": [
+        "http://schema.org/State"
+    ],
+    "http://yago-knowledge.org/resource/Prisoner-of-war_camp": [
+        "http://schema.org/GovernmentBuilding",
+        "http://schema.org/Organization"
+    ],
+    "http://yago-knowledge.org/resource/Computing_platform": [],
+    "http://schema.org/Dataset": [
+        "http://schema.org/CreativeWork"
+    ],
+    "http://yago-knowledge.org/resource/National_Antarctic_Program": [
+        "http://schema.org/Organization"
+    ],
+    "http://schema.org/Continent": [
+        "http://schema.org/Landform"
+    ],
+    "http://yago-knowledge.org/resource/Hexalogy": [
+        "http://schema.org/CreativeWorkSeries"
+    ],
+    "http://yago-knowledge.org/resource/Fiber": [
+        "http://schema.org/Product"
+    ],
+    "http://yago-knowledge.org/resource/Order_(distinction)": [
+        "http://schema.org/Organization"
+    ],
+    "http://yago-knowledge.org/resource/Administrative_okrugs_of_Moscow": [
+        "http://schema.org/AdministrativeArea"
+    ],
+    "http://yago-knowledge.org/resource/Protein_family": [],
+    "http://schema.org/Legislation": [
+        "http://schema.org/CreativeWork"
+    ],
+    "http://yago-knowledge.org/resource/International_non-governmental_organization": [
+        "http://schema.org/NGO"
+    ],
+    "http://yago-knowledge.org/resource/Ruins": [],
+    "http://schema.org/MedicalSignOrSymptom": [
+        "http://schema.org/MedicalCondition"
+    ],
+    "http://yago-knowledge.org/resource/Private_bank": [
+        "http://schema.org/BankOrCreditUnion"
+    ],
+    "http://yago-knowledge.org/resource/Concern_(business)": [
+        "http://schema.org/Organization"
+    ],
+    "http://yago-knowledge.org/resource/Administrative_regions_of_Greece": [
+        "http://schema.org/AdministrativeArea"
+    ],
+    "http://yago-knowledge.org/resource/Cutter_(boat)": [
+        "http://schema.org/Vehicle"
+    ],
+    "http://yago-knowledge.org/resource/English_country_house": [
+        "http://schema.org/House"
+    ],
+    "http://yago-knowledge.org/resource/Military_branch": [
+        "http://schema.org/Organization"
+    ],
+    "http://yago-knowledge.org/resource/Business_cluster": [
+        "http://schema.org/Place",
+        "http://schema.org/Organization"
+    ],
+    "http://yago-knowledge.org/resource/Wards_of_Japan": [
+        "http://schema.org/GovernmentOrganization",
+        "http://schema.org/GovernmentOffice",
+        "http://schema.org/AdministrativeArea"
+    ],
+    "http://yago-knowledge.org/resource/Research_institute": [
+        "http://schema.org/EducationalOrganization",
+        "http://schema.org/Place"
+    ],
+    "http://yago-knowledge.org/resource/Concentration_camp": [
+        "http://schema.org/GovernmentBuilding",
+        "http://schema.org/Organization"
+    ],
+    "http://schema.org/Airline": [
+        "http://schema.org/Organization"
+    ],
+    "http://yago-knowledge.org/resource/Division_(business)": [
+        "http://schema.org/Organization"
+    ],
+    "http://yago-knowledge.org/resource/Provinces_of_Algeria": [
+        "http://schema.org/AdministrativeArea"
+    ],
+    "http://yago-knowledge.org/resource/Drama_school": [
+        "http://schema.org/GovernmentOffice",
+        "http://schema.org/NGO",
+        "http://schema.org/School",
+        "http://schema.org/CollegeOrUniversity"
+    ],
+    "http://yago-knowledge.org/resource/Monarch": [
+        "http://schema.org/Person",
+        "http://schema.org/Occupation"
+    ],
+    "http://yago-knowledge.org/resource/Scholarship": [],
+    "http://yago-knowledge.org/resource/City-state": [
+        "http://schema.org/Organization",
+        "http://schema.org/City"
+    ],
+    "http://yago-knowledge.org/resource/Essential_medicines": [
+        "http://schema.org/Drug"
+    ],
+    "http://yago-knowledge.org/resource/National_anthem": [
+        "http://schema.org/MusicComposition"
+    ],
+    "http://bioschemas.org/Taxon": [],
+    "http://yago-knowledge.org/resource/Provinces_of_the_Philippines": [
+        "http://schema.org/AdministrativeArea"
+    ],
+    "http://yago-knowledge.org/resource/E-book": [
+        "http://schema.org/Product",
+        "http://schema.org/Book"
+    ],
+    "http://yago-knowledge.org/resource/Landscape": [
+        "http://schema.org/Place"
+    ],
+    "http://yago-knowledge.org/resource/Game_show": [
+        "http://schema.org/Game"
+    ],
+    "http://yago-knowledge.org/resource/Military_Museum": [
+        "http://schema.org/Museum"
+    ],
+    "http://yago-knowledge.org/resource/Village": [
+        "http://schema.org/Place"
+    ],
+    "http://yago-knowledge.org/resource/Historic_house_museum": [
+        "http://schema.org/House",
+        "http://schema.org/Museum"
+    ],
+    "http://yago-knowledge.org/resource/Free_imperial_city": [
+        "http://schema.org/City"
+    ],
+    "http://yago-knowledge.org/resource/Customs": [
+        "http://schema.org/GovernmentOffice"
+    ],
+    "http://yago-knowledge.org/resource/Municipalities_of_Denmark": [
+        "http://schema.org/AdministrativeArea"
+    ],
+    "http://yago-knowledge.org/resource/Mathematical_puzzle": [
+        "http://schema.org/Game"
+    ],
+    "http://yago-knowledge.org/resource/İlçe": [
+        "http://schema.org/AdministrativeArea"
+    ],
+    "http://yago-knowledge.org/resource/Musical_ensemble": [
+        "http://schema.org/Organization"
+    ],
+    "http://yago-knowledge.org/resource/Record_label": [
+        "http://schema.org/Organization"
+    ],
+    "http://yago-knowledge.org/resource/Group_action_(sociology)": [],
+    "http://yago-knowledge.org/resource/Military": [
+        "http://schema.org/Organization"
+    ],
+    "http://yago-knowledge.org/resource/Window_manager": [
+        "http://schema.org/Product",
+        "http://schema.org/CreativeWork"
+    ],
+    "http://yago-knowledge.org/resource/Song_cycle": [
+        "http://schema.org/CreativeWorkSeries"
+    ],
+    "http://yago-knowledge.org/resource/Award": [],
+    "http://yago-knowledge.org/resource/Encryption_software": [
+        "http://schema.org/Product",
+        "http://schema.org/CreativeWork"
+    ],
+    "http://yago-knowledge.org/resource/Air_base": [
+        "http://schema.org/Organization",
+        "http://schema.org/DefenceEstablishment"
+    ],
+    "http://yago-knowledge.org/resource/Comic_book": [
+        "http://schema.org/ComicStory",
+        "http://schema.org/Periodical",
+        "http://schema.org/Book"
+    ],
+    "http://yago-knowledge.org/resource/Title": [],
+    "http://yago-knowledge.org/resource/Cranial_nerves": [
+        "http://schema.org/Nerve"
+    ],
+    "http://yago-knowledge.org/resource/Subdistrict": [
+        "http://schema.org/AdministrativeArea"
+    ],
+    "http://yago-knowledge.org/resource/Residenz": [
+        "http://schema.org/GovernmentBuilding",
+        "http://schema.org/House"
+    ],
+    "http://yago-knowledge.org/resource/Unitary_enterprise": [
+        "http://schema.org/Organization"
+    ],
+    "http://yago-knowledge.org/resource/Powiat": [
+        "http://schema.org/AdministrativeArea"
+    ],
+    "http://yago-knowledge.org/resource/Metropolitan_borough": [
+        "http://schema.org/AdministrativeArea"
+    ],
+    "http://yago-knowledge.org/resource/Academic_major": [],
+    "http://yago-knowledge.org/resource/Publisher": [
+        "http://schema.org/Organization"
+    ],
+    "http://schema.org/AnatomicalStructure": [
+        "http://schema.org/MedicalEntity"
+    ],
+    "http://yago-knowledge.org/resource/Border_town": [
+        "http://schema.org/Place"
+    ],
+    "http://yago-knowledge.org/resource/Ministry_of_Transport": [
+        "http://schema.org/GovernmentOffice"
+    ],
+    "http://yago-knowledge.org/resource/Umbrella_term": [],
+    "http://yago-knowledge.org/resource/Supergroup_(music)": [
+        "http://schema.org/MusicGroup"
+    ],
+    "http://yago-knowledge.org/resource/Ethnic_group": [],
+    "http://yago-knowledge.org/resource/Discography": [
+        "http://schema.org/CreativeWorkSeries",
+        "http://schema.org/Product",
+        "http://schema.org/Dataset",
+        "http://schema.org/Collection"
+    ],
+    "http://yago-knowledge.org/resource/Military_personnel": [
+        "http://schema.org/Person"
+    ],
+    "http://yago-knowledge.org/resource/Jam_band": [
+        "http://schema.org/MusicGroup"
+    ],
+    "http://schema.org/MedicalOrganization": [
+        "http://schema.org/Organization"
+    ],
+    "http://yago-knowledge.org/resource/Provincial_deputation_in_Spanish_America": [
+        "http://schema.org/AdministrativeArea"
+    ],
+    "http://schema.org/Vehicle": [
+        "http://schema.org/Product"
+    ],
+    "http://yago-knowledge.org/resource/Community_(Wales)": [
+        "http://schema.org/AdministrativeArea"
+    ],
+    "http://bioschemas.org/BioChemEntity": [],
+    "http://yago-knowledge.org/resource/Youth_wing": [
+        "http://schema.org/Organization"
+    ],
+    "http://yago-knowledge.org/resource/Operating_system": [
+        "http://schema.org/Product",
+        "http://schema.org/CreativeWork"
+    ],
+    "http://yago-knowledge.org/resource/Music_school": [
+        "http://schema.org/EducationalOrganization",
+        "http://schema.org/Place"
+    ],
+    "http://schema.org/Chapter": [
+        "http://schema.org/CreativeWork"
+    ],
+    "http://yago-knowledge.org/resource/Carbohydrate": [
+        "http://bioschemas.org/ChemicalSubstance"
+    ],
+    "http://yago-knowledge.org/resource/Nursing_home_care": [
+        "http://schema.org/Hospital"
+    ],
+    "http://yago-knowledge.org/resource/Programming_tool": [
+        "http://schema.org/Product",
+        "http://schema.org/CreativeWork"
+    ],
+    "http://yago-knowledge.org/resource/Factory": [
+        "http://schema.org/Place",
+        "http://schema.org/Organization"
+    ],
+    "http://yago-knowledge.org/resource/Island": [
+        "http://schema.org/Landform"
+    ],
+    "http://schema.org/Movie": [
+        "http://schema.org/CreativeWork"
+    ],
+    "http://yago-knowledge.org/resource/Narrative": [
+        "http://schema.org/CreativeWork"
+    ],
+    "http://yago-knowledge.org/resource/County_seat": [
+        "http://schema.org/Place"
+    ],
+    "http://yago-knowledge.org/resource/Areas_of_mathematics": [],
+    "http://yago-knowledge.org/resource/Provinces_of_Sweden": [
+        "http://schema.org/AdministrativeArea"
+    ],
+    "http://yago-knowledge.org/resource/Municipalities_of_Switzerland": [
+        "http://schema.org/AdministrativeArea",
+        "http://schema.org/Corporation"
+    ],
+    "http://yago-knowledge.org/resource/Municipalities_of_Finland": [
+        "http://schema.org/AdministrativeArea",
+        "http://schema.org/Corporation"
+    ],
+    "http://schema.org/Product": [],
+    "http://yago-knowledge.org/resource/Imprint_(trade_name)": [
+        "http://schema.org/Organization"
+    ],
+    "http://yago-knowledge.org/resource/Municipiu": [
+        "http://schema.org/AdministrativeArea",
+        "http://schema.org/Corporation"
+    ],
+    "http://yago-knowledge.org/resource/Regions_of_France": [
+        "http://schema.org/AdministrativeArea"
+    ],
+    "http://yago-knowledge.org/resource/Political_international": [
+        "http://schema.org/Organization"
+    ],
+    "http://schema.org/Landform": [
+        "http://schema.org/Place"
+    ],
+    "http://yago-knowledge.org/resource/Barque": [
+        "http://schema.org/Vehicle"
+    ],
+    "http://yago-knowledge.org/resource/Mining_community": [
+        "http://schema.org/Place"
+    ],
+    "http://yago-knowledge.org/resource/Horse_stud_farm": [
+        "http://schema.org/Place"
+    ],
+    "http://yago-knowledge.org/resource/Narrative_poetry": [
+        "http://schema.org/CreativeWork"
+    ],
+    "http://schema.org/EventVenue": [
+        "http://schema.org/CivicStructure"
+    ],
+    "http://yago-knowledge.org/resource/Medical_school": [
+        "http://schema.org/Place",
+        "http://schema.org/School",
+        "http://schema.org/CollegeOrUniversity"
+    ],
+    "http://yago-knowledge.org/resource/Golden_Globe_Awards": [],
+    "http://yago-knowledge.org/resource/Districts_of_Sofia": [
+        "http://schema.org/AdministrativeArea"
+    ],
+    "http://yago-knowledge.org/resource/Lists_of_former_Hansa_cities": [
+        "http://schema.org/City"
+    ],
+    "http://yago-knowledge.org/resource/Public_university": [
+        "http://schema.org/Place",
+        "http://schema.org/CollegeOrUniversity"
+    ],
+    "http://yago-knowledge.org/resource/Gender_identity": [],
+    "http://yago-knowledge.org/resource/Historic_counties_of_England": [
+        "http://schema.org/AdministrativeArea"
+    ],
+    "http://yago-knowledge.org/resource/Media_franchise": [],
+    "http://yago-knowledge.org/resource/Departments_of_France": [
+        "http://schema.org/AdministrativeArea"
+    ],
+    "http://yago-knowledge.org/resource/Citadel": [
+        "http://schema.org/DefenceEstablishment"
+    ],
+    "http://yago-knowledge.org/resource/Districts_of_Uganda": [
+        "http://schema.org/AdministrativeArea"
+    ],
+    "http://yago-knowledge.org/resource/State_(polity)": [
+        "http://schema.org/AdministrativeArea",
+        "http://schema.org/Organization"
+    ],
+    "http://yago-knowledge.org/resource/Secret_society": [
+        "http://schema.org/Organization"
+    ],
+    "http://yago-knowledge.org/resource/Craft": [
+        "http://schema.org/Occupation"
+    ],
+    "http://yago-knowledge.org/resource/Committee": [
+        "http://schema.org/Organization"
+    ],
+    "http://yago-knowledge.org/resource/Comarques_of_the_Valencian_Community": [
+        "http://schema.org/AdministrativeArea"
+    ],
+    "http://yago-knowledge.org/resource/Abbey": [
+        "http://schema.org/PlaceOfWorship",
+        "http://schema.org/Organization"
+    ],
+    "http://yago-knowledge.org/resource/Province": [
+        "http://schema.org/AdministrativeArea"
+    ],
+    "http://yago-knowledge.org/resource/Polis": [
+        "http://schema.org/Organization",
+        "http://schema.org/City"
+    ],
+    "http://schema.org/SportsOrganization": [
+        "http://schema.org/Organization"
+    ],
+    "http://yago-knowledge.org/resource/Software_license": [
+        "http://schema.org/Product",
+        "http://schema.org/CreativeWork"
+    ],
+    "http://yago-knowledge.org/resource/Language_family": [],
+    "http://yago-knowledge.org/resource/Corps": [
+        "http://schema.org/Organization"
+    ],
+    "http://yago-knowledge.org/resource/Proprietary_software": [
+        "http://schema.org/Product",
+        "http://schema.org/CreativeWork"
+    ],
+    "http://yago-knowledge.org/resource/Union_councils_of_Bangladesh": [
+        "http://schema.org/AdministrativeArea"
+    ],
+    "http://schema.org/TelevisionStation": [
+        "http://schema.org/LocalBusiness"
+    ],
+    "http://yago-knowledge.org/resource/Freguesia": [
+        "http://schema.org/AdministrativeArea",
+        "http://schema.org/Organization"
+    ],
+    "http://yago-knowledge.org/resource/Billionaire": [
+        "http://schema.org/Person"
+    ],
+    "http://schema.org/Drawing": [
+        "http://schema.org/CreativeWork"
+    ],
+    "http://yago-knowledge.org/resource/Ministry_(government_department)": [
+        "http://schema.org/GovernmentOffice"
+    ],
+    "http://yago-knowledge.org/resource/Municipalities_of_Colombia": [
+        "http://schema.org/AdministrativeArea",
+        "http://schema.org/Corporation"
+    ],
+    "http://schema.org/RiverBodyOfWater": [
+        "http://schema.org/BodyOfWater"
+    ],
+    "http://yago-knowledge.org/resource/Belgian_comics": [
+        "http://schema.org/ComicStory"
+    ],
+    "http://schema.org/MusicGroup": [
+        "http://schema.org/PerformingGroup"
+    ],
+    "http://yago-knowledge.org/resource/Terminal_emulator": [
+        "http://schema.org/Product",
+        "http://schema.org/CreativeWork"
+    ],
+    "http://schema.org/PerformingGroup": [
+        "http://schema.org/Organization"
+    ],
+    "http://schema.org/Place": [],
+    "http://yago-knowledge.org/resource/Asian_TV_Cup": [
+        "http://schema.org/SportsEvent"
+    ],
+    "http://schema.org/Event": [],
+    "http://yago-knowledge.org/resource/Neighborhoods_in_Boston": [
+        "http://schema.org/AdministrativeArea"
+    ],
+    "http://yago-knowledge.org/resource/Statutory_city_(Czech_Republic)": [
+        "http://schema.org/City",
+        "http://schema.org/Corporation"
+    ],
+    "http://yago-knowledge.org/resource/Motte-and-bailey_castle": [
+        "http://schema.org/House",
+        "http://schema.org/DefenceEstablishment"
+    ],
+    "http://yago-knowledge.org/resource/Artist-in-residence": [
+        "http://schema.org/Place"
+    ],
+    "http://yago-knowledge.org/resource/City_council_(Israel)": [
+        "http://schema.org/AdministrativeArea",
+        "http://schema.org/Corporation"
+    ],
+    "http://yago-knowledge.org/resource/Biological_pathway": [],
+    "http://yago-knowledge.org/resource/Radio_format": [],
+    "http://schema.org/BroadcastChannel": [],
+    "http://yago-knowledge.org/resource/Ethnic_townships,_towns,_and_sumu": [
+        "http://schema.org/AdministrativeArea"
+    ],
+    "http://yago-knowledge.org/resource/Medical_findings": [],
+    "http://yago-knowledge.org/resource/List_of_districts_of_Nepal": [
+        "http://schema.org/AdministrativeArea"
+    ],
+    "http://yago-knowledge.org/resource/Parishes_of_Jamaica": [
+        "http://schema.org/AdministrativeArea"
+    ],
+    "http://yago-knowledge.org/resource/Capital_of_Japan": [
+        "http://schema.org/Place"
+    ],
+    "http://yago-knowledge.org/resource/Municipalities_of_Japan": [
+        "http://schema.org/AdministrativeArea",
+        "http://schema.org/Corporation"
+    ],
+    "http://yago-knowledge.org/resource/Ketch": [
+        "http://schema.org/Vehicle"
+    ],
+    "http://yago-knowledge.org/resource/Cultural_center": [
+        "http://schema.org/EventVenue",
+        "http://schema.org/Organization"
+    ],
+    "http://yago-knowledge.org/resource/Districts_of_New_Zealand": [
+        "http://schema.org/AdministrativeArea"
+    ],
+    "http://yago-knowledge.org/resource/Seaside_resort": [
+        "http://schema.org/Resort"
+    ],
+    "http://yago-knowledge.org/resource/Electoral_districts_of_Victoria": [
+        "http://schema.org/AdministrativeArea"
+    ],
+    "http://yago-knowledge.org/resource/Numbered_Air_Force": [
+        "http://schema.org/Place",
+        "http://schema.org/Organization"
+    ],
+    "http://yago-knowledge.org/resource/Software_framework": [
+        "http://schema.org/Product",
+        "http://schema.org/CreativeWork"
+    ],
+    "http://yago-knowledge.org/resource/Team_sport": [],
+    "http://yago-knowledge.org/resource/Town": [
+        "http://schema.org/Place"
+    ],
+    "http://yago-knowledge.org/resource/Cooperative": [
+        "http://schema.org/Organization"
+    ],
+    "http://schema.org/ComputerLanguage": [],
+    "http://yago-knowledge.org/resource/Independent_school_(United_Kingdom)": [
+        "http://schema.org/Place",
+        "http://schema.org/School"
+    ],
+    "http://yago-knowledge.org/resource/Districts_of_Syria": [
+        "http://schema.org/AdministrativeArea"
+    ],
+    "http://yago-knowledge.org/resource/Silent_film": [
+        "http://schema.org/Movie"
+    ],
+    "http://yago-knowledge.org/resource/List_of_constituencies_of_the_National_Assembly_of_France": [
+        "http://schema.org/AdministrativeArea"
+    ],
+    "http://yago-knowledge.org/resource/Video_editing_software": [
+        "http://schema.org/SoftwareApplication"
+    ],
+    "http://yago-knowledge.org/resource/Ministry_of_Foreign_Affairs": [
+        "http://schema.org/GovernmentOffice"
+    ],
+    "http://yago-knowledge.org/resource/County": [
+        "http://schema.org/AdministrativeArea"
+    ],
+    "http://yago-knowledge.org/resource/Labor_camp": [
+        "http://schema.org/GovernmentBuilding",
+        "http://schema.org/Organization"
+    ],
+    "http://schema.org/Sculpture": [
+        "http://schema.org/CreativeWork"
+    ],
+    "http://yago-knowledge.org/resource/Colleges_of_the_University_of_Oxford": [
+        "http://schema.org/Place",
+        "http://schema.org/CollegeOrUniversity"
+    ],
+    "http://yago-knowledge.org/resource/Encyclopedic_dictionary": [
+        "http://schema.org/CreativeWorkSeries",
+        "http://schema.org/Product"
+    ],
+    "http://schema.org/BusOrCoach": [
+        "http://schema.org/Vehicle"
+    ],
+    "http://schema.org/FoodEstablishment": [
+        "http://schema.org/LocalBusiness"
+    ],
+    "http://schema.org/TheaterGroup": [
+        "http://schema.org/PerformingGroup"
+    ],
+    "http://yago-knowledge.org/resource/Spa_town": [
+        "http://schema.org/Place"
+    ],
+    "http://yago-knowledge.org/resource/Royal_palace": [
+        "http://schema.org/House"
+    ],
+    "http://yago-knowledge.org/resource/Trio_(music)": [
+        "http://schema.org/Organization"
+    ],
+    "http://yago-knowledge.org/resource/Hedge_fund": [
+        "http://schema.org/Organization"
+    ],
+    "http://yago-knowledge.org/resource/Special_cities_of_Japan": [
+        "http://schema.org/City",
+        "http://schema.org/Corporation"
+    ],
+    "http://yago-knowledge.org/resource/COX-2_inhibitor": [
+        "http://schema.org/Drug",
+        "http://bioschemas.org/ChemicalSubstance"
+    ],
+    "http://yago-knowledge.org/resource/ISO_639_macrolanguage": [
+        "http://schema.org/Product"
+    ],
+    "http://yago-knowledge.org/resource/Provinces_of_Argentina": [
+        "http://schema.org/AdministrativeArea"
+    ],
+    "http://yago-knowledge.org/resource/City_district": [
+        "http://schema.org/AdministrativeArea"
+    ],
+    "http://yago-knowledge.org/resource/Archaeological_site": [
+        "http://schema.org/Landform"
+    ],
+    "http://yago-knowledge.org/resource/Barquentine": [
+        "http://schema.org/Vehicle"
+    ],
+    "http://yago-knowledge.org/resource/Ministry_of_Energy": [
+        "http://schema.org/GovernmentOffice"
+    ],
+    "http://yago-knowledge.org/resource/Provinces_of_Mongolia": [
+        "http://schema.org/AdministrativeArea"
+    ],
+    "http://yago-knowledge.org/resource/Academy": [
+        "http://schema.org/GovernmentOffice",
+        "http://schema.org/NGO",
+        "http://schema.org/School",
+        "http://schema.org/CollegeOrUniversity"
+    ],
+    "http://yago-knowledge.org/resource/Fish_pond": [
+        "http://schema.org/Pond"
+    ],
+    "http://yago-knowledge.org/resource/Antivirus_software": [
+        "http://schema.org/Product",
+        "http://schema.org/CreativeWork"
+    ],
+    "http://yago-knowledge.org/resource/Poetry": [
+        "http://schema.org/CreativeWork"
+    ],
+    "http://yago-knowledge.org/resource/Communes_of_Romania": [
+        "http://schema.org/AdministrativeArea"
+    ],
+    "http://schema.org/Bridge": [
+        "http://schema.org/CivicStructure"
+    ],
+    "http://yago-knowledge.org/resource/Computer_security_software": [
+        "http://schema.org/Product",
+        "http://schema.org/CreativeWork"
+    ],
+    "http://yago-knowledge.org/resource/Television_pilot": [
+        "http://schema.org/Movie",
+        "http://schema.org/TVEpisode"
+    ],
+    "http://yago-knowledge.org/resource/Global_Species_Database": [],
+    "http://yago-knowledge.org/resource/Chemical_reaction": [],
+    "http://yago-knowledge.org/resource/Drama_Desk_Award": [],
+    "http://yago-knowledge.org/resource/National_academy": [
+        "http://schema.org/GovernmentOffice",
+        "http://schema.org/NGO",
+        "http://schema.org/School",
+        "http://schema.org/CollegeOrUniversity"
+    ],
+    "http://yago-knowledge.org/resource/Comedic_genres": [
+        "http://schema.org/CreativeWork"
+    ],
+    "http://yago-knowledge.org/resource/Unix-like": [
+        "http://schema.org/Product",
+        "http://schema.org/CreativeWork"
+    ],
+    "http://yago-knowledge.org/resource/Presentation_program": [
+        "http://schema.org/SoftwareApplication"
+    ],
+    "http://yago-knowledge.org/resource/Handscroll": [
+        "http://schema.org/Manuscript",
+        "http://schema.org/Product",
+        "http://schema.org/Painting"
+    ],
+    "http://yago-knowledge.org/resource/Compilation_album": [
+        "http://schema.org/Collection",
+        "http://schema.org/MusicAlbum"
+    ],
+    "http://yago-knowledge.org/resource/Princely_state": [
+        "http://schema.org/AdministrativeArea"
+    ],
+    "http://yago-knowledge.org/resource/Provinces_of_Italy": [
+        "http://schema.org/AdministrativeArea"
+    ],
+    "http://yago-knowledge.org/resource/Districts_of_Uzbekistan": [
+        "http://schema.org/AdministrativeArea"
+    ],
+    "http://yago-knowledge.org/resource/Parish": [
+        "http://schema.org/AdministrativeArea",
+        "http://schema.org/Organization"
+    ],
+    "http://yago-knowledge.org/resource/Staff_college": [
+        "http://schema.org/DefenceEstablishment",
+        "http://schema.org/School",
+        "http://schema.org/CollegeOrUniversity"
+    ],
+    "http://yago-knowledge.org/resource/File_manager": [
+        "http://schema.org/Product",
+        "http://schema.org/CreativeWork"
+    ],
+    "http://schema.org/NGO": [
+        "http://schema.org/Organization"
+    ],
+    "http://yago-knowledge.org/resource/Latin_Grammy_Award": [],
+    "http://yago-knowledge.org/resource/Graphic_novel": [
+        "http://schema.org/ComicStory",
+        "http://schema.org/Book"
+    ],
+    "http://yago-knowledge.org/resource/Video_game_publisher": [
+        "http://schema.org/Organization"
+    ],
+    "http://yago-knowledge.org/resource/Monograph": [
+        "http://schema.org/Book"
+    ],
+    "http://yago-knowledge.org/resource/Monotypic_taxon": [
+        "http://bioschemas.org/Taxon"
+    ],
+    "http://yago-knowledge.org/resource/Educational_trail": [
+        "http://schema.org/TouristAttraction"
+    ],
+    "http://yago-knowledge.org/resource/Plan": [],
+    "http://yago-knowledge.org/resource/Academy_of_sciences": [
+        "http://schema.org/GovernmentOffice",
+        "http://schema.org/NGO",
+        "http://schema.org/School",
+        "http://schema.org/CollegeOrUniversity"
+    ],
+    "http://yago-knowledge.org/resource/News_website": [
+        "http://schema.org/Product",
+        "http://schema.org/WebSite",
+        "http://schema.org/Newspaper"
+    ],
+    "http://yago-knowledge.org/resource/Villages_of_China": [
+        "http://schema.org/AdministrativeArea"
+    ],
+    "http://yago-knowledge.org/resource/Modern_language": [
+        "http://schema.org/Product",
+        "http://schema.org/Language"
+    ],
+    "http://yago-knowledge.org/resource/Creative_Commons_license": [
+        "http://schema.org/Product",
+        "http://schema.org/CreativeWork"
+    ],
+    "http://schema.org/Bone": [
+        "http://schema.org/AnatomicalStructure"
+    ],
+    "http://yago-knowledge.org/resource/Screen_Actors_Guild_Awards": [],
+    "http://yago-knowledge.org/resource/Military_hospital": [
+        "http://schema.org/DefenceEstablishment",
+        "http://schema.org/Hospital"
+    ],
+    "http://yago-knowledge.org/resource/Maritime_museum": [
+        "http://schema.org/Museum"
+    ],
+    "http://yago-knowledge.org/resource/Artist_collective": [
+        "http://schema.org/Organization"
+    ],
+    "http://yago-knowledge.org/resource/Regiment": [
+        "http://schema.org/Organization"
+    ],
+    "http://yago-knowledge.org/resource/Cloud_storage": [],
+    "http://yago-knowledge.org/resource/Lieutenancy_areas_of_Scotland": [
+        "http://schema.org/AdministrativeArea"
+    ],
+    "http://schema.org/VideoGameSeries": [
+        "http://schema.org/CreativeWorkSeries"
+    ],
+    "http://yago-knowledge.org/resource/Piano_concerto": [
+        "http://schema.org/MusicComposition"
+    ],
+    "http://yago-knowledge.org/resource/Districts_of_Bangladesh": [
+        "http://schema.org/AdministrativeArea"
+    ],
+    "http://yago-knowledge.org/resource/Capital_city": [
+        "http://schema.org/City"
+    ],
+    "http://schema.org/TouristAttraction": [
+        "http://schema.org/Place"
+    ],
+    "http://yago-knowledge.org/resource/Lo_Nuestro_Awards": [],
+    "http://yago-knowledge.org/resource/Military_rank": [],
+    "http://schema.org/MobileApplication": [
+        "http://schema.org/SoftwareApplication"
+    ],
+    "http://yago-knowledge.org/resource/System_software": [
+        "http://schema.org/Product",
+        "http://schema.org/CreativeWork"
+    ],
+    "http://yago-knowledge.org/resource/Password_manager": [
+        "http://schema.org/Product",
+        "http://schema.org/CreativeWork"
+    ],
+    "http://yago-knowledge.org/resource/Realm": [
+        "http://schema.org/AdministrativeArea",
+        "http://schema.org/Organization"
+    ],
+    "http://yago-knowledge.org/resource/City_(New_Jersey)": [
+        "http://schema.org/City",
+        "http://schema.org/Corporation"
+    ],
+    "http://yago-knowledge.org/resource/Small_burgh": [
+        "http://schema.org/AdministrativeArea"
+    ],
+    "http://schema.org/Winery": [
+        "http://schema.org/FoodEstablishment"
+    ],
+    "http://yago-knowledge.org/resource/Paper_mill": [
+        "http://schema.org/Product",
+        "http://schema.org/Place",
+        "http://schema.org/Organization"
+    ],
+    "http://yago-knowledge.org/resource/Kindergarten": [
+        "http://schema.org/School"
+    ],
+    "http://yago-knowledge.org/resource/Independent_cities_of_Germany": [
+        "http://schema.org/City",
+        "http://schema.org/Corporation"
+    ],
+    "http://yago-knowledge.org/resource/Build_automation": [
+        "http://schema.org/Product",
+        "http://schema.org/CreativeWork"
+    ],
+    "http://schema.org/Library": [
+        "http://schema.org/LocalBusiness"
+    ],
+    "http://yago-knowledge.org/resource/Gay_village": [
+        "http://schema.org/Place"
+    ],
+    "http://yago-knowledge.org/resource/Independent_city_(United_States)": [
+        "http://schema.org/City",
+        "http://schema.org/Corporation"
+    ],
+    "http://yago-knowledge.org/resource/Consulting_firm": [
+        "http://schema.org/Organization"
+    ],
+    "http://yago-knowledge.org/resource/Author": [
+        "http://schema.org/Person"
+    ],
+    "http://yago-knowledge.org/resource/Euroregion": [
+        "http://schema.org/AdministrativeArea"
+    ],
+    "http://yago-knowledge.org/resource/Paraphilia": [
+        "http://schema.org/MedicalCondition"
+    ],
+    "http://yago-knowledge.org/resource/Day_school": [
+        "http://schema.org/School"
+    ],
+    "http://yago-knowledge.org/resource/Imperial,_royal_and_noble_ranks": [],
+    "http://yago-knowledge.org/resource/Hôtel_particulier": [
+        "http://schema.org/House"
+    ],
+    "http://yago-knowledge.org/resource/Institute_of_technology": [
+        "http://schema.org/Place",
+        "http://schema.org/CollegeOrUniversity"
+    ],
+    "http://yago-knowledge.org/resource/Music_award": [],
+    "http://yago-knowledge.org/resource/Bank": [
+        "http://schema.org/BankOrCreditUnion"
+    ],
+    "http://yago-knowledge.org/resource/Communes_of_Chile": [
+        "http://schema.org/AdministrativeArea",
+        "http://schema.org/Corporation"
+    ],
+    "http://yago-knowledge.org/resource/Military_unit": [
+        "http://schema.org/Organization"
+    ],
+    "http://yago-knowledge.org/resource/Subprefectures_of_Japan": [
+        "http://schema.org/GovernmentOrganization",
+        "http://schema.org/AdministrativeArea"
+    ],
+    "http://yago-knowledge.org/resource/Counties_of_Sweden": [
+        "http://schema.org/AdministrativeArea"
+    ],
+    "http://yago-knowledge.org/resource/Kernel_(operating_system)": [
+        "http://schema.org/Product",
+        "http://schema.org/CreativeWork"
+    ],
+    "http://yago-knowledge.org/resource/Software_engine": [
+        "http://schema.org/Product",
+        "http://schema.org/CreativeWork"
+    ],
+    "http://yago-knowledge.org/resource/Regions_of_Kazakhstan": [
+        "http://schema.org/AdministrativeArea"
+    ],
+    "http://yago-knowledge.org/resource/Dzielnica": [
+        "http://schema.org/AdministrativeArea",
+        "http://schema.org/Corporation"
+    ],
+    "http://yago-knowledge.org/resource/Subsidiary": [
+        "http://schema.org/Organization"
+    ],
+    "http://yago-knowledge.org/resource/Animation_studio": [
+        "http://schema.org/Place",
+        "http://schema.org/Organization"
+    ],
+    "http://yago-knowledge.org/resource/Ministries_of_the_People's_Republic_of_China": [
+        "http://schema.org/GovernmentOffice"
+    ],
+    "http://yago-knowledge.org/resource/Stanitsa": [
+        "http://schema.org/Place"
+    ],
+    "http://yago-knowledge.org/resource/Cultural_property": [],
+    "http://yago-knowledge.org/resource/List_of_Ontario_separated_municipalities": [
+        "http://schema.org/AdministrativeArea",
+        "http://schema.org/Corporation"
+    ],
+    "http://yago-knowledge.org/resource/Fairy_tale": [
+        "http://schema.org/CreativeWork"
+    ],
+    "http://yago-knowledge.org/resource/Controlled_vocabulary": [
+        "http://schema.org/Product",
+        "http://schema.org/Dataset"
+    ],
+    "http://yago-knowledge.org/resource/British_Academy_Film_Awards": [],
+    "http://yago-knowledge.org/resource/Rift": [
+        "http://schema.org/Landform"
+    ],
+    "http://yago-knowledge.org/resource/Taxonomic_rank": [],
+    "http://yago-knowledge.org/resource/Regional_nature_parks_of_France": [
+        "http://schema.org/Place"
+    ],
+    "http://yago-knowledge.org/resource/Chemical_element": [],
+    "http://yago-knowledge.org/resource/Raster_graphics_editor": [
+        "http://schema.org/SoftwareApplication"
+    ],
+    "http://yago-knowledge.org/resource/Programming_language": [
+        "http://schema.org/ComputerLanguage"
+    ],
+    "http://yago-knowledge.org/resource/Duchy": [
+        "http://schema.org/AdministrativeArea",
+        "http://schema.org/Organization"
+    ],
+    "http://yago-knowledge.org/resource/Sovereign_state": [
+        "http://schema.org/Country",
+        "http://schema.org/Organization"
+    ],
+    "http://yago-knowledge.org/resource/Subcamp_(SS)": [
+        "http://schema.org/Place"
+    ],
+    "http://yago-knowledge.org/resource/Towns_of_China": [
+        "http://schema.org/AdministrativeArea"
+    ],
+    "http://yago-knowledge.org/resource/Ontology_(information_science)": [
+        "http://schema.org/Product"
+    ],
+    "http://yago-knowledge.org/resource/Castle": [
+        "http://schema.org/House",
+        "http://schema.org/DefenceEstablishment"
+    ],
+    "http://yago-knowledge.org/resource/Multimedia_framework": [
+        "http://schema.org/Product",
+        "http://schema.org/CreativeWork"
+    ],
+    "http://yago-knowledge.org/resource/Resort_town": [
+        "http://schema.org/Place"
+    ],
+    "http://yago-knowledge.org/resource/Appellation_d'origine_contrôlée": [
+        "http://schema.org/CreativeWork"
+    ],
+    "http://yago-knowledge.org/resource/Ocean_liner": [
+        "http://schema.org/Vehicle"
+    ],
+    "http://yago-knowledge.org/resource/Library_(computing)": [
+        "http://schema.org/Product",
+        "http://schema.org/CreativeWork"
+    ],
+    "http://yago-knowledge.org/resource/Hardcover": [
+        "http://schema.org/Product",
+        "http://schema.org/Book"
+    ],
+    "http://yago-knowledge.org/resource/Cricket_field": [
+        "http://schema.org/Place"
+    ],
+    "http://yago-knowledge.org/resource/Communist_party": [
+        "http://schema.org/NGO"
+    ],
+    "http://yago-knowledge.org/resource/Conservatory_of_music": [
+        "http://schema.org/Place",
+        "http://schema.org/CollegeOrUniversity"
+    ],
+    "http://yago-knowledge.org/resource/Social_movement": [],
+    "http://yago-knowledge.org/resource/Flotilla": [
+        "http://schema.org/Organization"
+    ],
+    "http://yago-knowledge.org/resource/Island_country": [
+        "http://schema.org/Country",
+        "http://schema.org/Organization"
+    ],
+    "http://yago-knowledge.org/resource/Memorandum": [
+        "http://schema.org/Product",
+        "http://schema.org/CreativeWork"
+    ],
+    "http://yago-knowledge.org/resource/Evangeliary": [
+        "http://schema.org/Product",
+        "http://schema.org/Book"
+    ],
+    "http://yago-knowledge.org/resource/Convention_(meeting)": [
+        "http://schema.org/Event"
+    ],
+    "http://yago-knowledge.org/resource/Religious_organization": [
+        "http://schema.org/Organization"
+    ],
+    "http://yago-knowledge.org/resource/Bisphenol": [
+        "http://bioschemas.org/ChemicalSubstance"
+    ],
+    "http://yago-knowledge.org/resource/Road": [
+        "http://schema.org/Place"
+    ],
+    "http://schema.org/TVEpisode": [
+        "http://schema.org/Episode"
+    ],
+    "http://yago-knowledge.org/resource/Discipline_(academia)": [],
+    "http://yago-knowledge.org/resource/Reredos": [
+        "http://schema.org/VisualArtwork"
+    ],
+    "http://yago-knowledge.org/resource/Performance-related_pay": [],
+    "http://yago-knowledge.org/resource/Trade_association": [
+        "http://schema.org/NGO"
+    ],
+    "http://yago-knowledge.org/resource/Feminist_movement": [],
+    "http://yago-knowledge.org/resource/Online_database": [
+        "http://schema.org/Product",
+        "http://schema.org/WebSite",
+        "http://schema.org/Dataset"
+    ],
+    "http://yago-knowledge.org/resource/UCI_WorldTeam": [
+        "http://schema.org/SportsTeam"
+    ],
+    "http://yago-knowledge.org/resource/Mkhare": [
+        "http://schema.org/AdministrativeArea"
+    ],
+    "http://yago-knowledge.org/resource/Food_additive": [
+        "http://schema.org/Product",
+        "http://bioschemas.org/ChemicalSubstance"
+    ],
+    "http://yago-knowledge.org/resource/Grammar_school": [
+        "http://schema.org/School"
+    ],
+    "http://yago-knowledge.org/resource/Groups_of_universities_and_institutions_(France)": [
+        "http://schema.org/Place",
+        "http://schema.org/CollegeOrUniversity"
+    ],
+    "http://yago-knowledge.org/resource/Provinces_of_Turkey": [
+        "http://schema.org/AdministrativeArea"
+    ],
+    "http://yago-knowledge.org/resource/Office_suite": [
+        "http://schema.org/Product",
+        "http://schema.org/CreativeWork"
+    ],
+    "http://yago-knowledge.org/resource/Daemon_(computing)": [
+        "http://schema.org/Product",
+        "http://schema.org/CreativeWork"
+    ],
+    "http://yago-knowledge.org/resource/Provinces_of_Chile": [
+        "http://schema.org/AdministrativeArea"
+    ],
+    "http://schema.org/MedicalSign": [
+        "http://schema.org/MedicalSignOrSymptom"
+    ],
+    "http://yago-knowledge.org/resource/Conflation": [],
+    "http://yago-knowledge.org/resource/Hospital_network": [
+        "http://schema.org/MedicalOrganization"
+    ],
+    "http://yago-knowledge.org/resource/Collecting": [],
+    "http://yago-knowledge.org/resource/Government_gazette": [
+        "http://schema.org/Periodical"
+    ],
+    "http://yago-knowledge.org/resource/Utility_software": [
+        "http://schema.org/Product",
+        "http://schema.org/CreativeWork"
+    ],
+    "http://yago-knowledge.org/resource/Intermunicipal_communities_of_Portugal": [
+        "http://schema.org/GovernmentOrganization",
+        "http://schema.org/GovernmentOffice"
+    ],
+    "http://yago-knowledge.org/resource/Superyacht": [
+        "http://schema.org/Vehicle"
+    ],
+    "http://yago-knowledge.org/resource/District_(Austria)": [
+        "http://schema.org/AdministrativeArea"
+    ],
+    "http://schema.org/OceanBodyOfWater": [
+        "http://schema.org/BodyOfWater"
+    ],
+    "http://schema.org/House": [
+        "http://schema.org/Accommodation"
+    ],
+    "http://yago-knowledge.org/resource/Hugo_Award": [],
+    "http://yago-knowledge.org/resource/Departments_of_Colombia": [
+        "http://schema.org/AdministrativeArea",
+        "http://schema.org/Corporation"
+    ],
+    "http://schema.org/CreativeWork": [],
+    "http://yago-knowledge.org/resource/Security-focused_operating_system": [
+        "http://schema.org/Product",
+        "http://schema.org/CreativeWork"
+    ],
+    "http://yago-knowledge.org/resource/Administrative_divisions_of_Canada": [
+        "http://schema.org/AdministrativeArea"
+    ],
+    "http://yago-knowledge.org/resource/Public–private_partnership": [
+        "http://schema.org/FinancialService"
+    ],
+    "http://yago-knowledge.org/resource/Software_suite": [
+        "http://schema.org/Product",
+        "http://schema.org/CreativeWork"
+    ],
+    "http://yago-knowledge.org/resource/Provinces_of_China": [
+        "http://schema.org/AdministrativeArea"
+    ],
+    "http://yago-knowledge.org/resource/Raions_of_Ukraine": [
+        "http://schema.org/AdministrativeArea"
+    ],
+    "http://yago-knowledge.org/resource/Mountain_range": [
+        "http://schema.org/Landform"
+    ],
+    "http://yago-knowledge.org/resource/Hill": [
+        "http://schema.org/Landform"
+    ],
+    "http://yago-knowledge.org/resource/Computer_file": [
+        "http://schema.org/Product",
+        "http://schema.org/Dataset"
+    ],
+    "http://yago-knowledge.org/resource/Privately_held_company": [
+        "http://schema.org/Organization"
+    ],
+    "http://yago-knowledge.org/resource/Peptide": [
+        "http://bioschemas.org/ChemicalSubstance"
+    ],
+    "http://yago-knowledge.org/resource/Web_series": [
+        "http://schema.org/CreativeWorkSeries"
+    ],
+    "http://schema.org/ArtGallery": [
+        "http://schema.org/EntertainmentBusiness"
+    ],
+    "http://yago-knowledge.org/resource/Academic_institution": [
+        "http://schema.org/EducationalOrganization",
+        "http://schema.org/Place"
+    ],
+    "http://schema.org/StadiumOrArena": [
+        "http://schema.org/CivicStructure",
+        "http://schema.org/SportsActivityLocation"
+    ],
+    "http://yago-knowledge.org/resource/Client_(computing)": [
+        "http://schema.org/Product",
+        "http://schema.org/CreativeWork"
+    ],
+    "http://yago-knowledge.org/resource/Municipalities_of_Germany": [
+        "http://schema.org/AdministrativeArea",
+        "http://schema.org/Corporation"
+    ],
+    "http://yago-knowledge.org/resource/Side_project": [
+        "http://schema.org/Organization"
+    ],
+    "http://yago-knowledge.org/resource/Video_game_developer": [
+        "http://schema.org/Organization"
+    ],
+    "http://yago-knowledge.org/resource/Hobby": [],
+    "http://yago-knowledge.org/resource/Midrash": [
+        "http://schema.org/Product",
+        "http://schema.org/CreativeWork"
+    ],
+    "http://yago-knowledge.org/resource/Film_genre": [
+        "http://schema.org/CreativeWork"
+    ],
+    "http://yago-knowledge.org/resource/Fender_Stratocaster": [
+        "http://schema.org/Product"
+    ],
+    "http://yago-knowledge.org/resource/Veteran_tree": [],
+    "http://yago-knowledge.org/resource/Provinces_of_Prussia": [
+        "http://schema.org/AdministrativeArea"
+    ],
+    "http://yago-knowledge.org/resource/Reflex": [],
+    "http://yago-knowledge.org/resource/Primary_school": [
+        "http://schema.org/School"
+    ],
+    "http://yago-knowledge.org/resource/Provinces_of_Japan": [
+        "http://schema.org/AdministrativeArea"
+    ],
+    "http://yago-knowledge.org/resource/Edition_(book)": [
+        "http://schema.org/Product"
+    ],
+    "http://yago-knowledge.org/resource/Art_school": [
+        "http://schema.org/GovernmentOffice",
+        "http://schema.org/NGO",
+        "http://schema.org/School",
+        "http://schema.org/CollegeOrUniversity"
+    ],
+    "http://yago-knowledge.org/resource/Animated_film": [
+        "http://schema.org/Movie"
+    ],
+    "http://yago-knowledge.org/resource/École_nationale_supérieure": [
+        "http://schema.org/School",
+        "http://schema.org/CollegeOrUniversity"
+    ],
+    "http://yago-knowledge.org/resource/Metropolitan_area": [
+        "http://schema.org/AdministrativeArea"
+    ],
+    "http://yago-knowledge.org/resource/Periodization": [],
+    "http://yago-knowledge.org/resource/Juridical_person": [
+        "http://schema.org/Organization"
+    ],
+    "http://yago-knowledge.org/resource/Barrio": [
+        "http://schema.org/Place"
+    ],
+    "http://yago-knowledge.org/resource/Large_burgh": [
+        "http://schema.org/AdministrativeArea"
+    ],
+    "http://schema.org/Muscle": [
+        "http://schema.org/AnatomicalStructure"
+    ],
+    "http://yago-knowledge.org/resource/Enzyme": [
+        "http://bioschemas.org/Protein",
+        "http://bioschemas.org/ChemicalSubstance"
+    ],
+    "http://yago-knowledge.org/resource/Comune": [
+        "http://schema.org/AdministrativeArea",
+        "http://schema.org/Corporation"
+    ],
+    "http://yago-knowledge.org/resource/Markup_language": [
+        "http://schema.org/Product",
+        "http://schema.org/CreativeWork",
+        "http://schema.org/ComputerLanguage"
+    ],
+    "http://bioschemas.org/Protein": [
+        "http://bioschemas.org/BioChemEntity"
+    ],
+    "http://yago-knowledge.org/resource/College": [
+        "http://schema.org/CollegeOrUniversity"
+    ],
+    "http://yago-knowledge.org/resource/Portable_media_player": [
+        "http://schema.org/Product"
+    ],
+    "http://yago-knowledge.org/resource/Semi-detached": [
+        "http://schema.org/House"
+    ],
+    "http://yago-knowledge.org/resource/Material": [
+        "http://schema.org/Product"
+    ],
+    "http://yago-knowledge.org/resource/Vase": [
+        "http://schema.org/Product",
+        "http://schema.org/CreativeWork"
+    ],
+    "http://yago-knowledge.org/resource/Municipalities_of_Argentina": [
+        "http://schema.org/AdministrativeArea",
+        "http://schema.org/Corporation"
+    ],
+    "http://yago-knowledge.org/resource/Web_application": [
+        "http://schema.org/SoftwareApplication"
+    ],
+    "http://yago-knowledge.org/resource/Downloadable_content": [
+        "http://schema.org/Product",
+        "http://schema.org/VideoGame"
+    ],
+    "http://yago-knowledge.org/resource/University_college": [
+        "http://schema.org/Place",
+        "http://schema.org/CollegeOrUniversity"
+    ],
+    "http://yago-knowledge.org/resource/Miracles_of_Jesus": [
+        "http://schema.org/CreativeWork"
+    ],
+    "http://yago-knowledge.org/resource/Junior_college": [
+        "http://schema.org/CollegeOrUniversity"
+    ],
+    "http://yago-knowledge.org/resource/Valley": [
+        "http://schema.org/Landform"
+    ],
+    "http://yago-knowledge.org/resource/Learned_society": [
+        "http://schema.org/EducationalOrganization",
+        "http://schema.org/GovernmentOffice",
+        "http://schema.org/NGO"
+    ],
+    "http://yago-knowledge.org/resource/Nazi_concentration_camps": [
+        "http://schema.org/GovernmentBuilding",
+        "http://schema.org/Organization"
+    ],
+    "http://yago-knowledge.org/resource/Live_album": [
+        "http://schema.org/MusicAlbum"
+    ],
+    "http://yago-knowledge.org/resource/Federation": [],
+    "http://yago-knowledge.org/resource/Online_encyclopedia": [
+        "http://schema.org/CreativeWorkSeries",
+        "http://schema.org/Product",
+        "http://schema.org/WebSite"
+    ],
+    "http://schema.org/MedicalSpecialty": [
+        "http://schema.org/MedicalEnumeration",
+        "http://schema.org/Specialty",
+        "http://schema.org/MedicalEntity"
+    ],
+    "http://yago-knowledge.org/resource/Regions_of_Finland": [
+        "http://schema.org/AdministrativeArea"
+    ],
+    "http://yago-knowledge.org/resource/Media_player_software": [
+        "http://schema.org/SoftwareApplication"
+    ],
+    "http://schema.org/VisualArtwork": [
+        "http://schema.org/CreativeWork"
+    ],
+    "http://yago-knowledge.org/resource/Web_browser": [
+        "http://schema.org/SoftwareApplication",
+        "http://schema.org/Product"
+    ],
+    "http://yago-knowledge.org/resource/Film_series": [
+        "http://schema.org/CreativeWorkSeries"
+    ],
+    "http://yago-knowledge.org/resource/Provinces_of_the_Netherlands": [
+        "http://schema.org/AdministrativeArea"
+    ],
+    "http://yago-knowledge.org/resource/City_with_powiat_rights": [
+        "http://schema.org/City"
+    ],
+    "http://schema.org/InfectiousDisease": [
+        "http://schema.org/MedicalCondition"
+    ],
+    "http://yago-knowledge.org/resource/Angels_in_Judaism": [
+        "http://schema.org/CreativeWork"
+    ],
+    "http://yago-knowledge.org/resource/Municipalities_of_Belgium": [
+        "http://schema.org/AdministrativeArea",
+        "http://schema.org/Corporation"
+    ],
+    "http://yago-knowledge.org/resource/Symphony": [
+        "http://schema.org/MusicComposition"
+    ],
+    "http://yago-knowledge.org/resource/Radio_drama": [
+        "http://schema.org/Play"
+    ],
+    "http://yago-knowledge.org/resource/Violin_sonata": [
+        "http://schema.org/MusicComposition"
+    ],
+    "http://yago-knowledge.org/resource/Metropolitan_statistical_area": [
+        "http://schema.org/AdministrativeArea"
+    ],
+    "http://yago-knowledge.org/resource/Mononymous_person": [
+        "http://schema.org/Person"
+    ],
+    "http://yago-knowledge.org/resource/Municipality": [
+        "http://schema.org/AdministrativeArea",
+        "http://schema.org/Corporation"
+    ],
+    "http://yago-knowledge.org/resource/Neighbourhood": [
+        "http://schema.org/Place"
+    ],
+    "http://yago-knowledge.org/resource/Community": [],
+    "http://yago-knowledge.org/resource/Academic_library": [
+        "http://schema.org/Library"
+    ],
+    "http://yago-knowledge.org/resource/Electoral_district": [
+        "http://schema.org/AdministrativeArea"
+    ],
+    "http://yago-knowledge.org/resource/Borough_(Pennsylvania)": [
+        "http://schema.org/AdministrativeArea",
+        "http://schema.org/Corporation"
+    ],
+    "http://yago-knowledge.org/resource/Building": [
+        "http://schema.org/Place"
+    ],
+    "http://yago-knowledge.org/resource/Educational_institution": [
+        "http://schema.org/EducationalOrganization",
+        "http://schema.org/Place"
+    ],
+    "http://yago-knowledge.org/resource/Synonym_(taxonomy)": [],
+    "http://yago-knowledge.org/resource/City_of_regional_significance_(Ukraine)": [
+        "http://schema.org/City"
+    ],
+    "http://yago-knowledge.org/resource/La_Tropicale_Amissa_Bongo": [
+        "http://schema.org/SportsEvent"
+    ],
+    "http://yago-knowledge.org/resource/Trademark": [],
+    "http://yago-knowledge.org/resource/Municipalities_of_Mexico": [
+        "http://schema.org/AdministrativeArea",
+        "http://schema.org/Corporation"
+    ],
+    "http://yago-knowledge.org/resource/Translation": [],
+    "http://yago-knowledge.org/resource/Avenue_(landscape)": [
+        "http://schema.org/Place"
+    ],
+    "http://yago-knowledge.org/resource/Arrondissements_of_Belgium": [
+        "http://schema.org/AdministrativeArea"
+    ],
+    "http://yago-knowledge.org/resource/Mutant_(Marvel_Comics)": [
+        "http://schema.org/CreativeWork"
+    ],
+    "http://yago-knowledge.org/resource/Military_awards_and_decorations": [],
+    "http://yago-knowledge.org/resource/Physiological_condition": [],
+    "http://yago-knowledge.org/resource/Chef-lieu": [
+        "http://schema.org/AdministrativeArea"
+    ],
+    "http://yago-knowledge.org/resource/Notifiable_disease": [
+        "http://schema.org/MedicalCondition"
+    ],
+    "http://yago-knowledge.org/resource/List_of_agriculture_ministries": [
+        "http://schema.org/GovernmentOffice"
+    ],
+    "http://yago-knowledge.org/resource/Colony": [
+        "http://schema.org/AdministrativeArea"
+    ],
+    "http://schema.org/SportsActivityLocation": [
+        "http://schema.org/LocalBusiness"
+    ],
+    "http://yago-knowledge.org/resource/Human": [
+        "http://schema.org/Person"
+    ],
+    "http://yago-knowledge.org/resource/File_format": [
+        "http://schema.org/Product",
+        "http://schema.org/CreativeWork"
+    ],
+    "http://yago-knowledge.org/resource/District": [
+        "http://schema.org/AdministrativeArea"
+    ],
+    "http://schema.org/GovernmentBuilding": [
+        "http://schema.org/CivicStructure"
+    ],
+    "http://yago-knowledge.org/resource/Agglutinative_language": [
+        "http://schema.org/Language"
+    ],
+    "http://yago-knowledge.org/resource/Open_content": [
+        "http://schema.org/CreativeWork"
+    ],
+    "http://yago-knowledge.org/resource/Borough_(New_Jersey)": [
+        "http://schema.org/AdministrativeArea",
+        "http://schema.org/Corporation"
+    ],
+    "http://yago-knowledge.org/resource/Rowing_club": [
+        "http://schema.org/NGO",
+        "http://schema.org/SportsOrganization"
+    ],
+    "http://yago-knowledge.org/resource/Questionnaire": [
+        "http://schema.org/Product",
+        "http://schema.org/CreativeWork"
+    ],
+    "http://yago-knowledge.org/resource/Orders_of_chivalry_for_women": [
+        "http://schema.org/Organization"
+    ],
+    "http://yago-knowledge.org/resource/Coat": [
+        "http://schema.org/Product"
+    ],
+    "http://yago-knowledge.org/resource/Technical_standard": [],
+    "http://yago-knowledge.org/resource/Rite": [
+        "http://schema.org/Event"
+    ],
+    "http://yago-knowledge.org/resource/Motorboat": [
+        "http://schema.org/Vehicle"
+    ],
+    "http://yago-knowledge.org/resource/Regional_county_municipality": [
+        "http://schema.org/AdministrativeArea"
+    ],
+    "http://yago-knowledge.org/resource/Gift": [],
+    "http://yago-knowledge.org/resource/Indian_Institutes_of_Technology": [
+        "http://schema.org/Place",
+        "http://schema.org/CollegeOrUniversity"
+    ],
+    "http://yago-knowledge.org/resource/Interpreter_(computing)": [
+        "http://schema.org/Product",
+        "http://schema.org/CreativeWork"
+    ],
+    "http://yago-knowledge.org/resource/Graphics_library": [
+        "http://schema.org/SoftwareApplication",
+        "http://schema.org/Product"
+    ],
+    "http://yago-knowledge.org/resource/Constitutional_monarchy": [],
+    "http://yago-knowledge.org/resource/Ministry_of_Justice": [
+        "http://schema.org/GovernmentOffice"
+    ],
+    "http://yago-knowledge.org/resource/Midget_submarine": [
+        "http://schema.org/Vehicle"
+    ],
+    "http://yago-knowledge.org/resource/Memory_institution": [
+        "http://schema.org/Organization"
+    ],
+    "http://yago-knowledge.org/resource/Light_novel": [
+        "http://schema.org/Book"
+    ],
+    "http://yago-knowledge.org/resource/Counties_of_Ireland": [
+        "http://schema.org/AdministrativeArea"
+    ],
+    "http://yago-knowledge.org/resource/Mood_(psychology)": [],
+    "http://yago-knowledge.org/resource/Region": [
+        "http://schema.org/Place"
+    ],
+    "http://schema.org/MedicalTest": [
+        "http://schema.org/MedicalEntity"
+    ],
+    "http://yago-knowledge.org/resource/Liberal_arts_colleges_in_the_United_States": [
+        "http://schema.org/CollegeOrUniversity"
+    ],
+    "http://yago-knowledge.org/resource/Foundation_(nonprofit)": [
+        "http://schema.org/Organization"
+    ],
+    "http://yago-knowledge.org/resource/Postage_stamp": [
+        "http://schema.org/Product"
+    ],
+    "http://yago-knowledge.org/resource/Public_company": [
+        "http://schema.org/Organization"
+    ],
+    "http://schema.org/State": [
+        "http://schema.org/AdministrativeArea"
+    ],
+    "http://yago-knowledge.org/resource/Autonomous_prefecture": [
+        "http://schema.org/AdministrativeArea"
+    ],
+    "http://yago-knowledge.org/resource/Desktop_search": [
+        "http://schema.org/Product",
+        "http://schema.org/CreativeWork"
+    ],
+    "http://yago-knowledge.org/resource/Château": [
+        "http://schema.org/Place"
+    ],
+    "http://yago-knowledge.org/resource/Human_settlement": [
+        "http://schema.org/Place"
+    ],
+    "http://yago-knowledge.org/resource/Collaboration": [],
+    "http://yago-knowledge.org/resource/Plain": [
+        "http://schema.org/Landform"
+    ],
+    "http://yago-knowledge.org/resource/High_school_(North_America)": [
+        "http://schema.org/School"
+    ],
+    "http://yago-knowledge.org/resource/Soundtrack": [
+        "http://schema.org/CreativeWork"
+    ],
+    "http://yago-knowledge.org/resource/Social_class": [],
+    "http://schema.org/SeaBodyOfWater": [
+        "http://schema.org/BodyOfWater"
+    ],
+    "http://yago-knowledge.org/resource/Arena": [
+        "http://schema.org/EventVenue"
+    ],
+    "http://yago-knowledge.org/resource/Districts_of_Hungary": [
+        "http://schema.org/AdministrativeArea"
+    ],
+    "http://yago-knowledge.org/resource/Prefecture-level_city": [
+        "http://schema.org/City"
+    ],
+    "http://yago-knowledge.org/resource/Language_isolate": [
+        "http://schema.org/Product",
+        "http://schema.org/Language"
+    ],
+    "http://yago-knowledge.org/resource/Graph_database": [
+        "http://schema.org/Product",
+        "http://schema.org/CreativeWork"
+    ],
+    "http://yago-knowledge.org/resource/Relational_database_management_system": [
+        "http://schema.org/Product",
+        "http://schema.org/CreativeWork"
+    ],
+    "http://yago-knowledge.org/resource/Manifesto": [
+        "http://schema.org/Product",
+        "http://schema.org/CreativeWork"
+    ],
+    "http://yago-knowledge.org/resource/Census-designated_place": [
+        "http://schema.org/AdministrativeArea"
+    ],
+    "http://yago-knowledge.org/resource/Online_newspaper": [
+        "http://schema.org/Product",
+        "http://schema.org/WebSite",
+        "http://schema.org/Newspaper"
+    ],
+    "http://yago-knowledge.org/resource/Jazz_standard": [
+        "http://schema.org/MusicComposition"
+    ],
+    "http://yago-knowledge.org/resource/Card_game": [
+        "http://schema.org/Product",
+        "http://schema.org/Game"
+    ],
+    "http://schema.org/Accommodation": [
+        "http://schema.org/Place"
+    ],
+    "http://yago-knowledge.org/resource/Community_college": [
+        "http://schema.org/CollegeOrUniversity"
+    ],
+    "http://yago-knowledge.org/resource/Environmental_organization": [
+        "http://schema.org/Organization"
+    ],
+    "http://schema.org/PerformingArtsTheater": [
+        "http://schema.org/CivicStructure"
+    ],
+    "http://yago-knowledge.org/resource/List_of_districts_in_Budapest": [
+        "http://schema.org/AdministrativeArea"
+    ],
+    "http://yago-knowledge.org/resource/Off-road_vehicle": [
+        "http://schema.org/Vehicle"
+    ],
+    "http://yago-knowledge.org/resource/Incunable": [
+        "http://schema.org/Product",
+        "http://schema.org/Book"
+    ],
+    "http://yago-knowledge.org/resource/Prefectures_of_Japan": [
+        "http://schema.org/AdministrativeArea",
+        "http://schema.org/Organization"
+    ],
+    "http://yago-knowledge.org/resource/Profession": [
+        "http://schema.org/Occupation"
+    ],
+    "http://yago-knowledge.org/resource/Title_of_honor": [],
+    "http://yago-knowledge.org/resource/Work_of_art": [
+        "http://schema.org/CreativeWork"
+    ],
+    "http://schema.org/RadioStation": [
+        "http://schema.org/LocalBusiness"
+    ],
+    "http://yago-knowledge.org/resource/Ministry_of_Defence": [
+        "http://schema.org/GovernmentOffice"
+    ],
+    "http://yago-knowledge.org/resource/Business_school": [
+        "http://schema.org/School",
+        "http://schema.org/CollegeOrUniversity"
+    ],
+    "http://yago-knowledge.org/resource/Hymnal": [
+        "http://schema.org/Book"
+    ],
+    "http://yago-knowledge.org/resource/Illuminated_manuscript": [
+        "http://schema.org/Manuscript"
+    ],
+    "http://yago-knowledge.org/resource/Liberal_arts_college": [
+        "http://schema.org/CollegeOrUniversity"
+    ],
+    "http://yago-knowledge.org/resource/Text_editor": [
+        "http://schema.org/SoftwareApplication"
+    ],
+    "http://yago-knowledge.org/resource/Consumers'_co-operative": [
+        "http://schema.org/Organization"
+    ],
+    "http://yago-knowledge.org/resource/Short_story": [
+        "http://schema.org/CreativeWork"
+    ],
+    "http://yago-knowledge.org/resource/Communes_of_France": [
+        "http://schema.org/AdministrativeArea",
+        "http://schema.org/Corporation"
+    ],
+    "http://yago-knowledge.org/resource/Mormon_literature": [
+        "http://schema.org/CreativeWork"
+    ],
+    "http://yago-knowledge.org/resource/Free_and_open-source_software": [
+        "http://schema.org/Product",
+        "http://schema.org/CreativeWork"
+    ],
+    "http://bioschemas.org/ChemicalSubstance": [
+        "http://bioschemas.org/BioChemEntity"
+    ],
+    "http://yago-knowledge.org/resource/Field_army": [
+        "http://schema.org/Organization"
+    ],
+    "http://yago-knowledge.org/resource/Title_of_authority": [],
+    "http://yago-knowledge.org/resource/Local_municipality_(South_Africa)": [
+        "http://schema.org/AdministrativeArea",
+        "http://schema.org/Corporation"
+    ],
+    "http://yago-knowledge.org/resource/Tabletop_role-playing_game": [
+        "http://schema.org/Product",
+        "http://schema.org/Game"
+    ],
+    "http://yago-knowledge.org/resource/Role": [],
+    "http://yago-knowledge.org/resource/Historic_district": [
+        "http://schema.org/Place"
+    ],
+    "http://yago-knowledge.org/resource/List_of_halls_and_walks_of_fame": [
+        "http://schema.org/Museum"
+    ],
+    "http://yago-knowledge.org/resource/Document": [
+        "http://schema.org/Product",
+        "http://schema.org/CreativeWork"
+    ],
+    "http://yago-knowledge.org/resource/List_of_ministries_of_communications": [
+        "http://schema.org/GovernmentOffice"
+    ],
+    "http://yago-knowledge.org/resource/Fachhochschule": [
+        "http://schema.org/Place",
+        "http://schema.org/CollegeOrUniversity"
+    ],
+    "http://schema.org/EntertainmentBusiness": [
+        "http://schema.org/LocalBusiness"
+    ],
+    "http://yago-knowledge.org/resource/Game_engine": [
+        "http://schema.org/Product",
+        "http://schema.org/CreativeWork"
+    ],
+    "http://yago-knowledge.org/resource/Content_management_system": [
+        "http://schema.org/Product",
+        "http://schema.org/CreativeWork"
+    ],
+    "http://yago-knowledge.org/resource/Multinational_corporation": [
+        "http://schema.org/Organization"
+    ],
+    "http://yago-knowledge.org/resource/Provinces_of_Indonesia": [
+        "http://schema.org/AdministrativeArea"
+    ],
+    "http://yago-knowledge.org/resource/Reliquary": [
+        "http://schema.org/Product",
+        "http://schema.org/VisualArtwork"
+    ],
+    "http://yago-knowledge.org/resource/Conflict_(process)": [],
+    "http://schema.org/FinancialService": [
+        "http://schema.org/LocalBusiness"
+    ],
+    "http://yago-knowledge.org/resource/Große_Kreisstadt": [
+        "http://schema.org/City",
+        "http://schema.org/Corporation"
+    ],
+    "http://yago-knowledge.org/resource/Yeshiva": [
+        "http://schema.org/School"
+    ],
+    "http://yago-knowledge.org/resource/Computer_program": [
+        "http://schema.org/Product",
+        "http://schema.org/CreativeWork"
+    ],
+    "http://yago-knowledge.org/resource/Academy_Awards": [],
+    "http://yago-knowledge.org/resource/Unix": [
+        "http://schema.org/Product",
+        "http://schema.org/CreativeWork"
+    ],
+    "http://yago-knowledge.org/resource/Drama_(television)": [
+        "http://schema.org/CreativeWork"
+    ],
+    "http://yago-knowledge.org/resource/Sonata": [
+        "http://schema.org/MusicComposition"
+    ],
+    "http://yago-knowledge.org/resource/Extended_play": [
+        "http://schema.org/CreativeWork"
+    ],
+    "http://yago-knowledge.org/resource/Christian_denomination": [
+        "http://schema.org/Organization"
+    ],
+    "http://yago-knowledge.org/resource/Gristmill": [
+        "http://schema.org/Product",
+        "http://schema.org/Place"
+    ],
+    "http://yago-knowledge.org/resource/Natural_language": [
+        "http://schema.org/Product",
+        "http://schema.org/Language"
+    ],
+    "http://yago-knowledge.org/resource/Song_book": [
+        "http://schema.org/Book"
+    ],
+    "http://yago-knowledge.org/resource/Vodka": [
+        "http://schema.org/Product",
+        "http://schema.org/Substance",
+        "http://bioschemas.org/ChemicalSubstance"
+    ],
+    "http://yago-knowledge.org/resource/Thesaurus_(information_retrieval)": [
+        "http://schema.org/Product",
+        "http://schema.org/Dataset"
+    ],
+    "http://yago-knowledge.org/resource/List_of_biblical_commentaries": [
+        "http://schema.org/Product",
+        "http://schema.org/CreativeWork"
+    ],
+    "http://yago-knowledge.org/resource/Television_film": [
+        "http://schema.org/Movie"
+    ],
+    "http://yago-knowledge.org/resource/College-preparatory_school": [
+        "http://schema.org/School"
+    ],
+    "http://schema.org/MedicalSymptom": [
+        "http://schema.org/MedicalSignOrSymptom"
+    ],
+    "http://yago-knowledge.org/resource/Counties_of_Norway": [
+        "http://schema.org/AdministrativeArea"
+    ],
+    "http://yago-knowledge.org/resource/Regional_units_of_Greece": [
+        "http://schema.org/AdministrativeArea"
+    ],
+    "http://yago-knowledge.org/resource/Religious_art": [],
+    "http://yago-knowledge.org/resource/Music_genre": [
+        "http://schema.org/CreativeWork"
+    ],
+    "http://yago-knowledge.org/resource/Song": [
+        "http://schema.org/MusicComposition"
+    ],
+    "http://yago-knowledge.org/resource/Rare_disease": [
+        "http://schema.org/MedicalCondition"
+    ],
+    "http://schema.org/MusicPlaylist": [
+        "http://schema.org/CreativeWork"
+    ],
+    "http://schema.org/CivicStructure": [
+        "http://schema.org/Place"
+    ],
+    "http://yago-knowledge.org/resource/Epistle": [
+        "http://schema.org/Product",
+        "http://schema.org/CreativeWork"
+    ],
+    "http://yago-knowledge.org/resource/Car_model": [],
+    "http://yago-knowledge.org/resource/Branch_line": [
+        "http://schema.org/Place"
+    ],
+    "http://yago-knowledge.org/resource/Film_studio": [
+        "http://schema.org/Place",
+        "http://schema.org/Organization"
+    ],
+    "http://yago-knowledge.org/resource/Gmina": [
+        "http://schema.org/AdministrativeArea",
+        "http://schema.org/Corporation"
+    ],
+    "http://yago-knowledge.org/resource/Feature_film": [
+        "http://schema.org/Movie"
+    ],
+    "http://schema.org/Resort": [
+        "http://schema.org/LodgingBusiness"
+    ],
+    "http://yago-knowledge.org/resource/National_Film_Awards": [],
+    "http://yago-knowledge.org/resource/Major_Command": [
+        "http://schema.org/Place",
+        "http://schema.org/Organization"
+    ],
+    "http://yago-knowledge.org/resource/Communauté_de_communes": [
+        "http://schema.org/AdministrativeArea",
+        "http://schema.org/Organization"
+    ],
+    "http://schema.org/MusicVenue": [
+        "http://schema.org/CivicStructure"
+    ],
+    "http://yago-knowledge.org/resource/Financial_centre": [
+        "http://schema.org/Organization"
+    ],
+    "http://yago-knowledge.org/resource/University_press": [
+        "http://schema.org/Organization"
+    ],
+    "http://yago-knowledge.org/resource/Government": [
+        "http://schema.org/Organization"
+    ],
+    "http://yago-knowledge.org/resource/Districts_of_Pakistan": [
+        "http://schema.org/AdministrativeArea"
+    ],
+    "http://yago-knowledge.org/resource/Koinon": [
+        "http://schema.org/Organization"
+    ],
+    "http://schema.org/RadioSeries": [
+        "http://schema.org/CreativeWorkSeries"
+    ],
+    "http://schema.org/PublicationIssue": [
+        "http://schema.org/CreativeWork"
+    ],
+    "http://yago-knowledge.org/resource/Theme_(narrative)": [],
+    "http://yago-knowledge.org/resource/Rating_scale": [],
+    "http://yago-knowledge.org/resource/Coat_of_arms": [
+        "http://schema.org/VisualArtwork"
+    ],
+    "http://yago-knowledge.org/resource/Market_town": [
+        "http://schema.org/Place"
+    ],
+    "http://yago-knowledge.org/resource/Districts_of_Belarus": [
+        "http://schema.org/AdministrativeArea"
+    ],
+    "http://yago-knowledge.org/resource/Districts_of_Indonesia": [
+        "http://schema.org/AdministrativeArea"
+    ],
+    "http://yago-knowledge.org/resource/Unitary_authorities_of_England": [
+        "http://schema.org/AdministrativeArea",
+        "http://schema.org/Corporation"
+    ],
+    "http://yago-knowledge.org/resource/Email_client": [
+        "http://schema.org/SoftwareApplication",
+        "http://schema.org/Product"
+    ],
+    "http://yago-knowledge.org/resource/Pyramid_scheme": [],
+    "http://schema.org/Article": [
+        "http://schema.org/CreativeWork"
+    ],
+    "http://yago-knowledge.org/resource/Animated_character": [
+        "http://schema.org/CreativeWork"
+    ],
+    "http://yago-knowledge.org/resource/Constructed_language": [
+        "http://schema.org/CreativeWork",
+        "http://schema.org/Language"
+    ],
+    "http://yago-knowledge.org/resource/Web_service": [
+        "http://schema.org/Product",
+        "http://schema.org/CreativeWork"
+    ],
+    "http://schema.org/Painting": [
+        "http://schema.org/CreativeWork"
+    ],
+    "http://schema.org/DefenceEstablishment": [
+        "http://schema.org/GovernmentBuilding"
+    ],
+    "http://yago-knowledge.org/resource/Municipalities_of_Mexico_City": [
+        "http://schema.org/AdministrativeArea"
+    ],
+    "http://yago-knowledge.org/resource/Fortress": [
+        "http://schema.org/DefenceEstablishment"
+    ],
+    "http://yago-knowledge.org/resource/Cabinet_(furniture)": [
+        "http://schema.org/Product",
+        "http://schema.org/CreativeWork"
+    ],
+    "http://schema.org/Person": [],
+    "http://yago-knowledge.org/resource/Board_game": [
+        "http://schema.org/Product",
+        "http://schema.org/Game"
+    ],
+    "http://yago-knowledge.org/resource/Spreadsheet": [
+        "http://schema.org/SoftwareApplication"
+    ],
+    "http://yago-knowledge.org/resource/Software_company": [
+        "http://schema.org/Organization"
+    ],
+    "http://schema.org/Pond": [
+        "http://schema.org/BodyOfWater"
+    ],
+    "http://schema.org/Episode": [
+        "http://schema.org/CreativeWork"
+    ],
+    "http://yago-knowledge.org/resource/Daytime_Emmy_Award": [],
+    "http://yago-knowledge.org/resource/Cellular_component": [],
+    "http://yago-knowledge.org/resource/Statutory_corporation": [
+        "http://schema.org/GovernmentOrganization",
+        "http://schema.org/GovernmentOffice",
+        "http://schema.org/Corporation"
+    ],
+    "http://yago-knowledge.org/resource/Online_video_platform": [
+        "http://schema.org/Product",
+        "http://schema.org/CreativeWork"
+    ],
+    "http://yago-knowledge.org/resource/Conurbation": [
+        "http://schema.org/Place"
+    ],
+    "http://yago-knowledge.org/resource/Wards_and_electoral_divisions_of_the_United_Kingdom": [
+        "http://schema.org/AdministrativeArea"
+    ],
+    "http://schema.org/LodgingBusiness": [
+        "http://schema.org/LocalBusiness"
+    ],
+    "http://yago-knowledge.org/resource/Municipalities_of_El_Salvador": [
+        "http://schema.org/AdministrativeArea",
+        "http://schema.org/Corporation"
+    ],
+    "http://yago-knowledge.org/resource/Districts_of_Madrid": [
+        "http://schema.org/AdministrativeArea"
+    ],
+    "http://yago-knowledge.org/resource/Townland": [
+        "http://schema.org/AdministrativeArea"
+    ],
+    "http://yago-knowledge.org/resource/Subdistricts_of_China": [
+        "http://schema.org/AdministrativeArea"
+    ],
+    "http://yago-knowledge.org/resource/Cosmic_entity_(DC_Comics)": [
+        "http://schema.org/CreativeWork"
+    ],
+    "http://yago-knowledge.org/resource/Pontifical_university": [
+        "http://schema.org/Place",
+        "http://schema.org/School",
+        "http://schema.org/CollegeOrUniversity"
+    ],
+    "http://yago-knowledge.org/resource/Membership_organization": [
+        "http://schema.org/Organization"
+    ],
+    "http://yago-knowledge.org/resource/Uji_(clan)": [
+        "http://schema.org/Organization"
+    ],
+    "http://yago-knowledge.org/resource/Secondary_school": [
+        "http://schema.org/School"
+    ],
+    "http://yago-knowledge.org/resource/Mind_games": [
+        "http://schema.org/Game"
+    ],
+    "http://yago-knowledge.org/resource/Opera": [
+        "http://schema.org/Play"
+    ],
+    "http://yago-knowledge.org/resource/Governorates_of_Iraq": [
+        "http://schema.org/AdministrativeArea"
+    ],
+    "http://yago-knowledge.org/resource/Provinces_of_Angola": [
+        "http://schema.org/AdministrativeArea"
+    ],
+    "http://yago-knowledge.org/resource/Divisions_of_the_Australian_House_of_Representatives": [
+        "http://schema.org/AdministrativeArea"
+    ],
+    "http://yago-knowledge.org/resource/Web_search_engine": [
+        "http://schema.org/Product",
+        "http://schema.org/WebSite"
+    ],
+    "http://yago-knowledge.org/resource/Creative_unions_in_the_Soviet_Union": [
+        "http://schema.org/NGO"
+    ],
+    "http://yago-knowledge.org/resource/S.A._(corporation)": [
+        "http://schema.org/Organization"
+    ],
+    "http://yago-knowledge.org/resource/State_school": [
+        "http://schema.org/Place",
+        "http://schema.org/School"
+    ],
+    "http://yago-knowledge.org/resource/Permissive_software_license": [
+        "http://schema.org/Product",
+        "http://schema.org/CreativeWork"
+    ],
+    "http://yago-knowledge.org/resource/Giro_d'Italia": [
+        "http://schema.org/SportsEvent"
+    ],
+    "http://schema.org/Hotel": [
+        "http://schema.org/LodgingBusiness"
+    ],
+    "http://yago-knowledge.org/resource/MTV_Europe_Music_Award": [],
+    "http://yago-knowledge.org/resource/Defence_mechanism": [],
+    "http://schema.org/LocalBusiness": [
+        "http://schema.org/Place",
+        "http://schema.org/Organization"
+    ],
+    "http://yago-knowledge.org/resource/Novel": [
+        "http://schema.org/CreativeWork"
+    ],
+    "http://yago-knowledge.org/resource/Skin_condition": [
+        "http://schema.org/MedicalCondition"
+    ],
+    "http://yago-knowledge.org/resource/Soundtrack_album": [
+        "http://schema.org/MusicAlbum"
+    ],
+    "http://yago-knowledge.org/resource/Public_school_(United_Kingdom)": [
+        "http://schema.org/Place",
+        "http://schema.org/School"
+    ],
+    "http://yago-knowledge.org/resource/Historical_language": [
+        "http://schema.org/Language"
+    ],
+    "http://yago-knowledge.org/resource/Object-based_language": [
+        "http://schema.org/ComputerLanguage"
+    ],
+    "http://yago-knowledge.org/resource/Railway_company": [
+        "http://schema.org/Organization"
+    ],
+    "http://schema.org/Drug": [
+        "http://schema.org/Substance"
+    ],
+    "http://yago-knowledge.org/resource/Television_show": [
+        "http://schema.org/CreativeWork"
+    ],
+    "http://yago-knowledge.org/resource/Children's_interest_channel": [
+        "http://schema.org/TelevisionChannel",
+        "http://schema.org/TelevisionStation",
+        "http://schema.org/BroadcastService"
+    ],
+    "http://yago-knowledge.org/resource/Sword": [
+        "http://schema.org/Product"
+    ],
+    "http://schema.org/Manuscript": [
+        "http://schema.org/CreativeWork"
+    ],
+    "http://yago-knowledge.org/resource/Heliport": [
+        "http://schema.org/Place",
+        "http://schema.org/Organization"
+    ],
+    "http://yago-knowledge.org/resource/Army": [
+        "http://schema.org/Organization"
+    ],
+    "http://yago-knowledge.org/resource/Quotation": [
+        "http://schema.org/CreativeWork"
+    ],
+    "http://yago-knowledge.org/resource/Triptych": [
+        "http://schema.org/CreativeWorkSeries"
+    ],
+    "http://yago-knowledge.org/resource/Steel_mill": [
+        "http://schema.org/Place",
+        "http://schema.org/Organization"
+    ],
+    "http://yago-knowledge.org/resource/Radio_telescope": [
+        "http://schema.org/EducationalOrganization",
+        "http://schema.org/Product",
+        "http://schema.org/Place"
+    ],
+    "http://yago-knowledge.org/resource/Governorate_(Russia)": [
+        "http://schema.org/AdministrativeArea"
+    ],
+    "http://yago-knowledge.org/resource/Joint-stock_company": [
+        "http://schema.org/Organization"
+    ],
+    "http://schema.org/WorkersUnion": [
+        "http://schema.org/Organization"
+    ],
+    "http://yago-knowledge.org/resource/Cities_of_Japan": [
+        "http://schema.org/City",
+        "http://schema.org/Corporation"
+    ],
+    "http://yago-knowledge.org/resource/Route_nationale": [
+        "http://schema.org/Place"
+    ],
+    "http://yago-knowledge.org/resource/Research_program": [
+        "http://schema.org/Organization"
+    ],
+    "http://yago-knowledge.org/resource/Pottery_of_ancient_Greece": [
+        "http://schema.org/Product"
+    ],
+    "http://yago-knowledge.org/resource/County-level_city": [
+        "http://schema.org/AdministrativeArea",
+        "http://schema.org/Corporation"
+    ],
+    "http://schema.org/Play": [
+        "http://schema.org/CreativeWork"
+    ],
+    "http://yago-knowledge.org/resource/Personal_union": [
+        "http://schema.org/Country",
+        "http://schema.org/Organization"
+    ],
+    "http://yago-knowledge.org/resource/Browser_engine": [
+        "http://schema.org/Product",
+        "http://schema.org/CreativeWork"
+    ],
+    "http://yago-knowledge.org/resource/Graduate_school": [
+        "http://schema.org/Place",
+        "http://schema.org/School",
+        "http://schema.org/CollegeOrUniversity"
+    ],
+    "http://yago-knowledge.org/resource/Districts_of_Kazakhstan": [
+        "http://schema.org/AdministrativeArea"
+    ],
+    "http://yago-knowledge.org/resource/Chemical_compound": [
+        "http://bioschemas.org/ChemicalSubstance"
+    ],
+    "http://yago-knowledge.org/resource/Clergy_house": [
+        "http://schema.org/House"
+    ],
+    "http://yago-knowledge.org/resource/Oblasts_of_Ukraine": [
+        "http://schema.org/AdministrativeArea"
+    ],
+    "http://yago-knowledge.org/resource/Shell_(computing)": [
+        "http://schema.org/Product",
+        "http://schema.org/CreativeWork"
+    ],
+    "http://yago-knowledge.org/resource/Hamlet_(place)": [
+        "http://schema.org/Place"
+    ],
+    "http://yago-knowledge.org/resource/Piano": [
+        "http://schema.org/Product"
+    ],
+    "http://yago-knowledge.org/resource/Consortium": [
+        "http://schema.org/Organization"
+    ],
+    "http://yago-knowledge.org/resource/Governorate": [
+        "http://schema.org/Place"
+    ],
+    "http://yago-knowledge.org/resource/Non-metropolitan_district": [
+        "http://schema.org/AdministrativeArea"
+    ],
+    "http://yago-knowledge.org/resource/Software_distribution": [
+        "http://schema.org/Product",
+        "http://schema.org/CreativeWork"
+    ],
+    "http://yago-knowledge.org/resource/Powder": [
+        "http://schema.org/Product"
+    ],
+    "http://yago-knowledge.org/resource/Go_software": [
+        "http://schema.org/Product",
+        "http://schema.org/VideoGame"
+    ],
+    "http://yago-knowledge.org/resource/Non-metropolitan_county": [
+        "http://schema.org/AdministrativeArea"
+    ],
+    "http://schema.org/LakeBodyOfWater": [
+        "http://schema.org/BodyOfWater"
+    ],
+    "http://schema.org/Airport": [
+        "http://schema.org/CivicStructure"
+    ],
+    "http://schema.org/CreativeWorkSeason": [
+        "http://schema.org/CreativeWork"
+    ],
+    "http://yago-knowledge.org/resource/Scroll": [
+        "http://schema.org/Manuscript",
+        "http://schema.org/Product"
+    ],
+    "http://yago-knowledge.org/resource/Constitutional_amendment": [
+        "http://schema.org/Legislation"
+    ],
+    "http://yago-knowledge.org/resource/Literary_genre": [
+        "http://schema.org/CreativeWork"
+    ],
+    "http://yago-knowledge.org/resource/Regional_organization": [
+        "http://schema.org/AdministrativeArea",
+        "http://schema.org/Organization"
+    ],
+    "http://yago-knowledge.org/resource/Christian_cross": [
+        "http://schema.org/CreativeWork"
+    ],
+    "http://yago-knowledge.org/resource/Charitable_organization": [
+        "http://schema.org/NGO"
+    ],
+    "http://schema.org/BroadcastService": [
+        "http://schema.org/Service"
+    ],
+    "http://yago-knowledge.org/resource/Mineral_variety": [],
+    "http://yago-knowledge.org/resource/Districts_of_Hong_Kong": [
+        "http://schema.org/AdministrativeArea"
+    ],
+    "http://yago-knowledge.org/resource/National_university": [
+        "http://schema.org/Place",
+        "http://schema.org/CollegeOrUniversity"
+    ],
+    "http://yago-knowledge.org/resource/Public_holiday": [
+        "http://schema.org/EventSeries"
+    ],
+    "http://yago-knowledge.org/resource/Județ": [
+        "http://schema.org/AdministrativeArea"
+    ],
+    "http://yago-knowledge.org/resource/Rural_settlement_(Russia)": [
+        "http://schema.org/AdministrativeArea",
+        "http://schema.org/Corporation"
+    ],
+    "http://yago-knowledge.org/resource/Plate_armour": [
+        "http://schema.org/Product"
+    ],
+    "http://yago-knowledge.org/resource/Gymnasium_(school)": [
+        "http://schema.org/School"
+    ],
+    "http://yago-knowledge.org/resource/Honorary_titles_of_Russia": [],
+    "http://yago-knowledge.org/resource/Tribute_album": [
+        "http://schema.org/Collection",
+        "http://schema.org/MusicAlbum"
+    ],
+    "http://yago-knowledge.org/resource/Ancient_Chinese_states": [
+        "http://schema.org/Country",
+        "http://schema.org/Organization"
+    ],
+    "http://yago-knowledge.org/resource/Legal_profession": [
+        "http://schema.org/Occupation"
+    ],
+    "http://schema.org/CollegeOrUniversity": [
+        "http://schema.org/EducationalOrganization"
+    ],
+    "http://yago-knowledge.org/resource/Divisions_of_Malaysia": [
+        "http://schema.org/AdministrativeArea"
+    ],
+    "http://schema.org/BankOrCreditUnion": [
+        "http://schema.org/FinancialService"
+    ],
+    "http://schema.org/PostOffice": [
+        "http://schema.org/GovernmentOffice"
+    ],
+    "http://yago-knowledge.org/resource/Statutory_city_(Austria)": [
+        "http://schema.org/City",
+        "http://schema.org/Corporation"
+    ],
+    "http://yago-knowledge.org/resource/Single_(music)": [
+        "http://schema.org/CreativeWork"
+    ],
+    "http://yago-knowledge.org/resource/Mobile_game": [
+        "http://schema.org/MobileApplication",
+        "http://schema.org/VideoGame"
+    ],
+    "http://yago-knowledge.org/resource/Political_organisation": [
+        "http://schema.org/Organization"
+    ],
+    "http://yago-knowledge.org/resource/Internet_service_provider": [
+        "http://schema.org/Organization"
+    ],
+    "http://yago-knowledge.org/resource/Institute": [
+        "http://schema.org/EducationalOrganization",
+        "http://schema.org/Place"
+    ],
+    "http://yago-knowledge.org/resource/Botanical_garden": [
+        "http://schema.org/EducationalOrganization",
+        "http://schema.org/Museum"
+    ],
+    "http://yago-knowledge.org/resource/Suburb": [
+        "http://schema.org/AdministrativeArea"
+    ],
+    "http://yago-knowledge.org/resource/Orchestra": [
+        "http://schema.org/MusicGroup"
+    ],
+    "http://schema.org/ComicSeries": [
+        "http://schema.org/Periodical"
+    ],
+    "http://yago-knowledge.org/resource/Sceptre": [
+        "http://schema.org/Product"
+    ],
+    "http://yago-knowledge.org/resource/Cantons_of_France": [
+        "http://schema.org/AdministrativeArea"
+    ],
+    "http://yago-knowledge.org/resource/Intelligence_agency": [
+        "http://schema.org/GovernmentOffice"
+    ],
+    "http://yago-knowledge.org/resource/Counties_of_Croatia": [
+        "http://schema.org/AdministrativeArea"
+    ],
+    "http://yago-knowledge.org/resource/Seat_of_government": [
+        "http://schema.org/Place"
+    ],
+    "http://yago-knowledge.org/resource/César_Award": [],
+    "http://yago-knowledge.org/resource/Okruhas_of_the_Ukrainian_SSR": [
+        "http://schema.org/AdministrativeArea"
+    ],
+    "http://yago-knowledge.org/resource/Ceremonial_counties_of_England": [
+        "http://schema.org/AdministrativeArea"
+    ],
+    "http://yago-knowledge.org/resource/Shloka": [
+        "http://schema.org/CreativeWork"
+    ],
+    "http://schema.org/School": [
+        "http://schema.org/EducationalOrganization"
+    ],
+    "http://yago-knowledge.org/resource/Free_software_license": [
+        "http://schema.org/Product",
+        "http://schema.org/CreativeWork"
+    ],
+    "http://schema.org/VideoGame": [
+        "http://schema.org/SoftwareApplication",
+        "http://schema.org/Game"
+    ],
+    "http://yago-knowledge.org/resource/U.S._state": [
+        "http://schema.org/State"
+    ],
+    "http://yago-knowledge.org/resource/License": [
+        "http://schema.org/Product",
+        "http://schema.org/CreativeWork"
+    ],
+    "http://yago-knowledge.org/resource/Neurological_disorder": [
+        "http://schema.org/MedicalCondition"
+    ],
+    "http://yago-knowledge.org/resource/Altarpiece": [
+        "http://schema.org/VisualArtwork"
+    ],
+    "http://schema.org/EducationalOrganization": [
+        "http://schema.org/Organization"
+    ],
+    "http://yago-knowledge.org/resource/Campus": [
+        "http://schema.org/EducationalOrganization"
+    ],
+    "http://yago-knowledge.org/resource/Holiday": [
+        "http://schema.org/EventSeries"
+    ],
+    "http://schema.org/MedicalEntity": [],
+    "http://yago-knowledge.org/resource/Quartet": [
+        "http://schema.org/Organization"
+    ],
+    "http://yago-knowledge.org/resource/Standards_organization": [
+        "http://schema.org/Organization"
+    ],
+    "http://yago-knowledge.org/resource/CD_ripper": [
+        "http://schema.org/SoftwareApplication"
+    ],
+    "http://yago-knowledge.org/resource/Concept": [],
+    "http://yago-knowledge.org/resource/Communes_of_Ivory_Coast": [
+        "http://schema.org/AdministrativeArea"
+    ],
+    "http://yago-knowledge.org/resource/Short_story_collection": [
+        "http://schema.org/Collection",
+        "http://schema.org/Product"
+    ],
+    "http://yago-knowledge.org/resource/Kleinbahn": [
+        "http://schema.org/Organization"
+    ],
+    "http://yago-knowledge.org/resource/Temple": [
+        "http://schema.org/PlaceOfWorship"
+    ],
+    "http://yago-knowledge.org/resource/Soccer-specific_stadium": [
+        "http://schema.org/StadiumOrArena"
+    ],
+    "http://yago-knowledge.org/resource/Environmental_award": [],
+    "http://schema.org/TelevisionChannel": [
+        "http://schema.org/BroadcastChannel"
+    ],
+    "http://yago-knowledge.org/resource/Unified_combatant_command": [
+        "http://schema.org/Place",
+        "http://schema.org/Organization"
+    ],
+    "http://yago-knowledge.org/resource/Metropolitan_municipality": [
+        "http://schema.org/AdministrativeArea",
+        "http://schema.org/Corporation"
+    ],
+    "http://schema.org/BodyOfWater": [
+        "http://schema.org/Landform"
+    ],
+    "http://yago-knowledge.org/resource/Recreation": [],
+    "http://yago-knowledge.org/resource/Thanas_of_Bangladesh": [
+        "http://schema.org/AdministrativeArea"
+    ],
+    "http://schema.org/Brewery": [
+        "http://schema.org/FoodEstablishment"
+    ],
+    "http://yago-knowledge.org/resource/Angel": [
+        "http://schema.org/CreativeWork"
+    ],
+    "http://yago-knowledge.org/resource/Collection_(artwork)": [
+        "http://schema.org/Collection"
+    ],
+    "http://yago-knowledge.org/resource/Campaign_medal": [
+        "http://schema.org/CreativeWork"
+    ],
+    "http://yago-knowledge.org/resource/Paramilitary": [
+        "http://schema.org/Organization"
+    ],
+    "http://yago-knowledge.org/resource/Weekly_newspaper": [
+        "http://schema.org/Newspaper"
+    ],
+    "http://yago-knowledge.org/resource/Private_university": [
+        "http://schema.org/Place",
+        "http://schema.org/CollegeOrUniversity"
+    ],
+    "http://yago-knowledge.org/resource/Metadata_standard": [
+        "http://schema.org/Product",
+        "http://schema.org/Dataset"
+    ],
+    "http://yago-knowledge.org/resource/Military_prison": [
+        "http://schema.org/GovernmentBuilding",
+        "http://schema.org/Organization"
+    ],
+    "http://yago-knowledge.org/resource/Oblasts_of_the_Soviet_Union": [
+        "http://schema.org/AdministrativeArea"
+    ],
+    "http://yago-knowledge.org/resource/Ancient_language": [
+        "http://schema.org/Language"
+    ],
+    "http://yago-knowledge.org/resource/Cause_of_death": [],
+    "http://schema.org/AdministrativeArea": [
+        "http://schema.org/Place"
+    ],
+    "http://yago-knowledge.org/resource/Sailing_yacht": [
+        "http://schema.org/Vehicle"
+    ],
+    "http://yago-knowledge.org/resource/Paperback": [
+        "http://schema.org/Product",
+        "http://schema.org/Book"
+    ],
+    "http://yago-knowledge.org/resource/Anthology_film": [
+        "http://schema.org/CreativeWorkSeries",
+        "http://schema.org/Movie",
+        "http://schema.org/Collection"
+    ],
+    "http://yago-knowledge.org/resource/List_of_environmental_ministries": [
+        "http://schema.org/GovernmentOffice"
+    ],
+    "http://yago-knowledge.org/resource/Skyscraper": [
+        "http://schema.org/Place"
+    ],
+    "http://yago-knowledge.org/resource/Division_(military)": [
+        "http://schema.org/Organization"
+    ],
+    "http://yago-knowledge.org/resource/Voluntary_association": [
+        "http://schema.org/NGO"
+    ],
+    "http://yago-knowledge.org/resource/Art_group": [
+        "http://schema.org/NGO"
+    ],
+    "http://yago-knowledge.org/resource/Research_vessel": [
+        "http://schema.org/Vehicle"
+    ],
+    "http://yago-knowledge.org/resource/Parish_(administrative_division)": [
+        "http://schema.org/AdministrativeArea"
+    ],
+    "http://yago-knowledge.org/resource/Provinces_of_Cuba": [
+        "http://schema.org/AdministrativeArea"
+    ],
+    "http://yago-knowledge.org/resource/Local_councils_of_Malta": [
+        "http://schema.org/AdministrativeArea",
+        "http://schema.org/Corporation"
+    ],
+    "http://yago-knowledge.org/resource/Image_viewer": [
+        "http://schema.org/SoftwareApplication"
+    ],
+    "http://yago-knowledge.org/resource/Regency_(Indonesia)": [
+        "http://schema.org/AdministrativeArea"
+    ],
+    "http://yago-knowledge.org/resource/Biography": [],
+    "http://yago-knowledge.org/resource/Instrumental": [
+        "http://schema.org/MusicComposition"
+    ],
+    "http://yago-knowledge.org/resource/Shipyard": [
+        "http://schema.org/Organization",
+        "http://schema.org/ParkingFacility",
+        "http://schema.org/Landform"
+    ],
+    "http://yago-knowledge.org/resource/Integrated_development_environment": [
+        "http://schema.org/SoftwareApplication",
+        "http://schema.org/Product"
+    ],
+    "http://yago-knowledge.org/resource/County_town": [
+        "http://schema.org/AdministrativeArea"
+    ],
+    "http://yago-knowledge.org/resource/Folklore": [
+        "http://schema.org/CreativeWork"
+    ],
+    "http://yago-knowledge.org/resource/Aviation_museum": [
+        "http://schema.org/Museum"
+    ],
+    "http://yago-knowledge.org/resource/Miniseries": [
+        "http://schema.org/TVSeries"
+    ],
+    "http://yago-knowledge.org/resource/United_States_Department_of_Energy_national_laboratories": [
+        "http://schema.org/EducationalOrganization",
+        "http://schema.org/Place"
+    ],
+    "http://yago-knowledge.org/resource/Urban_areas_in_Sweden": [
+        "http://schema.org/Place"
+    ],
+    "http://yago-knowledge.org/resource/Natural_history_museum": [
+        "http://schema.org/Museum"
+    ],
+    "http://yago-knowledge.org/resource/Advocacy_group": [
+        "http://schema.org/NGO"
+    ],
+    "http://yago-knowledge.org/resource/Bunkobon": [
+        "http://schema.org/Book"
+    ],
+    "http://yago-knowledge.org/resource/Ceramic": [
+        "http://schema.org/Product"
+    ],
+    "http://yago-knowledge.org/resource/Malev_(military_unit)": [
+        "http://schema.org/Organization"
+    ],
+    "http://yago-knowledge.org/resource/Teleplay": [
+        "http://schema.org/CreativeWork"
+    ]
+}

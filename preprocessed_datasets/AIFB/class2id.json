@@ -1,0 +1,20 @@
+{
+    "<http://swrc.ontoware.org/ontology#Publication>": 2389,
+    "<http://swrc.ontoware.org/ontology#TechnicalReport>": 2390,
+    "<http://swrc.ontoware.org/ontology#ResearchTopic>": 2391,
+    "<http://swrc.ontoware.org/ontology#Article>": 2392,
+    "<http://swrc.ontoware.org/ontology#InProceedings>": 2393,
+    "<http://swrc.ontoware.org/ontology#PhDStudent>": 2394,
+    "<http://swrc.ontoware.org/ontology#Person>": 2395,
+    "<http://swrc.ontoware.org/ontology#InCollection>": 2396,
+    "<http://swrc.ontoware.org/ontology#Project>": 2397,
+    "<http://swrc.ontoware.org/ontology#Misc>": 2398,
+    "<http://swrc.ontoware.org/ontology#Proceedings>": 2399,
+    "<http://swrc.ontoware.org/ontology#Lecturer>": 2400,
+    "<http://swrc.ontoware.org/ontology#Organization>": 2401,
+    "<http://swrc.ontoware.org/ontology#ResearchGroup>": 2402,
+    "<http://swrc.ontoware.org/ontology#Book>": 2403,
+    "<http://swrc.ontoware.org/ontology#Graduate>": 2404,
+    "<http://swrc.ontoware.org/ontology#FullProfessor>": 2405,
+    "<http://swrc.ontoware.org/ontology#AssistantProfessor>": 2406
+}

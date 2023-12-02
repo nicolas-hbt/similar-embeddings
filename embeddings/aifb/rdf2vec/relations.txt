@@ -1,0 +1,16 @@
+http://swrc.ontoware.org/ontology#projectInfo
+http://swrc.ontoware.org/ontology#publication
+http://swrc.ontoware.org/ontology#author
+http://swrc.ontoware.org/ontology#member
+http://swrc.ontoware.org/ontology#isWorkedOnBy
+http://swrc.ontoware.org/ontology#isAbout
+http://swrc.ontoware.org/ontology#hasProject
+http://swrc.ontoware.org/ontology#carriedOutBy
+http://swrc.ontoware.org/ontology#publishes
+http://swrc.ontoware.org/ontology#dealtWithIn
+http://swrc.ontoware.org/ontology#editor
+http://swrc.ontoware.org/ontology#worksAtProject
+http://swrc.ontoware.org/ontology#finances
+http://swrc.ontoware.org/ontology#financedBy
+http://swrc.ontoware.org/ontology#carriesOut
+http://swrc.ontoware.org/ontology#head

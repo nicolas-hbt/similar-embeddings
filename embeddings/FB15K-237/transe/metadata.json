@@ -1,0 +1,4 @@
+{
+  "comments": "TransE was used to initialize the emebddigns. Could not find batch size and number of epochs.",
+  "title": "Learn FB15k-237 Dataset with ConvKB as described by Nguyen et al., 2018"
+}
