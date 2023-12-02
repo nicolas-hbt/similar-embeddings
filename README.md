@@ -1,2 +1,1 @@
-# similar-embeddings
-Do Similar Entities have Similar Embeddings?
+# Do Similar Entities have Similar Embeddings?
